@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="{% static 'ams/bootstrap5/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+{% for i in data %}
+    <p>{{ i.user_name }}</p>
+    <p>{{ i.user_psw }}</p>
+    <p>{{ i.user_grade }}</p>
+    <p>{{ i.user_no }}</p>
+    <h1>------------</h1>
+{% endfor %}
+{{ result.user_name }}
+<script src="{% static 'ams/bootstrap5/js/bootstrap.bundle.min.js' %}"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+/*body{*/
+/*    background-color: #f4f4f4;*/
+/*}*/
+/*.mybar{*/
+/*    background-color: #71246B;*/
+/*    height:80px;*/
+/*}*/
+/*.myspan{*/
+/*    margin-left: 30px;*/
+/*}*/
+
+.mydiv{
+    border: 1px solid red;
+}
+.mybar{
+    background-color: #71246B;
+    height: 80px;
+}
+.myword{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+.mycolor{
+    background-color: #71246B;
+}
+.myspan{
+    color: white;
+}
+.login_body{
+    margin: 200px auto;
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+.div_1{
+    width: 500px;
+    height: 400px;
+    border: 1px solid #742669;
+    margin: 0 auto;
+}
+.div_2{
+    background-color: #742669;
+    height: 120px;
+}
+.div_3{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    font-family: '华文行楷';
+    font-size: 28px;
+}
+.span_1{
+    margin-left: 50px;
+}
+.a_1{
+    margin-left: 250px;
+}
+.input_1{
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.btn_1{
+    color: white;
+    background-color: #742669;
+    margin-left: 200px;
+    margin-top: 10px;
+    width: 80px;
+}
+.login_fail{
+    color: red;
+    margin-left: 50px;
+}

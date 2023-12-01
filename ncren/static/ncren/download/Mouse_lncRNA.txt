@@ -1,0 +1,930 @@
+ID	Species	ncRNA	ncRNA type	Environmental factor (EF)	Phenotype	Sample	Condition of EF	Evidence	PubMed ID
+1	Mouse	RNCR3	lncRNA	high glucose (HG)	diabetic retinopathy (DR)	RF/6A cells	high glucose stress	upregulated	27876564
+2	Mouse	1110038B12Rik	lncRNA	X rays	radiation-induced injury	blood	X rays treatment	downregulated	29309266
+3	Mouse	1700009J07Rik	lncRNA	high fat diet (HFD)	male infertility	C57bl/6J mice	high fat diet (HFD) feed	dysregulated	28599310
+4	Mouse	1700020I14Rik	lncRNA	hypoxia/reoxygenation (H/R)	myocardial injury	HL-1 cells	hypoxia/reoxygenation (H/R) treatment	1700020I14Rik/miR-297a/CGRP axis suppressed myocardial cell apoptosis in myocardial I/R injury.	32298875
+5	Mouse	1700026D11Rik	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	upregulated	32246647
+6	Mouse	1700091H14Rik	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	downregulated	32246647
+7	Mouse	1810034E14Rik	lncRNA	lipopolysaccharide (LPS)	ischemic stroke (IS)	primary microglial cells	lipopolysaccharide (LPS) treatment	downregulated	30961627
+8	Mouse	1810034E14Rik	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	primary microglial cells	oxygen-glucose deprivation treatment	downregulated	30961627
+9	Mouse	2310069B03Rik	lncRNA	cold	obesity	white adipose tissues	cold treatment	Cold exposure increased both lncRNA 2310069B03Rik and Ucp1 expression in inguinal white adipose tissue (iWAT).	31601163
+10	Mouse	2610035D17Rik	lncRNA	rosiglitazone	diabetic nephropathy (DN)	kidney tissues	rosiglitazone treatment	upregulated	32025515
+11	Mouse	2700086A05Rik	lncRNA	paraquat (PQ)	idiopathic pulmonary fibrosis (IPF)	alveolar epithelial cells	paraquat (PQ) treatment	upregulated	26824344
+12	Mouse	2810403D21Rik	lncRNA	H2O2	acute myocardial infarction (AMI)	Neonatal mice cardiomyocytes (NMCMs)	hydrogen peroxid (H2O2) treatment	"forced expression of 2810403D21Rik/Mirf downregulated Mir26a to inhibit autophagy. In contrast, loss of 2810403D21Rik/Mirf resulted in upregulation of Mir26a to promote autophagy and alleviate cardiac injury, which in turn improved cardiac function in MI mice."	31512556
+13	Mouse	2900052N01Rik	lncRNA	lipopolysaccharide (LPS)	inflammation	B lymphocytes	lipopolysaccharide (LPS) treatment	lnc-290 was highly expressed in B cells stimulated by LPS	33773377
+14	Mouse	4930556M19Rik	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	podocytes	high glucose (HG) treatment	4930556M19Rik overexpression slowed HG-induced podocyte injury by downregulating miR-27a-3p and upregulating TIMP3.	32896839
+15	Mouse	4930597A21Rik	lncRNA	dexamethasone (DEX)	asthma	lung tissues	dexamethasone (Dex) treatment	4930597A21Rik was upregulated in the Dex group compared with that in the Model group.	32222886
+16	Mouse	6430584L05Rik	lncRNA	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP)"	rheumatoid arthritis (RA)	TM3 Leydig cells	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP) treatment"	upregulated	33360214
+17	Mouse	9030404E10Rik	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	upregulated	32246647
+18	Mouse	A_30_P01018532	lncRNA	albizia julibrissin (AJSAF)	cell function	RAW264.7 macrophages	albizia julibrissin (AJSAF) treatment	upregulated	31678866
+19	Mouse	A330023F24Rik	lncRNA	vorinostat (SAHA)	atherosclerosis (AS)	aortic tissues	vorinostat treatment	upregulated	30284929
+20	Mouse	AA089093	lncRNA	X-rays	radiation-induced injury	mouse thymocytes	X-ray irradiation	upregulated	27864278
+21	Mouse	AA591058	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	AA591058 was upregulated in the primary mouse hepatocytes treated by cyclic adenosine monophosphate (cAMP).	29115403
+22	Mouse	AA591058	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	downregulated	29115403
+23	Mouse	AA591058	lncRNA	metformin (Met)	gluconeogenesis	primary mouse hepatocytes	metformin (Met) treatment	AA591058 was downregulated in the primary mouse hepatocytes treated by metformin (Met) when compared with cyclic adenosine monophosphate (cAMP) treated group.	29115403
+24	Mouse	ACART	lncRNA	H2O2	ischemia/reperfusion (I/R) injury	Neonatal mouse ventricular cardiomyocytes (NMVCs)	H2O2 treatment	LncRNA ACART protects cardiomyocytes from apoptosis by activating PPAR-¦Ã/Bcl-2 pathway	31749326
+25	Mouse	ACART	lncRNA	H2O2	myocardial ischemia/reperfusion (I/R) injury (MIRI)	primary cultured cardiomyocytes	H2O2 treatment	downregulated	31749326
+26	Mouse	ACOD1	lncRNA	esicular stomatitis virus (VSV)	esicular stomatitis virus (VSV) infection	macrophages	stimulated with VSV for 12 hours	upregulated	29074580
+27	Mouse	AIR	lncRNA	"diethyl 1,4-dihydro-2,4,6,-trimethyl-3,5-pyridinedicarboxylate (DDC)"	liver preneoplastic foci and tumors	mice liver cells	"Diethyl 1,4-dihydro-2,4,6,-trimethyl-3,5-pyridinedicarboxylate (DDC) treatment"	upregulated	19362547
+28	Mouse	AK006025	lncRNA	human immunodeficiency virus (HIV)-1 Nef	HIV-associated neurocognitive disorders (HAND)	primary mouse astrocytes	Human immunodeficiency virus (HIV)-1 Nef treatment	upregulated	30382871
+29	Mouse	AK009366	lncRNA	pressure overload	heart failure (HF)	heart sissues	pressure overload treatment	upregulated	33224746
+30	Mouse	AK020546	lncRNA	H2O2	cardiomyocyte autophagy	primary cardiomyocytes	H2O2 treatment	AK020546 was decreased upon H2O2 treatment	29295976
+31	Mouse	AK028245	lncRNA	cyclophosphamide (CP)	ircadian rhythmicity	mouse	cyclophosphamide (CP) treatment	downregulated	32748687
+32	Mouse	AK028245	lncRNA	lipopolysaccharide (LPS)	ircadian rhythmicity	mouse	lipopolysaccharide (LPS) treatment	downregulated	32748687
+33	Mouse	AK038897	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	neuro-2A (N2a) neuroblastoma cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	30703362
+34	Mouse	AK038898	lncRNA	radiation	radiation-induced intestinal injury	intestinal tissues	radiation treatment	downregulated	30324649
+35	Mouse	AK039862	lncRNA	paraquat (PQ)	parkinson's disease (PD)	BV2 cells	paraquat (PQ) treatment	upregulated	33120262
+36	Mouse	AK039862	lncRNA	paraquat (PQ)	parkinson's disease (PD)	BV2 cells	paraquat (PQ) treatment	PQ-induced low expression of AK039862 rescued microglia proliferation and migration inhibition via the AK039862/Pafah1b1/Foxa1 pathway.	33120262
+37	Mouse	AK043271	lncRNA	X-rays	radiation-induced injury	mouse thymocytes	X-ray irradiation	downregulated	27864278
+38	Mouse	AK045171	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	Neonatal mouse cardiomyocytes and cardiac fibroblasts	angiotensin II (Ang II) treatment	Overexpression of AK045171 attenuated cardiac hypertrophy both in vitro and in vivo.	32087602
+39	Mouse	AK054386	lncRNA	hypoxia	hepatic ischemia/reperfusion injury (HIRI)	BNL-CL2	hypoxia induce	upregulated	31827704
+40	Mouse	AK077216	lncRNA	macrophage colony-stimulating factor (M-CSF) and receptor activator of NF-¦ÊB ligand (RANKL)	osteoclastogenesis	RAW 264.7 cells and Bone marrow and spleen derived monocytes/macrophages	macrophage colony©\stimulating factor (M©\CSF) and receptor activator of nuclear factor ¦ÊB ligand (RANKL) treatment	upregulated	30132869
+41	Mouse	AK080622	lncRNA	peritoneal dialysis fluid (PDF)	peritoneal fibrosis	peritoneal tissues	peritoneal dialysis fluid (PDF) treatment	decreased	25827714
+42	Mouse	AK081017	lncRNA	streptozocin (STZ)	diabetic neuropathic pain (DNP)	mouse brain tissues	streptozotocin treatment	dysregulated	30599267
+43	Mouse	AK081284	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	Cardiac fibroblasts (CFs)	high glucose (HG) treatment	The levels of long noncoding RNA-AK081284 were increased in the CFs treated with high glucose or IL-17.	29305939
+44	Mouse	AK081284	lncRNA	IL-17	diabetic cardiomyopathy (DCM)	Cardiac fibroblasts (CFs)	IL-17 treatment	IL-17 treatment increased the expression of AK081284 in CFs.	29305939
+45	Mouse	AK081284	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	cardiac tissues	streptozocin (STZ) treatment	upregulated	29305939
+46	Mouse	AK083162	lncRNA	X-rays	radiation-induced injury	mouse thymocytes	X-ray irradiation	downregulated	27864278
+47	Mouse	AK083183	lncRNA	radiation	radiation-induced intestinal injury	intestinal tissues	radiation treatment	downregulated	30324649
+48	Mouse	AK085865	lncRNA	dermatophagoides farinae protein 1(Der f1)	allergic asthma (AA)	M2 macrophages	Der f1 treatment	upregulated	32247269
+49	Mouse	AK085865	lncRNA	coxsackievirus B3 (CVB3)	viral myocarditis (VM)	M1 macrophages	coxsackievirus B3 (CVB3) treatment	upregulated	32220054
+50	Mouse	AK085865	lncRNA	coxsackievirus B3 (CVB3)	viral myocarditis (VM)	heart sissues	Coxsackievirus B3 (CVB3) infection	downregulated	32668391
+51	Mouse	AK089579	lncRNA	peritoneal dialysis fluid (PDF)	peritoneal fibrosis	peritoneal tissues	peritoneal dialysis fluid (PDF) treatment	decreased	25827714
+52	Mouse	AK133602	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	AK133602 was upregulated in the primary mouse hepatocytes treated by cyclic adenosine monophosphate (cAMP).	29115403
+53	Mouse	AK133602	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	downregulated	29115403
+54	Mouse	AK133602	lncRNA	metformin (Met)	gluconeogenesis	primary mouse hepatocytes	metformin (Met) treatment	AK133602 was downregulated in the primary mouse hepatocytes treated by metformin (Met) when compared with cyclic adenosine monophosphate (cAMP) treated group.	29115403
+55	Mouse	AK142426	lncRNA	peritoneal dialysis fluid (PDF)	peritoneal fibrosis	peritoneal tissues	peritoneal dialysis fluid (PDF) treatment	upregulated	25827714
+56	Mouse	AK144841	lncRNA	"promoter (7,12-dimethylbenz[a]anthracene (DMBA) and 12-O-tetradecanoylphorbol-13-acetate (TPA)"	cutaneous squamous cell carcinoma (cSCC)	cSCC and highly tumorigenic cells	"DMBA,TPA treatment"	upregulated	28596382
+57	Mouse	AK148321	lncRNA	lipopolysaccharide (LPS)	neuroinflammation	BV2 cells	lipopolysaccharide (LPS) treatment	LPS treatment suppressed AK148321 expression in BV2 cells.	33301806
+58	Mouse	AK148321	lncRNA	lipopolysaccharide (LPS)	neuroinflammation	BV2 cells	lipopolysaccharide (LPS) treatment	LPS treatment suppressed AK148321 expression in BV2 cells. Overexpression of AK148321 inhibited LPS-induced BV2 microglial cell activation and decreased the expression of inflammatory cytokine TNF-¦Á and IL-1¦Â.	33301806
+59	Mouse	AK149641	lncRNA	ovalbumin (OVA)	asthma	lung tissues	ovalbumin (OVA) treatment	downregulated of lncRNA-AK149641 attenuated the airway inflammatory response in an OVA-induced asthma mouse model.	32929606
+60	Mouse	AK156531	lncRNA	propofol (PPF)	acute neurotoxicity	hippocampus	propofol treatment	downregulated	30261491
+61	Mouse	AK157361	lncRNA	radiation	radiation-induced intestinal injury	intestinal tissues	radiation treatment	upregulated	30324649
+62	Mouse	ANCR	lncRNA	¦Â-glycerophosphate (¦Â-GP)	arterial calcification	vascular smooth muscle cells (VSMCs)	¦Â-glycerophosphate (¦Â-GP) treatment	ANCR may inhibit the osteoblastic differentiation of VSMCs and attenuate mice arterial calcification through activating autophagy	31974677
+63	Mouse	ANRIL	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	kidney tissues	lipopolysaccharide (LPS) treatment	The upregulation of ANRIL can reduce the expression of microRNA-199a and increases the number of apoptotic cells	32069473
+64	Mouse	ANRIL	lncRNA	metformin (Met)	atherosclerosis (AS)	vascular smooth muscle cells (VSMCs)	Metformin treatment	Metformin activates AMPK to suppress the formation of atherosclerotic plaque through upregulation of lncRNA-ANRIL.	33411680
+65	Mouse	ANRIL	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	MPC5 cells	high glucose (HG) treatment	upregulated	32617859
+66	Mouse	ANRIL	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	N-2a cells	oxygen and glucose deprivation treatment	ANRIL protects N-2a cells against ischemia induced injury by elevated CAV-1 by competitively interacting with miR-199a-5p	31907708
+67	Mouse	ANRIL	lncRNA	ischemia	type 2 diabetes mellitus (T2DM)	peripheral venous blood	ligation of the left anterior descending coronary artery treatment	upregulated	31469688
+68	Mouse	ANRIL	lncRNA	streptozocin (STZ)	wound healing	granulation tissues	streptozocin (STZ) treatment	"ANRIL was downregulated, in the diabetic wound healing mouse model"	30565672
+69	Mouse	Arid2-IR	lncRNA	high fat diet (HFD)	diabetic nephropathy (DN)	mouse kidney tissues	high fat diet (HFD) feed	Arid2-IR was increased in mice with high-fat diet and streptozotocin-induced type 2 diabetes and in mouse mesangial cells cultured with high glucose to mimic diabetes	30462533
+70	Mouse	Arid2-IR	lncRNA	high fat diet (HFD) and streptozotocin (STZ)	diabetic nephropathy (DN)	kidney tissues	high fat diet (HFD) and streptozotocin (STZ) treatment	upregulated	30462533
+71	Mouse	Arid2-IR	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse mesangial cells	high glucose (HG) treatment	upregulated	30462533
+72	Mouse	Arid2-IR	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse mesangial cells	high glucose treatment	Arid2-IR was increased in mice with high-fat diet and streptozotocin-induced type 2 diabetes and in mouse mesangial cells cultured with high glucose to mimic diabetes	30462533
+73	Mouse	Arid2-IR	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	mouse kidney tissues	streptozotocin treatment	Arid2-IR was increased in mice with high-fat diet and streptozotocin-induced type 2 diabetes and in mouse mesangial cells cultured with high glucose to mimic diabetes	30462533
+74	Mouse	ASIR	lncRNA	insulin	cell metabolism	mouse primary Adipocyte culture	insulin treatment	upregulated	30948776
+75	Mouse	AU015836	lncRNA	glyoxylate	kidney damage and kidney stones	C57BL/6J mice	glyoxylate	upregulated	29160413
+76	Mouse	AU020206	lncRNA	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP)"	rheumatoid arthritis (RA)	TM3 Leydig cells	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP) treatment"	upregulated	33360214
+77	Mouse	AW112010	lncRNA	H2O2	age-related hearing loss (AHL)	HEI-OC1 Cells	H2O2 treatment	upregulated	31781342
+78	Mouse	B230206L02Rik	lncRNA	propofol (PPF)	propofol-induced neurotoxicity	hippocampus	propofol treatment	downregulated	29628875
+79	Mouse	BACE1AS	lncRNA	unmethylated cytosine followed by guanine (CpG ODN)	macrophage activation	RAW264.7 cells	unmethylated cytosine followed by guanine (CpG ODN) treatment	downregulated	32626785
+80	Mouse	Bace1-as	lncRNA	memantine	Alzheimer's disease (AD)	brain and blood tissues	memantine treatment	upregulated	32648077
+81	Mouse	BC049991	lncRNA	peritoneal dialysis fluid (PDF)	peritoneal fibrosis	peritoneal tissues	peritoneal dialysis fluid (PDF) treatment	decreased	25827714
+82	Mouse	BDNF-AS	lncRNA	hypoxia	apoptosis	C57BL/6J mice neonatal cardiomyocyte	treat with either long (Hypoxia (L)) or short (Hypoxia (S)) H/R	upregulated	28363791
+83	Mouse	Blnc1	lncRNA	oxygen glucose deprivation (OGD)	intracerebral haemorrhage (ICH)	brain tissues	oxygen and glucose deprivation (OGD) treatment	"Blnc1 was upregulated in perihematomal edema, hematoma and microvessel in the brain of ICH mice"	33359247
+84	Mouse	Blnc1	lncRNA	oxygen glucose deprivation (OGD)	intracerebral haemorrhage (ICH)	primary brain microvascular endothelial cells (BMVECs)	oxygen and glucose deprivation (OGD) treatment	upregulated	33359247
+85	Mouse	Blnc1	lncRNA	high fat diet (HFD)	mitochondrial function of white adipose tissue (WAT)	3T3-L1 pre-adipocytes	high fat diet (HFD) feed	Blnc1 Protects Against Diet-Induced Obesity by Promoting Mitochondrial Function in White Fat	32368112
+86	Mouse	Blnc1	lncRNA	high fat diet (HFD)	nonalcoholic fatty liver disease (NAFLD)	liver tissues	high fat diet (HFD) feed	upregulated	30061575
+87	Mouse	Braveheart	lncRNA	unmethylated cytosine followed by guanine (CpG ODN)	macrophage activation	RAW264.7 cells	unmethylated cytosine followed by guanine (CpG ODN) treatment	upregulated	32626785
+88	Mouse	Bvht	lncRNA	hypoxia/reoxygenation (H/R)	epithelial-mesenchymal transition (EMT)	MSCs	exposure to hypoxia (1% O2) and serum deprivation for 24 h	upregulated	28095922
+89	Mouse	C0300307D09Rik	lncRNA	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP)"	rheumatoid arthritis (RA)	TM3 Leydig cells	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP) treatment"	upregulated	33360214
+90	Mouse	C2dat2	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	Mouse N2a cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	33833132
+91	Mouse	CASC15	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	cardiomyocyte	angiotensin II (Ang II) treatment	CASC15 expression was upregulated when cardiomyocytes were treated with Ang-II.	29966657
+92	Mouse	CASC2	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	lung tissues	lipopolysaccharide (LPS) treatment	downregulated	29492259
+93	Mouse	CASC2	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse podocyte cells	high glucose treatment	downregulated	29890555
+94	Mouse	CCAT-1	lncRNA	tumor necrosis factor alpha (TNF-¦Á) 	apoptosis	Podocytes were isolated from mice	tumor necrosis factor alpha (TNF-¦Á) treatment	CCAT1 induction critically participated in apoptosis inhibition in podocytes through autophagy inhibition via increasing PI3K/Akt signaling	31468575
+95	Mouse	CCAT-1	lncRNA	tumor necrosis factor alpha (TNF-¦Á) 	podocyte apoptosis	Podocytes	tumor necrosis factor alpha (TNF-¦Á) treatment	CCAT1 induction critically participated in apoptosis inhibition in podocytes through autophagy inhibition via increasing PI3K/Akt signaling	31468575
+96	Mouse	CHCHD4P4	lncRNA	glyoxylate	kidney damage and kidney stones	C57BL/6J mice	glyoxylate	upregulated	29160413
+97	Mouse	CHRF	lncRNA	isoprenaline	cardiac hypertrophy	primary cardiomyocytes	isoprenaline (ISO) tteatment	CHRF expression was upregulated and miR-93 expression was downregulated in mice and cellular models of cardiac hypertrophy.	29747050
+98	Mouse	CHRF	lncRNA	valsartan (VAL)	doxorubicin (DOX)-induced cardiotoxicity	primarymyocardialcells	valsartan (VAL) treatment	The expression of CHRF was downregulated by valsartan (VAL) treatment in doxorubicin (DOX)-induced heart failure	29124661
+99	Mouse	CHRF	lncRNA	doxorubicin (DOX)	heart failure (HF)	C57BL/6 male mice	doxorubicin treatment	upregulated	29124661
+100	Mouse	CHRF	lncRNA	IL-6	osteoarthritis (OA)	ATDC5 cells	IL-6 treatment	IL©\6 upregulated lncRNA CHRF in ATDC5 cells. Overexpression of lncRNA CHRF aggravated IL©\6©\evoked inflammatory damages in ATDC5 cells.	31026064
+101	Mouse	COX2	lncRNA	bacillus calmette-guerin (BCG)	apoptosis	RAW264.7 cells	bacillus calmette-guerin (BCG) treatment	upregulated	33250268
+102	Mouse	COX2	lncRNA	bacillus calmette-guerin (BCG)	apoptosis	RAW264.7 cells	bacillus calmette-guerin(BCG) infection	"In this study, we found Bacillus Calmette-Guerin(BCG)infection induced cell apoptosis with a increasing LincRNA-Cox2 expression in RAW264.7 cells.?si-LincRNA-Cox2 was capable of increased the expression of apoptosis-associated proteins and accumulation of ROS in BCG-infected RAW264.7 cells."	33250268
+103	Mouse	COX2	lncRNA	lipopolysaccharide (LPS)	cell proliferation	microglial cells	lipopolysaccharide (LPS) treatment	lincRNA-Cox2-siRNA loaded EVs also decreased LPS-induced microglial proliferation in mice.	31325121
+104	Mouse	COX2	lncRNA	tumor necrosis factor alpha (TNF-¦Á) 	inflammatory response	IEC cell line	tumor necrosis factor alpha (TNF-¦Á) treatment	"lincRNA-Cox2 silencing significantly (P < 005) enhanced the transcription of Il12b, a secondary late-responsive gene induced by TNF-¦Á Mechanistically, lincRNA-Cox2 promoted the recruitment of the Mi-2/nucleosome remodeling and deacetylase (Mi-2/NuRD) repressor complex to the Il12b promoter region"	26578685
+105	Mouse	COX2	lncRNA	unmethylated cytosine followed by guanine (CpG ODN)	macrophage activation	RAW264.7 cells	unmethylated cytosine followed by guanine (CpG ODN) treatment	upregulated	32626785
+106	Mouse	COX2	lncRNA	Rhein	uric acid nephropathy (UAN)	Mouse kidney epithelial cell line (TCMK-1)	Rhein treatment	Rhein attenuates inflammatory injury of TCMK-1 cells and represses lincRNA-Cox2 expression	32504995
+107	Mouse	COX2	lncRNA	lipopolysaccharide (LPS)	hepatocellular carcinoma (HCC)	RAW264.7 macrophages	lipopolysaccharide (LPS) treatment	upregulated	29131381
+108	Mouse	COX2	lncRNA	lipopolysaccharide (LPS)	hepatocellular carcinoma (HCC)	RAW264.7 macrophages	lipopolysaccharide (LPS) treatment	upregulated	29131381
+109	Mouse	COX2	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	mouse	carbon tetrachloride (CCl4) treatment	upregulated	28259935
+110	Mouse	CRNDE	lncRNA	parathyroid hormone (PTH)	bone metabolism	MC3T3-E1 cells	parathyroid hormone induction treatment	Crnde regulates osteoblast proliferation through the Wnt/¦Â-catenin signaling pathway in mice	31622775
+111	Mouse	CRNDE	lncRNA	TGF-¦Â1	cardiac fibrosis	cardiac fibroblasts (CFs)	TGF-¦Â1 treatment	upregulated	30748104
+112	Mouse	CRNDE	lncRNA	parathyroid hormone (PTH)	cell differentiation	MC3T3-E1 cells	Parathyroid hormone (PTH) treatment	upregulated	31622775
+113	Mouse	CRNDE	lncRNA	doxorubicin (DOX)	heart failure (HF)	HL-1 cells	doxorubicin (Dox) treatment	downregulated	33249529
+114	Mouse	CRNDE	lncRNA	dextran sodium sulfate (DSS)	inflammatory bowel disease (IBD)	colitis tissues	dextran sulfate sodium (DSS) treatment	CRNDE in the DSS-induced colitis tissues.	31251902
+115	Mouse	CRNDE	lncRNA	dexamethasone (DEX)	osteoporosis	human bone marrow mesenchymal stem cell (hBMSC)	Dexamethasone (Dex) treatment	"Dex downregulated CRNDE expression, whereas NBIF upregulated CRNDE."	33713471
+116	Mouse	CRNDE	lncRNA	neobavaisoflavone (NBIF)	osteoporosis	human bone marrow mesenchymal stem cell (hBMSC)	Neobavaisoflavone (NBIF)? treatment	"Dex downregulated CRNDE expression, whereas NBIF upregulated CRNDE."	33713471
+117	Mouse	CRNDE	lncRNA	lipopolysaccharide (LPS)	sepsis-induced acute kidney injury	mouse kidney tissues	lipopolysaccharide (LPS) treatment	upregulated	31841203
+118	Mouse	CTD-2574D22.4	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	mouse ATDC5 cells	lipopolysaccharides (LPS) treatment	upregulated	31368870
+119	Mouse	Cyrano	lncRNA	unmethylated cytosine followed by guanine (CpG ODN)	macrophage activation	RAW264.7 cells	unmethylated cytosine followed by guanine (CpG ODN) treatment	downregulated	32626785
+120	Mouse	CYTOR	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	primary cardiomyocyte	angiotensin II (Ang II) treatment	CYTOR knockdown significantly enhanced the inducible effect of AB operation on mice myocardial hypertrophy and Angiotensin II on cardiomyocyte hypertrophy.	30794866
+121	Mouse	D63785	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	neuron apoptosis	SH-SY5Y cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	downregulated	32999283
+122	Mouse	DACH1	lncRNA	hypoxia	heart failure (HF)	heart tissues	transverse aortic constriction surgery treatment	upregulated	31446800
+123	Mouse	Dlk1-Dio3	lncRNA	phenobarbital (PB)	hepatocellular carcinoma (HCC)	hepatocyte	phenobarbital (PB) treatment	Dlk1-Dio3 ncRNAs as novel candidate early biomarkers for mouse liver tumor promotion	23091169
+124	Mouse	Dlx6os1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	SV40 MES13 cells	high glucose (HG) treatment	Long non-coding RNA Dlx6os1 serves as a potential treatment target for diabetic nephropathy via regulation of apoptosis and inflammation.	32855728
+125	Mouse	DNM3OS	lncRNA	high fat diet (HFD)	diabetes mellitus (DM)	peritoneal macrophages (PMs)	high fat diet (HFD) feed	upregulated	29930005
+126	Mouse	DNM3OS	lncRNA	high glucose (HG)	diabetes mellitus (DM)	bone marrow-derived macrophages (BMDMs)	high glucose feed	upregulated	29930005
+127	Mouse	DNM3OS	lncRNA	palmitic acid (PA)	diabetes mellitus (DM)	bone marrow-derived macrophages (BMDMs)	palmitic acid (PA) treatment	upregulated	29930005
+128	Mouse	DNM3OS	lncRNA	streptozocin (STZ)	diabetes mellitus (DM)	peritoneal macrophages (PMs)	streptozotocin (STZ) treatment	upregulated	29930005
+129	Mouse	DNM3OS	lncRNA	TGF-¦Â	idiopathic pulmonary fibrosis (IPF)	lung tissues	transforming growth factor-¦Â (TGF-¦Â) treatment	lncRNA DNM3OS was upregulated in TGF-¦Â treatment of lung fibroblastsinterfering with DNM3OS function not only prevents lung fibrosis but also improves established pulmonary fibrosis	30964696
+130	Mouse	DQ786227	lncRNA	benzo(a)pyrene (BaP)	lung cancer	BEAS-2B cells	benzo(a)pyrene (BaP) exposure	lncRNA-DQ786227 acts as an oncogene in malignantly transformed BEAS-2B cells induced by benzo(a)pyrene	24084393
+131	Mouse	DSCAM-AS1	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	cardiomyocytes	angiotensin II (Ang II) treatment	DSCAM-AS1 mediates pro-hypertrophy role of GRK2 in cardiac hypertrophy aggravation via absorbing miR-188-5p.	32377998
+132	Mouse	DYN-LRB2-2	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	Raw264.7 cells	oxidized low-density lipoprotein (ox-LDL) treatment	upregulated	28815701
+133	Mouse	DYN-LRB2-2	lncRNA	oxidized low density lipoprotein (ox-LDL)	cholesterol efflux	RAW 264.7 cells	oxidized low-density lipoprotein (ox-LDL) treatment	LincRNA DYN-LRB2-2 was upregulated in oxLDL-treated Raw264.7 cells.	28815701
+134	Mouse	E230001N04Rik	lncRNA	propofol (PPF)	propofol-induced neurotoxicity	hippocampus	propofol treatment	upregulated	29628875
+135	Mouse	E330013P06	lncRNA	streptozocin (STZ)	type 2 diabetes mellitus (T2DM)	C57BL/6J mice macrophage	"streptozotocin (50mg/kg) for 5 consecutive days. In diet-induced T2D models, f high-fat diet for 4 weeks and then inject a single dose of SZ (100mg/kg) treatment"	upregulated	25008173
+136	Mouse	E52329	lncRNA	Japanese encephalitis virus (JEV)	neuroinflammation	mouse brain	infect with JEV	dysregulated	29033949
+137	Mouse	Tmpo	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	downregulated	32246647
+138	Mouse	Gm15996	lncRNA	high fat diet (HFD)	male infertility	C57bl/6J mice	high fat diet (HFD) feed	dysregulated	28599310
+139	Mouse	Mthfd2	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	downregulated	32246647
+140	Mouse	BC012245.1	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	upregulated	32246647
+141	Mouse	CCDS19728.1	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	upregulated	32246647
+142	Mouse	ENSMUST00000053838	lncRNA	peritoneal dialysis fluid (PDF)	peritoneal fibrosis	peritoneal tissues	peritoneal dialysis fluid (PDF) treatment	upregulated	25827714
+143	Mouse	Gm7816	lncRNA	X-rays	radiation-induced injury	mouse thymocytes	X-ray irradiation	upregulated	27864278
+144	Mouse	ENSMUST00000082683	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	placenta	high fat diet (HFD) feed	downregulated	29986645
+145	Mouse	Gm6166	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	gonadal fat tissues	high fat diet (HFD) feed	downregulated	29986645
+146	Mouse	Gm11295	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	gonadal fat tissues	high fat diet (HFD) feed	downregulated	29986645
+147	Mouse	Gm14328	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	gonadal fat tissues	high fat diet (HFD) feed	downregulated	29986645
+148	Mouse	Hectd2os	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	ENSMUST00000129953 was upregulated in the primary mouse hepatocytes treated by cyclic adenosine monophosphate (cAMP).	29115403
+149	Mouse	Hectd2os	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	downregulated	29115403
+150	Mouse	Hectd2os	lncRNA	metformin (Met)	gluconeogenesis	primary mouse hepatocytes	metformin (Met) treatment	ENSMUST00000129953 was downregulated in the primary mouse hepatocytes treated by metformin (Met) when compared with cyclic adenosine monophosphate (cAMP) treated group.	29115403
+151	Mouse	Gm13709	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	ENSMUST00000138573 was upregulated in the primary mouse hepatocytes treated by cyclic adenosine monophosphate (cAMP).	29115403
+152	Mouse	Gm13709	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	downregulated	29115403
+153	Mouse	Gm13709	lncRNA	metformin (Met)	gluconeogenesis	primary mouse hepatocytes	metformin (Met) treatment	ENSMUST00000138573 was downregulated in the primary mouse hepatocytes treated by metformin (Met) when compared with cyclic adenosine monophosphate (cAMP) treated group.	29115403
+154	Mouse	Dnm3os	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	upregulated	31833538
+155	Mouse	ENSMUST00000145208	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	ENSMUST00000145208 was upregulated in the primary mouse hepatocytes treated by cyclic adenosine monophosphate (cAMP).	29115403
+156	Mouse	ENSMUST00000145208	lncRNA	metformin (Met)	gluconeogenesis	primary mouse hepatocytes	metformin (Met) treatment	ENSMUST00000145208 was downregulated in the primary mouse hepatocytes treated by metformin (Met) when compared with cyclic adenosine monophosphate (cAMP) treated group.	29115403
+157	Mouse	F730043M19Rik	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	downregulated	31833538
+158	Mouse	BI665410.1	lncRNA	streptozocin (STZ)	diabetic neuropathic pain (DNP)	mouse brain tissues	streptozotocin treatment	dysregulated	30599267
+159	Mouse	Ufm1-205	lncRNA	cigarette smoke (CS)	airway inflammation	C57BL/6 mice lung tissue	cigarette smoke (CS) exposure	dysregulated	29383188
+160	Mouse	Hmcn1-205	lncRNA	cigarette smoke (CS)	airway inflammation	C57BL/6 mice lung tissue	cigarette smoke (CS) exposure	dysregulated	29383188
+161	Mouse	Matr3-ps2-201	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	upregulated	31833538
+162	Mouse	AK164970?	lncRNA	pressure overload	heart failure (HF)	heart sissues	pressure overload treatment	upregulated	33224746
+163	Mouse	AK079754.1	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	downregulated	31833538
+164	Mouse	AA079447.	lncRNA	radiation	radiation-induced intestinal injury	intestinal tissues	radiation treatment	upregulated	30324649
+165	Mouse	Gm20662-201	lncRNA	cigarette smoke (CS)	airway inflammation	C57BL/6 mice lung tissue	cigarette smoke (CS) exposure	dysregulated	29383188
+166	Mouse	Gm17501-201	lncRNA	cigarette smoke (CS)	airway inflammation	C57BL/6 mice lung tissue	cigarette smoke (CS) exposure	dysregulated	29383188
+167	Mouse	Pigbos1-201	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	upregulated	31833538
+168	Mouse	Gm10603-202	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	upregulated	31833538
+169	Mouse	Gm38077-201	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	cleft palate (CP)	fetal mice palates	"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) treatment"	upregulated	31961203
+170	Mouse	BC016005.1	lncRNA	Tripterysium Glycosides Tablets (TGT)	rheumatoid arthritis (RA)	peripheral blood	Tripterysium Glycosides Tablets (TGT) treatment	downregulated	33135351
+171	Mouse	DA040518.1	lncRNA	carbon tetrachloride (CCl4)	epithelial-mesenchymal transition (EMT)	liver tissues	carbon tetrachloride (CCl4) treatment	"ENST00000530691, named Mical2, was significantly upregulated in liver fibrosis."	32659284
+172	Mouse	EPR	lncRNA	TGF-¦Â	cell proliferation	"Murine immortalized NMuMG cells, 4T1 mouse mammary gland cancer cells"	TGF-¦Â treatment	TGF-¦Â induced a small increase in EPR levels followed by rapid downregulated	31036808
+173	Mouse	EPS	lncRNA	caerulein (Cae)	acute pancreatitis (AP)	pancreases tissues	caerulein (Cae) treatment	"lincRNA-EPS was significantly downregulated in the pancreases from Cer-AP-10h mice, while it was dramatically upregulated in the pancreases from Cer-AP-22h mice."	33512718
+174	Mouse	EPS	lncRNA	sodium taurocholate	acute pancreatitis (AP)	pancreases tissues	sodium taurocholate treatment	"lincRNA-EPS was significantly downregulated in the pancreases from NaTc-SAP-2h mice, while it was dramatically upregulated in the pancreases from NaTc-SAP-24h and NaTc-SAP-36h mice"	33512718
+175	Mouse	Erbb4-IR	lncRNA	TGF-¦Â1	renal fibrosis	"mTEC,MEF cells"	TGF-¦Â1 treatment	upregulated	29102563
+176	Mouse	Erbb4-IR	lncRNA	TGF-¦Â1	renal fibrosis	mouse tubular epithelial cells (mTECs)	TGF-¦Â1 treatment	Erbb4-IR was upregulated by TGF-¦Â1 stimulation in a time- and dose-dependent manner	29102563
+177	Mouse	FAO	lncRNA	lipopolysaccharide (LPS)	inflammation	murine bone marrow-derived macrophages (BMDMs)	lipopolysaccharide (LPS) treatment	lncFAO is induced late after lipopolysaccharide (LPS) stimulation of cultured macrophages and in Ly6Chi monocyte-derived macrophages in damaged tissue during the resolution and reparative phases.	32513690
+178	Mouse	Fendrr	lncRNA	high glucose (HG) and hypoxia/reoxygenation (H/R)	diabetic cerebral ischemia-reperfusion (I/R) injury	BV-2 cells	high glucose followed by hypoxia/reoxygenation (H/R) treatment	"Fendrr was significantly increased in the diabetic cerebral I/R model, and NLRC4 inflammatory complex and pyroptosis mediated inflammatory factors were increased."	33858325
+179	Mouse	FENDRR	lncRNA	bleomycin (BLM)	idiopathic pulmonary fibrosis (IPF)	mouse lungs; primary lung fibroblasts	bleomycin (BLM) treatment	FENDRR reduced pulmonary fibrosis by inhibiting fibroblast activation by reducing iron concentration and acting as a competing endogenous RNA of the profibrotic microRNA-214.	31697569
+180	Mouse	FIRRE	lncRNA	lipopolysaccharide (LPS)	neuropathic pain (NP)	mouse microglial cells	lipopolysaccharide (LPS) treatment	FIRRE expression was upregulated in the spinal cord tissue of female CCI mice and LPS-induced microglial cells.	33151463
+181	Mouse	FIRRE	lncRNA	lipopolysaccharide (LPS)	neuropathic pain (NP)	mouse primary microglial cells	lipopolysaccharide (LPS) treatment	downregulated of lncRNA FIRRE relieved the neuropathic pain of female mice by suppressing HMGB1 expression.	33151463
+182	Mouse	FLRL2	lncRNA	free fatty acids (FFA)	nonalcoholic fatty liver disease (NAFLD)	¦Á-Mouse liver (AML) 12 cells	free fatty acids treatment	downregulated	31311301
+183	Mouse	FLRL2	lncRNA	high fat diet (HFD)	nonalcoholic fatty liver disease (NAFLD)	Liver tissues	high fat diet (HFD) feed	downregulated	31311301
+184	Mouse	FOXC2-AS1	lncRNA	doxorubicin (DOX)	doxorubicin (DOX)-induced cardiotoxicity	heart tissues	doxorubicin (Dox) treatment	FOXC2-AS1 was downregulated in heart tissues of mice with Dox-induced cardiotoxicity.	30558506
+185	Mouse	FOXC2-AS1	lncRNA	doxorubicin (DOX)	cardiotoxicity	heart tissues	doxorubicin (Dox)?treatment	lncRNA FOXC2-AS1 may upregulate WISP1 to protect cardiomyocytes from doxorubicin-induced cardiotoxicity.	30558506
+186	Mouse	FOXD3-AS1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	N2a cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	33068927
+187	Mouse	FOXD3-AS1	lncRNA	hyperoxia	lung injury	lung tissues	treat with ROS	upregulated	28655711
+188	Mouse	FR022494	lncRNA	ovalbumin (OVA)	allergic rhinitis (AR)	CD4 + T cells	ovalbumin (OVA) treatment	upregulated	29287883
+189	Mouse	FR169472	lncRNA	ovalbumin (OVA)	allergic rhinitis (AR)	CD4 + T cells	ovalbumin (OVA) treatment	upregulated	29287883
+190	Mouse	FR255904	lncRNA	ovalbumin (OVA)	allergic rhinitis (AR)	CD4 + T cells	ovalbumin (OVA) treatment	upregulated	29287883
+191	Mouse	FR285768	lncRNA	ovalbumin (OVA)	allergic rhinitis (AR)	CD4 + T cells	ovalbumin (OVA) treatment	downregulated	29287883
+192	Mouse	FR288904	lncRNA	ovalbumin (OVA)	allergic rhinitis (AR)	CD4 + T cells	ovalbumin (OVA) treatment	downregulated	29287883
+193	Mouse	FR301516	lncRNA	ovalbumin (OVA)	allergic rhinitis (AR)	CD4 + T cells	ovalbumin (OVA) treatment	downregulated	29287883
+194	Mouse	FTX	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	neonatal mouse cardiac myocytes	angiotensin II (Ang II) treatment	The expression of lnc-FTX was associated with reduced hypertrophy of neonatal mouse cardiac myocytes and regulated the PTEN/PI3K/Akt signaling pathway by sponging miRNA-22	31840653
+195	Mouse	FTX	lncRNA	H2O2	cardiomyocyte apoptosis	cardiomyocytes were isolated from male mice	treat with hydrogen peroxide	downregulated	29117536
+196	Mouse	FTX	lncRNA	ischemia/reperfusion (I/R) 	cardiomyocyte apoptosis	cardiomyocytes were isolated from male mice	ischemia/reperfusion (I/R) treatment	downregulated	29117536
+197	Mouse	FTX	lncRNA	H2O2	cardiovascular disease (CVD)	cardiomyocytes	hydrogen peroxide (H2O2 ) treatment	lncRNA FTX is significantly downregulated upon ischemia/reperfusion injury and hydrogen peroxide treatment.	29117536
+198	Mouse	Galont	lncRNA	anoxia/reoxygenation (A/R)	autophagy	cardiomyocytes	anoxia/reoxygenation (A/R) treatment	Galont was upregulated by anoxia/reoxygenation (A/R) stimulus.	29247537
+199	Mouse	GAPLINC	lncRNA	lipopolysaccharide (LPS)	endotoxic shock	macrophages	lipopolysaccharide (LPS) treatment	"Upon inflammatory activation, GAPLINC is rapidly downregulated."	33568531
+200	Mouse	GAS5	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	Mouse hippocampal neuron HT22 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	33746585
+201	Mouse	GAS5	lncRNA	qingda granule (QDG)	ischemic stroke (IS)	oxygen-glucose deprivation/reoxygenation (OGD/R) treated HT22 cells	Qingda granule (QDG) treatment	downregulated	33746585
+202	Mouse	GAS5	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	MLE-12 cells; lung tissues	lipopolysaccharide (LPS) treatment	GAS5 expression was decreased in lung tissues from LPS-induced ALI mice and LPS-treated MLE-12 cells.	31837322
+203	Mouse	GAS5	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	murine alveolar epithelial cell line MLE-12	lipopolysaccharide (LPS) treatment	GAS5 suppresses inflammatory responses and apoptosis of alveolar epithelial cell MLE-12 by targeting miR-429/DUSP1 axis.	31837322
+204	Mouse	GAS5	lncRNA	adjuvant	adjuvant-induced arthritis (AIA)	cartilage	adjuvant treatment	Long noncoding RNA-GAS5 siRNA prevented cartilage destruction by inhibiting miR-103 expression.	33343265
+205	Mouse	GAS5	lncRNA	ovalbumin (OVA)	allergic rhinitis (AR)	CD4+ Th2 cells	ovalbumin induction	upregulated	32242002
+206	Mouse	GAS5	lncRNA	arsenite	arsenic-exposion	male C57BL/6J mice	arsenic (As) exposure	downregulated	29132937
+207	Mouse	GAS5	lncRNA	fasting with HIF-1¦Á inhibitor (BAY)	cardiac decompensation secondary to acute severe caloric-restriction	cardiac tissues	Fasting with HIF-1¦Á inhibitor (BAY) treatment	downregulated	32942153
+208	Mouse	GAS5	lncRNA	triiodo-l-thyronine (T3)	cardiac decompensation secondary to acute severe caloric-restriction	cardiac tissues	Triiodo-l-Thyronine (T3) treatment	downregulated	32942153
+209	Mouse	GAS5	lncRNA	isoproterenol	cardiac fibrosis	mouse heart tissues	isoproterenol (ISO)  treatment	Overexpression of GAS5 could attenuate cardiac fibrosis induced by ISO.	31173316
+210	Mouse	GAS5	lncRNA	lipopolysaccharide (LPS)	cardiac fibrosis	fibrotic heart tissues	lipopolysaccharide (LPS) treatment	downregulated	32008164
+211	Mouse	GAS5	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	Primary mouse cerebral cortical neurons	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31278927
+212	Mouse	GAS5	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	Mouse N2a neuroblastoma cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31751592
+213	Mouse	GAS5	lncRNA	streptozocin (STZ)	diabetes mellitus (DM)	skin	streptozotocin (STZ) treatment	"GAS5 was significantly downregulated whereas miR-217 was obviously upregulated in diabetic skin, HG-induced lymphatic endothelial cells (LECs) and diabetic mouse model."	33865922
+214	Mouse	GAS5	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	newborn mouse cardiomyocyte (NMC)	high glucose (HG) treatment	Gas5/miR-320-3p/Tcf3 pathway was found to modulate the apoptosis of NMC.	32003049
+215	Mouse	GAS5	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	HL-1 cells	high glucose (HG) treatment	LncRNA GAS5 inhibits NLRP3 inflammasome activation-mediated pyroptosis in diabetic cardiomyopathy by targeting miR-34b-3p/AHR	33092444
+216	Mouse	GAS5	lncRNA	danggui buxue tang (DBT)	diabetic nephropathy (DN)	high glucose-treated mouse mesangial cells (SV40 MES-13)	danggui buxue tang (DBT) treatment	upregulated	31481528
+217	Mouse	GAS5	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse mesangial cells (SV40 MES-13)	high glucose treatment	downregulated	31481528
+218	Mouse	GAS5	lncRNA	magnesium-free extracellular fluid	epilepsy	primary hippocampal neuron	magnesium-free extracellular fluid culture	"lncRNA GAS5 functions as a competitive endogenous RNA of miR-135a-5p to increase expression of KCNQ3, and lncRNA GAS5 silencing inhibited the occurrence and progression of epilepsy."	31373759
+219	Mouse	GAS5	lncRNA	¦Ã-rays	gastrointestinal acute radiation syndrome	Macrophages (M?) with the M2b phenotype (Pheno2b-M?)	7-10 Gy of gamma rays treatment	downregulated	29743312
+220	Mouse	GAS5	lncRNA	arsenite	glucocorticoids (GCs) resistance	utero	arsenic (As) exposure	Total cellular Gas5 levels were lower in arsenic-exposed males with no changes seen in arsenic-exposed females at GD16 and 18.	29132937
+221	Mouse	GAS5	lncRNA	chlorogenic acid (CGA)	intestinal diseases	intestinal epithelial cells	chlorogenic acid (CGA) treatment	CGA promotes autophagy and inhibits ST infection through the GAS5/miR-23a/PTEN axis and the p38 MAPK pathway.	33240872
+222	Mouse	GAS5	lncRNA	isosteviol Sodium (STV-Na)	ischemic stroke (IS)	microglia/macrophage polarization in ischemic stroke	Isosteviol Sodium (STV-Na) treatment	downregulated	31434993
+223	Mouse	GAS5	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	mouse primary brain neurons	oxygen-glucose deprivation (OGD) treatment	GAS5 level was elevated in neurons subjected to OGD compared with the control group	29307821
+224	Mouse	GAS5	lncRNA	hypoxia	cardiomyocytes injury	HL-1 Cells	hypoxia exposure	miR-222-3p could resume the functions of GAS5 in cell viabilities and apoptosis through protein regulation in PI3K and AKT signaling pathways.	32240616
+225	Mouse	GAS5	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	ATDC5 cells	lipopolysaccharide (LPS) treatment	"LPS reduced cell viability and promoted cell apoptosis and secretion of inflammatory cytokines, along with downregulated of GAS5."	29448248
+226	Mouse	GAS5	lncRNA	rotenone (ROT)	parkinson's disease (PD)	brain tissues	rotenone treatment	upregulated	32470877
+227	Mouse	GAS5	lncRNA	ZCL-082	premature ovarian failure (POF)	female germline stem cell (FGSC)	ZCL-082 treatment	downregulated	31319247
+228	Mouse	GAS5	lncRNA	high fat diet (HFD) and streptozotocin (STZ)	renal fibrosis	kidney tissues	high fat diet (HFD) and streptozotocin (STZ) treatment	LncRNA Gas5(GAS5) expression was increased in kidneys of the DKD mouse model.	31810140
+229	Mouse	GAS5	lncRNA	lipopolysaccharide (LPS)	sepsis	podocyte	lipopolysaccharide (LPS) treatment	GAS5 expression decreased in a time-dependent manner in LPS-induced podocytes.	30556845
+230	Mouse	GAS5	lncRNA	dexamethasone (DEX)	severe asthma (SA)	lung tissues	dexamethasone (DEX) treatment	downregulated	32642099
+231	Mouse	GAS5	lncRNA	ovalbumin (OVA) and lipopolysaccharide (LPS)	severe asthma (SA)	lung tissues	ovalbumin (OVA) and lipopolysaccharide (LPS) treatment	upregulated	32642099
+232	Mouse	GAS5	lncRNA	TGF-¦Â	tissue fibrosis	NIH-3T3 cells	Transforming growth factor-¦Â (TGF-¦Â) treatment	LncRNA GAS5 attenuates fibroblast activation through inhibiting Smad3 signaling	32374674
+233	Mouse	GAS5	lncRNA	H2O2	traumatic brain injury (TBI)	retinal ganglion cells (RGCs)	H2O2 treatment	upregulated	30450834
+234	Mouse	GAS5	lncRNA	traditional Chinese medicine Changqin NO. 1	traumatic brain injury (TBI)	brain tissues and primary neurons	traditional Chinese medicine Changqin NO. 1 treatment	Changqin NO 1 promoted neuroprotective effects by inhibiting neuronal apoptosis via the GAS5/miR-335/Rasa1 axis in TBI	30653462
+235	Mouse	Gm11149	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	liver tissues	carbon tetrachloride (CCl4) treatment	upregulated	30193772
+236	Mouse	Gm11529	lncRNA	dexamethasone (DEX)	asthma	lung tissues	dexamethasone (Dex) treatment	Gm11529 was downregulated in the Dex group compared with that in the Model group.	32222886
+237	Mouse	Gm11974	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	N2a cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	Gm11974 was mainly located in cytoplasm Knockdown of lncRNA Gm11974 alleviated the apoptosis induced by OGD and cell death rates were significantly reduced	31556305
+238	Mouse	Gm11985	lncRNA	propofol (PPF)	acute neurotoxicity	hippocampus	propofol treatment	downregulated	30261491
+239	Mouse	Gm12840	lncRNA	TGF-¦Â1	ischemia/reperfusion (I/R) injury	kidney tissues	TGF-¦Â1 treatment	LncRNA (Gm12840) could act as a sponge for miR-677-5p to mediate fibroblast activation induced by TGF-¦Â1 via the WISP1/PKB (Akt) signaling pathway	33351669
+240	Mouse	Gm13133	lncRNA	cold	obesity	mouse brown adipose	cold treatment	upregulated	28247947
+241	Mouse	Gm13133	lncRNA	"¦Â3 -adrenergic agonist ,cAMP"	obesity	mouse brown adipose	¦Â3 -adrenergic agonist and cAMP treatment	upregulated	28247947
+242	Mouse	Gm13372	lncRNA	dexamethasone (DEX)	asthma	lung tissues	dexamethasone (Dex) treatment	Gm13372 was upregulated in the Dex group compared with that in the Model group.	32222886
+243	Mouse	Gm13910	lncRNA	chronic intermittent hypoxia (CIH)	atherosclerosis (AS)	aorta tissues	Chronic intermittent hypoxia (CIH) treatment	upregulated	32328084
+244	Mouse	Gm14205	lncRNA	hormone	postpartum depression (PPD)	hippocampus	hormone treatment	Gm14205 induces astrocytic NLRP3 inflammasome activation via inhibiting oxytocin receptor in postpartum depression.	32706026
+245	Mouse	Gm14461	lncRNA	lipopolysaccharide (LPS)	trigeminal neuralgia (TN)	astrocytes	lipopolysaccharide (LPS) treatment	Silencing of lncRNA Gm14461 alleviates pain in trigeminal neuralgia through inhibiting astrocyte activation.	33141516
+246	Mouse	Gm15621	lncRNA	sevoflurane (SEV)	cognitive impairment	primary hippocampal neuron cells	sevoflurane exposure treatment	The expression of lncRNA Gm15621 was decreased with the development of sevoflurane exposure	31264218
+247	Mouse	Gm15621	lncRNA	sevoflurane (SEV)	cognitive impairment	Primary hippocampal neuron cells	"To establish an in vitro sevoflurane©\ induced neurotoxicity model, the primary hippocampal neuron cells were treated with different concentrations of sevoflurane for 6 hr treatment"	lncRNA Gm15621 located in the cytoplasm The expression of lncRNA Gm15621 was decreased with the development of sevoflurane exposure Overexpression of lncRNA Gm15621 significantly reduced the apoptosis and cell survival rates	31264218
+248	Mouse	Gm15622	lncRNA	metformin (Met)	nonalcoholic fatty liver disease (NAFLD)	AML-12 cells	metformin treatment	Metformin suppresses Gm15622 and alleviates NAFLD-associated lipid deposition in mice.	32229588
+249	Mouse	Gm15645	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	primary mouse podocyte cells	high glucose (HG) treatment	Gm15645 was significantly downregulated in podocytes under high glucose conditions.	30132544
+250	Mouse	Gm15834	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	The cardiomyocyte-like HL-1 cell lines	angiotensin II (Ang II) treatment	upregulated	33130312
+251	Mouse	Gm15834	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	HL-1 cells	angiotensin II (Ang II) treatment	upregulated	33130312
+252	Mouse	Gm15851	lncRNA	prenatal nicotine exposure (PNE)	POMC neuronal development and/or function	POMC neurons	prenatal nicotine exposure (PNE) treatment	upregulated	27609221
+253	Mouse	Gm16343	lncRNA	IL-36¦Â	colorectal cancer (CRC)	CD8+ T cells	interleukin 36¦Â treatment	upregulated	31684829
+254	Mouse	Gm16410	lncRNA	particulate matter (PM2.5)	PM2.5-induced lung inflammation	RAW264.7 cells	fine particulate matter (PM2.5) treatment	"The result showed that a significant reduction in expression of one lncRNA, identified as lncGm16410, was observed in the lung of mice and RAW2647 cells following exposure to PM25"	33796524
+255	Mouse	Gm16410	lncRNA	particulate matter (PM2.5)	lung fibrosis	mouse pulmonary vascular endothelial cells (MHCs)	PM2.5 exposure treatment	The involvement of lncRNA Gm16410 in PM25-induced EndMT highlights the potential of lncRNA to promote pulmonary fibrosis under environmental pollution	32961493
+256	Mouse	Gm17501	lncRNA	dexamethasone (DEX)	asthma	lung tissues	dexamethasone (Dex) treatment	Gm13372 was upregulated in the Dex group compared with that in the Model group.	32222886
+257	Mouse	Gm20319	lncRNA	subchronic deoxynivalenol (DON)	liver damage	liver tissues; Hepa 1-6 cells	subchronic deoxynivalenol (DON) exposure treatment	upregulated	32439590
+258	Mouse	Gm20471	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	liver tissues	carbon tetrachloride (CCl4) treatment	upregulated	30193772
+259	Mouse	Gm2199	lncRNA	carbon tetrachloride (CCl4)	liver damage	liver tissues; AML12 cells	carbon tetrachloride (CCl4) treatment	Gm2199 was downregulated in both damaged livers and hepatocyte lines.	29789577
+260	Mouse	Gm26917	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mesangial cell	?high glucose (HG)?treatment treatment	The expression of Gm26917 was induced by HG but weakened by RSG	33790061
+261	Mouse	Gm26917	lncRNA	rosiglitazone	diabetic nephropathy (DN)	mesangial cell	Rosiglitazone (RSG) treatment	The expression of Gm26917 was induced by HG but weakened by RSG	33790061
+262	Mouse	Gm34934	lncRNA	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP)"	rheumatoid arthritis (RA)	TM3 Leydig cells	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP) treatment"	upregulated	33360214
+263	Mouse	Gm43050	lncRNA	sevoflurane (SEV)	sevoflurane-induced abnormal cognition	primary hippocampal neurons	sevoflurane treatment	Overexpression of lncRNA Gm43050 alleviates apoptosis and inflammation response induced by sevoflurane treatment by regulating miR-640/ZFP91	32913509
+264	Mouse	Gm43181	lncRNA	ventilator	ventilator-induced lung injury (VILI)	mouse lung tissues	ventilator treatment	lncRNA Gm43181 might be related to lung damage and neutrophil activation via chemokine receptor chemokine (C-X-C) receptor 2	30784114
+265	Mouse	Gm43652	lncRNA	adipogenesis medium	muscle cells during adipogenic transdifferentiation	C2C12 cells	"adipogenesis medium (DMEM-F12, 20% fetal calf serum, 10 ?g/mL insulin, 1 ?M dexamethasone, 0.5 mM 3-isobutyl-1-methylxanthine, and 10 ?M rosiglitazone) treatment"	upregulated	31366088
+266	Mouse	Gm5091	lncRNA	alcohol	alcoholic liver fibrosis (ALF)	mouse primary hepatic stellate cells	alcohol treatment	LncRNA Gm5091 was sharply downregulated in HSCs of mouse AHF in vivo and alcohol-treated primary HSCs in vitro.	29935035
+267	Mouse	Gm5421	lncRNA	chronic intermittent hypoxia (CIH)	atherosclerosis (AS)	aorta tissues	Chronic intermittent hypoxia (CIH) treatment	upregulated	32328084
+268	Mouse	Gm5524	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	primary mouse podocyte cells	high glucose (HG) treatment	Gm5524 was additionally significantly upregulated in podocytes under high glucose conditions.	30132544
+269	Mouse	Gm9926	lncRNA	5-aminolevulinic acid photodynamic therapy(ALA-PDT)	colitis	colon tissues	5-Aminolevulinic acid photodynamic therapy(ALA-PDT) treatment	downregulated	30385297
+270	Mouse	Gomafu	lncRNA	berberine (BBR)	obesity-induced chronic inflammation	RAW264.7 ; 3T3-L1 preadipocytes	berberine (BBR) treatment	Overexpression of lncRNA Gomafu partially blocked the protective effects of berberine in free fatty acids-treated adipocytes by increasing endoplasmic reticulum stress.	32650294
+271	Mouse	Gpr137b-ps	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	hepatic stellate cells (HSCs)	carbon tetrachloride (CCl4) treatment	?lncRNA G protein-coupled receptor 137B (Gpr137b-ps) and C-X-C motif chemokine ligand 14 (CXCL14) showed to be markedly upregulated within carbon tetrachloride (CCl4)-caused hepatic fibrotic mice tissue samples and activated HSCs.	33069761
+272	Mouse	Gpr137b-ps	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis		carbon tetrachloride (CCl4) treatment	lncRNA Gpr137b-ps/miR-200a-3p/CXCL14 axis that modulates HSC activation and might exert an effect on the pathogenesis of liver fibrosis.	33069761
+273	Mouse	H19	lncRNA	hypoxia	acute myocardial infarction (AMI)	mouse HL-1 cells	hypoxia	upregulated	29179202
+274	Mouse	H19	lncRNA	benzyl butyl phthalate (BBP)	adipogenesis	Multipotent C3H10T1/2 cells	benzyl butyl phthalate (BBP) treatment	Cells treated with an 8 day BBP regimen showed that H19 expression was decreased at day 2 with 50 ¦ÌM BBP exposure	33395283
+275	Mouse	H19	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	brain tissues	amyloid-¦Â (A¦Â) 25-35 treatment	"Elevated H19, HMGB1 and decreased miR-129 were found in A¦Â25-35-treated PC12 cells as well as in brain tissues of AD mice."	33410377
+276	Mouse	H19	lncRNA	dexamethasone (DEX)	asthma	lung tissues	dexamethasone (Dex) treatment	H19 was upregulated in the Dex group compared with that in the Model group.	32222886
+277	Mouse	H19	lncRNA	astragaloside IV (AS-IV)	atherosclerosis (AS)	vascular smooth muscle cells from high-fat diet fed ApoE-/- mice	astragaloside (AS-IV) treatment	upregulated	30529164
+278	Mouse	H19	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	ApoE-/- mice vascular smooth muscle cells	high fat diet (HFD) feed	downregulated	30529164
+279	Mouse	H19	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	aortic tissues of atherosclerosis mice	high fat diet (HFD) feed	upregulated	31757932
+280	Mouse	H19	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	RAW264.7 cells	oxidized low-density lipoprotein (ox-LDL) treatment	Increased expression of H19 was detected in ox-LDL-treated Raw264.7 cells.	29172088
+281	Mouse	H19	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	Raw264.7 cells	oxidized low-density lipoprotein (ox-LDL) treatment	upregulated	29172088
+282	Mouse	H19	lncRNA	hyperoxia	bronchopulmonary dysplasia (BPD)	lung tissues	hyperoxia (Hyp) treatment	Downregulated lncRNA H19 relieved pulmonary injury via targeting miR-17 to downregulate STAT3 and reduced inflammatory response caused by p-STAT3 in BPD newborn mice.	33285606
+283	Mouse	H19	lncRNA	high glucose (HG)	cardiomyocyte senescence	Neonatal mouse ventricular cells (NMVCs)	high glucose (HG) treatment	H19 level was significantly increased in high glucose-induced senescence cardiomyocytes and aged mouse hearts.	33664669
+284	Mouse	H19	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	cleft palate (CP)	mouse palatal tissues	"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) treatment"	upregulated	29081343
+285	Mouse	H19	lncRNA	all-trans retinoic acid (ATRA)	cleft palate (CP)	fetuses	all-trans retinoic acid (ATRA) treatment	"In addition, the the relationship between lncRNA H19 and IGF2 were negative correlation in the critical period of developmental palate"	27307343
+286	Mouse	H19	lncRNA	all-trans retinoic acid (ATRA)	cleft palate (CP)	C57BL/6 mice	all-trans retinoic acid (ATRA) treatment	upregulated	27307343
+287	Mouse	H19	lncRNA	azoxymethane (AOM) and dextran sulfate sodium (DSS) AOM/DSS	colitis-associated colon cancer (CAC)	colon tissues	azoxymethane (AOM) and dextran sulfate sodium (DSS) treatment	H19 was highly expressed in the tumor tissues of CAC mice compared with the expression in normal colon tissues.	30083271
+288	Mouse	H19	lncRNA	streptozocin (STZ)	diabetes mellitus (DM)	hippocampal neurons	streptozotocin (STZ) treatment	"Higher lncRNA H19 expression was found in DM Upregulated lncRNA H19 significantly increased the expression of Bax and caspase-3 but decreased that of Bcl-2, thus promoting the apoptosis of hippocampal neuron"	30536889
+289	Mouse	H19	lncRNA	metformin (Met)	diabetic nephropathy (DN)	SV40-MES-13 cells	Metformin (MET) treatment	"Metformin inhibits extracellular matrix accumulation, inflammation and proliferation of mesangial cells in diabetic nephropathy by regulating H19/miR-143-3p/TGF-¦Â1 axis."	32391614
+290	Mouse	H19	lncRNA	synthetic preimplantation factor (sPIF)	duchenne muscular dystrophy (DMD)	myoblast	Synthetic preimplantation factor (sPIF) treatment	upregulated	30692507
+291	Mouse	H19	lncRNA	TGF-¦Â	hepatocellular carcinoma (HCC)	tumor-initiating hepatocytes (TICs)	TGF-¦Â treatment	TGF-¦Â treatment reduced H19 expression	30014520
+292	Mouse	H19	lncRNA	bleomycin (BLM)	idiopathic pulmonary fibrosis (IPF)	lung fibrosis tissues	bleomycin (BLM) treatment	The level of H19 was upregulated in the lung fibrosis tissue compared with the control group treated with saline.	29411215
+293	Mouse	H19	lncRNA	bleomycin (BLM)	idiopathic pulmonary fibrosis (IPF)	lung tissues	bleomycin (BLM) treatment	upregulated	33138822
+294	Mouse	H19	lncRNA	TGF-¦Â1	inflammation	MAC-T cells	TGF-¦Â1 treatment	upregulated	29062612
+295	Mouse	H19	lncRNA	hypoxia	ischemic stroke (IS)	mouse plasma ;white blood cells;brain tissues	middle cerebral artery occlusion (MCAO) treatment	"upregulated in plasma, white blood cells, and brain"	28630232
+296	Mouse	H19	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	HT22 cells	oxygen-glucose deprivation (OGD) treatment	Long non-coding RNA H19 inhibition ameliorates oxygen-glucose deprivation-induced cell apoptosis and inflammatory cytokine expression by regulating the microRNA-29b/SIRT1/PGC-1¦Á axis	33313940
+297	Mouse	H19	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	mouse HT22 cells	oxygen-glucose deprivation (OGD) treatment	"In the present study, MCAO model mice and OGD-treated cells displayed significantly increased lncRNA H19 expression levels compared with sham mice and control cells, respectively"	33313940
+298	Mouse	H19	lncRNA	glyoxylate	kidney tubular cell injury	renal tubular epithelial cell	glyoxylate treatment	upregulated	31735555
+299	Mouse	H19	lncRNA	glyoxylate	kidney tubular cell injury	oxidative stress	glyoxylate treatment	upregulated	31735555
+300	Mouse	H19	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	liver tissues	carbon tetrachloride (CCl4) treatment	upregulated	30362572
+301	Mouse	H19	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	mouse liver tissue	carbon tetrachloride (CCl4) treatment	upregulated	30362572
+302	Mouse	H19	lncRNA	H2O2	liver fibrosis	AML12 cells	H2O2 treatment	upregulated	32579217
+303	Mouse	H19	lncRNA	TGF-¦Â	liver fibrosis	"mouse Primary hepatic stellate cells (PHSCs), The human immortalized HSC line LX©\2,Human L©\02 hepatocytes"	TGF-¦Â treatment	upregulated	30362572
+304	Mouse	H19	lncRNA	"diethyl 1,4-dihydro-2,4,6,-trimethyl-3,5-pyridinedicarboxylate (DDC)"	liver preneoplastic foci and tumors	mice liver cells	"Diethyl 1,4-dihydro-2,4,6,-trimethyl-3,5-pyridinedicarboxylate (DDC) treatment"	upregulated	19362547
+305	Mouse	H19	lncRNA	high fat diet (HFD)	male infertility	C57bl/6J mice	high fat diet (HFD) feed	dysregulated	28599310
+306	Mouse	H19	lncRNA	metformin (Met)	metabolic disorders	mouse fetuses	Metformin treatment	upregulated	29215608
+307	Mouse	H19	lncRNA	CoCl2	myocardial infarction (MI)-induced heart failure (HF)	Cardiac progenitor cells (CPCs)	CoCl2 treatment	The expression of long non-coding RNA H19 was significantly downregulated in CPCs after hypoxia stimuli.	30137188
+308	Mouse	H19	lncRNA	6-Gingerol (6-G)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	HL-1 cells	6-Gingerol (6-G) treatment	we found that 6-G elevated cellular H19 expression in hypoxia/reoxygenation (H/R)-treated HL-1 cells.	33758383
+309	Mouse	H19	lncRNA	H2O2	myocardial ischemia/reperfusion (I/R) injury (MIRI)	cardiomyocytes	H2O2 treatment	downregulated	31284127
+310	Mouse	H19	lncRNA	berberine (BBR)	nonalcoholic fatty liver disease (NAFLD)	mouse liver	berberine (BBR) treatment	BBR's beneficial effects are linked with the downregulated of microRNA34a and long noncoding RNA H19	33494295
+311	Mouse	H19	lncRNA	free fatty acids (FFA)	nonalcoholic fatty liver disease (NAFLD)	primary cultured hepatocytes	free fatty acids treatment	upregulated	29140550
+312	Mouse	H19	lncRNA	free fatty acids (FFA)	nonalcoholic fatty liver disease (NAFLD)	cultured mouse primary hepatocytes	free fatty acid (FFA) treatment	upregulated	31064820
+313	Mouse	H19	lncRNA	high fat diet (HFD)	nonalcoholic fatty liver disease (NAFLD)	liver tissues	high fat diet (HFD) feed	upregulated	29140550
+314	Mouse	H19	lncRNA	high fat diet (HFD)	nonalcoholic fatty liver disease (NAFLD)	liver tissues	high fat diet (HFD) feed	upregulated	31064820
+315	Mouse	H19	lncRNA	high fat diet (HFD)	nonalcoholic fatty liver disease (NAFLD)	liver tissues	high fat diet (HFD) feed	H19 was upregulated during the development of high-fat diet (HFD)-induced NAFLD.	31809000
+316	Mouse	H19	lncRNA	oleic acid (OA)	nonalcoholic fatty liver disease (NAFLD)	primary mouse hepatocytes	oleic acid (OA) treatment	H19 was upregulated in oleic acid-induced steatosis.	31809000
+317	Mouse	H19	lncRNA	bone morphogenetic protein 9 (BMP9)	osteogenesis	mouse mesenchymal stem cell (MSC) lines iMEFs and iMADs	bone morphogenetic protein 9 (BMP9) treatment	upregulated	28881833
+318	Mouse	H19	lncRNA	metformin (Met)	oxidative stress	N2a cells	metformin treatment	metformin inhibited the expression of lncRNA-H19 in both MCAO/R-treated mice and OGD/R-treated N2a cells.	31934270
+319	Mouse	H19	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	brain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	H19 was downregulated in brain tissues of MPTP-induced PD mice (in vivo).	32356199
+320	Mouse	H19	lncRNA	6-hydroxydopamine (6-OHDA)	parkinson's disease (PD)	dopaminergic neuron	6-hydroxydopamine (6-OHDA) treatment	LncRNA H19 diminishes dopaminergic neuron loss by mediating microRNA-301b-3p in Parkinson's disease via the HPRT1-mediated Wnt/¦Â-catenin signaling pathway.	32434961
+321	Mouse	H19	lncRNA	monocrotaline (MCT)	pulmonary arterial hypertension (PAH)	serum; lungs tissues	monocrotaline (MCT) treatment	H19 was highly expressed in the serum and lungs of MCT-induced models.	30547791
+322	Mouse	H19	lncRNA	arsenite	lung fibrosis	murine bone marrow-derived macrophages (BMDMs)	arsenic (As) exposure	downregulated of H19 or upregulated of let-7a reversed the arsenite-induced M2 polarization of macrophages.	33162208
+323	Mouse	H19	lncRNA	arsenite	lung fibrosis	lung tissues; bone marrow-derived macrophages (BMDMs)	arsenite exposure	upregulated	33162208
+324	Mouse	H19	lncRNA	dextran sodium sulfate (DSS)	regeneration of the intestinal epithelia	intestinal tissues	dextran sulfate sodium (DSS) treatment	upregulated	29621481
+325	Mouse	H19	lncRNA	lipopolysaccharide (LPS)	regeneration of the intestinal epithelia	intestinal tissues	lipopolysaccharide (LPS) treatment	upregulated	29621481
+326	Mouse	H19	lncRNA	lipopolysaccharide (LPS)	sepsis	mice cardiomyocytes UL-1 cells	lipopolysaccharide (LPS) treatment	downregulated	30021355
+327	Mouse	H19	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	BV2 cells	lipopolysaccharides (LPS) treatment	LncRNA H19 Regulates Lipopolysaccharide (LPS)-Induced Apoptosis and Inflammation of BV2 Microglia Cells Through Targeting miR-325-3p/NEUROD4 Axis.	33205379
+328	Mouse	H19	lncRNA	high fat diet (HFD)	type 2 diabetes mellitus (T2DM)	liver tissues	high fat diet (HFD) feed	Hepatic H19 expression is chronically increased in diabetic mice.	29769440
+329	Mouse	H19	lncRNA	cinnamaldehyde (CA)	ulcerative colitis (UC)	colonic tissues	Cinnamaldehyde (CA) treatment	lncRNA H19 was increased in the colonic tissues of the DSS-treated mice compared with the normal mice at 7 days or 14 days and was significantly decreased on day 14 after CA administration.	33341041
+330	Mouse	H19	lncRNA	cigarette smoke extract (CSE)	smoke-induced lung injury (SILI)	lung tissues	cigarette smoke extract (CSE) treatment	upregulated	33523607
+331	Mouse	H19	lncRNA	Rb3	smoke-induced lung injury (SILI)	lung tissues	Rb3 treatment	downregulated	33523607
+332	Mouse	HAGLROS	lncRNA	1-methyl-4-phenylpyridinium (MPP+)	parkinson's disease (PD)	mouse midbrain tissues	1-methyl-4-phenylpyridinium (MPP+) treatment	upregulated	31298038
+333	Mouse	HCG18	lncRNA	high glucose (HG)	diabetic peripheral neuropathy (DPN)	macrophage	high glucose (HG) treatment	LncRNA HCG18 was highly expressed in DPN model and HG-induced macrophages.	32996080
+334	Mouse	HCP5	lncRNA	oxygen glucose deprivation (OGD)	cerebral ischemia/reperfusion (I/R) injury	N2a cells	oxygen glucose deprivation (OGD) treatment	upregulation of lncRNA HCP5 may exacerbate cerebral ischemic reperfusion injury by sponging miR-652-3p	32657103
+335	Mouse	HIF1A-AS1	lncRNA	coxsackievirus B3 (CVB3)	acute viral myocarditis (VM)	mouse myocardium; primary cardiomyocytes	Coxsackievirus B3 (CVB3) infection	lncRNA HIF1A-AS1 promotes NF-¦ÊB signaling and subsequently aggravates cardiomyocyte apoptosis and inflammation via targeting miR-138.	33224748
+336	Mouse	HIF1A-AS2	lncRNA	flagellin	intestinal inflammation	ulcerative colitis samples	flagellin treatment	Flagellin induced HIF1A-AS2 expression in a dose- and time-dependent manner via p38-stat1 activation.	29772233
+337	Mouse	HOTAIR	lncRNA	coronary artery ligation	acute myocardial infarction (AMI)	C57BL/6J mice serum	subjected to coronary artery ligation	downregulated	29258067
+338	Mouse	HOTAIR	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	Raw264.7 cells	oxidized low-density lipoprotein (ox-LDL) treatment	downregulated	30402866
+339	Mouse	HOTAIR	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	primary cultured cardiac fibroblasts (CFs)	angiotensin II (Ang II) treatment	upregulated	30402865
+340	Mouse	HOTAIR	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	H9c2 cells	high glucose (HG) treatment	HOTAIR was downregulated in HG-stimulated H9c2.	30216438
+341	Mouse	HOTAIR	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	mouse heart tissues	streptozotocin (STZ) treatment	HOTAIR protected against DCM via activation of the SIRT1 expression by sponging miR-34a	30216438
+342	Mouse	HOTAIR	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	conditionally immortalised mouse podocytes	high glucose (HG) treatment	upregulated	31399844
+343	Mouse	HOTAIR	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	kidney tissues	streptozotocin treatment	upregulated	31399844
+344	Mouse	HOTAIR	lncRNA	high glucose (HG)	diabetic retinopathy (DR)	Retinal endothelial cell (REC) dysfunction	high glucose treatment	upregulated	32812634
+345	Mouse	HOTAIR	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	liver tissues	carbon tetrachloride (CCl4) treatment	upregulated	30673982
+346	Mouse	HOTAIR	lncRNA	rosiglitazone	liver fibrosis	TGF-¦Â1 treated primary mouse hepatic stellate cells (HSCs)	Rosiglitazone (RGZ) treatment	downregulated	30673982
+347	Mouse	HOTAIR	lncRNA	rosiglitazone	liver fibrosis	carbon tetrachloride (CCl4) treated mouse liver tissues	Rosiglitazone (RGZ) treatment	downregulated	30673982
+348	Mouse	HOTAIR	lncRNA	TGF-¦Â1	liver fibrosis	Primary mouse hepatic stellate cells (HSCs)	TGF-¦Â1 treatment	upregulated	30673982
+349	Mouse	HOTAIR	lncRNA	high fat diet (HFD)	hepatic insulin resistance	liver tissues	high fat diet (HFD) feed	"HOTAIR was significantly upregulated in T2D patients, C57BL/6J mice fed with a high-fat diet."	30536334
+350	Mouse	HOTAIR	lncRNA	H2O2	hepatic ischemia/reperfusion injury (HIRI)	Primary mouse hepatocytes culture	H2O2 treatment	knockdown of the expression of HOTAIR attenuated autophagy induced by hydrogen peroxide.	30367982
+351	Mouse	HOTAIR	lncRNA	lipopolysaccharide (LPS)	inflammation	RAW264.7 macrophages	lipopolysaccharide (LPS) treatment	HOTAIR expression is induced in immune cells (macrophages) upon treatment with lipopolysaccharide (LPS).	30353135
+352	Mouse	HOTAIR	lncRNA	lipopolysaccharide (LPS)	inflammation	RAW264.7 cells	lipopolysaccharide (LPS) treatment	upregulated	33420270
+353	Mouse	HOTAIR	lncRNA	ischemia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	Plasma	left anterior descending artery (LAD) ligation	HOTAIR aggravates myocardial IR by competitively binding SRSF1 with microRNA-126.	32964995
+354	Mouse	HOTAIR	lncRNA	IL-1¦Â	osteoarthritis (OA)	chondrocytes	IL-1¦Â treatment	upregulated	32315726
+355	Mouse	HOTAIR	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	mouse brain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	28445933
+356	Mouse	HOTAIR	lncRNA	arsenite	lung fibrosis	lung tissues	arsenite exposure	upregulated	33162208
+357	Mouse	HOTAIR	lncRNA	cecal ligation and puncture (CLP)	sepsis	Monocytes were isolated from the spleens	cecal ligation and puncture induce	upregulated	31656541
+358	Mouse	HOTAIR	lncRNA	silicon dioxide (SiO2)	silicosis	HBE and A549 cells	silicon dioxide (SiO2) treatment	"miR-326 is downregulated in the fibrotic lung tissues of silica-treated mice, while increased expression of miR-326 attenuates silica-induced pulmonary fibrosis in vivo"	31642316
+359	Mouse	HOTAIR	lncRNA	lipopolysaccharide (LPS)	traumatic brain injury (TBI)	BV2 cells; primary microglia	lipopolysaccharide (LPS) treatment	upregulated	32602030
+360	Mouse	HOTAIR	lncRNA	lipopolysaccharide (LPS)	traumatic brain injury (TBI)	primary mouse microglia	lipopolysaccharide (LPS) treatment	LncRNA HOTAIR was abnormally highly expressed in activated microglia.	32602030
+361	Mouse	HOTTIP	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	SV40-MES13 cells	high-glucose (HG) treatment	upregulated	31934070
+362	Mouse	HOTTIP	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	primary cortical neurons	oxygen-glucose deprivation (OGD) treatment	downregulated	30129112
+363	Mouse	HOTTIP	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	hepatic stellate cells (HSCs)	CCl4 treatment	upregulated	30548190
+364	Mouse	HOTTIP	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	liver tissues	carbon tetrachloride (CCl4) treatment	HOTTIP expressions in fibrotic liver samples and cirrhotic liver samples were significantly upregulated compared with healthy liver controls.	30562760
+365	Mouse	HOX	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	mouse	CCl4 treatment	upregulated	27979710
+366	Mouse	HOXA11-AS	lncRNA	TGF-¦Â1	cardiac fibrosis	mouse cardiac fibroblasts (CFs)	TGF¦Â1 treatment	upregulated	30720066
+367	Mouse	HOXA11-AS1	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	substantia nigra (SN) area	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	"?HOXA11-AS promoted MPTP-mediated SH-SY5Y neuronal injury and LPS-induced microglia activation, while miR-124-3p had the opposite effects."	33839699
+368	Mouse	HOXA11-AS1	lncRNA	lipopolysaccharide (LPS)	parkinson's disease (PD)	BV2 cells	lipopolysaccharide (LPS) treatment	upregulated	33839699
+369	Mouse	Hoxaas3	lncRNA	bleomycin (BLM)	idiopathic pulmonary fibrosis (IPF)	lung fibroblasts	bleomycin (BLM) treatment	upregulated	32848140
+370	Mouse	Hoxaas3	lncRNA	hypoxia	pulmonary hypertension (PH)	lung vasculature of hypoxic mice and in pulmonary artery smooth muscle cells (PASMCs) under hypoxic conditions	hypoxia induce	upregulated	30304383
+371	Mouse	Hsp4	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	MLE-12 cells	lipopolysaccharide (LPS) treatment	Hsp4 alleviates lipopolysaccharide-induced apoptosis of lung epithelial cells via miRNA-466m-3p/DNAjb6 axis.	32976821
+372	Mouse	HULC	lncRNA	tumor necrosis factor alpha (TNF-¦Á) 	osteoarthritis (OA)	?ATDC5 cells	tumor necrosis factor alpha (TNF-¦Á) treatment	?HULC protected ATDC5 cells against TNF-¦Á-induced inflammatory injury by repression of miR-101	30981080
+373	Mouse	IGF2	lncRNA	ketamine	neurotoxicity	neural stem cell culture	ketamine treatment	upregulated	27914827
+374	Mouse	IGF2AS	lncRNA	ketamine	neurotoxicity	E18.5 brain-derived neural stem cells	ketamine treatment	upregulated	27914827
+375	Mouse	IUR	lncRNA	imatinib	leukemia	Abl-transformed primary bone marrow cells	imatinib treatment	Increased expression of lncRNA-IUR was detected in both human and mouse Abl-transformed cells upon imatinib treatment.	30961617
+376	Mouse	Jak3	lncRNA	monosodium urate (MSU)	cell differentiation	RAW264.7 cells	Monosodium urate monohydrate (MSU) treatment	upregulated	30387921
+377	Mouse	KCNQ1OT1	lncRNA	acetaminophen (APAP)	acetaminophen (APAP)-induced liver injury (AILI)	serums	acetaminophen (APAP) treatment	downregulated	32779042
+378	Mouse	KCNQ1OT1	lncRNA	angiotensin II (Ang II)	atrial fibrillation (AF)	heart tissues	angiotensin II (Ang II) treatment	LncRNA KCNQ1 overlapping transcript 1 (KCNQ1OT1) was found to be significantly upregulated in AF model and Ang-II-induced mice heart.	30241939
+379	Mouse	KCNQ1OT1	lncRNA	arsenic trioxide (ATO)	cardiac arrhythmia	primary cultured neonatal mouse cardiomyocytes	arsenic trioxide (ATO) treatment	"After ATO treatment, the Kcnq1ot1 and Kcnq1 expression levels were downregulated."	29675399
+380	Mouse	KCNQ1OT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	primary mouse cerebral cortical neurons	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	32912499
+381	Mouse	KCNQ1OT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	mouse primary cortical neurons	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31837324
+382	Mouse	KCNQ1OT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	primary cortical neurons	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31837324
+383	Mouse	KCNQ1OT1	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	primary cardiomyocytes	high glucose (HG) treatment	upregulated	30355944
+384	Mouse	KCNQ1OT1	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	heart tissues	streptozotocin (STZ) treatment	upregulated	30355944
+385	Mouse	KCNQ1OT1	lncRNA	doxorubicin (DOX)	heart failure (HF)	HL-1 cells	doxorubicin (ADR) treatment	KCNQ1OT1 facilitates cardiomyocyte apoptosis by - targeting FUS in ADR-induced HF.	32497620
+386	Mouse	KCNQ1OT1	lncRNA	platelet derived growth factor-BB (PDGF-BB)	intimal hyperplasia (IH)	vascular smooth muscle cells (VSMCs)	platelet-derived growth factor type BB (PDGF-BB) treatment	downregulated	32146419
+387	Mouse	KCNQ1OT1	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	primary cultured cardiomyocyte	hypoxia induce	upregulated	31644943
+388	Mouse	KCNQ1OT1	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	cardiomyocytes	hypoxia/reoxygenation (H/R) treatment	"KCNQ1OT1 could promote the LGALS3 expression by binding to miR-204-5p, which led to aggravated myocardial IR injury."	31644943
+389	Mouse	KCNQ1OT1	lncRNA	resveratrol	osteoblastic differentiation	mouse mesenchymal stem cells (mMSCs)	resveratrol (Res) treatment	upregulated	29541443
+390	Mouse	KCNQ1OT1	lncRNA	polymethylmethacrylate (PMMA)	particle-induced osteolysis (PIO)	primary bone marrow-derived macrophages (BMMs)	polymethylmethacrylate (PMMA) treatment	KCNQ1OT1 was suppressed in PMMA-induced cells	29252185
+391	Mouse	KCNQ1OT1	lncRNA	sublytic complement C5b-9 (sC5b-9)	renal inflammatory diseases	MPC5 cells	sublytic complement C5b-9 (sC5b-9) treatment	upregulated	33296289
+392	Mouse	KCNQ1OT1	lncRNA	sublytic complement C5b-9 (sC5b-9)	renal inflammatory diseases	MPC5 cells	sublytic complement C5b-9 (sC5b-9) treatment	Kcnq1ot1 was upregulated in sC5b-9-induced podocytes	33296289
+393	Mouse	LET	lncRNA	hypoxia	hepatocellular carcinoma (HCC) and colorectal cancer (CRC)	SMMC-7721 cells; HCCLM3 cells; SW480 cells	Hypoxia treatment	downregulated	23395002
+394	Mouse	Lethe	lncRNA	sepsis	sepsis-induced brain injury (SIBI)	cerebral cortex tissues	cecal ligation and puncture (CLP) induce treatment	upregulated	31210319
+395	Mouse	LGR	lncRNA	fasting	expression regulation	plasma	fasting treatment	upregulated	26904944
+396	Mouse	Lin28B	lncRNA	angiotensin II (Ang II)	allergic airway inflammation	murine bone marrow-derived macrophages (BMDMs)	angiotensin II (Ang II) treatment	upregulated	32458348
+397	Mouse	LINC00261	lncRNA	lipopolysaccharide (LPS)	sepsis-induced acute kidney injury	kidney tissues	lipopolysaccharide (LPS) treatment	"In this study, we found the expression of LINC00261 was significantly decreased in the serum of patients with sepsis than healthy controls. A similar result was also observed in the mouse model of sepsis induced by lipopolysaccharide (LPS)."	33481135
+398	Mouse	LINC00261	lncRNA	lipopolysaccharide (LPS)	sepsis-induced acute kidney injury	pulmonary microvascular endothelial cells (PMVECs)	lipopolysaccharide (LPS) treatment	downregulated	33481135
+399	Mouse	LINC00305	lncRNA	lipopolysaccharide (LPS)	inflammation	ATDC5 cells	lipopolysaccharide (LPS) treatment	upregulated	31190561
+400	Mouse	LINC00511	lncRNA	H2O2	ischemia/reperfusion (I/R) injury	Primary cardiomyocytes	H2O2 treatment	LINC00511 accelerates the proliferation of cardiomyocytes after I/R by targeting miRNA-515-5p.	32141575
+401	Mouse	LINC00968	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse mesangial cells	high glucose (HG) treatment	lncRNA LINC00968 expression was high-expressed in high-glucose induced mesangial cells.	30197001
+402	Mouse	LINC01093	lncRNA	carbon tetrachloride (CCl4)	apoptosis	liver tissues	CCl4 treatment	upregulated	32044992
+403	Mouse	LINC01093	lncRNA	TGF-¦Â1	apoptosis	NCTC 146	TGF-¦Â1 treatment	upregulated	32044992
+404	Mouse	LINC01152	lncRNA	hepatitis B virus (HBV)	hepatocellular carcinoma (HCC)	"Huh7, HepG2 and Hep3B cells"	hepatitis B virus (HBV) infection	upregulated	31054511
+405	Mouse	Lincs_chr17_4383_2	lncRNA	trichloroethylene (TCE)	trichloroethylene (TCE) hepatocarcinogenesis	liver tissues	Trichloroethylene (TCE) treatment	"TCE induced extensive LincRNA expression changes in mouse liver, and the downregulated of Liver Lincs_chr17_4383_2 might contribute to TCE hepatocarcinogenesis by interacting with miR-182-5p and Cdkn1a"	31942800
+406	Mouse	LINK-A	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse podocyte cells	high glucose treatment	downregulated	31258644
+407	Mouse	LNC_000898	lncRNA	hypoxia	myocardial infarction (MI)	neonatal mouse ventricular cardiomyocytes (NMCMs)	hypoxia treatment	LNC_000898 could protect the heart against MI injury by regulating miR-375/PDK1.	32398474
+408	Mouse	LNC_000941	lncRNA	ischemia/reperfusion (I/R) 	acute kidney injury (AKI)	kidney tissues	ischemia/reperfusion (I/R) treatment	dysregulated	29245971
+409	Mouse	lnc010561	lncRNA	melatonin	breast cancer	mouse breast cancer cell lines 4T1 and MA-891	Melatonin treatment	downregulated	31955008
+410	Mouse	lnc010561	lncRNA	melatonin	breast cancer	?4T1 cells; 891 cells	Melatonin treatment	Melatonin regulated breast cancer progression by the lnc010561/miR-30/FKBP3 axis.	31955008
+411	Mouse	lnc949	lncRNA	bleomycin and engeletin	lung fibrosis	myofibroblasts	bleomycin and engeletin treatment	Engeletin ameliorates pulmonary fibrosis through endoplasmic reticulum stress depending on lnc949-mediated TGF-¦Â1-Smad2/3 and JNK signalling pathways	33181025
+412	Mouse	linc-p21	lncRNA	immunoglobulin E (IgE)	abdominal aortic aneurysm (AAA)	aortic tissues	asthma-induced high level of IgE	upregulated	31440377
+413	Mouse	linc-p21	lncRNA	streptozocin (STZ)	diabetes mellitus (DM)	hippocampal neuron	streptozotocin induce treatment	"lincRNA p21 were poorly expressed lincRNA p21 overexpression in the diabetes mice reduced the cell apoptosis rate, and the expression of Bax and cleaved Caspase-3, whereas increase the Bcl-2 expression"	31081202
+414	Mouse	lncRNA30245	lncRNA	TGF-¦Â1	myocardial infarction (MI)	cardiac fibroblasts (CFs)	transforming growth factor (TGF)-¦Â1 treatment	upregulated	30935639
+415	Mouse	lncRNA430945	lncRNA	angiotensin II (Ang II)	atherosclerosis (AS)	mouse vascular smooth muscle cells (VSMCs)	angiotensin II (Ang II) treatment	The downregulated of lncRNA 430945 significantly suppressed AngII-induced VSMC proliferation and migration.	30957191
+416	Mouse	lncRNA6406	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	renal tubular epithelial (PTEC) cells; kidney tissues	lipopolysaccharide (LPS) treatment	LncRNA 6406 is downregulated both in the Kidneys of mice in the LPS-induced AKI Model and LPS-stimulated in vitro Model.	32655407
+417	Mouse	lncRNA9884	lncRNA	protocatechualdehyde (PCA)	tubulointerstitial fibrosis (TIF)	primary renal tubular epithelial cells (TECs)	protocatechualdehyde (PCA) treatment	Protocatechualdehyde attenuates obstructive nephropathy through inhibiting lncRNA9884 induced inflammation	33118280
+418	Mouse	LOC102633466	lncRNA	aerobic exercise	parkinson's disease (PD)	striatal tissues	aerobic exercise training (AET) treatment	upregulated	33150124
+419	Mouse	LOC102637865	lncRNA	aerobic exercise	parkinson's disease (PD)	striatal tissues	aerobic exercise training (AET) treatment	upregulated	33150124
+420	Mouse	LOC102637887	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	downregulated	32246647
+421	Mouse	LOC102638670	lncRNA	aerobic exercise	parkinson's disease (PD)	striatal tissues	aerobic exercise training (AET) treatment	upregulated	33150124
+422	Mouse	LOC102638971	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinal tissues	oxygen treatment	upregulated	32246647
+423	Mouse	LOC102640519	lncRNA	hypoxia	cerebral ischemia injury (CII)	mice brain microvascular endothelial cells	oxygen-glucose deprivation reperfusion (OGD/R) treatment	downregulated	29842876
+424	Mouse	LOC102640519	lncRNA	vascular endothelial growth factor (VEGF)	cerebral ischemia injury (CII)	oxygen-glucose deprivation reperfusion (OGD/R) treated mice brain microvascular endothelial cells	oxygen-glucose deprivation reperfusion (OGD/R) treatment	upregulated	29842876
+425	Mouse	LOC105375913	lncRNA	complement C3a	focal segmental glomerulosclerosis (FSGS)	tubular cells	C3a treatment	upregulated	30679767
+426	Mouse	LOC146880	lncRNA	particulate matter (PM2.5)	lung cancer	lung tissue	PM2.5 treatment	upregulated	27836757
+427	Mouse	LOC498759	lncRNA	glucocorticoid-inducible kinase-1 (SGK1)	diabetic nephropathy (DN)	mouse podocytes	glucocorticoid-inducible kinase-1 (SGK1) treatment	upregulated	31564202
+428	Mouse	LOC498759	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse podocytes	high glucose (HG) treatment	upregulated	31564202
+429	Mouse	LOC498759	lncRNA	Jixuepaidu Tang-1	diabetic nephropathy (DN)	high glucose (HG) treated mouse podoccytes	Jixuepaidu Tang-1 treatment	downregulated	31564202
+430	Mouse	LOC498759	lncRNA	TGF-¦Â1	diabetic nephropathy (DN)	mouse podocytes	Transforming growth factor-¦Â1 (TGF-¦Â1) treatment	upregulated	31564202
+431	Mouse	LRCF	lncRNA	propofol (PPF)	cognitive function	"Primary neonatal mouse oligodendrocyte (OLGs), microglia (MGs) and neuron cells (NCs)"	propofol treatment	?Our systematic study showed that LRCF expression differs in OLGs of mice of different ages	33411226
+432	Mouse	LRNA9884	lncRNA	cisplatin (DDP)	acute kidney injury (AKI)	murine renal proximal tubular epithelial cells (mTECs)	cisplatin treatment	upregulated	33192605
+433	Mouse	LRNA9884	lncRNA	advanced glycation end product (AGE)	diabetic nephropathy (DN)	immortalized murine kidney proximal tubular epithelial (mTEC) cells	advanced glycation end products (AGE) treatment	upregulated	31048367
+434	Mouse	Lrrc55-AS	lncRNA	herpes simplex virus 1 (HSV-1)	innate immune response	mouse peritoneal macrophages	Herpes Simplex Virus( HSV) infection	upregulated	31213650
+435	Mouse	Lrrc55-AS	lncRNA	IFN-I	innate immune response	mouse peritoneal macrophages	IFN-I treatment	upregulated	31213650
+436	Mouse	Lrrc55-AS	lncRNA	lipopolysaccharide (LPS)	innate immune response	mouse peritoneal macrophages	lipopolysaccharides (LPS) treatment	upregulated	31213650
+437	Mouse	Lrrc55-AS	lncRNA	polyinosinic-polycytidilic acid (Poly(I:C))	innate immune response	mouse peritoneal macrophages	poly (I: C)) treatment	upregulated	31213650
+438	Mouse	Lrrc55-AS	lncRNA	Sendai virus (SeV)	innate immune response	mouse peritoneal macrophages	Sendai virus (SeV) infection treatment	upregulated	31213650
+439	Mouse	MAGI2-AS3	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	BV2 cells	amyloid-¦Â (A¦Â) 25-35 treatment	"The expression of MAGI2-AS3 was increased, and miR-374b-5p was decreased in both SH-SY5Y and BV2 cells exposed to A¦Â25-35."	33279663
+440	Mouse	MAGI2-AS3	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	BV2 cells	amyloid-¦Â (A¦Â) 25-35 treatment	MAGI2-AS3/miR-374b-5p axis regulates A¦Â-induced neurotoxicity in SH-SY5Y cells and neuroinflammation in BV2 cells.	33279663
+441	Mouse	MALAT	lncRNA	hypoxia	renal proximal tubular function	kidney tissues;testis tissues	hypoxia treatment	upregulated	27774481
+442	Mouse	MALAT1	lncRNA	hypoxia	acute myocardial infarction (AMI)	Cardiomyocytes	hypoxia induce	upregulated	31783925
+443	Mouse	MALAT1	lncRNA	hypoxia/reoxygenation (H/R)	acute myocardial infarction (AMI)	The mouse cardiomyocyte cell line HL-1	hypoxia/reperfusion induce	upregulated	32010261
+444	Mouse	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	angiogenesis	mouse brain microvascular endothelial cells (BMECs)	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	the levels of lncRNA-MALAT1 and miR-145 were upregulated in OGD-induced BMECs miR-145 functioned as an anti-angiogenic and pro-apoptotic factor in OGD treated BMECs via down-regulating VEGF-A and ANGPT2 directly	30038058
+445	Mouse	MALAT1	lncRNA	insulin	brain injury	human adipose-derived stem cells (hASCs)	insulin treatment	upregulated	27841943
+446	Mouse	MALAT1	lncRNA	fasting with HIF-1¦Á inhibitor (BAY)	cardiac decompensation secondary to acute severe caloric-restriction	cardiac tissues	Fasting with HIF-1¦Á inhibitor (BAY) treatment	downregulated	32942153
+447	Mouse	MALAT1	lncRNA	triiodo-l-thyronine (T3)	cardiac decompensation secondary to acute severe caloric-restriction	cardiac tissues	Triiodo-l-Thyronine (T3) treatment	downregulated	32942153
+448	Mouse	MALAT1	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	cardiac fibroblasts	angiotensin II (Ang II) treatment	upregulated	30146700
+449	Mouse	MALAT1	lncRNA	melatonin	cardiac fibrosis	high glucose (HG)-treated cardiac fibroblasts (CFs)	Melatonin treatment	melatonin produces an antifibrotic effect via inhibiting lncR-MALAT1/miR-141-mediated NLRP3 inflammasome activation and TGF-¦Â1/Smads signaling	32067273
+450	Mouse	MALAT1	lncRNA	hypoxia/reoxygenation (H/R)	cardiomyocyte apoptosis	cardiomyocytes	hypoxia/reoxygenation (H/R) treatment	Long noncoding RNA MALAT1 enhances the apoptosis of cardiomyocytes through autophagy modulation.	31985274
+451	Mouse	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral palsy	N2A neurons	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	downregulated	31500509
+452	Mouse	MALAT1	lncRNA	high glucose (HG) and hypoxia/reoxygenation (H/R)	diabetes mellitus (DM) induced cerebral ischemic reperfusion (I/R) injury	rat primary microglia; HAPI cells	high glucose (HG) and hypoxia-reoxygenation (H/R) treatment	upregulated	29844328
+453	Mouse	MALAT1	lncRNA	streptozocin (STZ)	diabetes-related microvascular complications	db/db mice retinal vasculature	STZ treatment	upregulated	25356875
+454	Mouse	MALAT1	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	cardiomyocytes	high glucose (HG) treatment	upregulated	31353329
+455	Mouse	MALAT1	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	primary cultured cardiomyocyte	high glucose treatment	upregulated	31353329
+456	Mouse	MALAT1	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	mouse cardiomyocytes	high glucose (HG) treatment	MALAT1-mediated recruitment of the histone methyltransferase EZH2 to the microRNA-22 promoter leads to cardiomyocyte apoptosis in diabetic cardiomyopathy.	33097254
+457	Mouse	MALAT1	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	myocardium	streptozocin treatment	upregulated	31353329
+458	Mouse	MALAT1	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	myocardial tissues	streptozotocin (STZ) treatment	upregulated	31353329
+459	Mouse	MALAT1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	MPC5 cells	high glucose (HG) treatment	LncRNA MALAT1/microRNA let-7f/KLF5 axis regulates podocyte injury in diabetic nephropathy	33232688
+460	Mouse	MALAT1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	C57BL/6 mice kidney	streptozocin (STZ) treatment	upregulated	28444861
+461	Mouse	MALAT1	lncRNA	high glucose (HG)	diabetic retinopathy (DR)	retinal endothelial cells	high glucose (HG) treatment	Glucose increased LncRNA?MALAT1?levels by increasing Sp1 transcription factor binding at its promoter.	33051272
+462	Mouse	MALAT1	lncRNA	high glucose (HG)	diabetic retinopathy (DR)	retinal microvascular endothelial cells (RMECs)	high glucose treatment	upregulated	31313295
+463	Mouse	MALAT1	lncRNA	oxygen	diabetic retinopathy (DR)	mouse retinal tissues	oxygen induce treatment	upregulated	31689123
+464	Mouse	MALAT1	lncRNA	oxygen	diabetic retinopathy (DR)	retinal tissues	oxygen treatment	MALAT1 affect angiogenesis by sponging miR-203a-3p in DR	31689123
+465	Mouse	MALAT1	lncRNA	streptozocin (STZ)	diabetic retinopathy (DR)	RF/6A cell	streptozotocin treatment	upregulated	24436191
+466	Mouse	MALAT1	lncRNA	streptozotocin injection and a high-glucose/high-fat diet	diabetic retinopathy (DR)	retinal microvascular endothelial cells (RMECs)	streptozotocin injection and a high-glucose/high-fat diet treatment	"YAP1 may exert some promotive effects on the development of DR through its regulation of the MALAT1/miR-200b-3p/VEGFA axis, highlighting that YAP1 silencing may be instrumental for the therapeutic targeting of DR"	31313295
+467	Mouse	MALAT1	lncRNA	high fat diet (HFD)	epithelial-mesenchymal transition (EMT)	ApoE-/- mice arterial tissue	high fat diet (HFD) feed	upregulated	30871555
+468	Mouse	MALAT1	lncRNA	CoCl2	heart failure (HF)	cardiac progenitor cells (CPCs)	CoCl2 treatment	long non-coding RNA MALAT1 expression was significantly upregulated in the CoCl 2-induced hypoxia CPC model.	29605300
+469	Mouse	MALAT1	lncRNA	CoCl2	heart failure (HF)	cardiac stem cells (CSCs)	CoCl2 treatment	upregulated	30362213
+470	Mouse	MALAT1	lncRNA	hypoxia	hypoxic/ischemic brain damage (HIBD)	mouse primary hippocampal neurons	hypoxia induce	upregulated	31185248
+471	Mouse	MALAT1	lncRNA	exercise (Ex)	insulin resistance (IR)	serum from IR mouse	swimming	downregulated	31479923
+472	Mouse	MALAT1	lncRNA	high-fat high-fructose diet (HFHFD)	insulin resistance (IR)	subcutaneous white adipose tissue (scWAT)	high-fat-high-sucrose diet feed	downregulated	29746487
+473	Mouse	MALAT1	lncRNA	fentanyl	ischemia/reperfusion (I/R) injury	"HL-1, a cardiac muscle cell line from the AT-1 mouse atrial cardiomyocyte"	fentanyl treatment	downregulated	27862640
+474	Mouse	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemia/reperfusion (I/R) injury	astrocyte cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	MALAT1 promotes cerebral ischemia-reperfusion injury by affecting AQP4 expression through competitively binding miR-145	32138732
+475	Mouse	MALAT1	lncRNA	hypoxia	ischemic brain injury	Neuronal Cells	middle cerebral artery occlusion (MCAO) treatment	upregulated	28854438
+476	Mouse	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic brain injury	Mouse brain MEC line bEnd.3 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	29203245
+477	Mouse	MALAT1	lncRNA	CoCl2	ischemic heart disease (IHD)	cardiac stem cells (CSCs)	CoCl 2 treatment	CoCl2 induced a dose-dependent increase in MALAT1 mRNA levels.	30362213
+478	Mouse	MALAT1	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	bEnd.3 cells	Oxygen-glucose deprivation (OGD) treatment	Long noncoding RNA MALAT1 regulates apoptosis in ischemic stroke by sponging miR-205-3p and modulating PTEN expression	32655805
+479	Mouse	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	brain microvascular endothelial cell (BMEC) of C57BL/6J mice	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	28433650
+480	Mouse	MALAT1	lncRNA	palmitate	cell proliferation	hepatocytes	palmitate treatment	upregulated	26935028
+481	Mouse	MALAT1	lncRNA	arsenite	liver fibrosis	mouse liver tissues	arsenite exposure	"In mice, MALAT1 was overexpressed in the progression of liver fibrosis induced by arsenite"	31513886
+482	Mouse	MALAT1	lncRNA	myostatin	hepatic insulin resistance	mouse Hepa-1c1c7	myostatin treatment	downregulated	24882465
+483	Mouse	MALAT1	lncRNA	IL-4	macrophage polarization	Mouse bone marrow-derived macrophages (BMDMs)	IL-4 treatment	downregulated	30676324
+484	Mouse	MALAT1	lncRNA	lipopolysaccharide (LPS)	macrophage polarization	Mouse bone marrow-derived macrophages (BMDMs)	lipopolysaccharide (LPS) treatment	upregulated	30676324
+485	Mouse	MALAT1	lncRNA	hypoxia/reoxygenation (H/R)	myocardial infarction (MI)	HL-1 cardiomyocytes	hypoxia/reoxygenation (H/R) induce	upregulated	31227612
+486	Mouse	MALAT1	lncRNA	hypoxia/reoxygenation (H/R)	myocardial infarction (MI)	HL-1 cells	hypoxia/reoxygenation (H/R) treatment	LncRNA MALAT1 prevents the protective effects of miR-125b-5p against acute myocardial infarction through positive regulation of NLRC5	32010261
+487	Mouse	MALAT1	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	HL-1 cells	hypoxia-reoxygenation (H/R)treatment	downregulated	27862640
+488	Mouse	MALAT1	lncRNA	nitrogen dioxide (NO2)	neurodevelopmental disorder	cortex	nitrogen dioxide (NO2) treatment	upregulated	32203807
+489	Mouse	MALAT1	lncRNA	bupivacaine	neurotoxicity	Primary dorsal root ganglion (DRG) neurons	bupivacaine treatment	"The expression of lncRNA MALAT1 was upregulated upon exposure to bupivacaine. Knockdown of lncRNA MALAT1 significantly increased the cell death rates, and Caspase3 activity assays revealed that the apoptosis rates were manifestly increased in the MALAT1 downregulated group."	31254586
+490	Mouse	MALAT1	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	ATDC5 cells	lipopolysaccharide (LPS) treatment	MALAT1 was upregulated in LPS-stimulated ATDC5 cells.	30145831
+491	Mouse	MALAT1	lncRNA	streptozocin (STZ)	oxidative stress	retinal microvessels	streptozocin (STZ) treatment	upregulated	33051272
+492	Mouse	MALAT1	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	midbrain samples	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	30260025
+493	Mouse	MALAT1	lncRNA	resveratrol	parkinson's disease (PD)	Parkinson's disease (PD) mice midbrain samples	resveratrol (RS) treatment	downregulated	30260025
+494	Mouse	MALAT1	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	brain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	"The expression levels of MALAT1 and leucine-rich repeat kinase (LRRK2) were increased, and that of miR-205-5p was decreased in the midbrains of mice in which PD was induced by MPTP."	29511451
+495	Mouse	MALAT1	lncRNA	¦Â-Asarone	parkinson's disease (PD)	midbrain	¦Â-Asarone treatment	downregulated	27470562
+496	Mouse	MALAT1	lncRNA	oxygen	pathological neovascularization	mouse ocular neovascularization	exposure of mice to 75 % oxygen from the postnatal day7 (P7) to P12 and then room air until P17 treatment	dysregulated	24623407
+497	Mouse	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	post-stroke angiogenesis	A mouse brain microvascular endothelial cell line	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	30784209
+498	Mouse	MALAT1	lncRNA	oxygen glucose deprivation (OGD)	post-stroke brain damage	mouse brain microvascular endothelial cells (BMECs)	oxygen and glucose deprivation treatment	upregulated	28093478
+499	Mouse	MALAT1	lncRNA	berberine (BBR)	post-stroke inflammation	ipsilateral cortex tissues	berberine (BBR) treatment	Malat1 functions as a ceRNA to contribute to berberine-mediated inhibition of HMGB1 by sponging miR-181c-5p in poststroke inflammation.	31431734
+500	Mouse	MALAT1	lncRNA	berberine (BBR)	post-stroke inflammation	MCAO treated ipsilateral cortex tissues	?berberine (BBR)?treatment treatment	downregulated	31431734
+501	Mouse	MALAT1	lncRNA	arsenite	lung fibrosis	lung tissues	arsenite exposure	upregulated	33162208
+502	Mouse	MALAT1	lncRNA	silica	lung fibrosis	mouse lung tissues	silica treatment	upregulated in	28900284
+503	Mouse	MALAT1	lncRNA	hypoxia	renal ischemia/reperfusion (I/R) injury	HK-2 cells and HUVEC cells	hypoxia induce	upregulated	29467431
+504	Mouse	MALAT1	lncRNA	oxygen	retinopathy of prematurity (ROP)	retinas	oxygen treatment	upregulated	32827542
+505	Mouse	MALAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	HL-1 cells	lipopolysaccharide (LPS) treatment	upregulated	28165557
+506	Mouse	MALAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	mouse macrophage cell line RAW264.7	lipopolysaccharide (LPS) treatment	"MALAT1 inhibited RAW264.7?cell proliferation, while miR-346 promoted its proliferation."	31494280
+507	Mouse	MALAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	skeletal muscle tissues	lipopolysaccharide (LPS) treatment	upregulated	31830649
+508	Mouse	MALAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	Skeletal Muscle Tissues	lipopolysaccharide (LPS) treatment	upregulated	32882524
+509	Mouse	MALAT1	lncRNA	lipopolysaccharide (LPS)	sepsis-induced acute lung injury	lung tissues	lipopolysaccharide (LPS) treatment	upregulated	30779099
+510	Mouse	MALAT1	lncRNA	hypoxia	stroke	mouse brain microvascular endothelial cells (BMECs)	oxygen-glucose deprivation (OGD) induce	the levels of lncRNA-MALAT1 and miR-145 were upregulated in OGD-induced BMECs. miR-145 functioned as an anti-angiogenic and pro-apoptotic factor in OGD treated BMECs via down-regulating VEGF-A and ANGPT2 directly.	30038058
+511	Mouse	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	testicular ischemia-reperfusion injury (IRI)	GC-1 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	lncRNA MALAT1 was involved in the response to testicular IRI and cellular OGD/R	29870987
+512	Mouse	MALAT1	lncRNA	streptozocin (STZ)	tubular injury	kidney tissues	streptozotocin (STZ) treatment	LncRNA MALAT1 was upregulated in kidney tissues of diabetic mice	29928873
+513	Mouse	MALAT1	lncRNA	palmitate	¦Â-cell dysfunction	MIN6 cells	palmitate treament treatment	exendin-4 ameliorated ¦Â-cell impairment by Pdx1-mediated Malat1 upregulation	32324218
+514	Mouse	MALAT1	lncRNA	cigarette smoke extract (CSE)	¦Â-cell dysfunction	MIN6 cells	cigarette smoke extract (CSE) treatment	cigarette smoke extract (CSE) increased the levels of MALAT1.	29856480
+515	Mouse	MEG3	lncRNA	all-trans retinoic acid (ATRA)	cleft palate (CP)	mouse embryonic palate mesenchymal (MEPM) cells	all-trans retinoic acid (ATRA) treatment	upregulated	33493612
+516	Mouse	MEG3	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	kidney tissues	lipopolysaccharide (LPS) treatment	MEG3 was significantly increased in kidney tissues induced by lipopolysaccharide (LPS).	29923218
+517	Mouse	MEG3	lncRNA	chronic intermittent hypoxia (CIH)	aortic endothelial function	aortic endothelial cells	chronic intermittent hypoxia (CIH) treatment	MEG3 suppresses the apoptosis of aortic endothelial cells in mice with chronic intermittent hypoxia via downregulated of HIF-1¦Á by competitively binding to microRNA-135a.	32642094
+518	Mouse	MEG3	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	endothelium	high fat diet (HFD) feed	Melatonin significantly diminished MEG3 expression.	29024030
+519	Mouse	MEG3	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	mouse Raw264.7 cells	oxidized low-density lipoprotein (ox-LDL) treatment	ox-LDL upregulated MEG3 expression and that knockdown of MEG3 inhibited the action of ox-LDL in Raw264.7 cells.	30672051
+520	Mouse	MEG3	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	Cardiomyocytes isolated from newborn mouse hearts	angiotensin II (Ang II) treatment	MEG3 was upregulated in the cardiomyocytes which were treated with Ang-II.	30679521
+521	Mouse	MEG3	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	BV-2 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	MEG3 could alleviate cerebral I/R injury via inhibiting M1 polarization and promoting M2 polarization through Kr¨¹ppel-like factor 4 (KLF4)	33180644
+522	Mouse	MEG3	lncRNA	hypoxia	cerebral ischemic stroke (CIS)	C57BL/6 J mice	MCAO treatment	upregulated	29238035
+523	Mouse	MEG3	lncRNA	high glucose (HG)	diabetes mellitus (DM)	primary hepatocytes	high glucagon treatment	MEG3 was highly expressed in high glucagon-treated mouse primary hepatocytes.	30260029
+524	Mouse	MEG3	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	MPC5 cells	high glucose (HG) treatment	downregulated	31799068
+525	Mouse	MEG3	lncRNA	streptozocin (STZ)	diabetic retinopathy (DR)	retinal endothelial cell	STZ treatment	downregulated	26845358
+526	Mouse	MEG3	lncRNA	atorvastatin	heart failure (HF)	cardiac progenitor cell (CPC)	atorvastatin treatment	downregulated	30481260
+527	Mouse	MEG3	lncRNA	high glucagon	hepatic gluconeogenesis	mouse primary hepatocytes	high glucagon treatment	MEG3 was highly expressed in high glucagon-treated mouse primary hepatocytes.	30260029
+528	Mouse	MEG3	lncRNA	high fat diet (HFD)	hepatic insulin resistance	primary hepatocytes	high fat diet (HFD) feed	upregulated	26603935
+529	Mouse	MEG3	lncRNA	high fat diet (HFD)	hepatic insulin resistance	mouse liver tissues	high fat diet (HFD) feed	upregulated	30431065
+530	Mouse	MEG3	lncRNA	palmitate	hepatic insulin resistance	mouse primary hepatocytes	palmitate treatment	upregulated	30431065
+531	Mouse	MEG3	lncRNA	ischemia	hepatic ischemia/reperfusion injury (HIRI)	HL7702 cells	hepatic ischemia-reperfusion (HIR)	upregulated	28708282
+532	Mouse	MEG3	lncRNA	hyperoxia	hyperoxia-induced acute lung injury (HALI)	MLE-12 cells	hyperoxia treatment	upregulated	32084370
+533	Mouse	MEG3	lncRNA	hypoxia	hypoxic pulmonary hypertension (HPH)	pulmonary artery smooth muscle cells (PASMCs)	hypoxia induce	lncRNA-MEG3 was significantly increased and primarily localized in the cytoplasm of hypoxic PASMCs. Silencing of lncRNA-MEG3 by siRNAs and gapmers attenuated proliferation and cell-cycle progression in both PASMCs from idiopathic pulmonary arterial hypertension (iPAH) patients (iPAH-PASMCs) and hypoxia-exposed PASMCs in vitro.	31477557
+534	Mouse	MEG3	lncRNA	oxygen glucose deprivation (OGD)	intracerebral haemorrhage (ICH)	Primary brain microvascular endothelial cells (BMECs)	oxygen-and-glucose-deprivation (OGD) treatment	upregulated	33836898
+535	Mouse	MEG3	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	male C57BL/6J mice	CCl4 treatment	downregulated	25201080
+536	Mouse	MEG3	lncRNA	"diethyl 1,4-dihydro-2,4,6,-trimethyl-3,5-pyridinedicarboxylate (DDC)"	liver preneoplastic foci and tumors	mice liver cells	"Diethyl 1,4-dihydro-2,4,6,-trimethyl-3,5-pyridinedicarboxylate (DDC) treatment"	downregulated	19362547
+537	Mouse	MEG3	lncRNA	morphine	morphine addiction	HT22 cells	Morphine treatment	upregulated	31433241
+538	Mouse	MEG3	lncRNA	IL-1¦Â	osteoarthritis (OA)	"CHON-001, ATDC5 cells"	IL-1¦Â treatment	"MEG3 expression in chondrocytes was downregulated by the stimulation of IL-1¦Â, and MEG3 negatively regulated miR-9-5p expression but positively regulated KLF4 expression."	33776787
+539	Mouse	MEG3	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	ATDC5 cells	lipopolysaccharide (LPS) treatment	"LPS decreased cell viability, increased cell apoptosis, promoted the release of pro-inflammatory factors, and downregulated MEG3 expression."	29432995
+540	Mouse	MEG3	lncRNA	streptozocin (STZ)	podocyte injury	mouse podocytes	streptozotocin (STZ) treatment	upregulated	33061608
+541	Mouse	MEG3	lncRNA	cyclophosphamide (CP)	pathological senescence	mouse ovarian granulosa cells	cyclophosphamide (CP) treatment	upregulated	27729272
+542	Mouse	MEG3	lncRNA	melatonin	protecting neural stem cells (NSCs) from reactive oxygen species (ROS)	neural stem cells	Melatonin treatment	melatonin appeared to protect NSCs from H2O2-induced ROS by modification of the MEG3/miRNA-27a-3p/MAP2K4 axis.	32599124
+543	Mouse	MEG3	lncRNA	mycobacterium tuberculosis (Mtb)	pulmonary tuberculosis (PTB)	RAW264.7 cells	mycobacterium tuberculosis (MTB) infection	MEG3 was highly expressed in PTB.	33035634
+544	Mouse	MEG3	lncRNA	light	retinal degenerative diseases	retina	light exposure	Light exposure leads to increased MEG3 expression.	29409883
+545	Mouse	MEG3	lncRNA	ultraviolet (UV) irradiation	skin damage	primary murine skin fibroblasts	UVB treatment	"The overexpression of Meg3 after UVB irradiation was observed in primary murine skin fibroblasts, and the upregulated Meg3 expression was related to the activation of the inflammatory cytokines"	31761787
+546	Mouse	MEG3	lncRNA	lipopolysaccharide + ATP	traumatic brain injury (TBI)	microglia	lipopolysaccharide + ATP treatment	upregulated	33189612
+547	Mouse	MEG3	lncRNA	high fat diet (HFD)	type 2 diabetes mellitus (T2DM)	primary hepatocytes	high fat diet (HFD) feed	upregulated	26603935
+548	Mouse	MEG3	lncRNA	coxsackievirus B3 (CVB3)	viral myocarditis (VM)	macrophages	coxsackievirus B3 (CVB3) treatment	"downregulated of MEG3 leads to the inhibition of inflammation and induces M2 macrophage polarization via miR-223/TRAF6/NF-¦ÊB axis, thus alleviating VMC."	33047847
+549	Mouse	MEG3-4	lncRNA	P. aeruginosa strain PAO1	bacterial infection	lung tissues	P. aeruginosa strain PAO1 treatment	MEG3-4 is in a decreased abundance in mouse lungs after bacterial infection	29945883
+550	Mouse	MEG8	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	Mouse brain microvascular endothelial cells (BMECs)	oxygen glucose deprivation (OGD) treatment	upregulated	32627090
+551	Mouse	MEG9	lncRNA	unmethylated cytosine followed by guanine (CpG ODN)	macrophage activation	RAW264.7 cells	unmethylated cytosine followed by guanine (CpG ODN) treatment	upregulated	32626785
+552	Mouse	Mhrt	lncRNA	hearts pressure-overloaded	pathological hypertrophy	mouse	transaortic constriction (TAC)3 treatment	downregulated	25119045
+553	Mouse	Mhrt779	lncRNA	exercise (Ex)	physiological myocardial hypertrophy (PMH)	heart tissues	exercise treatment	Mhrt779?was one of the markedly upregulated long noncoding RNAs in the EHP group.	33757294
+554	Mouse	MIAT	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	primary cardiomyocytes; fibroblasts	high glucose (HG) treatment	upregulated	32351959
+555	Mouse	MIAT	lncRNA	streptozocin (STZ)	diabetic retinopathy (DR)	mouse retion	STZ treatment	upregulated	28246353
+556	Mouse	MIAT	lncRNA	hypoxia	hypoxic/ischemic injury	Neuro2A cells	hypoxia treatment	lncRNA MIAT was downregulated in oxygen glucose deprivation (OGD)-induced ischemic injury of Neuro2A cells.	30563429
+557	Mouse	MIAT	lncRNA	lipopolysaccharide (LPS)	pneumonia	TC-1 cells	lipopolysaccharide (LPS) treatment	upregulated	33318298
+558	Mouse	MIAT	lncRNA	high glucose (HG)	podocyte injury	mouse podocytes	high glucose (HG) treatment	Ablation of lncRNA MIAT mitigates high glucose-stimulated inflammation and apoptosis of podocyte via miR-130a-3p/TLR4 signaling axis.	32972755
+559	Mouse	MIAT	lncRNA	collagen	rheumatoid arthritis (RA)	synovium; myocardial tissues	collagen treatment	we found that macrophage inflammation induced by LPS could up-regulate lncRNA MIAT expression.	33459112
+560	Mouse	MIAT	lncRNA	lipopolysaccharide (LPS)	sepsis-induced myocardial injury	HL-1 cells	lipopolysaccharide (LPS) treatment	LncRNA MIAT Promotes Inflammation and Oxidative Stress in Sepsis-Induced Cardiac Injury by Targeting miR-330-5p/TRAF6/NF-¦ÊB Axis	32556678
+561	Mouse	MIAT	lncRNA	cinnamaldehyde (CA)	ulcerative colitis (UC)	colonic tissues	Cinnamaldehyde (CA) treatment	MIAT was reduced in the DSS-treated mice and was significantly increased after CA treatment.	33341041
+562	Mouse	MIAT	lncRNA	hypoxia	acute myocardial infarction (AMI)	The mouse cardiomyocyte cell line HL-1 cells	hypoxia induce	"MIAT and EGR2 were subsequently determined to be highly-expressed, whereas miR-10a-5p was found to be poorly-expressed in cardiomyocytes exposed to hypoxia as well as in MI mice using RT-qPCR and Western blot assay."	33819189
+563	Mouse	MIR143HG	lncRNA	rosiglitazone	diabetic nephropathy (DN)	kidney tissues	rosiglitazone treatment	upregulated	32025515
+564	Mouse	MIRF	lncRNA	H2O2	acute myocardial infarction (AMI)	primary neonatal mice ventricular cardiomyocytes	H2O2 treatment	MIRF contributed to cardiomyocyte apoptosis through modulating Bak1 by regulation of miR-26a.	32464547
+565	Mouse	Mirt1	lncRNA	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP)"	rheumatoid arthritis (RA)	TM3 Leydig cells	"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP) treatment"	downregulated	33360214
+566	Mouse	Mirt2	lncRNA	lipopolysaccharide (LPS)	inflammation	C57BL/6 mice	lipopolysaccharide (LPS) treatment	downregulated	29230038
+567	Mouse	Mirt2	lncRNA	high fat diet (HFD)	nonalcoholic fatty liver disease (NAFLD)	mouse liver tissue	high fat diet (HFD) feed	downregulated	30898698
+568	Mouse	Mirt2	lncRNA	IFN-¦Ã	sj?gren's syndrome (SS)	salivary gland epithelial cells (SGECs)	interferon gamma (IFN-¦Ã) treatment	upregulated	31198060
+569	Mouse	Mist	lncRNA	high fat diet (HFD)	obesity	macrophages	high fat diet (HFD) feed	LncRNA Mist Is Downregulated in Macrophages From HFD-Fed Obese Mice.	32078363
+570	Mouse	MM2P	lncRNA	lipopolysaccharide- and MSU	acute gouty arthritis (AGA)	RAW 264.7 cells	lipopolysaccharide-and MSU treatment	downregulated	32705194
+571	Mouse	MM2P	lncRNA	lipopolysaccharide (LPS)	chondrocyte differentiation	mouse bone marrow-derived macrophages	lipopolysaccharide (LPS) treatment	downregulated	32938906
+572	Mouse	Morrbid	lncRNA	hyperglycemia	myeloid neoplasms	C57/B6 mice	hyperglycemia treatment	"RNA-Seq revealed that this was due in part to upregulation of proinflammatory pathways, thereby generating a feed-forward loop, including expression of the antiapoptotic, long noncoding RNA (lncRNA) Morrbid."	33090974
+573	Mouse	MRAK017168	lncRNA	subarachnoid hemorrhage (SAH)	early brain injury (EBI)	brain	subarachnoid hemorrhage (SAH) treatment	downregulated	25777551
+574	Mouse	MRAK038897	lncRNA	subarachnoid hemorrhage (SAH)	early brain injury (EBI)	brain	subarachnoid hemorrhage (SAH) treatment	downregulated	25777551
+575	Mouse	mrhl	lncRNA	Wnt3a ligand	spermatogenesis	Gc1-Spg cells	Wnt3a ligand treatment	downregulated	25584904
+576	Mouse	MSTRG.13399.1	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	cleft palate (CP)	fetal mice palates	"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) treatment"	upregulated	31961203
+577	Mouse	MSTRG.1991.1	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	cleft palate (CP)	fetal mice palates	"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) treatment"	upregulated	31961203
+578	Mouse	MSTRG.38487.1	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	cleft palate (CP)	fetal mice palates	"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) treatment"	downregulated	31961203
+579	Mouse	MSTRG.40182.1	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	cleft palate (CP)	fetal mice palates	"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) treatment"	downregulated	31961203
+580	Mouse	MSTRG.51656.1	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	cleft palate (CP)	fetal mice palates	"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) treatment"	downregulated	31961203
+581	Mouse	MSTRG.56310.1	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	cleft palate (CP)	fetal mice palates	"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) treatment"	upregulated	31961203
+582	Mouse	N54010	lncRNA	Japanese encephalitis virus (JEV)	neuroinflammation	mouse brain	infect with JEV	dysregulated	29033949
+583	Mouse	NEAT1	lncRNA	Iodine-131 (131I)	papillary thyroid cancer (PTC)	PTC tissues	131I treatment	NEAT1 suppression could inhibit 131I resistance of PTC by upregulating miR-101-3p/FN1 expression and inactivated PI3K/AKT signaling pathway both in vitro and in vivo.	30596336
+584	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	RAW264.7 macrophages	lipopolysaccharide (LPS) treatment	upregulated	32388658
+585	Mouse	NEAT1	lncRNA	streptozocin (STZ)	Alzheimer's disease (AD)	mouse brain tissues	streptozocin treatment	upregulated	31014193
+586	Mouse	NEAT1	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	RAW264.7 cells	oxidized low-density lipoprotein (ox-LDL) treatment	NEAT1 was elevated by ox-LDL in a dose-dependent and time-dependent manner.	30203508
+587	Mouse	NEAT1	lncRNA	insulin-like growth factor binding protein-related protein 1 (IGFBPrP1)	autophagy	hepatic stellate cell (HSC)	IGFBPrP1 treatment	upregulated	31610195
+588	Mouse	NEAT1	lncRNA	hypoxia	cerebral ischemia injury (CII)	mouse brain microvascular endothelial cells (BMECs)	oxygen-glucose deprivation (OGD) induce	"lncRNA NEAT1 facilitated the survival and angiogenesis of OGD-induced BMECs via targeting miR-377 and promoting the expression of VEGFA, SIRT1, and BCL-XL."	30408478
+589	Mouse	NEAT1	lncRNA	oxygen glucose deprivation (OGD)	cerebral ischemia injury (CII)	brain microvascular endothelial cells (BMECs)	oxygen-glucose deprivation (OGD) treatment	Upregulation of lncRNA NEAT1 and downregulated of miR-377 were also observed under OGD conditions	30408478
+590	Mouse	NEAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	BV2 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	33184298
+591	Mouse	NEAT1	lncRNA	5-aminolevulinic acid photodynamic therapy(ALA-PDT)	colitis	colon tissues	5-Aminolevulinic acid photodynamic therapy(ALA-PDT) treatment	downregulated	30385297
+592	Mouse	NEAT1	lncRNA	catalpol	diabetic cardiomyopathy (DCM)	high glucose (HG) treated mouse cardiomyocytes	catalpol treatment	Catalpol attenuated HG-induced long noncoding RNA (lncRNA) nuclear paraspeckle assembly transcript 1 (Neat1) expression in mouse cardiomyocytes.	31078585
+593	Mouse	NEAT1	lncRNA	glucose	diabetic nephropathy (DN)	mice mesangial cells	glucose treatment	upregulated	30515796
+594	Mouse	NEAT1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mice mesangial cells	high glucose (HG) treatment	upregulated	30549040
+595	Mouse	NEAT1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mice mesangial cells	high glucose (HG) treatment	NEAT1 was significantly increased in high-glucose-induced mice mesangial cells.	30549040
+596	Mouse	NEAT1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse mesangial cells (MMCs) (SV40 MES13 cells)	high glucose (HG) treatment	upregulated	31933932
+597	Mouse	NEAT1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse mesangial cells (MMCs)	high glucose (HG) treatment	The enrichment of NEAT1 was elevated in MMCs induced by high concentration of glucose.	32096162
+598	Mouse	NEAT1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	kidney tissues	high glucose (HG) treatment	NEAT1 was greatly upregulated in DM rats.	30515796
+599	Mouse	NEAT1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	mouse mesangial cells	streptozocin (STZ) treatment	NEAT1 was greatly upregulated in high glucose treated mouse mesangial cells	30515796
+600	Mouse	NEAT1	lncRNA	"insulin, dexamethasone, isobutylmethyxanthine (IBMX)"	cell differentiation	3T3-L1 cells	IBMX treatment	downregulated	25437750
+601	Mouse	NEAT1	lncRNA	high glucose (HG)	epithelial-mesenchymal transition (EMT)	mice mesangial cells	high glucose (HG) treatment	upregulated	30549040
+602	Mouse	NEAT1	lncRNA	high glucose (HG)	fibrosis	mice mesangial cells	high glucose (HG) treatment	upregulated	30549040
+603	Mouse	NEAT1	lncRNA	herpes simplex virus 1 (HSV-1)	herpes simplex virus 1 (HSV-1) infection	mouse embryonic fibroblast (MEF) cells	infect with HSV-1	upregulated	27783096
+604	Mouse	NEAT1	lncRNA	oxygen glucose deprivation (OGD)	hypoxic/ischemic brain damage (HIBD)	primary mouse hippocampal neurons cells	Oxygen-glucose deprivation (OGD) treatment	lncRNA NEAT1 upregulated HOXA1 to alleviate HIBD in mice by binding to miR-339-5p	32163893
+605	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	inflammation	"Kupffer cells, RAW264.7 cells"	lipopolysaccharide (LPS) treatment	LPS induces an inflammatory response by upregulating the expression of lncRNA NEAT1.	31344555
+606	Mouse	NEAT1	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	mouse	carbon tetrachloride (CCl4) treatment	upregulated	28864835
+607	Mouse	NEAT1	lncRNA	alcohol	nonalcoholic fatty liver disease (NAFLD)	AML-12 cells	Lieber-DeCarli alcohol treatment	NEAT1/microRNA-129-5p/SOCS2 axis regulates liver fibrosis in alcoholic steatohepatitis	33228663
+608	Mouse	NEAT1	lncRNA	high fat diet (HFD)	nonalcoholic fatty liver disease (NAFLD)	mouse liver tissues	high fat diet (HFD) feed	upregulated	31484042
+609	Mouse	NEAT1	lncRNA	methionine choline-deficient diet (MCD)	nonalcoholic steatohepatitis (NASH)	mouse liver tissues	methionine-choline-deficient (MCD) treatment	Liver tissues from mice fed a methionine-choline-deficient (MCD) diet exhibited increased expression of NEAT1 and PEG3 along with lower miR-129-5p expression.	33574830
+610	Mouse	NEAT1	lncRNA	lithium chloride (LiCl)	obesity	3T3L1 cells	Lithium chloride (LiCl) treatment	downregulated	33288642
+611	Mouse	NEAT1	lncRNA	resveratrol	osteoarthritis (OA)	mouse chondrocytes	resveratrol (Res) treatment	"The relative mRNA expression levels of MALAT1 and NF-¦ÊB1 were significantly increased, while treatment with Res partially reversed the mRNA expression levels of MALAT1"	32104302
+612	Mouse	NEAT1	lncRNA	catalpol	oxidative stress	mouse primary cardiomyocytes	catalpol treatment	downregulated	31736383
+613	Mouse	NEAT1	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	brain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	29287722
+614	Mouse	NEAT1	lncRNA	bovine type II collagen	rheumatoid arthritis (RA)	fibroblast-like synoviocytes (FLSs)	bovine type II collagen induction	PBMC-derived exos contributes to RA development with the involvement of the miR-23a/MDM2/SIRT6 axis.	33042992
+615	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	rheumatoid arthritis (RA)	fibroblast-like synoviocytes (FLSs)	Lipopolysaccharide (LPS) treatment	LncRNA NEAT1 shuttled by PBMC-derived exos promoted FLS proliferation and inflammation through regulating the MDM2/SIRT6 axis.	33042992
+616	Mouse	NEAT1	lncRNA	methamphetamine (METH) and MK801	schizophrenia (SZ)	prefrontal cortex (PFC)	methamphetamine (METH) and MK801 treatment	downregulated	30243133
+617	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	RAW264.7 cells	lipopolysaccharide (LPS) treatment	upregulated	31812793
+618	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	RAW 264.7	lipopolysaccharide (LPS) treatment	LncRNA NEAT1 promoted the inflammation and apoptosis while restrained the proliferation of LPS-stimulated RAW 264.7 cells through the miR-370-3p/TSP-1 axis.	31957847
+619	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	RAW 264.7 cells; HL-1 cells	lipopolysaccharide (LPS) treatment	NEAT1 and Irak2 were upregulated in sepsis tissues and LPS-induced RAW 264.7 and HL-1 cells.	32414769
+620	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	RAW264.7 cells	lipopolysaccharide (LPS) treatment	"NEAT1 and POU domain class 2 transcription factor 1 (POU2F1) were highly expressed in LPS-induced septic RAW264.7 cells, opposite to miR-31-5p expression."	33710444
+621	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	RAW264.7 cells	lipopolysaccharide (LPS) treatment	upregulated of NEAT1 level and downregulated of miR-495-3p/miR-211 level could aggravate inflammation in LPS-treated RAW264.7 cells.	31812793
+622	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	RAW 264.7 cells; HL-1 cells	lipopolysaccharides (LPS) treatment	upregulated	34004695
+623	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis-induced acute lung injury	lung tissues	lipopolysaccharide (LPS) treatment	upregulated	32089649
+624	Mouse	NEAT1	lncRNA	cecal ligation and puncture (CLP)	sepsis-induced brain injury (SIBI)	brain tissues	cecal ligation and puncture (CLP) treatment	upregulated	31115021
+625	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis-induced myocardial injury	HL-1 cells	lipopolysaccharide (LPS) treatment	NEAT1 was upregulated in LPS-treated myocardial cells.	32016991
+626	Mouse	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis-induced myocardial injury	mouse heart tissues	lipopolysaccharides (LPS) treatment	NEAT1 knockdown can improve LPS-induced myocardial injury in mice by inhibiting the TLR2/NF-¦ÊB signaling pathway.	31210324
+627	Mouse	NEAT1	lncRNA	controlled cortical impact (CCI)	traumatic brain injury (TBI)	C57BL/6J mice	controlled cortical impact (CCI)	upregulated	28483659
+628	Mouse	NEAT2	lncRNA	methamphetamine (METH) and MK801	schizophrenia (SZ)	prefrontal cortex (PFC)	methamphetamine (METH) and MK801 treatment	downregulated	30243133
+629	Mouse	NEF	lncRNA	Hyperoxia	lung injury	RLE-6TNcells; MLE-12 cells	Hyperoxia treatment	LncRNA-NEF regulated the hyperoxia-induced injury of lung epithelial cells by FOXA2	33042438
+630	Mouse	Nespas	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	mouse BV2 cells	oxygen-glucose deprivation treatment	upregulated	31167620
+631	Mouse	NKILA	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic neuronal injury	murine hippocampal neurons	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	OGDR downregulated miR-103 and miR-107 to induce NKILA upregulation in neuronal cells	30007440
+632	Mouse	NONMMUG002873	lncRNA	high fat diet (HFD)	cholesterol biosynthesis	liver tissues	high fat diet (HFD) feed	upregulated	30504232
+633	Mouse	NONMMUG002873	lncRNA	palmitic acid (PA)	cholesterol biosynthesis	AML12 cells	palmitic acid (PA) treatment	upregulated	30504232
+634	Mouse	NONMMUG002873	lncRNA	WY14643	cholesterol biosynthesis	AML12 cells	WY14643 treatment	upregulated	30504232
+635	Mouse	NONMMUG027912	lncRNA	high fat diet (HFD)	cholesterol biosynthesis	liver tissues	high fat diet (HFD) feed	upregulated	30504232
+636	Mouse	NONMMUG027912	lncRNA	palmitic acid (PA)	cholesterol biosynthesis	AML12 cells	palmitic acid (PA) treatment	upregulated	30504232
+637	Mouse	NONMMUG027912	lncRNA	WY14643	cholesterol biosynthesis	AML12 cells	WY14643 treatment	upregulated	30504232
+638	Mouse	NONMMUG043402	lncRNA	high fat diet (HFD)	cholesterol biosynthesis	liver tissues	high fat diet (HFD) feed	upregulated	30504232
+639	Mouse	NONMMUG043402	lncRNA	palmitic acid (PA)	cholesterol biosynthesis	AML12 cells	palmitic acid (PA) treatment	upregulated	30504232
+640	Mouse	NONMMUG043402	lncRNA	WY14643	cholesterol biosynthesis	AML12 cells	WY14643 treatment	upregulated	30504232
+641	Mouse	NONMMUG043404	lncRNA	high fat diet (HFD)	cholesterol biosynthesis	liver tissues	high fat diet (HFD) feed	upregulated	30504232
+642	Mouse	NONMMUG043404	lncRNA	palmitic acid (PA)	cholesterol biosynthesis	AML12 cells	palmitic acid (PA) treatment	upregulated	30504232
+643	Mouse	NONMMUG043404	lncRNA	WY14643	cholesterol biosynthesis	AML12 cells	WY14643 treatment	upregulated	30504232
+644	Mouse	NONMMUGO11496	lncRNA	toxoplasma gondii (T. gondii)	T. gondii induced neurological disorder	brain tissues	toxoplasma gondii (T. gondii) infection treatment	downregulated lncRNA NONMMUG011496 (lncRNA-11496) was identified in the brains of mice infected with T gondii	32499679
+645	Mouse	NONMMUT004850.2	lncRNA	all-trans retinoic acid (ATRA)	cleft palate (CP)	palate	all-trans retinoic acid (ATRA) treatment	?NONMMUT004850.2/NONMMUT024276.2-miR-741-3p/miR-465b-5p-Prkar1¦Á?could potentially serve as an important regulatory mechanism of palatal fusion in the development of the cleft palate.	32042778
+646	Mouse	NONMMUT005697	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	gonadal fat tissues	high fat diet (HFD) feed	upregulated	29986645
+647	Mouse	NONMMUT016106	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	gonadal fat tissues	high fat diet (HFD) feed	upregulated	29986645
+648	Mouse	NONMMUT021632	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	placenta	high fat diet (HFD) feed	downregulated	29986645
+649	Mouse	NONMMUT022554	lncRNA	TGF-¦Â1	idiopathic pulmonary fibrosis (IPF)	fibrotic lung tissues of mice and pulmonary fibroblasts	TGF-¦Â1 treatment	lncRNA NONMMUT022554 was increased in fibrotic lung tissues of mice and pulmonary fibroblasts exposed to transforming growth factor (TGF)-¦Â1	29952219
+650	Mouse	NONMMUT024276.2	lncRNA	all-trans retinoic acid (ATRA)	cleft palate (CP)	palate	all-trans retinoic acid (ATRA) treatment	?NONMMUT004850.2/NONMMUT024276.2-miR-741-3p/miR-465b-5p-Prkar1¦Á?could potentially serve as an important regulatory mechanism of palatal fusion in the development of the cleft palate.	32042778
+651	Mouse	NONMMUT033416.2	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	upregulated	31833538
+652	Mouse	NONMMUT040834	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	gonadal fat tissues	high fat diet (HFD) feed	upregulated	29986645
+653	Mouse	NONMMUT063872	lncRNA	codonopsis pilosula	anti-aging effect of Codonopsis pilosula	lung tissues	codonopsis pilosula treatment	NONMMUT063872 was significantly increased in the model group compared with the control group and was significantly decreased in the high-dose Codonopsis pilosula treatment (HC) group compared with the model group.	32049955
+654	Mouse	NONMMUT065582	lncRNA	bleomycin (BLM)	idiopathic pulmonary fibrosis (IPF)	lung fibrosis tissues	bleomycin (BLM) treatment	NONMMUT065582 is upregulated in the lungs of mice.	30025992
+655	Mouse	NONMMUT065582	lncRNA	TGF-¦Â1	idiopathic pulmonary fibrosis (IPF)	primary mouse lung fibroblasts	TGF-¦Â1 treatment	NONMMUT065582 is upregulated in fibrotic lung fibroblasts	30025992
+656	Mouse	NONMMUT068202	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	placenta	high fat diet (HFD) feed	upregulated	29986645
+657	Mouse	NONMMUT068206	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	placenta	high fat diet (HFD) feed	upregulated	29986645
+658	Mouse	NONMMUT068207	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	placenta	high fat diet (HFD) feed	upregulated	29986645
+659	Mouse	NONMMUT073434	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	placenta	high fat diet (HFD) feed	upregulated	29986645
+660	Mouse	NONMMUT080010.1	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	downregulated	31833538
+661	Mouse	NONMMUT124495.1	lncRNA	palmitic acid (PA)	insulin resistance (IR)	C2C12 cells	palmitic acid treatment	upregulated	31833538
+662	Mouse	NORAD	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	SV40-MES-13?cells	high glucose (HG) treatment	upregulated	31630796
+663	Mouse	NR_002854.2	lncRNA	unmethylated cytosine followed by guanine (CpG ODN)	macrophage activation	RAW264.7 cells	unmethylated cytosine followed by guanine (CpG ODN) treatment	downregulated	32626785
+664	Mouse	NR_015555.1	lncRNA	unmethylated cytosine followed by guanine (CpG ODN)	macrophage activation	RAW264.7 cells	unmethylated cytosine followed by guanine (CpG ODN) treatment	downregulated	32626785
+665	Mouse	NR_024118	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	ATDC5 cell line	lipopolysaccharide (LPS) treatment	downregulated	31485657
+666	Mouse	NR_024118	lncRNA	shikonin	rheumatoid arthritis (RA)	RA synovial fibroblasts	Shikonin treatment	upregulated	26640499
+667	Mouse	NR_027710	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	NR_027710 was upregulated in the primary mouse hepatocytes treated by cyclic adenosine monophosphate (cAMP).	29115403
+668	Mouse	NR_027710	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	downregulated	29115403
+669	Mouse	NR_027710	lncRNA	metformin (Met)	gluconeogenesis	primary mouse hepatocytes	metformin (Met) treatment	NR_027710 was downregulated in the primary mouse hepatocytes treated by metformin (Met) when compared with cyclic adenosine monophosphate (cAMP) treated group.	29115403
+670	Mouse	NR_030715	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	NR_030715 was upregulated in the primary mouse hepatocytes treated by cyclic adenosine monophosphate (cAMP).	29115403
+671	Mouse	NR_030715	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	downregulated	29115403
+672	Mouse	NR_030715	lncRNA	metformin (Met)	gluconeogenesis	primary mouse hepatocytes	metformin (Met) treatment	NR_030715 was downregulated in the primary mouse hepatocytes treated by metformin (Met) when compared with cyclic adenosine monophosphate (cAMP) treated group.	29115403
+673	Mouse	NR_030777	lncRNA	paraquat (PQ)	parkinson's disease (PD)	Neuro-2a; N2a cells	paraquat (PQ) treatment	NR_030777 Alleviates Paraquat-Induced Neurotoxicity by Regulating Zfp326 and Cpne5	32735315
+674	Mouse	NRON	lncRNA	angiotensin II (Ang II)	atrial fibrosis	mouse primary cultured atrial myocytes	angiotensin II (Ang II) treatment	LncRNA NRON suppresses inflammatory response in Ang II-treated atrial myocytes	31693733
+675	Mouse	NRON	lncRNA	angiotensin II (Ang II)	macrophage polarization	RAW264.7 macrophages	angiotensin II (Ang II) treatment	NRON promotes M2 macrophage polarization and alleviates atrial fibrosis through suppressing exosomal miR-23a derived from atrial myocytes.	33246743
+676	Mouse	Gm15154-201	lncRNA	fasciola gigantica excretory/secretory products (ESP)	macrophage activation and polarization	M2 macrophages	fasciola gigantica excretory/secretory products (ESP) treatment	upregulated	29794463
+677	Mouse	Gm15765-201	lncRNA	fasciola gigantica excretory/secretory products (ESP)	macrophage activation and polarization	M2 macrophages	fasciola gigantica excretory/secretory products (ESP) treatment	upregulated	29794463
+678	Mouse	Ube4bos2-201	lncRNA	fasciola gigantica excretory/secretory products (ESP)	macrophage activation and polarization	M2 macrophages	fasciola gigantica excretory/secretory products (ESP) treatment	upregulated	29794463
+679	Mouse	Gm17233-201	lncRNA	fasciola gigantica excretory/secretory products (ESP)	macrophage activation and polarization	M2 macrophages	fasciola gigantica excretory/secretory products (ESP) treatment	upregulated	29794463
+680	Mouse	NUNMMUT016103	lncRNA	sodium butyrate (NaB)	asthma	nasal mucosa	sodium butyrate (NaB) treatment	NUNMMUT016103 was downregulated after sodium butyrate (NaB) treatment.	32124940
+681	Mouse	OAD	lncRNA	bone morphogenetic protein 2 (BMP2)	osteoblastic differentiation	"C3H10T1/2 mesenchymal stem cells , MC3T3-E1 preosteoblast cells"	bone morphogenetic protein 2 (BMP2) treatment	Lnc-OAD expression was increased during BMP-2-induced osteoblast differentiation in C3H10T1/2 mesenchymal stem cells and MC3T3-E1 preosteoblast cells.	33816629
+682	Mouse	Obox4-ps35	lncRNA	triptolide (TPL)	reproductive toxicity	GC2 cells	triptolide (TPL) treatment	Obox4-ps35 knock-out aggravated triptonide-induced cytotoxicity by decreasing cell survival and increasing apoptosis and autophagy rates	33045310
+683	Mouse	ODSM	lncRNA	mechanical unloading	bone loss	MC3T3-E1 cells	Mechanical unloading treatment	Overexpression of the lncRNA ODSM partially reduces apoptosis and promotes differentiation in MC3T3-E1 cells under MG unloading conditions.	32071307
+684	Mouse	OGD-1006	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	primary brain microvascular endothelial cells (bEnd.3)	oxygen-glucose deprivation (OGD) treatment	LncOGD-1006 might act as a ceRNA to inhibit apoptosis in bEnd3 cells by targeting miR-184-5p/CAAP1 pathway	33336752
+685	Mouse	OIP5-AS1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	BV2 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	downregulated	33516048
+686	Mouse	OIP5-AS1	lncRNA	IL-1¦Â	osteoarthritis (OA)	ATDC5 cells	IL-1¦Â treatment	OIP5-AS1 was downregulated while miR-29b-3p was upregulated in OA models.	32037864
+687	Mouse	Oprm1	lncRNA	hypoxia	ischemic stroke (IS)	mouse brain tissues	middle cerebral artery occlusion (MCAO)	Infarct size was distinctly decreased in the lncRNA Oprm1-overexpression group.	31187646
+688	Mouse	Oprm1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	N2a cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	Overexpression of lncRNA Oprm1 alleviated the apoptosis induced by oxygen-glucose deprivation and significantly reduced cleaved caspase-3 levels	31187646
+689	Mouse	linc-p21	lncRNA	hypoxia	acute respiratory distress syndrome (ARDS)	mouse mesenchymal stem cells (MSCs)	hypoxia treatment	MSCs induced by hypoxic preconditioning evoked an increase in expression of LincRNA-p21.	30359325
+690	Mouse	linc-p21	lncRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	lung fibroblasts	lipopolysaccharide (LPS) treatment	upregulated	27392907
+691	Mouse	linc-p21	lncRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	mouse alveolar macrophages (AMs); MH-S cells	lipopolysaccharide (LPS) treatment	Elevated lincRNA-p21 levels were observed in both LPS-induced ARDS mice and LPS-treated MH-S cells.	32362153
+692	Mouse	linc-p21	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	vascular smooth muscle cell (VSMC)	high fat diet (HFD) feed	"p53-dependent lincRNA-p21 expression downregulated miR-17-5p, whichconsequently protecting against AS progression via SIRT7 elevation."	33169349
+693	Mouse	linc-p21	lncRNA	doxorubicin (DOX)	cardiotoxicity	HL-1 murine cardiomyocytes2	doxorubicin treatment	upregulated	29207090
+694	Mouse	linc-p21	lncRNA	furan	cell proliferation	mice liver cells	Furan treatment	lncRNAs are transcriptional targets of furan exposures associated with levels of furan that are cytotoxic and induce cell proliferation.	23853263
+695	Mouse	linc-p21	lncRNA	doxorubicin (DOX)	doxorubicin (DOX)-induced cardiotoxicity	HL-1 cells	doxorubicin (Dox) treatment	p21 was highly expressed in Dox-treated HL-1 murine cardiomyocytes.	29207090
+696	Mouse	linc-p21	lncRNA	salvianolic acid B (Sal B)	hepatic stellate cell (HSC) activation	HSCs isolated from C57BL/6J mice	treat with Sal B treatment	upregulated	28391277
+697	Mouse	linc-p21	lncRNA	¦Ã-rays	irradiation-induced tumors	bone marrow (BM)	low-power long-term ¦Ã-irradiation	downregulated	32483710
+698	Mouse	linc-p21	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	liver tissues	carbon tetrachloride (CCl4) treatment	upregulated in hepatocytes	28592847
+699	Mouse	linc-p21	lncRNA	thymosin ¦Â4 (T¦Â4)	liver damage	hepatic tissues ; hepatic stellate cells (HSCs)	Thymosin ¦Â4 (T¦Â4) treatment	T¦Â4 inhibited the increased expression of lincRNA-p21 by transfection of Ad-p21	32649978
+700	Mouse	linc-p21	lncRNA	lipopolysaccharide (LPS)	neuropathic pain (NP)	BV2 cells	?lipopolysaccharide (LPS) treatment	"In this study, we found that lncRNA p21 and tumor necrosis factor alpha-induced protein 1 (Tnfaip1) expression were upregulated and miR-181b expression was downregulated in lipopolysaccharide (LPS)-induced and activated BV-2 microglia"	33774143
+701	Mouse	linc-p21	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	brain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	30671473
+702	Mouse	linc-p21	lncRNA	astragaloside IV (AS-IV)	parkinson's disease (PD)	MN9D cells; brain tissues	astragaloside IV (AS-IV) treatment	AS-IV inhibit the expression of lincRNA-p21. in PD mice and PD cells.	32511947
+703	Mouse	linc-p21	lncRNA	ultraviolet (UV) irradiation	skin cancer	keratinocytes	UVB-irradiated treatment	lincRNA-p21 is highly inducible by UVB	25789975
+704	Mouse	PADNA	lncRNA	bupivacaine	bupivacaine-induced neurotoxicity	mouse DRG neurons	bupivacaine treatment	lincRNA PADNA/miR-194/FBXW7 axis plays an important role in the neurotoxicity process.	32791990
+705	Mouse	PAX8-AS1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	MPC5 cells	high glucose (HG) treatment	Inhibition of lncRNA-PAX8-AS1-N directly associated with VEGF/TGF-¦Â1/8-OhdG enhances podocyte apoptosis in diabetic nephropathy.	32633379
+706	Mouse	PCAI	lncRNA	lipopolysaccharide (LPS)	postoperative cognitive dysfunction (POCD)	BV-2 cells	lipopolysaccharide (LPS) treatment	Overexpression of lncRNA PCAI can promote the cell death and inflammation response induced by LPS.	32247002
+707	Mouse	PCAT29	lncRNA	silica	lung fibrosis	pulmonary fibroblasts	silica treatment	lncRNAPCAT29 were downregulated within interstitial lung cells from mice with silica-induced pulmonary fibrosis.	29620190
+708	Mouse	PCFL	lncRNA	TGF-¦Â1	cardiac fibrosis	mouse cardiac fibroblasts (CFs)	TGF-¦Â1 treatment	upregulated	31220469
+709	Mouse	PEG10	lncRNA	phenylephrine (PE)	cardiac hypertrophy	mouse primary cardiomyocytes	phenylephrine (PE) treatment	upregulated	31389601
+710	Mouse	PFAR	lncRNA	TGF-¦Â1	idiopathic pulmonary fibrosis (IPF)	mouse primary lung fibroblasts	TGF-¦Â1 treatment	silencing PFAR attenuated TGF-¦Â1 induced fibrogenesis in primary lung fibroblasts	31273058
+711	Mouse	PGC1¦Â-OT1	lncRNA	adipogenesis medium	adipocyte and osteoblast differentiation	ST2 or C3H10T1/2 cells	"adipogenic medium ((¦Á-MEM containing 10% FBS, 0.5 ¦ÌM dexamethasone, 0.25 mM methylisobutylxanthine, 5 ¦Ìg/ml insulin, and 50 ¦ÌM indomethacin) treatment"	downregulated	30728459
+712	Mouse	PGC1¦Â-OT1	lncRNA	osteogenic differentiation medium	adipogenesis	ST2 or MC3T3-E1 cells	"osteogenic medium (¦Á-MEM containing 10% FBS, 50 ¦Ìg/ml ascorbic acid, and 5 mM ¦Â-glycerophosphate) treatment"	upregulated	30728459
+713	Mouse	Pirb	lncRNA	tanshinone IIA (Tan IIA)	atherosclerosis (AS)	RAW 264.7 cells	Tanshinone IIA (Tan) treatment	downregulated	32337768
+714	Mouse	Plscr4	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	cardiomyocytes	angiotensin II (Ang II) treatment	lncRNA Plscr4 was upregulated in hypertrophic mice hearts and in angiotensin II (Ang II)-treated cardiomyocytes.	29499950
+715	Mouse	Plscr4	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	mouse cardiomyocytes	angiotensin II (Ang II) treatment	upregulated	29499950
+716	Mouse	PMS2L2	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	ATDC5 cells	lipopolysaccharide (LPS) treatment	PMS2L2 expression was downregulated following LPS stimulation.	30550887
+717	Mouse	PMS2L2	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	mouse chondrogenic ATDC5 cells	lipopolysaccharide (LPS) treatment	"PMS2L2 expression was downregulated following LPS stimulation. PMS2L2 protected ATDC5 cells against LPS-induced injury by increasing cell viability, decreasing apoptosis, and repressing the release of pro-inflammatory factors."	30550887
+718	Mouse	PRINS	lncRNA	hypoxia	acute kidney injury (AKI)	renal tubular cells	hypoxia treatment	upregulated	26725683
+719	Mouse	PRINS	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mouse podocyte cells	high glucose (HG) treatment	upregulated	30936994
+720	Mouse	PRNCR1	lncRNA	cisplatin (DDP)	acute kidney injury (AKI)	kidney tissues	cisplatin treatment	downregulated	33647908
+721	Mouse	PRNCR1	lncRNA	lipopolysaccharide (LPS)	pulmonary vascular endothelial cell (PVEC) injury	human pulmonary microvascular endothelial cells (HPMECs)	lipopolysaccharide (LPS) treatment	"PRNCR1 and TLR4 levels were significantly upregulated in LPS-treated PVEC, both in vivo and in vitro, while miR-330-5p were downregulated. Inhibiting PRNCR1 or overexpressing miR-330-5p markedly attenuated LPS-induced PVEC injury."	33049095
+722	Mouse	Psmd11	lncRNA	pilocarpine	epilepsy	hippocampal tissues	pilocarpine treatment	"Psmd11 was upregulated by Peg13 at a miR-490-3p dependent way, thus inactivating the Wnt/¦Â-catenin pathway and alleviating epilepsy course in mice"	33437373
+723	Mouse	PTPRE-AS1	lncRNA	IL-4	macrophage activation	Mouse bone marrow-derived macrophages (BMDMs)	IL-4 treatment	upregulated	31844669
+724	Mouse	PU.1-AS	lncRNA	arsenite	arsenite-induced abnormal lipid metabolism	liver tissues	arsenic exposure	upregulated	31471020
+725	Mouse	PVT1	lncRNA	lipopolysaccharide (LPS)	sepsis	myocardial tissue and heart infiltrating macrophages	lipopolysaccharide (LPS) treatment	upregulated	33840587
+726	Mouse	PVT1	lncRNA	angiotensin II (Ang II)	abdominal aortic aneurysm (AAA)	Apolipoprotein E-deficient (ApoE-/-) male mice abdominal aortic tissues	angiotensin II (Ang II) treatment	upregulated	30726659
+727	Mouse	PVT1	lncRNA	hypoxia	activation of hepatic stellate cells (HSCs)	hepatic stellate cells (HSCs)	hypoxia treatment	Hypoxia induces the activation of hepatic stellate cells through the PVT1-miR-152-ATG14 signaling pathway.	31893334
+728	Mouse	PVT1	lncRNA	ozone (O3)	asthma	CD4+ T cells and ASMCs	ozone treatment	lncRNA PVT1-miR-15a-5p/miR-29c-3p-PI3K-Akt-mTOR axis was implicated in ozone-induced asthma development by promoting ASMC proliferation and Th1/Th2 imbalance	33223504
+729	Mouse	PVT1	lncRNA	angiotensin II (Ang II)	atrial fibrosis	mouse atrial tissues	angiotensin II (Ang II) treatment	"upregulated, PVT1 knockdown attenuated the Ang-II-induced mouse atrial fibrosis."	30894138
+730	Mouse	PVT1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	Mouse podocyte clone 5 (MPC5) podocytes and primary podocytes	high glucose (HG) treatment	upregulated	31371698
+731	Mouse	PVT1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	kidney tissues	streptozotocin treatment	upregulated	31371698
+732	Mouse	PVT1	lncRNA	streptozocin (STZ)	diabetic osteoarthritis (OA)	cartilage tissues	streptozotocin (STZ) treatment	"PVT1 expression was significantly increased, whereas miR-146a was markedly decreased in diabetic OA mice than in non-diabetic OA and control"	33569722
+733	Mouse	PVT1	lncRNA	hypoxia	hepatic stellate cell (HSC) activation	primary mouse HSCs	hypoxia induce	upregulated	31893334
+734	Mouse	PVT1	lncRNA	hypoxia	immunosuppression	MDSCs;granulocytic MDSCs (G-MDSCs)	O2 < 0.1 induce	upregulated	30925926
+735	Mouse	PVT1	lncRNA	IL-6 and granulocyte-macrophage colony stimulating factor (GM-CSF)	immunosuppression	MDSCs or granulocytic MDSCs (G-MDSCs)	?IL-6 and GM-CSF induce treatment	upregulated	30925926
+736	Mouse	PVT1	lncRNA	unmethylated cytosine followed by guanine (CpG ODN)	macrophage activation	RAW264.7 cells	unmethylated cytosine followed by guanine (CpG ODN) treatment	upregulated	32626785
+737	Mouse	Rian	lncRNA	oxygen glucose deprivation (OGD)	ischemia/reperfusion (I/R) injury	N2a cells	oxygen-glucose deprivation treatment	Overexpression of long non-coding RNA Rian attenuates cell apoptosis from cerebral ischemia-reperfusion injury via Rian/miR-144-3p/GATA3 signaling	33294587
+738	Mouse	RMRP	lncRNA	ovalbumin (OVA)	asthma	lung tissues	ovalbumin (OVA) treatment	"The expression of RMRP and CCL2 was elevated, while miR-206 was reduced in OVA-induced mice."	33511814
+739	Mouse	RMRP	lncRNA	valproic acid (VPA)	ischemic stroke (IS)	BV2 cells	valproate (VPA) treatment	Valproate improves middle cerebral artery occlusion-induced ischemic cerebral disorders in mice and oxygen-glucose deprivation-induced injuries in microglia by modulating RMRP/PI3K/Akt axis	32745656
+740	Mouse	RMRP	lncRNA	lipopolysaccharide (LPS)	myocardial dysfunction	cardiomyocytes	lipopolysaccharide (LPS) treatment	The lncRNA RMRP axis acts as a sponge for miR-1-5p. RMRP inhibits LPS-induced apoptosis of cardiomyocytes and mitochondrial damage by suppressing the post-transcriptional regulatory function of miR-1-5p on HSPA4.	31900829
+741	Mouse	Rmst	lncRNA	oxygen glucose deprivation (OGD)	hypoxic/ischemic brain damage (HIBD)	brain microvascular endothelial cells (BMECs)	oxygen-glucose deprivation (OGD) treatment	OGD exposure augmented the level of Rmst while reduced the expression of miR-150 in bEnd3 cells	32728986
+742	Mouse	RMST	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	primary hippocampal neuron	oxygen-glucose deprivation (OGD) treatment	upregulated	29258823
+743	Mouse	RMST	lncRNA	hypoxia	ischemic stroke (IS)	hippocampal neuron tissues	middle cerebral artery occlusion (MCAO) treatment	upregulated	29258823
+744	Mouse	RMST	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	Mouse microglial BV2 cells	oxygen-glucose deprivation (OGD) induce treatment	upregulated	31329361
+745	Mouse	RMST	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	HT-22?hippocampal neuron cells	oxygen-glucose-deprivation (OGD) treatment	RMST was highly expressed in OGD-treated HT-22?hippocampal neuron cells	31852624
+746	Mouse	RMST	lncRNA	oxygen glucose deprivation (OGD)	neuron apoptosis	HT-22 hippocampal neuron cell	oxygen-glucose deprivation (OGD) treatment	RMST/hnRNPK/p53/miR-107/Bcl2l2 axis plays an important role in regulating neuronal apoptosis	31852624
+747	Mouse	Rmst	lncRNA	bone morphogenetic protein 9 (BMP9)	osteogenesis	The conditionally immortalized mouse multipotent adipose-derived cells iMADs	bone morphogenetic protein 9 (BMP9) treatment	upregulated	31825894
+748	Mouse	RNCR2	lncRNA	oxygen	pathological neovascularization	mouse ocular neovascularization	exposure of mice to 75 % oxygen from the postnatal day7 (P7) to P12 and then room air until P17 treatment	dysregulated	24623407
+749	Mouse	RNCR3	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	plasma	oxidized low-density lipoprotein (ox-LDL) treatment	upregulated	27253412
+750	Mouse	RNCR3	lncRNA	high glucose (HG)	retinal microvascular abnormality	RF/6A cells	high glucose treatment	upregulated	27876564
+751	Mouse	RNCR4	lncRNA	streptozocin (STZ)	diabetic retinopathy (DR)	C57BL/6 mice	intraperitoneal injection of STZ(77 70 mg/kg B.W.) treatment	upregulated	27876564
+752	Mouse	ROR	lncRNA	hypoxia/reoxygenation (H/R)	hypoxia/reoxygenation (H/R) injury	H9C2 cells	hypoxia/reoxygenation (H/R) treatment	lncRNA ROR sponges miR-138 to aggravate H/R-induced myocardial cell injury by upregulating the expression of Mst1.	32240614
+753	Mouse	RP23-430H21.1	lncRNA	propofol (PPF)	propofol-induced neurotoxicity	hippocampus	propofol treatment	downregulated	29628875
+754	Mouse	Rpa	lncRNA	lead (Pb)	lead (Pb) toxicity	mouse neuroblastoma N2a cells	PbAc treatment	upregulated	27604105
+755	Mouse	Rps4l	lncRNA	hypoxia	pulmonary hypertension (PH)	arteries; pulmonary artery smooth muscle cells (PASMCs)	hypoxia treatment	Rps4l expression was significantly reduced in PH-model mice and hypoxic PASMCs.	32772647
+756	Mouse	RUNXOR	lncRNA	cytarabine (Ara-C)	leukemia	Leuke mic K562 cells	exposure to a low dose of the antileu_x0002_kemic drug by Ara-C treatment	upregulated	24752773
+757	Mouse	SETD5-AS1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	N2a cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	SETD5-AS1 was highly expressed in the ischemia-reperfusion injury model	30280788
+758	Mouse	SHNG16	lncRNA	oxygen glucose deprivation (OGD)	neuronal cell injury	HT22 hippocampal neurons	oxygen-glucose deprivation (OGD) treatment	downregulated	32323054
+759	Mouse	SHNG16	lncRNA	dexamethasone (DEX)	oxygen-glucose deprivation (OGD) induced neuron damage	HT22 hippocampal neurons	dexamethasone (Dex) treatment	upregulated	32323054
+760	Mouse	SIAH1	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	brain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	29217406
+761	Mouse	Six3OS	lncRNA	oxygen	pathological neovascularization	mouse ocular neovascularization	exposure of mice to 75 % oxygen from the postnatal day7 (P7) to P12 and then room air until P17 treatment	dysregulated	24623407
+762	Mouse	Smad7	lncRNA	TGF-¦Â	breast cancer	mouse mammary gland epithelial cells and breast cancer cell lines	mouse mammary gland epithelial cells continuously with TGF-¦Â treatment	upregulation	24863656
+763	Mouse	SNHG1	lncRNA	oxygen glucose deprivation (OGD)	brain vascular dysfunction	brain microvascular endothelial cell (BMEC)	oxygen-glucose deprivation (OGD) treatment	SNHG1 and miR-338 were upregulated in OGD induced BMEC.	30414401
+764	Mouse	SNHG1	lncRNA	phenylephrine (PE)	cardiac hypertrophy	neonatal mouse cardiomyocytes	phenylephrine [PE] treatment	downregulated	31889385
+765	Mouse	SNHG1	lncRNA	hypoxia	ischemic stroke (IS)	Mice primary brain microvascular endothelial cells (BMEC)	oxygen/glucose-deprived (OGD)?treatment	upregulated	30414401
+766	Mouse	Snhg1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	brain microvascular endothelial cells (BMECs)	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	OGD/R induces the expression of Snhg1	29883549
+767	Mouse	SNHG1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	bEnd3 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	SNHG1 and salt-induced kinase 1 (SIK1) were upregulated in oxygen-glucose deprivation/reperfusion (OGD/R)-induced bEnd3 cells	33677804
+768	Mouse	SNHG1	lncRNA	sevoflurane (SEV)	neurotoxicity	HT22 cells	Sevoflurane treatment	upregulated	32150149
+769	Mouse	SNHG1	lncRNA	1-methyl-4-phenylpyridinium (MPP+)	parkinson's disease (PD)	MN9D dopaminergic neurons	N-methyl-4-phenylpyridinium (MPP +) treatment	upregulated	31499060
+770	Mouse	SNHG1	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	midbrain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	29217406
+771	Mouse	SNHG1	lncRNA	lipopolysaccharide (LPS)	parkinson's disease (PD)	BV2 cells	lipopolysaccharide (LPS) treatment	"Snhg1 expression was elevated, whereas miR-7 reduced in LPS-induced BV2 cells."	30031125
+772	Mouse	SNHG12	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	brain microvascular endothelial cell injury	brain microvascular endothelial cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	SNHG12 levels in brain microvascular endothelial cells increased with respect to OGD exposure time	30233065
+773	Mouse	SNHG12	lncRNA	hypoxia	cerebral ischemia/reperfusion (I/R) injury	brain tissues	middle cerebral artery occlusion/reperfusion (MCAO/R) injury	upregulated	31056262
+774	Mouse	SNHG12	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia injury (CII)	primary neurons	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31469718
+775	Mouse	SNHG12	lncRNA	hypoxia	ischemic stroke (IS)	primary neuronal cells and N2a cells	oxygen-glucose deprivation (OGD) treatment	upregulated	30144542
+776	Mouse	SNHG12	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	primary neuronal cells and N2a cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	SNHG12 was upregulated in primary neuronal cells and N2a cells and peaked at 12?h and 24?h after OGD/R treatment	30144542
+777	Mouse	SNHG12	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	mouse brain microvascular endothelial (bEnd.3) cells	oxygen-glucose deprivation (OGD) treatment	"SNHG12 expression was elevated, whereas miR-150 reduced in OGD-exposed bEnd.3 cells."	30193860
+778	Mouse	SNHG12	lncRNA	2/3 partial hepatectomy (PH)	liver regeneration	mouse liver tissues	2/3 partial hepatectomy (PH) treatment	upregulated	31894329
+779	Mouse	SNHG12	lncRNA	hepatocyte growth factor (HGF)	liver regeneration	primary mouse hepatocytes	hepatocyte growth factor (HGF) treatment	The expression of SNHG12 was also increased in normal liver cell lines treated with different concentrations of hepatocyte growth factor (HGF).	31894329
+780	Mouse	SNHG12	lncRNA	hepatocyte growth factor (HGF)	liver regeneration	Mouse primary hepatocytes and e NCTC 1469 and BNL CL.2 mouse hepatocyte cell lines	hepatocyte growth factor (HGF) (PH) treatment	upregulated	31894329
+781	Mouse	SNHG12	lncRNA	angiotensin II (Ang II)	vascular endothelial injury	aortic primary endothelial cells	angiotensin II (Ang II) treatment	"As a result, LncRNA SNHG12 was downregulated in aortic primary ECs isolated from Ang II-induced hypertensive mice and 1 kidney/deoxycorticosterone acetate/salt-induced hypertensive mice."	33464650
+782	Mouse	SNHG14	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	mouse alveolar macrophages (MH-S) and lung tissues	lipopolysaccharide (LPS) treatment	lncRNA SNHG14 silencing alleviated inflammation in LPS-induced ALI through miR-34c-3p-mediated inhibition of WISP1.	31660971
+783	Mouse	SNHG14	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	primary cardiomyocytes (PCM)	angiotensin II (Ang II) treatment	upregulated	32436661
+784	Mouse	SNHG14	lncRNA	oxygen glucose deprivation (OGD)	cerebral infarction (CI)	BV-2 cells	oxygen/glucose deprivation (OGD) treatment	upregulated	28215748
+785	Mouse	SNHG14	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	HT22 (mouse hippocampal neuronal cells)	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	lncRNA SNHG14 promotes OGD/R-induced neuron injury by inducing excessive mitophagy via miR-182-5p/BINP3 axis in HT22 mouse hippocampal neuronal cells	32912324
+786	Mouse	SNHG14	lncRNA	rotenone (ROT)	parkinson's disease (PD)	mouse MN9D cells	rotenone treatment	"In MN9D cells, the rotenone treatment (1¦Ìmol/L) enhanced the binding between transcriptional factor SP-1 and SNHG14 promoter, thus promoting SNHG14 expression"	31683259
+787	Mouse	SNHG14	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	midbrain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	33071725
+788	Mouse	SNHG14	lncRNA	1-methyl-4-phenylpyridinium (MPP+)	parkinson's disease (PD)	primary Neuron	1-methyl-4-phenylpyridinium (MPP+) treatment	upregulated	33071725
+789	Mouse	SNHG14	lncRNA	dexmedetomidine (DEX)	spinal cord ischemia/reperfusion injury (SCII)	primary microglia	dexamethasone (DEX) treatment	DEX inhibited microglial activation and downregulated SNHG14 expression in SCIRI mice and oxygen and glucose deprivation/reoxygenation (OGD/R)-treated primary microglia.	33045891
+790	Mouse	SNHG15	lncRNA	streptozocin (STZ)	diabetes mellitus (DM)	gastrocnemius tissues; endothelial cells isolated from gastrocnemius tissues	Streptozocin (STZ) treatment	downregulated	33636173
+791	Mouse	SNHG15	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	HT22 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	"The SNHG15 and STAT1/NF-¦ÊB pathways were both distinctly upregulated, while miR-302a-3p was notably downregulated in the ischemia cortex"	33779086
+792	Mouse	SNHG15	lncRNA	oxygen glucose deprivation (OGD)	neuronal cell injury	Neuro-2a (N2a)	oxygen-glucose deprivation (OGD) treatment	"Silencing of SNHG15 led to CXCL13 upregulation through sequestering miR-18a and the following ERK/MEK activation, thus enhancing viability while reducing apoptosis of N2a cells."	32862188
+793	Mouse	SNHG16	lncRNA	bleomycin (BLM)	idiopathic pulmonary fibrosis (IPF)	pulmonary fbrotic tissues	bleomycin (BLM) treatment	upregulated	33549106
+794	Mouse	SNHG16	lncRNA	TGF-¦Â1	idiopathic pulmonary fibrosis (IPF)	Primary mouse lung fbroblasts	TGF-¦Â1 treatment	downregulated	33549106
+795	Mouse	SNHG16	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	mesangial cells	high glucose (HG) treatment	LncRNA SNHG16 induces proliferation and fibrogenesis via modulating miR-141-3p and CCND1 in diabetic nephropathy.	32504027
+796	Mouse	SNHG16	lncRNA	H2O2	ischemia/reperfusion (I/R) injury	cardiomyocytes	H2O2 treatment	NHG16 accelerates the proliferative ability of cardiomyocytes following IRI by negatively regulating miRNA-770-5p.	32855691
+797	Mouse	SNHG16	lncRNA	high glucose (HG)	podocyte injury	MPC5 cells	high glucose (HG) treatment	SNHG16 was significantly upregulated in HG-induced podocytes	33116706
+798	Mouse	SNHG17	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	MPC5	high glucose (HG) treatment	lncRNA SNHG17 knockdown promotes Parkin-dependent mitophagy and reduces apoptosis of podocytes through regulating the degradation of Mst1.	32627655
+799	Mouse	SNHG20	lncRNA	diethylnitrosamine (DEN)	nonalcoholic fatty liver disease (NAFLD)	liver tissues	diethyl nitrosamine (DEN) treatment	upregulated	31408278
+800	Mouse	SNHG20	lncRNA	high fat diet (HFD)	nonalcoholic fatty liver disease (NAFLD)	liver tissues	high fat diet (HFD) feed	downregulated	31408278
+801	Mouse	SNHG3	lncRNA	oxygen glucose deprivation (OGD)	brain ischemia-reperfusion (I/R) injury	N2a cells	oxygen and glucose deprivation (OGD) treatment	upregulated	32860611
+802	Mouse	SNHG3	lncRNA	hypoxia	hypoxic/ischemic brain damage (HIBD)	primary hippocampal cells	hypoxia induce	downregulated	31751562
+803	Mouse	SNHG3	lncRNA	hypoxic/ischemic	hypoxic/ischemic brain damage (HIBD)	primary hippocampal cells	hypoxic/ischemic stress	"Snhg3 acted as the sponge of miR-196 in the hippocampal cells by regulating the expression of miR-196 target genes, XIAP and CAAP1."	31751562
+804	Mouse	SNHG5	lncRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	lung tissues	lipopolysaccharide (LPS) treatment	"SNHG5 was downregulated, while miR-205 was upregulated in the serum of ARDS patients and lung tissues of LPS-induced mice."	33170429
+805	Mouse	SNHG5	lncRNA	5-aminolevulinic acid photodynamic therapy(ALA-PDT)	colitis	colon tissues	5-Aminolevulinic acid photodynamic therapy(ALA-PDT) treatment	downregulated	30385297
+806	Mouse	SNHG6	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	primary neuronal cells	oxygen glucose deprivation (OGD)-induce treatment	upregulated	31334597
+807	Mouse	SNHG7	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	primary hepatic stellate cell (HSC)	CCl4 treatment	upregulated	31272073
+808	Mouse	SNHG7	lncRNA	TGF-¦Â	liver fibrosis	primary hepatic stellate cells (HSCs)	TGF-¦Â treatment	SNHG7 was signally increased in liver tissue and HSCs of liver fibrosis model of mice	32893175
+809	Mouse	SNHG8	lncRNA	hypoxia	ischemic brain injury	?HT22 cells and hippocampal tissues	hypoxia induce	downregulated	31165722
+810	Mouse	SNHG8	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	brain microvascular endothelial cell (BMEC)	oxygen-glucose deprivation (OGD) treatment	downregulated	33491845
+811	Mouse	sONE	lncRNA	high salt diet	hypertension	systolic blood pressure	high salt diet treatment	downregulated	26261587
+812	Mouse	SOX2OT	lncRNA	H2O2	abdominal aortic aneurysm (AAA)	vascular smooth muscle cell (VSMC)	oxidative stress	Silencing of long non-coding RNA Sox2ot inhibits oxidative stress and inflammation of vascular smooth muscle cells in abdominal aortic aneurysm via microRNA-145-mediated Egr1 inhibition.	32629426
+813	Mouse	SOX2OT	lncRNA	H2O2	diabetes-induced retinal neurodegeneration	retinal ganglion cell (RGC)	H2O2 treatment	upregulated	27193103
+814	Mouse	SOX2OT	lncRNA	high glucose (HG)	diabetes-induced retinal neurodegeneration	retinal ganglion cell (RGC)	high glucose (HG) treatment	upregulated	27193103
+815	Mouse	SOX2OT	lncRNA	streptozocin (STZ)	diabetes-induced retinal neurodegeneration	renal tissues	streptozocin (STZ) treatment	downregulated	27193103
+816	Mouse	SOX2OT	lncRNA	temozolomide (TMZ)	glioblastoma multiforme (GBM)	U87 cells; U251 cells	temozolomide (TMZ) treatment	"LncRNA SOX2OT inhibited cell apoptosis, promoted cell proliferation, and TMZ resistance by upregulating SOX2 expression, which activated the Wnt5a/¦Â-catenin signaling pathway"	32439916
+817	Mouse	SOX2OT	lncRNA	isoprenaline	cardiac fibrosis	cardiac fibroblasts (CFs)	isoprenaline (ISO) tteatment	LncRNA SOX2OT/Smad3 feedback loop promotes myocardial fibrosis in heart failure.	32959533
+818	Mouse	SOX2OT	lncRNA	lipopolysaccharide (LPS)	sepsis-induced myocardial injury	mouse heart tissues	lipopolysaccharide (LPS) treatment	upregulated	31618067
+819	Mouse	Spry1	lncRNA	TGF-¦Â	cell proliferation	NMuMG mammary epithelial cells	TGF-¦Â treatment	downregulated	28186499
+820	Mouse	SRA	lncRNA	dehydroepiandrosterone (DHEA)	polycystic ovarian syndrome (PCOS)	ovary tissues	DHEA treatment	Silencing of lncRNA Steroid Receptor RNA Activator (SRA) attenuates polycystic ovary syndrome (PCOS) in mice.	30391287
+821	Mouse	SRA	lncRNA	dehydroepiandrosterone (DHEA)	polycystic ovarian syndrome (PCOS)	mouse primary granulosa cell culture	DHEA treatment	Silencing of lncRNA Steroid Receptor RNA Activator (SRA) attenuates polycystic ovary syndrome (PCOS) in mice.	30391287
+822	Mouse	SRA	lncRNA	dehydroepiandrosterone (DHEA)	polycystic ovarian syndrome (PCOS)	ovary	DHEA treatment	upregulated	30391287
+823	Mouse	SRAs	lncRNA	IL-2	type 1 diabetes mellitus (T1DM)	MIN6 ¦Â-cells	IL-2 treatment	downregulated	33572095
+824	Mouse	SYNE1-AS1	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	Cardiomyocytes were isolated from the neonatal mouse	angiotensin II (Ang II) treatment	the hypertrophic responses were attenuated by SYNE1-AS1 knockdown.	30652310
+825	Mouse	TCONS_00019174	lncRNA	chronic ultra-mild stress	depression	hippocampus	chronic ultra-mild stress treatment	mice exposed to chronic ultra-mild stress displayed apparent depression-like behaviors and decreased expression of long non-coding RNA TCONS_00019174 in hippocampus.	29036835
+826	Mouse	THOR	lncRNA	H2O2	glaucoma	RGCs	H2O2 treatment	?The expression of THOR was reduced in H2O2-induced RGCs.	33811613
+827	Mouse	THRIL	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	lung tissues	lipopolysaccharide (LPS) treatment	THRIL was highly expressed in the lung of sepsis mice.	32818819
+828	Mouse	THRIL	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	ATDC5 cells	lipopolysaccharide (LPS) treatment	LPS significantly induced ATDC5 cell inflammatory injury and upregulated the expression of THRIL.	30521964
+829	Mouse	THRIL	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	ATDC5 cells	lipopolysaccharide (LPS) treatment	LPS significantly induced ATDC5 cell inflammatory injury and upregulated the expression of THRIL.	30521964
+830	Mouse	TINCR	lncRNA	Tri-DAP	inflammation	3T3-L1 adipocytes	Tri-DAP treatment	upregulated	30851423
+831	Mouse	Tnfaip3	lncRNA	lipopolysaccharide (LPS)	inflammation	RAW264.7 mouse macrophage cells	lipopolysaccharide (LPS) treatment	upregulated	27979905
+832	Mouse	TSIX	lncRNA	Co-Cr-Mo metal particles (CoPs)	particle-induced osteolysis (PIO)	MC3T3-E1 cells	Co-Cr-Mo metal particles (CoPs) treatment	upregulated	29260905
+833	Mouse	Ttc3-209	lncRNA	hank's balanced salt solution containing 10 ?M antimycin A	retinal ischemia reperfusion injury (RIR)	primary mouse retinal ganglion cells	Hank's balanced salt solution containing 10 ?M antimycin A treatment	lncRNA Ttc3-209 was significantly upregulated after I/R injury and played a proapoptotic role in RGCs during I/R-induced apoptosis.	33687475
+834	Mouse	TUG1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	Mouse cardiomyocytes HL-1 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	The expression of TUG1 was significantly upregulated in OGD/R-induced myocardial HL-1 cells The overexpression of TUG1-induced inflammation and apoptosis in OGD-R-induced myocardial HL-1 cells Knock down of TUG1 protected OGD/R-induced myocardial I/R injury by inhibiting HMGB1 expression Suppression of lncRNA TUG1 may prevent myocardial I/R injury following acute myocardial infarction via inhibiting HMGB1 expression	31432688
+835	Mouse	TUG1	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	lung tissues; primary murine pulmonary microvascular endothelial cells (PMVECs)	lipopolysaccharide (LPS) treatment	downregulated	32087725
+836	Mouse	TUG1	lncRNA	H2O2	acute myocardial infarction (AMI)	primary cultured cardiomyocytes	H2O2 treatment	upregulated	31145943
+837	Mouse	TUG1	lncRNA	H2O2	acute myocardial infarction (AMI)	primary cardiomyocytes	H2O2 treatment	LncRNA TUG1 mediates ischemic myocardial injury by targeting miR-132-3p/HDAC3 axis.	31858814
+838	Mouse	TUG1	lncRNA	H2O2	acute myocardial infarction (AMI)	mouse primary cardiomyocytes	hydrogen peroxide (H2O2) treatment	"miR-132-3p was downregulated, whereas TUG1 upregulated in H2O2-challenged cardiomyocytes."	31858814
+839	Mouse	TUG1	lncRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	RAW 264.7 cells	lipopolysaccharide (LPS) treatment	LncRNA TUG1 reverses LPS-induced cell apoptosis and inflammation of macrophage via targeting MiR-221-3p/SPRED2 axis	32841583
+840	Mouse	TUG1	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	hippocampal neurons	amyloid-¦Â (A¦Â) 25-35 treatment	TUG1 knockdown restricts apoptosis of hippocampal neurons in AD by elevating miR-15a and suppressing ROCK1 expression.	32577774
+841	Mouse	TUG1	lncRNA	ovalbumin (OVA)	asthma	lung tissues	ovalbumin (OVA) treatment	upregulated	33640857
+842	Mouse	TUG1	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	aortas	high fat diet (HFD) feed	upregulated	29268138
+843	Mouse	TUG1	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	RAW264.7 cells; MOVAS cells	oxidized low-density lipoprotein (ox-LDL) treatment	upregulated	29268138
+844	Mouse	TUG1	lncRNA	oxidized low density lipoprotein (ox-LDL)	atherosclerosis (AS)	RAW264.7 and MOVAS cells	oxidized low-density lipoprotein (ox-LDL) treatment	upregulated	29268138
+845	Mouse	TUG1	lncRNA	hyperoxia	bronchopulmonary dysplasia (BPD)	MLE-12 cells	hyperoxia treatment	downregulated	33194901
+846	Mouse	TUG1	lncRNA	hypoxia	cardiac fibroblast-myofibroblast transformation (FMT)	heart tissues	hypoxia treatment	upregulated	30066872
+847	Mouse	TUG1	lncRNA	high glucose (HG)	cardiac hypertrophy	HL-1 cells	high glucose (HG) treatment	upregulated	32269707
+848	Mouse	TUG1	lncRNA	phenylephrine (PE)	cardiac hypertrophy	cardiomyocytes; cardiac fibroblasts	phenylephrine (PE) treatment	LncRNA TUG1 alleviates cardiac hypertrophy by targeting miR©\34a/DKK1/Wnt©\¦Â©\catenin signalling	32057178
+849	Mouse	TUG1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	MA-C cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	LncRNA TUG1 expression was significantly upregulated in cultured MA-C cells exposed to OGD/R injury	31709761
+850	Mouse	TUG1	lncRNA	astragaloside IV (AS-IV)	diabetic nephropathy (DN)	MPC5 cells	astragaloside (AS-IV) treatment	"TUG1 was downregulated and TRAF5 was upregulated in high-glucose-treated MPC5 cells, and AS-IV ameliorated the TUG1 level."	30233141
+851	Mouse	TUG1	lncRNA	high glucose (HG)	dysfunction of endothelial progenitor cells (EPCs)	EPCs	high glucose (HG) treatment	TUG1 restores high glucose-treated EPC function by regulating miR-29c-3p/PDGF-BB/Wnt signaling.	33059750
+852	Mouse	TUG1	lncRNA	chlorogenic acid (CGA)	glaucoma	retinal tissues	Chlorogenic acid (CGA) treatment	"IPL thickness and lncRNA TUG1 expression were significantly decreased in glaucoma mice model, and CGA treatment increased IPL thickness and lncRNA TUG1 expression."	31055996
+853	Mouse	TUG1	lncRNA	chlorogenic acid (CGA)	glaucoma	mouse retinal ganglion cell (RGC)	Chlorogenic acid (CGA) treatment	"IPL thickness and lncRNA TUG1 expression were significantly decreased in glaucoma mice model, and CGA treatment increased IPL thickness and lncRNA TUG1 expression."	31055996
+854	Mouse	TUG1	lncRNA	hypoxia	hepatic ischemia/reperfusion injury (HIRI)	Mouse hepatic cell line AML12	hypoxia induce	upregulated	31297532
+855	Mouse	TUG1	lncRNA	propofol (PPF)	hepatic ischemia/reperfusion injury (HIRI)	Mouse hepatic cell	Propofol induce treatment	Propofol increases cell viability and lncRNA-TUG1 expression level in H/R-treated hepatic cells	31297532
+856	Mouse	TUG1	lncRNA	lipopolysaccharide (LPS)	inflammation	The mouse immortalized podocyte cell line MPC5	lipopolysaccharide (LPS) treatment	downregulated	31115515
+857	Mouse	TUG1	lncRNA	tumor necrosis factor alpha (TNF-¦Á) 	irritable bowel syndrome (IBS)	mouse interstitial cells of Cajal (ICC)	tumor necrosis factor alpha (TNF-¦Á) treatment	TUG1 was downregulated in TNF-¦Á-treated ICC.	30657572
+858	Mouse	TUG1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemia/reperfusion (I/R) injury	MA-C cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	LncRNA TUG1 expression was significantly upregulated in cultured MA-C cells exposed to OGD/R injury	31709761
+859	Mouse	TUG1	lncRNA	cold	liver damage	livers	cold treatment	downregulated	26785829
+860	Mouse	TUG1	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	liver tissues; primary mouse HSCs	carbon tetrachloride (CCl4) treatment	Tug1 expression was significantly upregulated in fibrotic livers.	29904430
+861	Mouse	TUG1	lncRNA	TGF-¦Â	liver fibrosis	primary mouse HSCs	TGF-¦Â treatment	upregulated	29904430
+862	Mouse	TUG1	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	cardiomyocytes	hypoxia/reoxygenation (H/R) treatment	The expression of TUG1 was significantly increased in the I/R cardiomyocyte injury models.	33164260
+863	Mouse	TUG1	lncRNA	oxygen glucose deprivation (OGD)	neuroinflammation	BV-2 microglial cells	oxygen-glucose deprivation (OGD) induce treatment	upregulated	31551710
+864	Mouse	TUG1	lncRNA	high glucose (HG)	obesity	3T3-L1 cells	high glucose treatment	LncRNA TUG1 could negatively regulate miR-204 to alleviate inflammation and insulin tolerance via promoting SIRT1/GLUT4/PPAR¦Ã/AKT pathway.	32888158
+865	Mouse	TUG1	lncRNA	emodin	osteoarthritis (OA)	ATDC5 cells	emodin treatment	TUG1 was upregulated by emodin.	29710506
+866	Mouse	TUG1	lncRNA	oxygen	pathological neovascularization	mouse ocular neovascularization	exposure of mice to 75 % oxygen from the postnatal day7 (P7) to P12 and then room air until P17 treatment	dysregulated	24623407
+867	Mouse	TUG1	lncRNA	pyrrolidinedithiocarbamic acid (PDTC)	pristine-induced systemic lupus erythematosus (SLE)	kidney tissues	pyrrolidine dithiocarbamate (PDTC) treatment	NF-¦ÊB inhibition with PDTC protected against the kidney injury of pristine-induced SLE mice possibly via up-regulating lncRNA TUG1	31930775
+868	Mouse	TUG1	lncRNA	hypoxia	pulmonary arterial hypertension (PAH)	pulmonary arteries tissues	hypoxia induce	upregulated	31679623
+869	Mouse	TUG1	lncRNA	dextran sodium sulfate (DSS)	ulcerative colitis (UC)	colon	dextran sodium sulfate (DSS) treatment	TUG1 inhibits IEC apoptosis and UC progression by regulating the balance of HuR and miR-29b-3p.	33047284
+870	Mouse	TUG1	lncRNA	dextran sodium sulfate (DSS)	ulcerative colitis (UC)	colon tissues	dextran sodium sulfate (DSS) treatment	downregulated	33047284
+871	Mouse	TUG1	lncRNA	tumor necrosis factor alpha (TNF-¦Á) 	ulcerative colitis (UC)	YAMC cells	tumor necrosis factor alpha (TNF-¦Á) treatment	TUG1 inhibits IEC apoptosis and UC progression by regulating the balance of HuR and miR-29b-3p	33047284
+872	Mouse	TUG1	lncRNA	tumor necrosis factor alpha (TNF-¦Á) 	ulcerative colitis (UC)	murine colonic epithelial YAMC cells	tumor necrosis factor alpha (TNF-¦Á) treatment	downregulated	33047284
+873	Mouse	TUG1	lncRNA	oxygen glucose deprivation (OGD)	vascular cognitive impairment (VCI)	HT22 cells	oxygen and glucose deprivation-induced treatment	"knockdown of TUG1 reduced hippocampal neuronal apoptosis and participates in the aerobic exercise-alleviated VCI, which was partly through regulating BDNF"	33213523
+874	Mouse	TUG1	lncRNA	lipopolysaccharide (LPS)	hepatitis	liver tissues	lipopolysaccharide (LPS) treatment	?Microarray showed that lncRNA TUG1 was upregulated in LPS-induced hepatocyte inflammation.	33644034
+875	Mouse	Uc.173	lncRNA	lead (Pb)	nerve injury	hippocampus	lead treatment	downregulated	26683706
+876	Mouse	uc.323	lncRNA	phenylephrine (PE)	cardiac hypertrophy	Primary cultures of neonatal rat ventricular myocytes	phenylephrine treatment	downregulated	31735087
+877	Mouse	uc.333	lncRNA	high fat diet (HFD)	insulin resistance (IR)	liver tissues	high fat diet (HFD) feed	downregulated	32303004
+878	Mouse	uc.333	lncRNA	IL-6	insulin resistance (IR)	liver tissues	IL-6 treatment	downregulated	32303004
+879	Mouse	uc.333	lncRNA	tumor necrosis factor alpha (TNF-¦Á) 	insulin resistance (IR)	liver tissues	tumor necrosis factor alpha (TNF-¦Á) treatment	downregulated	32303004
+880	Mouse	uc.418	lncRNA	high fat diet (HFD)	insulin resistance (IR)	liver tissues	high fat diet (HFD) feed	downregulated	32303004
+881	Mouse	uc.420	lncRNA	high fat diet (HFD)	insulin resistance (IR)	liver tissues	high fat diet (HFD) feed	downregulated	32303004
+882	Mouse	uc.48+	lncRNA	P2X3 receptor	diabetic neuropathic pain (DNP)	dorsal root ganglia	serum treatment	upregulated	26686228
+883	Mouse	uc.48+	lncRNA	high glucose and free fatty acids (HG-FFA)	type 2 diabetes mellitus (T2DM)	RAW264.7 cells	high glucose and high plasma free fatty acids (FFAs) treatment	"It was found that treatment of RAW264.7 cells with high glucose and FFAs, which exhibited increased expression of uc.48+."	29750294
+884	Mouse	uc.77	lncRNA	paraquat (PQ)	idiopathic pulmonary fibrosis (IPF)	alveolar epithelial cells	paraquat (PQ) treatment	upregulated	26824344
+885	Mouse	uc007coi.2	lncRNA	cigarette smoke (CS)	airway inflammation	C57BL/6 mice lung tissue	cigarette smoke (CS) exposure	dysregulated	29383188
+886	Mouse	uc007dlv	lncRNA	peritoneal dialysis fluid (PDF)	peritoneal fibrosis	peritoneal tissues	peritoneal dialysis fluid (PDF) treatment	decreased	25827714
+887	Mouse	uc007eib	lncRNA	peritoneal dialysis fluid (PDF)	peritoneal fibrosis	peritoneal tissues	peritoneal dialysis fluid (PDF) treatment	upregulated	25827714
+888	Mouse	uc008hps.1	lncRNA	fasciola gigantica excretory/secretory products (ESP)	macrophage activation and polarization	M2 macrophages	fasciola gigantica excretory/secretory products (ESP) treatment	upregulated	29794463
+889	Mouse	uc008pwj	lncRNA	peritoneal dialysis fluid (PDF)	peritoneal fibrosis	peritoneal tissues	peritoneal dialysis fluid (PDF) treatment	decreased	25827714
+890	Mouse	uc008tgd.1	lncRNA	cigarette smoke (CS)	airway inflammation	C57BL/6 mice lung tissue	cigarette smoke (CS) exposure	dysregulated	29383188
+891	Mouse	uc009njr.1	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	uc009njr.1 was upregulated in the primary mouse hepatocytes treated by cyclic adenosine monophosphate (cAMP).	29115403
+892	Mouse	uc009njr.1	lncRNA	cyclic adenosine monophosphate (cAMP)	gluconeogenesis	primary mouse hepatocytes	cyclic adenosine monophosphate (cAMP) treatment	downregulated	29115403
+893	Mouse	uc009njr.1	lncRNA	metformin (Met)	gluconeogenesis	primary mouse hepatocytes	metformin (Met) treatment	uc009njr.1 was downregulated in the primary mouse hepatocytes treated by metformin (Met) when compared with cyclic adenosine monophosphate (cAMP) treated group.	29115403
+894	Mouse	uc011wph.1	lncRNA	cigarette smoke (CS)	airway inflammation	C57BL/6 mice lung tissue	cigarette smoke (CS) exposure	dysregulated	29383188
+895	Mouse	UCA1	lncRNA	phenylephrine (PE)	cardiac hypertrophy	cardiomyocytes	phenylephrine (PE) treatment	lncRNA UCA1 was highly expressed in the cardiomyocytes treated with phenylephrine (PE)	29616999
+896	Mouse	UCA1	lncRNA	metformin (Met)	endometrial hyperplasia (EH)	endometrial hyperplasia (EH) mice uterus	metformin (Met) treatment	downregulated	31894313
+897	Mouse	UCA1	lncRNA	tamoxifen (TAM)	endometrial hyperplasia (EH)	uterus	tamoxifen treatment	upregulated	31894313
+898	Mouse	UCA1	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	brain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	30536337
+899	Mouse	UCA1	lncRNA	kainic acid (KA)	temporal lobe epilepsy (TLE)	hippocampal tissues	kainic acid (KA) treatment	UCA1 was overexpressed in mice and the overexpression of UCA1 significantly reversed the abnormal proliferation of hippocampal neurons in epilepsy mice.	33829718
+900	Mouse	Vax2os1	lncRNA	oxygen	pathological neovascularization	mouse ocular neovascularization	exposure of mice to 75 % oxygen from the postnatal day7 (P7) to P12 and then room air until P17 treatment	dysregulated	24623407
+901	Mouse	Wfdc21	lncRNA	lipopolysaccharide (LPS)	sepsis	RAW264.7 cells	lipopolysaccharide (LPS) treatment	Wfdc21 level was elevated in LPS-treated RAW264.7 cells.	29900929
+902	Mouse	XIST	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	Mouse podocytes (MPC5)	MPC5 were treated with 100 ng/mL LPS (Sigma-Aldrich) for 48 h	lncRNA XIST was significantly upregulated in LPS-treated MPCs.	31658856
+903	Mouse	XIST	lncRNA	H2O2	Alzheimer's disease (AD)	N2a cells	Hydrogen peroxide (H2O2 ) treatment	The expression of lncRNA XIST was significantly upregulated in H2O2-treated N2a cells.	31743528
+904	Mouse	XIST	lncRNA	oxygen	bronchopulmonary dysplasia (BPD)	lung tissues	oxygen treatment	silencing of Xist suppressed BPD development by binding to miR-101-3p and downregulating HMGB3 and the TGF-b1/Smad3 axis.	33070148
+905	Mouse	XIST	lncRNA	phenylephrine (PE)	cardiac hypertrophy	cardiomyocytes	phenylephrine (PE) treatment	(XIST) was upregulated in hypertrophic cardiac of mice and phenylephrine (PE)-treated cardiomyocytes	30297107
+906	Mouse	XIST	lncRNA	lipopolysaccharide (LPS)	cardiomyocytes injury	Mouse cardiomyocytes MCM cells	lipopolysaccharide (LPS) treatment	The level of xist in the myocardial cells was markedly higher in the LPS group compared with the control group.	33029099
+907	Mouse	XIST	lncRNA	IL-1¦Â	chondrocyte apoptosis	ATDC5	IL-1¦Â treatment	downregulated	32517436
+908	Mouse	XIST	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	mouse renal tissues	streptozotocin (STZ) treatment	silenced XIST inducing miR-93-5p-dependent CDKN1A inhibition was beneficial for preventing renal interstitial fibrosis in DN	31545928
+909	Mouse	XIST	lncRNA	lipopolysaccharide (LPS)	inflammation	J774A.1 (mouse macrophage cell line)	lipopolysaccharides (LPS) treatment	upregulated	29773953
+910	Mouse	XIST	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	mouse neuronal cells	oxygen-glucose deprivation (OGD) treatment	upregulated	33738662
+911	Mouse	XIST	lncRNA	lipopolysaccharide (LPS)	membranous nephropathy (MN)	mouse podocyte cell line	with lipopolysaccharides treatment	upregulated	25157805
+912	Mouse	XIST	lncRNA	hypoxia	myocardial infarction (MI)	neonatal mice cardiomyocytes (NMCMs)	hypoxia treatment	XIST was upregulated in NMCMs under anoxia condition.	32315985
+913	Mouse	XIST	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	I/R mice myocardial tissues	The myocardial I/R injury was induced by temporary ligation of the left anterior descending coronary artery.	upregulated	31734557
+914	Mouse	XIST	lncRNA	hypoxia	postmyocardial infarction	AC16 cells	hypoxia treatment	"XIST and PDE4D were overexpressed in post-MI myocardial cells, whereas miR-130a-3p was underexpressed in post-MI myocardial cells."	29226319
+915	Mouse	XIST	lncRNA	bilateral common carotid artery occlusion (2-VO)	Alzheimer's disease (AD)	hippocampus tissues of AD mouse	bilateral common carotid artery?occlusion (2VO) induce	The expression of lncRNA XIST was significantly upregulated in 2VO-induced AD mice models	31743528
+916	Mouse	XIST	lncRNA	H2O2	Alzheimer's disease (AD)	N2a mouse neuroblastoma cells	Hydrogen peroxide (H2O2)?treatment	The expression of lncRNA XIST was significantly upregulated in H2O2-treated N2a cells	31743528
+917	Mouse	XLOC_015129	lncRNA	high fat diet (HFD)	cholesterol biosynthesis	liver tissues	high fat diet (HFD) feed	upregulated	30504232
+918	Mouse	XLOC_015129	lncRNA	palmitic acid (PA)	cholesterol biosynthesis	AML12 cells	palmitic acid (PA) treatment	upregulated	30504232
+919	Mouse	XLOC_015129	lncRNA	WY14643	cholesterol biosynthesis	AML12 cells	WY14643 treatment	upregulated	30504232
+920	Mouse	XLOC_032768	lncRNA	cisplatin (DDP)	cisplatin (DDP)-induced nephrotoxicity	renal tubular epithelial cells	cisplatin treatment	lncRNA XLOC_032768 expression was significantly repressed by cisplatin treatment.	32278129
+921	Mouse	XR_006756	lncRNA	subarachnoid hemorrhage (SAH)	early brain injury (EBI)	brain	subarachnoid hemorrhage (SAH) treatment	downregulated	25777551
+922	Mouse	XR_140468	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	placenta	high fat diet (HFD) feed	downregulated	29986645
+923	Mouse	XR_141088	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	gonadal fat tissues	high fat diet (HFD) feed	downregulated	29986645
+924	Mouse	XR_141492	lncRNA	high fat diet (HFD)	gestational diabetes mellitus (GDM)	gonadal fat tissues	high fat diet (HFD) feed	downregulated	29986645
+925	Mouse	ZEB2-AS1	lncRNA	phenylephrine (PE)	cardiac hypertrophy	primary cardiomyocytes	phenylephrine (PE) treatment	lncRNA ZEB2-AS1 may influence the progression of CH by downregulating PTEN	32973941
+926	Mouse	ZFAS1	lncRNA	hypoxia/reoxygenation (H/R)	acute myocardial infarction (AMI)	HL-1 Cells	hypoxia/reoxygenation (H/R) treatment	ZFAS1 was upregulated and miR-761 was downregulated in the serum of patients with AMI and H/R-induced HL-1 cells.	32833901
+927	Mouse	ZFAS1	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	BV2 cells	lipopolysaccharide (LPS) treatment	?ZFAS1 was identified to be upregulated in spinal cord tissues of SCI mice.	33524472
+928	Mouse	ZFAS1	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	ApoE-/- mice heart tissues	high fat diet (HFD) feed	We found that ZFAS1 and Notch3 were upregulated while miR-150-5p was downregulated in atherosclerosis mice and ox-LDL-treated HUVECs.	33278458
+929	Mouse	ZNF593-AS	lncRNA	phenylephrine (PE)	dilated cardiomyopathy (DCM)	cardiomyocytes	phenylephrine treatment	"ZNF593-AS, which mainly localized in the cytoplasm of cardiomyocytes, was robustly decreased in the failing heart of DCM patients, as well as in phenylephrine-treated human cardiomyocytes"	33550812

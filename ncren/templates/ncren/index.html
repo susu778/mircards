@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link type="text/css" href="{% static "ncren/bootstrap5/css/bootstrap.min.css" %}" rel="stylesheet" />
+    <link type="text/css" href="{% static "ncren/css/style.css" %}" rel="stylesheet" />
+{#    <link rel="icon" href="{% static "ncren/images/logoTAM2.0.png" %}" type="image/x-icon" />#}
+    <link type="text/css" href="{% static "ncren/ztree/css/zTreeStyle.css" %}" rel="stylesheet"/>
+    <meta name="keywords" content="ncRN, environmental factors, phenotype, ncREnvironment"/>
+    <title>ncREnvironment Database</title>
+</head>
+<body>
+    <div id="logo"><span>ncREnvironment: a bridge for non-coding RNAs, environmental factors and phenotypes</span></div>
+    <nav class="navbar navbar-custom" role="navigation" style="min-height: 40px; font-size:16px;">
+        <ul class="nav nav-pills">
+            <li class="active col-xs-2" style="text-align: center;margin-left:-10px;"><a href="#fragment-1" data-toggle="tab" style="width: 150px;"><span>Home</span></a></li>
+            <li class="col-xs-2" style="text-align: center;"><a id="jump_b" href="#fragment-2" data-toggle="tab" style="width: 150px;"><span>Browse</span></a></li>
+            <li class="col-xs-2" style="text-align: center;"><a id="jump_s" href="#fragment-3" data-toggle="tab" style="width: 150px;"><span>Search</span></a></li>
+            <li class="col-xs-2" style="text-align: center;"><a id="jump_d" href="#fragment-4" data-toggle="tab" style="width: 150px;"><span>Download</span></a></li>
+            <li class="col-xs-2" style="text-align: center;"><a href="#fragment-5" data-toggle="tab" style="width: 150px;"><span>Help</span></a></li>
+            <li class="col-xs-2" style="text-align: center;"><a href="#fragment-6" data-toggle="tab" style="width: 150px;"><span>About</span></a></li>
+        </ul>
+    </nav>
+    <div class="tab-content col-xs-12 frag_div">
+        <div class="tab-pane fade in active" id="fragment-1">
+            <h1 align="center">Welcome to ncREnvironment</h1>
+            <div class="col-xs-5 col-xs-offset-1" style="margin-top:20px;">
+                <span style="color: blue;"><b>ncREnvironment</b></span> is a database that curates experiment-supported evidence for <span style="color: red;">non-coding RNAs</span> <span style="color: orange;">[</span>including microRNAs (miRNAs), long non-coding RNAs (lncRNAs) and circular RNAs (circRNAs)<span style="color: orange;">]</span>, <span style="color: red;">environmental factors</span> and their associated <span style="color: red;">phenotypes</span>, and is the updated version of miREnvironment ( <a href="http://www.cuilab.cn/miren/">http://www.cuilab.cn/miren</a>) which were released on June 28, 2011. Through manual curation of over 12,000 papers, a more than five-fold growth of entries has been achieved in comparison with previous database, which contains a comprehensive collection and curation of experiment-supported evidence among miRNAs, lncRNAs, circRNAs, environmental factors and phenotypes and represents a biomedical resource for researches on ncRNAs, environmental factors and diseases.
+            </div>
+            <div class="col-xs-5" style="margin-top:20px;">
+                <b>Statistics:</b>
+                <p>Currently, ncREnvironment integrated <b>24274</b> entries from <b>12091</b> publications, involving <b>3956</b> miRNAs, <b>1320</b> lncRNAs, <b>565</b> circRNAs, <b>3157</b> environmental factors, <b>2781</b> phenotypes, and <b>82</b> species.</p>
+                <b>History:</b>
+                <p>June 26, 2021, ncREnvironment Database was released.</p>
+                <b>Quick start:</b>
+                <p style="margin-top:8px;"><a id="jump_browse" href="#">Browse the database</a></p>
+                <p><a id="jump_search" href="#">Search the database</a></p>
+                <p><a id="jump_download" href="#">Download data</a></p>
+            </div>
+            <div class="col-xs-11 col-xs-offset-1" style="border:0px solid red;">
+                <hr>
+                <h4>Related Databases:</h4>
+                <div style="float: left;text-align: center; margin-right:5px;">
+                    <a href="https://go.drugbank.com/" target="_blank"><img height="35px" width="120px" src="/static/ncren/images/drugbank.png" /></a><br/>
+                    <span><b>DrugBank</b></span>
+                </div>
+                <div style="float: left;text-align: center; margin-right:5px;">
+                    <a href="http://db.idrblab.net/ttd/" target="_blank"><img height="35px" width="160px" src="/static/ncren/images/ttd.png" /></a><br/>
+                    <span><b>Therapeutic Target Database</b></span>
+                </div>
+                <div style="float: left;text-align: center; margin-right:5px;">
+                    <a href="http://www.noncode.org/" target="_blank"><img height="35px" width="120px" src="/static/ncren/images/NONCODE.png" /></a><br/>
+                    <span><b>NONCODE</b></span>
+                </div>
+                <div style="float: left;text-align: center; margin-right:5px;">
+                    <a href="https://www.omim.org/" target="_blank"><img height="35px" width="80px" src="/static/ncren/images/OMIM.png" /></a><br/>
+                    <span><b>OMIM</b></span>
+                </div>
+                <div style="float: left;text-align: center; margin-right:5px;">
+                    <a href="http://varidt.idrblab.net/" target="_blank"><img height="35px" width="120px" src="/static/ncren/images/VARIDT.png" /></a><br/>
+                    <span><b>VARIDT</b></span>
+                </div>
+                <div style="float: left;text-align: center; margin-right:5px;">
+                    <a href="http://intede.idrblab.net/ttd/" target="_blank"><img height="35px" width="120px" src="/static/ncren/images/INTEDE.png" /></a><br/>
+                    <span><b>INTEDE</b></span>
+                </div>
+                <div style="float: left;text-align: center;">
+                    <a href="https://www.ncbi.nlm.nih.gov/mesh" target="_blank"><img height="35px" width="120px" src="/static/ncren/images/MeSH.png" /></a><br/>
+                    <span><b>MeSH</b></span>
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="fragment-2">
+            <div class="col-xs-3" style="overflow: auto; height:750px;background-color: #DFEFFC;margin-top:20px;">
+                <ul id="treeDemo" class="ztree"></ul>
+            </div>
+            <div class="col-xs-9" id="browse_div" name="browse_div" style="overflow: auto;margin-top:20px;display: block;">
+                <table class="table table-striped table-condensed table-bordered" id="browse_table">
+                    <thead style="background-color: #0BA3A8; color:white;">
+                    <tr>
+                        <th width="6%">Detail</th>
+                        <th width="20%">Non-coding RNA</th>
+                        <th width="50%">Environmental factor (EF)</th>
+                        <th width="20&">Phenotype</th>
+                    </tr>
+                    </thead>
+                    <tbody id="browse_tbody">
+                    <tr>
+                        <td align="center"><a href="#" class="plus"><span class="glyphicon glyphicon-minus"></span></a></td>
+                        <td><a href="http://www.noncode.org/gene_trans_search.php?keyword=hsa-let-2b-5p" target="_blank">hsa-let-2b-5p</a></td>
+                        <td>IL-1β</td>
+                        <td><a href="https://www.ncbi.nlm.nih.gov/omim/?term=osteoarthritis" target="_blank">osteoarthritis (OA)</a></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <div class="panel panel-success">
+                                <div class="panel-heading">Detailed information</div>
+                                <div class="panel-body">
+                                    <table class="table table-bordered">
+                                        <tr>
+                                            <td width="20%">PubMed ID</td>
+                                            <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27152662" target="_blank">27152662</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Species</td>
+                                            <td>Human</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sample</td>
+                                            <td>human Osteoarthritis Chondrocytes</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Condition of EF</td>
+                                            <td><a href="https://go.drugbank.com/unearth/q?searcher=drugs&query=Interleukin" target="_blank">Interleukin-1β</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Evidence</td>
+                                            <td>dysregulated</td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="fragment-3" style="font-size:16px;">
+            <form action="/ncren/search/" method="get" id="search_form" target="search_iframe">
+                <div class="col-xs-12 panel panel-success" style="margin-top:20px;">
+                    <div class="panel-heading"><span><b>Please search the database with one or multiple keywords to find the related information:</b></span></div>
+                    <div class="panel-body">
+                        <div class="col-xs-3 search_item"><span><b>Non-coding RNA:</b></span></div>
+                        <div>
+                            <input class="search_input" type="text" id="ncrna" name="ncrna" placeholder="Please enter or select a non-coding RNA." list="rna_list"/>
+                            <datalist id="rna_list"></datalist>
+                            <span>e.g. hsa-mir-21, let-7, LINC00114, circARF3, etc</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12" style="margin-top:10px;">
+                        <div class="col-xs-3  search_item"><span><b>Environmental factor: </b></span></div>
+                        <div><input class="search_input" type="text" id="ef" name="ef" list="ef_list" placeholder="Please enter or select an environment factor."/>
+                        <datalist id="ef_list"></datalist><span>e.g. H2O2, alcohol, light, etc</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12" style="margin-top:20px;">
+                        <div class="col-xs-3  search_item"><span><b>Phenotype:</b></span></div>
+                        <div><input class="search_input" type="text" id="pheno" name="pheno" list="pheno_list" placeholder="Please enter or select a phenotype."/>
+                        <datalist id="pheno_list"></datalist><span>e.g. Alzheimer's disease, breast cancer, heart failure, etc</span>
+                        </div>
+
+                    </div>
+                    <div class="col-xs-12" style="margin-top:20px;">
+                        <div class="col-xs-3 search_item"><span><b>Species:</b></span></div>
+                        <div><input class="search_input" type="text" id="species" name="species" list="species_list" placeholder="Please enter or select a species."/>
+                        <datalist id="species_list"></datalist><span>e.g. Mouse, Rat, Human, Monkey, etc</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12" style="margin-top: 20px;text-align: center;">
+                        <button class="btn btn-info" type="button" id="example_btn">Example</button>
+                        <button class="btn btn-info" type="button" id="clear_btn">Clear</button>
+                        <button class="btn btn-info" type="submit" id="search_btn">Search</button>
+                    </div>
+                </div>
+            </form>
+            <iframe src="/ncren/search_result/" name="search_iframe" style="width:1150px;min-height:950px;" frameborder="0">
+            </iframe>
+        </div>
+        <div class="tab-pane fade" id="fragment-4">
+            <table class="table table-bordered table-striped" width="100%" style="font-size:16px;margin-top:20px;">
+                <thead style="background-color: #9DCCD8; color: white;">
+                    <th>File list</th>
+                    <th>Description</th>
+                    <th>Download</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>ncREnvironmentAllData</td>
+                        <td>All data of ncREnvironment</td>
+                        <td><a href="{% static "ncren/download/ncREnvironmentData.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/ncREnvironmentData.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Human & circRNA</td>
+                        <td>circRNA-environment factor-phenotype data in human species</td>
+                        <td><a href="{% static "ncren/download/Human_circRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Human_circRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Human & lncRNA</td>
+                        <td>lncRNA-environment factor-phenotype data in human species</td>
+                        <td><a href="{% static "ncren/download/Human_lncRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Human_lncRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Human & miRNA</td>
+                        <td>miRNA-environment factor-phenotype data in human species</td>
+                        <td><a href="{% static "ncren/download/Human_miRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Human_miRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Mouse & circRNA</td>
+                        <td>circRNA-environment factor-phenotype data in mouse species</td>
+                        <td><a href="{% static "ncren/download/Mouse_circRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Mouse_circRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Mouse & lncRNA</td>
+                        <td>lncRNA-environment factor-phenotype data in mouse species</td>
+                        <td><a href="{% static "ncren/download/Mouse_lncRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Mouse_lncRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Mouse & miRNA</td>
+                        <td>miRNA-environment factor-phenotype data in mouse species</td>
+                        <td><a href="{% static "ncren/download/Mouse_miRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Mouse_miRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Rat & circRNA</td>
+                        <td>circRNA-environment factor-phenotype data in rat species</td>
+                        <td><a href="{% static "ncren/download/Rat_circRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Rat_circRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Rat & lncRNA</td>
+                        <td>lncRNA-environment factor-phenotype data in rat species</td>
+                        <td><a href="{% static "ncren/download/Rat_lncRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Rat_lncRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Rat & miRNA</td>
+                        <td>miRNA-environment factor-phenotype data in rat species</td>
+                        <td><a href="{% static "ncren/download/Rat_miRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Rat_miRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Other & circRNA</td>
+                        <td>circRNA-environment factor-phenotype data in other species</td>
+                        <td><a href="{% static "ncren/download/Other_circRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Other_circRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Other & lncRNA</td>
+                        <td>lncRNA-environment factor-phenotype data in other species</td>
+                        <td><a href="{% static "ncren/download/Other_lncRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Other_lncRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Other & miRNA</td>
+                        <td>miRNA-environment factor-phenotype data in other species</td>
+                        <td><a href="{% static "ncren/download/Other_miRNA.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Other_miRNA.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>miRNA list</td>
+                        <td>All miRNAs in ncREnvironment</td>
+                        <td><a href="{% static "ncren/download/ncREnvironmentData.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/ncREnvironmentData.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>lncRNA list</td>
+                        <td>All lncRNAs in ncREnvironment</td>
+                        <td><a href="{% static "ncren/download/lncRNA_list.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/lncRNA_list.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>circRNA list</td>
+                        <td>All circRNAs in ncREnvironment</td>
+                        <td><a href="{% static "ncren/download/circRNA_list.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/circRNA_list.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Environmental factor list</td>
+                        <td>All environmental factors in ncREnvironment</td>
+                        <td><a href="{% static "ncren/download/EF_list.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/EF_list.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Phenotype list</td>
+                        <td>All phenotypes in ncREnvironment</td>
+                        <td><a href="{% static "ncren/download/Phenotype_list.txt" %}" download="">txt</a> or <a href="{% static "ncren/download/Phenotype_list.xlsx" %}" download="">excel</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="tab-pane fade" id="fragment-5">
+            <div class="col-xs-12">
+                <div class="col-xs-4" id="help_nav">
+                    <div class="panel panel-default">
+                        <div class="panel-heading"><h4>Navigation</h4></div>
+                        <div class="panel-body">
+                            <ul class="nav nav-pills nav-stacked">
+                                <li class=""><a href="#help1_div">What is ncREnvironment</a></li>
+                                <li class=""><a href="#help2_div">How to use ncREnvironment</a></li>
+                                <li class=""><a href="#help2-1"><span class="caret-right"></span> Browse</a></li>
+                                <li class=""><a href="#help2-2"><span class="caret-right"></span> Search</a></li>
+                                <li class=""><a href="#help2-3"><span class="caret-right"></span> Result</a></li>
+                                <li class=""><a href="#help2-4"><span class="caret-right"></span> Download</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-8">
+                    <div class="panel panel-default" id="help1_div">
+                        <div class="panel-heading"><h4>What is ncREnvironment</h4></div>
+                        <div class="panel-body"><p>ncREnvironment is a database that curate and collect experiment-supported non-coding RNAs and environmental factors (EFs) and their associated phenotypes. Currently, ncREnvironment integrated 24276 entries from 12091 publications, involving 3956 miRNAs, 1320 lncRNAs, 565 circRNAs, 3157 environmental factors, 2781 phenotypes, and 82 species. In the database, ncREnvironment database provides the function of browse, search and download for users.</p></div>
+                    </div>
+                    <div class="panel panel-default" id="help2_div">
+                        <div class="panel-heading"><h4>How to use nvREnvironment</h4></div>
+                        <div class="panel-body">
+                            <h5 class="panel-title text-info" id="help2-1">Browse</h5><br/>
+                            <p>The browse page consists of three parts: <p>
+                            <p>(1). The directory tree in the left panel, users can click '+' button to view the detailed classifications or entries. Non-coding RNAs mainly include miRNAs, lncRNAs and circRNAs. As for species, it mainly shows human, mouse, rat and other species. </p>
+                            <p>(2). In the right panel, we show the ncRNA-EF-phenotype list that users are interested in. Besides, users can click the "+" button in the "Detail" column to view the detailed information, such as PubMed ID, Species, Sample, Condition of EF and Evidence.</p>
+                        </div>
+                        <img src="{% static "ncren/images/help01.png" %}" style="width:100%;"/>
+                        <div class="panel-body">
+                            <h5 class="panel-title text-info" id="help2-2">Search</h5><br/>
+                            <p>In the search page, we provide an advanced search capability, users can obtain the ncRNA-EF-Phenotype associations by enter one or multiple keywords, such as ncRNA name, environmental factor name, species and their combination. ncREnvironment will return fuzzy matching results. </p>
+                        </div>
+                        <img src="{% static "ncren/images/help02.png" %}" style="width:100%;"/>
+                        <div class="panel-body">
+                            <h5 class="panel-title text-info" id="help2-3">Result</h5><br/>
+                            <p>In the search result panel, users can view the ncRNA-EF-phenotype list of interests.</p>
+                            <img src="{% static "ncren/images/help03.png" %}" style="width:100%;"/>
+                            <p> More information about the entry is also displayed while users click the "+" button in 'Detail' column.</p>
+                            <img src="{% static "ncren/images/help04.png" %}" style="width:100%;"/>
+                        </div>
+                        <div class="panel-body">
+                            <h5 class="panel-title text-info" id="help2-4">Download</h5><br/>
+                            <p>To download data in the database, click the “Download” menu. ncREnvironment provides two formats of downloadable file for the whole data in Text and Excel formats, respectively. Moreover, files for the lists of miRNAs, lncRNAs, circRNAs, environmental factors, and phenotypes are also given.</p>
+                        </div>
+                        <img src="{% static "ncren/images/help05.png" %}" style="width:100%;"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="fragment-6">
+            <div class="panel panel-success" style="margin-top:20px;width:80%;margin-left:100px;">
+                <div class="panel-heading"><h4>About us</h4></div>
+                <div class="panel-body">
+                    <p>ncREnvironment results from collaboration between groups from Wannan Medical College and Peking University Health Science Center. </p><br/>
+                    <p style="color:red;">ncREnvironment database is free only for academic usage. For commercial useage, please contact the following PIs.</p><br/>
+                    <p>Group PIs:</p><br/>
+                    <p>Dr. Kun Lv</p>
+                    <p>Key Laboratory of Non-coding RNA Transformation Research of Anhui Higher Education Institutes and Central Laboratory of The First Affiliated Hospital (Yijishan Hospital), Wannan Medical College, Wuhu, China</p>
+                    <p>Email: <a href="mailto:lvkun315@125.com" style="color:red;">lvkun315@126.com</a></p><br/>
+                    <p>Dr. Qinghua Cui (the founder of miREnvironment database)</p>
+                    <p>Department of Biomedical Informatics, Peking University Health Science Center, Beijing, China</p>
+                    <p>Email: <a href="mailto:cuiqinghua@hsc.pku.edu.cn" style="color:red;">cuiqinghua@hsc.pku.edu.cn</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12" style="margin-top:10px;">
+        <div class="col-xs-1"><span style="font-size:16px;"><b>Citation:</b></span></div>
+        <div class="col-xs-11">
+            <p  style="font-size:16px; margin-left:-10px;">
+                1. Yang Q, Qiu C, Yang J, Wu Q, and Cui Q*. miREnvironment Database: providing a bridge for microRNAs, environmental factors, and phenotypes. Bioinformatics 2011(27): 3329-3330.
+            </p>
+        </div>
+    </div>
+    <a href="#" class="back-to-top" style="font-size: 50px;" >
+        <span class="glyphicon glyphicon-circle-arrow-up"></span>
+    </a>
+
+<script src="{% static "public/jquery/jquery-1.12.4.min.js" %}"></script>
+<script src="{% static "public/bootstrap/js/bootstrap.min.js" %}"></script>
+<script src="{% static "public/ztree/js/jquery.ztree.core.min.js" %}"></script>
+<script src="{% static "ncren/js/main.js" %}"></script>
+<script type="text/javascript">
+    var setting = {
+        data: {
+            simpleData: {
+                enable: true,
+                idKey: "id",
+                pIdKey: "pId",
+            }
+        },
+        async: {
+            enable: true,
+            url:"/ncrenapp/ztree/",
+            autoParam: ["id","name"],
+            dataFilter: filter
+        },
+        callback: {
+            onClick : zTreeOnClick
+        },
+    };
+    var treeNodes = [
+        {id: 1, pId: 0, name: "ncRNA", open: true},
+        {id: 10, pId: 1, name: "miRNA",open: true},
+        {id: 100, pId: 10, name: "Human",isParent: true},
+        {id: 101, pId: 10, name: "Mouse",isParent: true},
+        {id: 102, pId: 10, name: "Rat",isParent: true},
+        {id: 103, pId: 10, name: "Other",isParent: true},
+        {id: 11, pId: 1, name: "lncRNA"},
+        {id: 110, pId: 11, name: "Human",isParent: true},
+        {id: 111, pId: 11, name: "Mouse",isParent: true},
+        {id: 112, pId: 11, name: "Rat",isParent: true},
+        {id: 113, pId: 11, name: "Other",isParent: true},
+        {id: 12, pId: 1, name: "circRNA"},
+        {id: 120, pId: 12, name: "Human",isParent: true},
+        {id: 121, pId: 12, name: "Mouse",isParent: true},
+        {id: 122, pId: 12, name: "Rat",isParent: true},
+        {id: 123, pId: 12, name: "Other",isParent: true},
+        {id: 2, pId: 0, name: "Environmental factor",isParent: true},
+        {id: 3, pId: 0, name: "Phenotype",isParent: true},
+    ];
+
+    function filter(treeId, parentNode, childNodes){
+        if(!childNodes) return null;
+        console.log(childNodes);
+        return childNodes;
+    }
+
+    function zTreeOnClick(event, treeId, treeNode){
+        var node = treeNode.name[0];
+        node = $.trim(node);
+        var pid = treeNode.pId;
+        if(!treeNode.isParent){
+            $.ajax({
+                type: 'get',
+                url: '/ncrenapp/browse_node/',
+                data: {
+                    node: node,
+                    pid: pid,
+                },
+                success: function (data) {
+                    table_str = "";
+                    a = "<tr><td align=\"center\"><a href=\"javascript:void(0)\" class=\"plus\"><span class=\"glyphicon glyphicon-plus\"></span></a></td>";
+                    tr = "<tr>";
+                    td = "<td>";
+                    tdd = "</td>";
+                    trr = "</tr>";
+                    aa = "<tr style=\"display:none;\"><td colspan=\"4\"><div class=\"panel panel-success\"><div class=\"panel-heading\">Detailed information</div><div class=\"panel-body\"><table class=\"table table-bordered\"><tr><td width=\"20%\">Pubmed ID</td><td><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/";
+                    for(var i=0; i<data.length;i++){
+                        table_str += a+td+"<a href=\"http://www.noncode.org/gene_trans_search.php?keyword="+data[i].ncrna+"\" target=\"_blank\">"+data[i].ncrna+"</a>"+tdd+td+data[i].ef+tdd+td+"<a href=\"https://www.ncbi.nlm.nih.gov/omim/?term="+data[i].pheno+"\" target=\"_blank\">"+data[i].pheno+"</a>"+tdd+trr+aa+data[i].pmid+"\" target=\"_blank\">"+data[i].pmid+"</a>"+tdd+trr+tr+td+"Species"+tdd+td+data[i].species+tdd+trr+tr+td+"Sample"+tdd+td+data[i].sample+tdd+trr+tr+td+"Condition of EF"+tdd+td+"<a href=\"https://go.drugbank.com/unearth/q?searcher=drugs&query="+data[i].ef_condition+"\" target=\"_blank\">"+data[i].ef_condition+"</a>"+tdd+trr+tr+td+"Evidence"+tdd+td+data[i].evidence+tdd+trr+"</table></div></div></td></tr>";
+                    }
+                    $('#browse_tbody').html(table_str);
+                    $("#browse_div").css("display","block");
+                }
+            });
+        }else{
+            return false;
+        }
+    }
+
+    $(document).ready(function () {
+        $.fn.zTree.init($("#treeDemo"), setting, treeNodes);
+    });
+    $(document).on('click','.plus',function(){
+        if($(this).find('span').hasClass('glyphicon-plus')){
+            $(this).find('span').removeClass("glyphicon-plus").addClass("glyphicon-minus");
+            $(this).parent().parent().next().toggle(500);
+        }else{
+            $(this).find('span').removeClass("glyphicon-minus").addClass("glyphicon-plus");
+            $(this).parent().parent().next().toggle(500);
+        }
+    })
+</script>
+{#<script type="text/javascript">#}
+{#    $(document).ready(function () {#}
+{#        var menuYloc = $("#help_nav").offset().top; //此ID为随着屏幕滚动div的ID#}
+{#        $(window).scroll(function () {#}
+{#            var offsetTop = menuYloc + $(window).scrollTop() + "px" ;#}
+{#            $("#help_nav").animate({ top: offsetTop }, { duration: 200, queue: false }); //此ID为随着屏幕滚动div的ID#}
+{#        });#}
+{#    });#}
+{#</script>#}
+<script type="text/javascript">
+    $(window).scroll(function () {
+        if($(this).scrollTop() > 100){
+            $('.back-to-top').fadeIn('slow');
+        }else{
+            $('.back-to-top').fadeOut('slow');
+        }
+    });
+    $('.back-to-top').click(function () {
+        $('html, body').animate({
+            scrollTop: 0
+        },500);
+        return false;
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>系统登录</title>
+    <link href="{% static 'ams/bootstrap5/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'ams/bootstrap5/font/bootstrap-icons.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'ams/css/style.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body class="login_body">
+<div class="div_1">
+    <div class="div_2">
+        <img src="{% static 'ams/image/head.gif' %}" width="200px" height="50px">
+        <div class="div_3">
+            <span>师生获奖管理系统</span>
+        </div>
+    </div>
+    <div>
+        <div style="margin-top:20px;">
+            <span class="span_1">欢迎登录</span>
+            <a href="#" class="a_1">忘记密码?</a>
+        </div>
+    </div>
+    <form action="/ams/userlogin" method="post" name="form_1">
+        {% csrf_token %}
+        {% if fail_str %}
+            <div class="login_fail">{{ fail_str }}</div>
+        {% endif %}
+        <div class="input-group input_1">
+            <span class="input-group-text" id="icon_1"><i class="bi bi-person-fill"></i></span>
+            <input type="text" class="form-control form-control-lg " name="username" placeholder="用户名" aria-describedby="icon_1">
+        </div>
+        <div class="input-group input_1">
+            <span class="input-group-text" id="icon_2"><i class="bi bi-unlock-fill"></i></span>
+            <input type="password" class="form-control form-control-lg " name="password" placeholder="密码" aria-describedby="icon_2">
+        </div>
+        <input type="submit" class="btn btn_1" value="提交">
+    </form>
+</div>
+</body>
+</html>

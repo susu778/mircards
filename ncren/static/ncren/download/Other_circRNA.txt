@@ -1,0 +1,13 @@
+ID	Species	ncRNA	ncRNA type	Environmental factor (EF)	Phenotype	Sample	Condition of EF	Evidence	PubMed ID
+1	Chicken	circVav3	circRNA	avian leukosis virus (ALV-J)	hepatocellular carcinoma (HCC)	vascular smooth muscle cells from high-fat diet fed ApoE-/- mice	avian leukosis virus subgroup J (ALV-J) infection	circ-Vav3 was upregulated in the liver tumors of chickens infected with ALV-J.	30608205
+2	Chicken	gga_circ_0002209	circRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen	marek's disease virus (MDV) infection	upregulated	31948317
+3	Chicken	gga_circ_0003618	circRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen	marek's disease virus (MDV) infection	downregulated	31948317
+4	Chicken	gga_circ_0008071	circRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen	marek's disease virus (MDV) infection	downregulated	31948317
+5	Chicken	gga_circ_0009435	circRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen	marek's disease virus (MDV) infection	upregulated	31948317
+6	Chicken	gga_circ_0009437	circRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen	marek's disease virus (MDV) infection	upregulated	31948317
+7	Chicken	gga_circ_0015132	circRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen	marek's disease virus (MDV) infection	downregulated	31948317
+8	Laodelphax striatellus	lst_circ_2030	circRNA	Rice black-streaked dwarf virus (RBSDV)	rice black-streaked dwarf virus (RBSDV) infection	striatellus midgut tissues	Rice black-streaked dwarf virus (RBSDV) infection treatment	upregulated	33117326
+9	Pig	circCDR1as	circRNA	bufalin	cardiac remodeling and heart failure	heart tissues	bufalin treatment	Bufalin treatment additionally led to increased expression of CDR1as of the AMI region.	32823854
+10	Pig	circEZH2	circRNA	transmissible gastroenteritis virus (TGEV)	transmissible gastroenteritis (TGE)	porcine intestinal epithelial cell line (IPEC-J2)	TGEV infection treatment	mPTP opening of IPEC-J2 was occured during TGEV infection and suppressed by circEZH2 via attaching miR-22	31592229
+11	Tomato	sly-circRNA45	circRNA	Phytophthora infestans (P. infestans)	tomato resistance	tomato	Phytophthora infestans (P. infestans) infection treatment	"Upon P infestans infection, the relative expression of circRNA45 was continuously downregulated from 0 to 36 h post infection (hpi), subsequently upregulated at 48 hpi, and reached the peak at 72 hpi, eventually downregulated at 96 hpi"	32259631
+12	Tomato	sly-circRNA47	circRNA	Phytophthora infestans (P. infestans)	tomato resistance	tomato	Phytophthora infestans (P. infestans) infection treatment	"circRNA47 was persistently downregulated from 0 to 24 hpi, then upregulated from 36 to 72 hpi, finally downregulated at 96 hpi"	32259631

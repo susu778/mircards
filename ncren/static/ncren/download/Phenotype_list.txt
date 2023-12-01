@@ -1,0 +1,2655 @@
+phenotype
+"1-methyl-4-phenyl-1, 2, 3, 6- tetrahydropyridine (MPTP)-induced neurotoxicity"
+"2,5-hexanedione (HD) toxicity"
+4-Aminobiphenyl (4-ABP)-induced liver injury
+5-fluorouracil (5-FU) induced nephrotoxicity
+6-mer HA-induced inflammation
+"7,12-dimethylbenz(¦Á)anthracene (DMBA) toxicity"
+abdominal aortic aneurysm (AAA)
+abdominal cancer
+aberrant crypt foci
+aberrant endothelial function
+aberrant scar
+abiotic stress response
+abnormal lipid accumulation
+abnormal migration and proliferation
+accelerated glycolysis
+acceleration of the cell cycle and carcinogenesis
+acclimation to salinity
+acetaminophen (APAP)-induced liver injury (AILI)
+achilles tendon injury
+acidosis
+acidovorax avenae infection
+acne
+acoustic neuroma
+acquired immune deficiency syndrome (AIDS)
+actinobacillus pleuropneumoniae infection
+activation of hepatic stellate cells (HSCs)
+active anti-neutrophil cytoplasm antibody-associated vasculitis (AAV)
+active hepatitis or cirrhosis
+active pterocarpanquinone LQB-118 cytotoxicity
+active tuberculosis (ATB)
+"acute ""SLE-like"" lung inflammation"
+acute alcoholic liver injury
+acute allograft rejection (AR) after renal transplant
+acute aortic dissection (AAD)
+acute cardiac injury
+acute cartilage injury
+acute cellular rejection
+acute cerebral infarction
+acute contusion
+acute coronary syndrome (ACS)
+acute diabete
+acute edematous pancreatitis (AEP)
+acute gastric mucosal injury
+acute gout
+acute gouty arthritis (AGA)
+acute graft-versus-host disease (aGVHD)
+acute hepatitis
+acute inflammatory lung injury
+acute inflammatory response
+acute ischemic and hemorrhagic stroke
+acute ischemic stroke (AIS)
+acute Kawasaki disease (KD)
+acute kidney injury (AKI)
+acute kidney ischemia/reperfusion injury (IRI)
+acute liver failure (ALF)
+acute liver injury (ALI)
+acute lung injury (ALI)
+acute Lung Injury (ALI)/acute respiratory distress syndrome (ARDS)
+acute lymphoblastic leukemia (ALL)
+acute mountain sickness (AMS)
+acute myeloid leukemia (AML)
+acute myocardial infarction (AMI)
+acute neurotoxicity
+acute ocular hypertension (AOH)
+acute organophosphorus(OP) pesticide poisoning
+acute pancreatic injury
+acute pancreatitis (AP)
+acute pancreatitis (AP) with lung injury (LI)
+acute paraquat (PQ) poisoning
+acute peripheral ischemia
+acute pneumonia
+acute poststroke
+acute promyelocytic leukemia (APL)
+acute pulmonary embolism (APE)
+acute respiratory distress syndrome (ARDS)
+acute spinal cord injury (ASCI)
+acute spontaneous intracerebral hemorrhage (ICH)
+acute stress
+acute stroke
+acute tubular injury
+acute viral myocarditis (VM)
+acute-on-chronic liver failure (ACLF)
+adaptation of tendons to mechanical loading
+adaptation to hypoxia
+adaptation to the environment
+addiction
+adeno and squamous-cell-carcinoma
+adeno-associated virus (AAV) infection
+adenocarcinomas
+adenomyosis
+adipocyte and osteoblast differentiation
+adipocyte apoptosis
+adipogenesis
+adipogenesis and obesity
+adipogenic and osteogenic differentiation
+adipogenic differentiation
+adipose inflammation
+adipose tissue remodeling
+adipose-derived stem cells (ASCs) differentiation
+adjuvant-induced arthritis (AIA)
+adrenal steroid production
+adrenocortical carcinoma
+adriamycin (ADR) treatment in breast cancer
+adult T-cell leukemia (ATL)
+advanced colorectal cancer (CRC)
+advanced gastric cancers (AGCs)
+advanced lung cancer
+advanced pancreatic cancer (PC)
+advanced periodontal disease
+advanced-stage small-cell lung cancer (SCLC)
+adverse biological responses to prostheses wear particles
+against cancer
+against intertidal stress
+age-associated loss of muscle mass
+"ageing, activation of Rho signalling"
+age-related cataract (ARC)
+age-related cognitive decline
+age-related hearing loss (AHL)
+age-related macular degeneration (AMD)
+age-related nuclear cataract
+aging
+aging-induced vascular dysfunction
+aging-related non-alcoholic fatty liver disease (NAFLD)
+agonism
+air pollution
+air pollution-induced placental epigenetic alterations
+airway diseases
+airway epithelial injury
+airway inflammation
+airway remodeling
+alcohol addiction
+alcohol exposure
+alcohol stress
+alcohol toxicity
+alcohol use disorders (AUDs)
+alcoholic cardiomyopathy (ACM)
+alcoholic fatty liver disease
+alcoholic hepatitis (AH)
+alcoholic liver disease (ALD)
+alcoholic liver fibrosis (ALF)
+alcoholic liver injury
+alcohol-induced anxiolysis
+alcohol-induced tumor angiogenesis
+alcohol-related tissue damage
+allergic airway diseases (AAD)
+allergic airway inflammation
+allergic asthma (AA)
+allergic bronchial asthma
+allergic conjunctivitis (AC)
+allergic contact dermatitis (ACD)
+allergic disease
+allergic inflammation
+allergic inflammation of dendritic cells (DCs)
+allergic rhinitis (AR)
+allergies and bronchial asthma
+alloimmune
+alopecia
+alternative splicing
+aluminum (Al) toxicity
+alveolar bone regeneration
+Alzheimer's disease (AD)
+alzheimer-type inflammatory
+ammonia (NH3) toxicity
+amoxicillin/clavulanate-induced liver injury (AC-DILI)
+anabolic-Androgenic Steroids (AASs)-induced renal damage
+anacardic acid (AnAc) activity
+analgesic effects
+anaplastic lymphoma kinase positive anaplastic large cell lymphomas
+anaplastic thyroid carcinoma (ATC)
+anastomotic fibrosis
+ancestral TCDD exposure
+ancreatic cancer (PC)
+andes hantavirus (ANDV) infection
+androgenetic alopecia (AGA)
+anemia
+anesthesia-induced cognitive impairment
+anesthesia-induced neural cytotoxicity
+Ang-1-induced endothelial cell migration and differentiation
+angina
+angina and hypertension
+angiogenesis
+angiogenesis 
+angiomodulation
+angiostrongylus cantonensis (A. cantonensis) infection
+angiotensin II (Ang II)-induced human glomerular mesangial cell (HGMC) activation
+anhedonic and anxiogenic behaviours
+anisakiasis
+ankylosing spondylitis (AS)
+anorectal malformations (ARM)
+antagonistic cytotoxic
+anthocyanin biosynthetic
+anthracycline-induced cardiomyocyte apoptosis
+anti-adipogenic
+anti-aging effect of Codonopsis pilosula
+antiangiogenic
+antiapoptotic
+antiarrhythmic
+antibody-mediated systemic autoimmunity
+anti-cancer therapy
+anticoagulation
+antidepressant
+antiepileptic drug (AED) resistance
+anti-inflammatory responses
+anti-mycobacterial response
+anti-osteosarcoma effect
+antioxidant defense
+antioxidant enzymes
+anti-Plasmodium response
+anti-proliferative action
+antiviral immune response
+anxiety- and trauma-related disorders
+anxiolysis
+aorta inflammation
+aortic aneurysmal disease
+aortic dissection (AD)
+aortic endothelial function
+aortic stenosis
+aoxorubicin-induced myocardial toxicity
+apical periodontitis (AP)
+aplastic anemia (AA)
+apoptosis
+apoptosis 
+argonaute protein induct kidney
+aristolochic acid nephropathy
+arrhythmogenesis
+arseniasis
+arsenic (As) toxicities
+arsenic carcinogenesis
+arsenic induced senescence (AIS)
+arsenic induted deficits in differentiation
+arsenic inhibited cellular differentiation
+arsenic poisoning
+arsenic-exposion
+arsenic-induced apoptosis
+arsenic-induced liver injury
+arsenic-induced multiorgan damage
+arsenic-induced neurotoxicity
+arsenic-induced renal dysfunction
+arsenic-induced skin lesions
+arsenicism
+arsenite-induced abnormal lipid metabolism
+arsenite-induced carcinogenesis
+arsenite-induced liver damage
+arterial calcification
+arterial hypertension
+arteriosclerosis (AS)
+arteriosclerosis obliterans (ASO)
+arthritis
+articular cartilage inflammation
+aryl hydrocarbon receptor (AhR)
+As2O3 cardiotoxicity
+asbestos toxicity
+asbestos-related malignancies
+ascular tone regulation
+Aspergillus fumigatus infection
+asphyxial death
+asthma
+asthma-induced hypotension
+astrocytic injury
+astronaut health
+atheroprotective
+atherosclerosis (AS)
+atherosclerosis and coronary heart disease
+atherosclerosis and restenosis
+atherosclerotic coronary heart disease (CHD)
+atherothrombotic risk in type 2 diabetes mellitus
+atopic dermatitis (AD)
+atrial arrhythmia
+atrial fibrillation (AF)
+atrial fibrosis
+atrial remodeling
+atypical teratoid/rhabdoid tumors (AT/RT)
+AuNP-induced lung pathogenesis
+autism spectrum disorder (ASD)
+autocrine and paracrine modulation
+autoimmune and inflammatory diseases
+autoimmune glomerulonephritis
+autoimmune hepatitis (AIH)
+autoimmune inflammation
+autoimmune lymphoproliferative syndrome
+autoimmune myocarditis
+autoimmune thyroiditis (AIT)
+autophagic cell death
+autophagosome formation
+autophagy
+avascular necrosis of the femoral head (ANFH)
+avian influenza virus (AIV) infection
+avian leukosis virus subgroup J (ALV-J) infection
+avian pathogenic Escherichia coli (APEC) infection
+B cell differentiation
+B lymphocytic leukemia
+B lymphoma
+bacterial infection
+bacterial meningitis (BM)
+bacterial pneumonia
+bacterial-induced endometritis
+bark dryness syndrome
+barley development and environmental response
+barrett's esophagus
+B-cell lymphomas
+B-cell malignant multiple myeloma£¨MM£©
+bedsore
+beet necrotic yellow vein virus (BNYVV) infection
+bee-virus interaction
+beige adipogenesis
+benefits of walnuts
+benign prostatic hyperplasia (BPH)
+benign prostatic hypertrophy (BPH)
+benzene toxicity
+benzene-induced carcinogenesis
+benzene-induced hematotoxicity
+Benzo(a)pyrene (BaP)-induced hepatotoxicity
+beryllium toxicity
+bilateral renal ischemia
+bile acid synthesis
+bile acid-associated liver pathologies
+bile-containing gastroesophageal reflux
+biliary atresia (BA)
+biliary atresia-related fibrosis
+biliary inflammation
+biologic and molecular activity of camptothecin
+biological effects of red mud
+bipolar disorder (BD)
+bipolar disorder type I (BD-I)
+bisphenol A (BPA) induced neurotoxicity
+Bisphenol A (BPA) toxicity
+Bisphenol S (BPS) toxicity
+bisphosphonate-induced osteonecrosis of the jaw (BONJ)
+bladder cancer
+bladder fibrosis
+bladder outlet obstruction (BOO)
+blast traumatic brain injury (bTBI)
+blinding ischemic retinopathies
+blindness
+blood-brain barrier (BBB) dysfunction
+blood-cerebrospinal fluid barrier (BCB)
+blood-spinal cord barrier (BSCB)
+blood-testis barrier (BTB) impairment
+bone and dental tissue regenerative applications
+bone cancer pain (BCP)
+bone defects
+bone development
+bone development and bone remodeling
+bone formation
+bone fractures
+bone graft defects
+bone homeostasis disorders
+bone infection or osteomyelitis
+bone loss
+bone malignancy
+bone marrow transplantation
+bone marrow-derived dendritic cells (BMDCs) maturity
+bone metabolism
+bone ossification
+bone regeneration
+bone remodeling
+bone resorption
+bone resorption of alkali
+bordetella pertussis infection
+borna disease virus (BDV) infection
+borna disease virus (BDV)?infection
+boron toxicity
+both systemic and mucosal infections
+botryosphaeria dothidea Infection
+botrytis cinerea (B. cinerea) infection
+bovine ephemeral fever virus (BEFV) infection
+bovine mastitis
+BPS-induced toxicity
+brain aging
+brain damage due to chronic heavy alcohol
+brain development
+brain edema
+brain endothelial cell damage
+brain growth deficits associated with prenatal alcohol exposure
+brain inflammation
+brain injury
+brain injury after stroke
+brain injury and neurodegeneration
+brain injury in diabetes mellitus (DM)
+brain ischemia-reperfusion (I/R) injury
+brain ischemic injury
+brain microvascular endothelial cell injury
+brain tissue inflammation (BTI)
+brain tumour
+brain vascular dysfunction
+brain-inflammation
+breakdown of blood-brain barrier (BBB)
+breast cancer
+bronchial asthma
+bronchial epithelial cell cancer
+bronchial epithelial inflammation in asthma
+bronchopneumonia
+bronchopulmonary dysplasia (BPD)
+brown adipocyte differentiation
+brown adipogenesis
+brown adipose tissue thermogenesis
+browning of white adipocytes
+brucellosis
+bupivacaine-induced neurotoxicity
+burkitt lymphoma (BL)
+burn-induced hyperglycemia
+burn-induced skeletal muscle atrophy
+bystander effect
+cadmium (Cd)-induced hepatoxicity
+cadmium (Cd)-induced inflammatory responses
+cadmium (Cd)-induced kidney injury
+cadmium (Cd)-induced reproductive toxicity
+cadmium pollution
+cadmium stress
+cadmium-induced toxicity
+calcific aortic valve disease (CAVD)
+calcification/senescence
+calcium deposition
+calcium oxalate (CaOx) nephrolithiasis
+calcium oxalate (CaOx) stone
+cancer and inflammation
+cancer cell apoptosis
+cancer cell epithelial-mesenchymal transition (EMT)
+cancer invasion
+cancer treatment
+cancer-associated fibroblasts (CAFs) activation
+candida albicans infection
+capillary morphogenesis
+carcinogenesis of cigarette smoke
+carcinogenic nephrotoxin ochratoxin A. toxicity
+carcinogen-initiated hepatocytes
+carcinoma of nasopharyngeal epithelial (CNE)
+cardiac arrest-induced brain damage
+cardiac arrhythmia
+cardiac conduction delay
+cardiac cytotoxicity
+cardiac decompensation secondary to acute severe caloric-restriction
+cardiac dysfunction
+cardiac electrical remodeling
+cardiac fibroblast migration
+cardiac fibroblast proliferation
+cardiac fibroblast-myofibroblast transformation (FMT)
+cardiac fibrosis
+cardiac fibrosis and hypertension
+cardiac hypertrophy
+cardiac hypertrophy and arrhythmia
+cardiac hypertrophy and fibrosis
+cardiac injury
+cardiac microvascular endothelial cells (CMECs) injury
+cardiac radiation-associated injury
+cardiac rehabilitation
+cardiac remodeling
+cardiac remodeling and cardiac dysfunction
+cardiac remodeling and heart failure
+cardiac surgery-associated acute kidney injury (CSA-AKI)
+cardiogenic stress
+cardiomyocyte apoptosis
+cardiomyocyte autophagy
+cardiomyocyte oxidative injury
+cardiomyocyte senescence
+cardiomyocytes against H/R injury
+cardiomyocytes against H2O2-Induced Apoptosis
+cardiomyocytes cell death
+cardiomyocytes injury
+cardiomyocytes proliferation and migration
+cardiomyopathy
+cardiomyopathy induced by sepsis
+cardioprotective therapy
+cardiorespiratory fitness
+cardiotoxicity
+cardiotoxicity of PM2.5
+"cardiotoxicity,cardiomyopathy and heart failure"
+cardiovascular complications of diabetes mellitus (DM)
+cardiovascular disease (CVD)
+cardiovascular disease risk in women during menopause
+cardiovascular function
+cardiovascular lineage development
+cardiovascular regeneration
+cardiovascular responses
+carotid artery atherosclerosis
+carotid restenosis
+cartilage defection
+cartilage destruction
+cartilage impact injury
+cartilage injury
+castration-resistant prostate cancer (CRPC)
+catabolic diseases
+cataract
+catecholamine resistance
+CD4+ T cells proliferation
+celiac disease (CD)
+cell activation
+cell apoptosis and autophagy
+cell apoptosis in early mouse embryo development
+cell cycle and proliferation
+cell cycle arrest
+cell damage
+cell death
+cell differentiation
+cell differentiation and apoptosis
+cell division
+cell function
+cell metabolism
+cell migration
+cell migration and tube formation
+cell proliferation
+cell proliferation and apoptosis
+cell proliferation and collagen synthesis
+cell proliferation and extracellular matrix (ECM) deposition
+cell proliferation and invasion
+cell proliferation and migration
+cell pyroptosis
+cell senescence
+cell toxicity
+cell transformation
+cell viability
+cell-based therapies
+cell-intrinsic angiogenic activity of ECs
+cell-to-cell communication
+cellular cholesterol export
+cellular defense against genotoxic agents
+cellular oxidative injury
+cellular physiology
+cellular protection and tumorigenesis
+cellular radiation response
+cellular responses to osmotic stress
+cellular stress response
+cementoblastogenesis
+cementum regeneration
+central fat accumulation
+central nervous system (CNS) development
+central nervous system of the developing fetus
+cerebral and renal vascular injuries
+cerebral arteriovenous malformation (AVM)
+cerebral artery occlusion
+cerebral edema
+cerebral hemorrhage
+cerebral hypoxic diseases
+cerebral infarction (CI)
+cerebral injury
+cerebral ischemia injury (CII)
+cerebral ischemia/reperfusion (I/R) injury
+cerebral ischemic stroke (CIS)
+cerebral microvascular endothelial cell (CMEC) injury
+cerebral palsy
+cerebral vascular endothelial injury
+cerebrovascular disease (CVD)
+cervical cancer (CC)
+cervical intraepithelial neoplasia (CIN) and cancer
+cervical remodeling
+cervical spondylotic
+cervical squamous cell carcinoma (SCC)
+chemical carcinogenesis
+chemoresistance of 5-fluorouracil (5-FU)
+chemoresistance of lymphoma
+chemoresistant leukemia
+chemotactic migration
+chemotherapy-induced cognitive impairment (CICI)
+chemotherapy-induced peripheral neuropathy (CiPN)
+chemotherapy-induced testicular atrophy
+chloroquine in inducing apoptosis of human hepatocellular carcinoma cells
+cholangiocarcinoma (CCA)
+cholangiocarcinoma and hepatocellular tumors
+cholestasis
+cholestatic liver injury
+cholesterol biosynthesis
+cholesterol efflux
+cholesterol homeostasis
+cholesterol metabolism
+cholesterol metabolism and atherogenesis
+cholesterol-induced inhibition of insulin secretion
+cholesterol-induced lipotoxicity
+cholinergic anti-inflammatory action
+chondrocyte apoptosis
+chondrocyte differentiation
+chondrocyte inflammation
+chondrogenesis
+chondrogenesis and metabolism
+chondrosarcoma
+choriocarcinoma
+choroidal neovascularization (CNV)
+choroidal neovascularization (CNV)-related diseases
+chromosomal damage
+chronic actinic dermatitis (CAD)
+chronic alcoholic liver disease (ALD)
+chronic allergic asthma
+chronic allograft dysfunction
+chronic apical periodontitis (CAP)
+chronic arsenic toxicity
+chronic atrophic gastritis (CAG)
+chronic brucella infection
+chronic cerebral hypoperfusion (CCH)
+chronic cerebral hypoperfusion (CCH)-induced learning and memory impairments
+chronic cholestasis and cholangiocarcinoma
+chronic constriction injury
+chronic gastritis and colitis
+chronic glomerulonephritis (CGN)
+chronic heart failure (CHF)
+chronic hepatitis
+chronic hepatitis and hepatocellular carcinoma (HCC)
+chronic hepatitis B virus (HBV) infection
+chronic hepatitis C virus (HCV) infection
+chronic high glucose-induced oxidative stress and mitochondrial dysfunction
+chronic human immunodeficiency virus (HIV) infection
+chronic hypoxia
+chronic hypoxic heart disease (CHD)
+chronic infection
+chronic inflammatory airway diseases
+chronic inflammatory bowel diseases (IBDs)
+chronic inflammatory diseases
+chronic inflammatory pain
+chronic inflammatory visceral pain (CIVP)
+chronic intermittent hypoxia (CIH)-induced atrial fibrosis
+chronic intestinal inflammation and colon cancer
+chronic kidney disease (CKD)
+chronic kidney disease (CKD) and end-stage renal disease (ESRD)
+chronic kidney disease (CKD) and upper urinary tract carcinoma (UUC)
+chronic liver disease
+chronic lung disease (CLD)
+chronic lymphocytic leukemia (CLL)
+chronic myeloid leukemia (CML)
+chronic nephropathy
+chronic neuropathic pain
+chronic nociception
+chronic nonbacterial prostatitis (CNP)
+chronic obstructive pulmonary disease (COPD)
+chronic ototoxicity
+chronic ovarian dysfunction
+chronic oxidative stress
+chronic pain
+chronic pancreatitis (CP)
+chronic periodontitis
+chronic proteinuric kidney
+chronic renal allograft dysfunction (CAD)
+chronic renal failure (CRF)
+chronic renal injury
+chronic respiratory disease (CRD)
+chronic rhinosinusitis with nasal polyps (CRSwNP)
+chronic skin inflammation in atopic eczema
+chronic systolic heart failure (CSHF)
+chronic vascular inflammation
+chronic visceral hypersensitivity
+chronic wounds
+chronic ¦Â-diketone antibiotic (DKAs) exposure
+chronically diabetic nephropathy
+circadian clockwork
+cirrhosis
+cirrhosis and hepatocellular cancer
+cirrhotic cardiomyopathy
+cirrhotic neuropathy
+cisplatin (DDP) resistance
+cisplatin (DDP)-induced nephrotoxicity
+citrus psorosis virus (CPsV) infection
+classical hodgkin lymphoma
+classical swine fever virus (CSFV) infection
+clear cell renal cell carcinoma (ccRCC)
+cleft palate (CP)
+clinical inflammatory lung disease
+clozapine (CLZ)-induced cardiotoxicities
+cocaine abuse-related cardiovascular disease
+cocaine addiction
+cognitive deficits
+cognitive function
+cognitive impairment
+cold stress
+colistin-induced kidney injury
+colitis
+colitis-associated colon cancer (CAC)
+collagen synthesis
+collagen-induced arthritis (CIA)
+colon tumorigenesis
+colonic inflammation
+colorectal cancer (CRC)
+comanifestation of cancer
+compensatory hyperplasia of islets
+complex regional pain syndrome (CRPS)
+congenital diaphragmatic hernia (CDH)
+congenital heart disease (CHD)
+congenital hypothyroidism (CH)
+congenital muscular dystrophy
+congenital scoliosis (CS)
+congenital spina bifida
+congestive heart failure (CHF)
+contextual fear conditioning
+contractility of  vascular smooth muscle cells
+contrast-induced acute kidney injury (CIAKI)
+contrast-induced nephropathy (CIN)
+convulsive seizures
+cor pulmonale
+cornea epithelial diseases
+cornea scarring
+corneal alkali burn
+corneal allograft rejection
+corneal damage
+corneal epithelium impairment
+corneal neovascularization (CNV)
+corneal transplantation rejection
+coronary artery calcification (CAC)
+coronary artery disease (CAD)
+coronary atherosclerosis (CAS)
+coronary heart disease (CHD)
+coronary microembolization
+coronary microvascular obstruction injury
+Coronavirus disease 2019 (COVID-19)
+corpus luteum regression
+cortical injury
+corticosteroid resistance
+corticosteroid-dependent dermatitis (CDD)
+corticosteroid-induced osteonecrosis
+coxsackievirus B3 (CVB3) infection disease
+Cr(VI)-induced carcinogenesis
+craniofacial defect
+craniofacial defect reconstruction
+creeclampsia (PE)
+critical limb ischemia (CLI) in diabetes mellitus
+crohn disease (CD)
+crop growth
+cryptococcal meningitis
+cryptosporidium parvum infection
+c-Src-mediated tumor progression
+cultivar-specific drought responsive (CSDR)
+cutaneous Leishmaniasis (CL)
+cutaneous lupus erythematosus
+cutaneous malignant melanoma (CMM)
+cutaneous squamous cell carcinoma (CSCC)
+cutaneous T-cell lymphoma (CTCL)
+cyanobacterial hepatotoxin microcystin-LR (MC-LR) toxicity
+cyanotic congenital heart disease (CCHD)
+cyclophosphamide (CP)-induced lung toxicity
+cyclosporine A (CsA)-induced gingival overgrowth
+cystic fibrosis (CF)
+cysticercosis
+cytokines expression
+cytomegalovirus infection
+cytoprotective effects
+cytoskeletal reorganization
+cytotoxicity
+dairy cow mastitis
+decline in sperm quality and damage to testicular structure
+deep vein thrombosis (DVT)
+degeneration of endplate chondrocytes
+degenerative lumbar disease (DLD)
+delayed aging
+delayed union of femoral neck fracture
+dementia
+"dementia ,learning and memory"
+Dendritic cell (DC) maturation
+Dendritic cell cross-priming
+dengue virus (DENV) infection
+dental pulp in?ammation
+dental pulp repair and regeneration
+depression
+depression and anxiety disorders
+dermal fibroblasts aging
+dermatophytosis lesional
+destructive periodontitis
+detoxification pathway of heavy metal ions
+detoxification-related metabolism
+developmental toxicity
+dexamethasone (DEX)-induced injuries
+dexamethasone (DEX)-induced microvascular rarefaction
+Di (2-ethylhexyl) phthalate (DEHP)-induced lung toxicity
+diabetes mellitus (DM)
+diabetes mellitus (DM) induced cerebral ischemic reperfusion (I/R) injury
+diabetes mellitus-induced erectile dysfunction (DMED)
+diabetes microvascular complications
+diabetes-associated endothelial dysfunction
+diabetes-associated metabolic disorders
+diabetes-associated periodontitis
+diabetes-impaired angiogenesis
+diabetes-induced cardiac remodelling
+diabetes-induced retinal neurodegeneration
+diabetes-induced retinal pathology
+diabetes-induced testicular apoptotic cell death (TACD)
+diabetes-related cognitive impairments
+diabetes-related heart disease
+diabetes-related microvascular complications
+diabetic atherosclerosis
+diabetic cardiac autonomic neuropathy (DCAN)
+diabetic cardiac fibrosis
+diabetic cardiomyopathy (DCM)
+diabetic cataract (DC)
+diabetic cerebral ischemia-reperfusion (I/R) injury
+diabetic corneal endothelial keratopathy
+diabetic corneal nerve
+diabetic embryopathy
+diabetic encephalopathy
+diabetic foot ulcer (DFU)
+diabetic gastroparesis (DGP)
+diabetic glomerulopathy
+diabetic lung disease
+diabetic nephropathy (DN)
+diabetic neuropathic pain (DNP)
+diabetic osteoarthritis (OA)
+diabetic osteoporosis
+diabetic peripheral neuropathy (DPN)
+diabetic podocytopathy
+diabetic pregnancy
+diabetic retinopathy (DR)
+diabetic testicular disorder
+diabetic vasculopathy
+diabetic wound angiogenesis
+diabetic wound healing
+diabetic wound impairment
+diabetic wound repair
+diabetic-associated vascular injury
+diamond-Blackfan anemia (DBA)
+diarrhea-predominant irritable bowel syndrome (IBS-D)
+dichlorodiphenyltrichloroethane (DDT) exposure
+dietary restriction (DR)-induced longevity in Caenorhabditis elegans
+diethylstilbestrol (DES) triggers thymic atrophy
+diet-induced obesity (DIO)
+diet-induced weight loss
+differentiated phenotype in hepatocytes
+differentiation and contractile phenotype of smooth muscle cells (SMCs)
+differentiation capacity in mouse embryoid bodies
+diffuse alveolar hemorrhage (DAH)
+diffuse intrinsic pontine gliomas (DIPGs)
+diffuse large B-cell lymphoma (DLBCL)
+dilated cardiomyopathy (DCM)
+disc degeneration
+discoid lupus erythematosus (DLE)
+disruption of the blood-spinal cord barrier (BSCB)
+disseminated intravascular coagulation (DIC)
+distinct metabolic stressors
+disuse muscle atrophy
+disuse osteopenia
+disuse osteoporosis (DOP)
+DNA damage
+DNA methylation
+dopaminergic (DA) neuron differentiation
+dorsal root ganglion
+doxorubicin (DOX)-induced cardiotoxicity
+doxorubicin (DOX)-induced dysfunction
+doxorubicin (DOX)-induced renal podocyte injury
+drinking
+drosophila C virus (DCV) infection
+drought and salinity stresses
+drought resistance
+drought stress
+drug addiction
+drug hepatotoxicity
+drug metabolism and pharmacokinetics
+drug metabolizing enzymes (DMEs) expression
+drug resistance
+drug-induced acute kidney injury (DIKI)
+drug-induced cardiac injury (DICI)
+drug-induced liver injury (DILI)
+drug-induced synaptic plasticity
+drug-inducible neuroprotection from oxidative stress
+duchenne muscular dystrophy (DMD)
+dysbacteria
+dysfunction of endothelial progenitor cells (EPCs)
+dysfunction of vascular endothelial cells
+dyslipidemia
+dyslipidemia and insulin resistance
+dysplasia/neoplasia phenomenon
+dysregulated fatty acid and cholesterol metabolism
+early brain injury (EBI)
+early embryonic development and implantation
+early non-genotoxic events
+early-stage hepatocellular carcinoma (E-HCC)
+Ebola virus (EBOV) therapy
+EBV infection
+EBV-associated gastric cancer (EBVaGC)
+echinococcus multilocularis infection
+ectopic deposition of lipids
+ectopic pregnancy (EP)
+edwardsiella piscicida infections
+edwardsiella tarda infection
+effect of acupuncture
+effect of tetrodotoxin and AP5
+effects of cocaine action
+effects of high-temperature on Cucumis sativus L.
+effects of microcystin-leucine arginine (MC-LR) on fertility
+effects of red light (RL) on plants
+effects of sevoflurane during early development
+eimeria papillata infection
+elective intrauterine growth restriction (sIUGR)
+electroacupuncture (EA)
+electrophilic stress response
+electrophysiological cardiac remodelling
+elevated level of homocysteine (Hcy)
+embryo implantation
+embryonic development
+embryonic maldevelopment
+emphysema
+encephalitis
+encephalomyelitis (EAE)
+endogenous antioxidant defenses
+endometrial cancer (EC)
+endometrial endometrioid adenocarcinoma (EEC)
+endometrial fibrosis
+endometrial hyperplasia (EH)
+endometrial receptivity
+endometriosis
+endometriosis and endometrial carcinoma
+endoplasmic reticulum stress (ERS)
+endothelial activation
+endothelial cell apoptosis and senescence
+endothelial cell death associated with vascular disorders
+endothelial cell injury
+endothelial cell migration
+endothelial cell migration and angiogenesis
+endothelial cells injury and autophagy dysfunction
+endothelial cytotoxicity
+endothelial dysfunction
+endothelial inflammation
+endothelial inflammation and migration
+endothelial senescence
+endothelium-dependent vasorelaxation
+endotoxemia
+endotoxemia-induced vascular injury
+endotoxic shock
+endotoxin cross-tolerance
+endotoxin-induced uveitis (EIU)
+energy homeostasis
+energy metabolism
+enhance radiation sensitivity
+enteric neurons and gastrointestinal motility
+enterovirus 71 (EV71) infection
+enterovirus infection
+environmental pollutants
+eosinophilic chronic rhinosinusitis with nasal polyps
+eosinophilic esophagitis (EoE)
+eosinophilic meningitis (EM)
+epairing the oral cavity
+epatocarcinogenesis
+ePCs senescence
+epidermal development
+epidural fibrosis
+epidural scar hyperplasia and adhesion
+epigenetic regulation
+epigenetic regulation of responses to O3 exposure
+epilepsy
+epithelial ovarian cancer (EOC)
+epithelial-mesenchymal transition (EMT)
+epithelial-mesenchymal transition and peritoneal fibrosis
+Epstein-Barr virus (EBV) infection
+erectile dysfunction (ED)
+erythroid cell differentiation
+erythroid maturation
+erythropoiesis
+esicular stomatitis virus (VSV) infection
+esophageal adenocarcinoma (EAC)
+esophageal cancer (EC)
+esophageal squamous cell carcinoma (ESCC)
+essential hypertension (EH)
+estrogen protection of osteoblasts against apoptosis
+estrogen-mediated immune regulation
+estrogen-sensitive tumors
+ethanol addiction
+ethanol and burn injury
+ethanol-induced apoptosis
+ethanol-induced liver and intestinal injury
+ethanol-induced neuroinflammation and brain damage
+ethanol-related behaviors
+excess collagen deposition in PTCs
+excess of glucocorticoids (GCs)
+excessive alcohol intake
+exercise-induced muscle damage (EIMD)
+exocrine pancreatic injury (EPIJ)
+experimental autoimmune encephalomyelitis (EAE)
+"experimental autoimmune encephalomyelitis (EAE),multiple sclerosis (MS)"
+experimental autoimmune myocarditis (EAM)
+experimental autoimmune prostatitis (EAP)
+experimental autoimmune uveoretinitis (EAU)
+experimental choroidal neovascularization
+experimental colitis
+experimental diabetic peripheral neuropathy
+experimental periodontal disease
+experimental retinopathy
+expression regulation
+extended juvenile development
+extracellular matrices (ECMs) homeostasis
+extracellular matrix synthesis
+extracellular signal-regulated kinase (ERK) phosphorylation
+extracellular-matrix (ECM) and fibril formation
+F. gigantica infection
+F. novicida?infection
+facial nerve damage
+facial neuritis
+facilitate bacterial survival and dissemination
+facilitates t-tubule development
+falls and fractures among the elderly
+familial dysautonomia(FD)
+familial frontotemporal lobar degeneration (FTLD)
+familial Mediterranean fever
+fat
+fatal hypothermia
+"fatty acid synthase, fatty acid uptake"
+fatty liver disease
+febrile seizure (FS)
+feline herpesvirus 1 (FHV-1) infection
+female fertility
+female mammals' reproductive toxicity
+female reproductive dysfunction
+femoral head necrosis (FHN)
+fentanyl toxicity
+ferroptosis
+fertility parameters
+fescue toxicosis
+fetal alcohol exposure (FAE)
+fetal alcohol spectrum disorders (FASD)
+fetal hypoxia
+fetal mouse neurogenesis
+fetal neural stem cells (NSCs)maturation
+fibroblast-myofibroblast transdifferentiation (FMT)
+fibrodysplasia (FD)
+fibrogenesis
+fibromyalgia
+fibrosis
+fibrotic cataract
+"fibrotic diseases, myofibroblast activation"
+fibrotic remodeling of the atrial myocardium
+fine tunes the angiogenic
+fine-tuning the atrophy program
+flap surgeries
+flower development
+fluorine combined with aluminum (FA)-induced developmental neurotoxicity
+fluorosis
+fluoxetine exposure
+focal cerebral ischemia
+focal retinal degeneration
+focal segmental glomerulosclerosis (FSGS)
+follicle development and oocyte maturation
+follicle stem cell (HFSC) differentiation
+follicular development
+follicular thyroid cancer
+food poisoning
+foot-and-mouth disease (FMD)
+formaldehyde inducted immune/inflammation
+formation of foam cells
+fracture healing
+fragility fracture
+frail metastatic colorectal cancer (mCRC)
+frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS)
+fructose-induced hepatic inflammation
+fructose-induced hepatic lipid accumulation
+fruit development
+fruit ripening and adaptive stress responses
+fulminant hepatitis
+fulvestrant-resistant breast cancer
+functions of cardiac fibroblasts
+functions of human macrophages
+functions of Leydig cells
+fungal infection
+fungal keratitis
+gallbladder cancer (GBC)
+gastric adenocarcinoma (GAC)
+gastric and colorectal cancer
+gastric cancer (GC)
+gastric injury
+gastric intestinal metaplasia (IM)
+gastric MALT lymphoma (GML)
+gastric mucosal injury
+gastric precancerous lesions (GPLs)
+gastritis
+gastrocnemius muscle inflammation
+gastroesophageal cancer (GEC)
+gastrointestinal acute radiation syndrome
+gastrointestinal cancer
+gastrointestinal stromal tumor (GIST)
+gastrointestinal toxicity
+gemcitabine sensitivity
+gene-methylation alterations by carcinogen BaP
+general cytotoxicity
+genital herpes
+genotoxic and carcinogenic
+genotoxic damage? cancer
+genotoxicity
+germ cell tumour (GCT)
+gestational diabetes mellitus (GDM)
+giant cell tumor of bone (GCTB)
+gingival inflammation
+gingival overgrowth
+glaucoma
+glaucoma filtration surgery (GFS)
+glial scars
+glioblastoma and ovarian cancer
+glioblastoma multiforme (GBM)
+glioblastomas (GBMs)
+gliosarcoma
+glomerular diseases
+glomerular injury
+glomerular podocyte injury
+glomerulonephritis
+glomerulosclerosis
+glucocorticoid (GC)-mediated beta cell dysfunction
+glucocorticoid-induced osteonecrosis of femoral head (GIONFH)
+glucocorticoid-induced osteoporosis (GIOP)
+glucocorticoids (GCs) resistance
+glucocorticoids dermatitis
+glucocorticoids effects
+gluconeogenesis
+glucose homeostasis
+glucotoxicity
+glutamine metabolism
+glutathione synthesis and antioxidant capacity
+glycemic control
+glycerol gluconeogenesis
+glycolysis
+gout
+gouty arthritis
+gouty inflammation
+gouty tophus
+graft-versus-host disease (GVHD)
+granular corneal dystrophy type 2 (GCD2)
+granulosa cell (GC) apoptosis
+graphene oxide (GO) toxicity
+graves' orbitopathy (GO)
+growth hormone (GH)?secretion regulation
+growth of CRPC cells
+growth of P. tomentosa
+gut leakiness
+H. parasuis infection
+H. pylori infection
+H1N1 influenza virus infection
+H2O2-induced apoptosis and oxidative stress
+H2O2-induced cell death
+H5N2 influenza virus infection
+H9N2 influenza virus infection
+haemorrhagic shock
+hand-foot-mouth disease (HFMD)
+hantaan virus (HTNV) infection
+hard-to-heal skin wounds
+HAVSMC dysfunction and hypertension
+HBV/HCV dually infection
+HBV-associated hepatocellular carcinoma (HCC)
+HBV-associated tumorigenesis
+HBV-infection-related liver diseases
+head and neck squamous cell carcinoma (HNSCC)
+head kidney injury in common carp
+healing of wounds
+health effects of E-cigarette and other novel electronic nicotine delivery systems (ENDS)
+healthy metabolic profile
+hearing loss
+hearing restoration
+heart angiogenesis
+heart capacity
+heart failure (HF)
+heart repair
+heartmate II left ventricular assist device (LVAD) implantation therapy effect
+heat shock
+heat stress
+heat-induced pathophysiology
+heat-responsive
+heavy metal stress
+helicobacter pylori (H. pylori) infection
+helicobacter pylori infection
+hemangioma (HA)
+hematological acute radiation syndrome (HARS)
+hematological malignancies
+hematopoietic differentiation
+hematopoietic malignancy in myeloid leukemia and hemangioma
+hematopoietic toxicity following irradiation
+hematotoxicity
+hemin-insulted mouse cortical neurons
+hemorrhagic fever with renal syndrome (HFRS)
+hemorrhagic shock
+henoch Sch?nlein purpura nephritis (HSPN)
+hepatic cell toxicity
+hepatic differentiation
+hepatic fibrogenesis
+hepatic genotoxicity
+hepatic gluconeogenesis
+hepatic glycogen synthesis
+hepatic inflammation
+hepatic insulin resistance
+hepatic insulin sensitivity
+hepatic ischemia/reperfusion injury (HIRI)
+hepatic lipogenesis
+hepatic precancerous lesion (HPC)
+hepatic progenitor cells (HPCs) transformation
+hepatic steatosis
+hepatic steatosis and lipid accumulation
+hepatic stellate cell (HSC) activation
+hepatic stellate cells (HSC) transdifferentiate into myofibroblasts
+hepatic tissue-repairing
+hepatitis
+hepatitis B virus (HBV) induced liver fibrosis
+hepatitis B virus (HBV) infection
+hepatitis C virus (HCV) infection
+hepatitis C virus (HCV)-induced liver disease and hepatocarcinogenesis
+hepatitis C virus (HCV)-mediated hepatic fibrosis
+hepatitis C virus (HCV)-related liver fibrosis
+hepatoblastoma
+hepatocarcinogenesis
+hepatocellular apoptosis
+hepatocellular carcinoma (HCC)
+hepatocellular carcinoma (HCC) and colorectal cancer (CRC)
+hepatocellular carcinoma and ovarian cancer
+hepatocellular steatosis
+hepatocyte apoptosis
+hepatocyte death and liver damage
+hepatocyte differentiation
+hepatocyte injury
+hepatocyte proliferation
+hepatolithiasis
+hepatomegaly
+hepatoprotective
+hepatoprotective action of trans-chalcone
+hepatopulmonary syndrome (HPS)
+hepatorenal damages
+hepatosis
+hepatosteatosis
+hepatosteatosis and hyperglycemia
+hepatotoxicant and genotoxicant
+hepatotoxicity
+HER2-positive breast cancer
+herb-induced liver injury (HILI)
+hereditary gingival fibromatosis (HGF)
+herpes simplex virus 1 (HSV-1) infection
+heterotopic ossification (HO)
+HFD-induced cardiac electrical remodeling
+HFD-induced obesity
+high fat diet?influence
+high glucose (HG) disease
+high glucose (HG)-induced apoptosis
+high glucose (HG)-induced cytotoxicity and apoptosis
+high glucose impairment
+high glucose-induced endothelial dysfunction
+high-altitude deacclimatization syndrome (HADAS)
+high-fat induced diabetes
+high-grade serous ovarian carcinomas (HGSOC)
+high-temperature stress
+hippocampal neurodegeneration
+hirschsprung's disease (HSCR)
+histone deacetylase resistance in nasopharyngeal cancer (NPC)
+HIV-1 infection-induced pneumonia
+HIV-associated nephropathy(HIVAN)
+HIV-associated neurocognitive disorders (HAND)
+HIV-induced immunopathogenesis
+HK-2 cells injury
+homeostatic synaptic scaling
+homocysteine (HCY)-induced vascular endothelial injury
+hormonal regulation
+hormone refractory prostate cancer (HRPC)
+horses equine metabolic syndrome
+host antiviral defense
+host defense and immunoregulation
+host-Influenza A virus (IAV) infection
+HPC-induced cardioprotection
+human aortic vascular smooth muscle cells (HA-VSMCs) injury
+human biliary cryptosporidiosis
+human bronchial epithelial (HBE) cells injury
+human cytomegalovirus (HCMV) infection
+human embryonic development
+human embryonic stem cell differentiation
+human endometrial stromal cell decidualization
+human herpesvirus 6A (HHV-6A) infection
+human immunodeficiency virus (HIV)-1 infection
+human neuronal differentiation
+human nucleus pulposus cells injury
+human papillomaviruses (HPV) infection
+human papillomaviruses (HPV)-negative cervical squamous cell carcinoma (CSCC)
+human primary sclerosing cholangitis (PSC)
+humoral autoimmune intestinal injury
+huntington's disease (HD)
+hyaluronan (HA) accumulation
+hydrocarbons (PAHs) toxic action
+hydrocephalus
+hyperactivity of the HPA axis induced by hepatectomy
+hypercalciuric diseases
+hypercholesterolemia
+hyperglycemia
+hyperglycemia and hyperlipoidemia
+hyperglycemia and insulin resistance
+hyperglycemia-induced beta-cell dysfunction
+hyperglycemia-induced cardiac dysfunction
+hyperglycemia-induced senescence
+hyperglycemia-induced vascular endothelial cell damage
+hyperglycemic ST-segment elevation myocardial infarction (STEMI)
+hyperhomocysteinemia (HHcy)
+hyperinsulinemic
+hyperlipidemia
+hyperlipidemic pancreatitis (HP)
+hypermethylation
+hyperoxia-induced acute lung injury (HALI)
+hyperoxia-induced bronchopulmonary dysplasia
+hyperphosphatemia
+hypertension
+hypertension and diabetes
+hypertension and inappropriate antidiuretic hormone secretion (SIADH)
+hypertension and skeletal muscle microcirculation rarefaction
+"hypertension, atherosclerosis and myocardial infarction"
+hypertension-induced cardiac dysfunction
+hypertension-induced vascular remodeling
+hypertensive disorders complicating pregnancy (HDCP)
+hypertensive heart disease (HHD)
+hypertensive nephropathy (HN)
+hypertensive patients with type 2 diabetes
+hypertonic stress
+hypertrophic scars (HS)
+hypertrophy
+hyperuricemia
+hypolipidemic mechanism
+hypopharyngeal cancer
+hypopituitarism
+hypoplastic lung
+hypospadias
+hypothermic Circulatory Arrest (DHCA)-associated neural injury
+hypothyroidism
+hypoxemia
+hypoxia/reoxygenation (H/R) injury
+hypoxia-induced cardiac dysfunctions
+hypoxia-induced cell death
+hypoxia-induced extracellular acidosis
+hypoxia-induced injury
+hypoxia-induced renal tubular cell apoptosis
+hypoxic brain injury
+hypoxic breast tumors
+hypoxic lung injury
+hypoxic pulmonary hypertension (HPH)
+hypoxic/ischemic brain damage (HIBD)
+hypoxic/ischemic injury
+hypoxic-ischemic brain edema
+hypoxic-ischemic encephalopathy (HIE)
+hypoxic-related diseases
+ichemia/reperfusion (I/R)-induced brain injury
+idiopathic Parkinson's disease
+idiopathic pulmonary arterial hypertension
+idiopathic pulmonary fibrosis (IPF)
+idiosyncratic drug-induced liver injury (IDILI)
+IFNT effect on endometrium
+IgA nephropathy (IgAN)
+ileocolonic anastomosis inflammation
+imatinib resistance
+immune inflammatory
+immune response
+immune responses
+immune thrombocytopenic purpura (ITP)
+immune tolerance
+immune tolerance of maternal-fetal interface
+immunological self-tolerance and suppress
+immunological tumor escape
+immunoregulatory function
+immunosuppression
+immunotherapy
+immunotoxicity
+impair skeletal development
+impaired decidualization
+impaired fear extinction
+impaired insulin secretion
+impaired metabolic flexibility in elderly individuals
+impaired osteogenic differentiation
+impaired tissue regeneration
+impairment in long-term memory
+implant-host tissue interactions
+improved collateral circulation
+improved radiosensitivity
+in vitro fertilization and embryo transplantation
+infant encephalitis
+infantile hemangioma (IH)
+infantile pneumonia (IP)
+infection and excessive inflammation
+infection and immunity of E. multilocularis
+infection of Fusarium oxysporum
+infection of Vibrio cholerae O1
+infectious bursal disease virus (IBDV) infection
+infertility
+inflammation
+inflammation and apoptosis
+inflammation and innate immunity
+inflammation and oxidative stress
+inflammatory bowel disease (IBD)
+inflammatory breast cancer (IBC)
+inflammatory diseases
+inflammatory injury
+inflammatory lung injury
+inflammatory neurodegeneration
+inflammatory pain
+inflammatory response
+inflammatory skin diseases
+inflammatory therapeutics
+inflammatory vascular disorders
+influenza A virus (IAV) infection
+injury in retinal ganglion
+injury in vascular smooth muscle cells
+innate and adaptive immune responses
+innate immune defense
+innate immune response
+innate immunity
+inner ear inflammatory
+inner retinal injury
+insect immunity
+insects development
+insomnia
+insulin action in cardiomyocytes
+insulin resistance (IR)
+insulin resistance accompanies obesity
+insulin resistance and nonalcoholic steatohepatitis (NASH)
+insulin sensitivity
+intervertebral disc degeneration (IDD)
+intestinal barrier dysfunction
+intestinal cell differentiation
+intestinal damage
+intestinal diseases
+intestinal dysfunction
+intestinal hypoxia/reoxygenation injury
+intestinal inflammation
+intestinal inflammation and barrier dysfunction
+intestinal injury and intestinal endotoxemia of alcoholic hepatitis
+intestinal ischemia/reperfusion (I/R) injury
+intestinal ischemic injury
+intestinal metaplasia
+intestinal mucosa barrier dysfunction after burn injury
+intestinal mucositis
+intestinal Salmonella typhimurium infection
+intestinal sepsis
+intestinal toxicity
+intimal hyperplasia (IH)
+intracerebral haemorrhage (ICH)
+intracerebral hemorrhage (ICH)-induced secondary brain injury (SBI)
+intrahepatic cholangiocarcinoma (iCCA)
+intrahepatic cholestasis of pregnancy (ICP)
+intrauterine adhesion (IUA)
+intrauterine infection
+intraventricular hemorrhage (IVH)
+invasive candidiasis
+invasive ductal carcinoma (IDC)
+iodine intake on BRAF-mediated oncogenesis
+ion homeostasis
+Ionic liquids (ILs)-related human health risks
+ionizing radiation (IR) injury
+iPSC-derived cardiac differentiation
+ircadian rhythmicity
+"iron bioavailability,iron absorption"
+iron deficiency
+iron overload (IO)
+irradiation-induced heart damage
+irradiation-induced ischemic stroke
+irradiation-induced pulmonary fibrosis
+irradiation-induced tumors
+irritable bowel syndrome (IBS)
+irritable bowel syndrome with diarrhea (IBS-D)
+ischemia/reperfusion (I/R) injury
+ischemia/reperfusion (I/R)-mediated acute myocardial infarction (AMI)
+ischemia-reperfusion (IR)-induced late fibrosis of kidney
+ischemic acute kidney injury
+ischemic arrhythmias
+ischemic brain injury
+ischemic cerebrovascular disease (ICVD)
+ischemic heart disease (IHD)
+ischemic heart/limb diseases and tissue regeneration
+ischemic hypoxia (IH)
+ischemic injury
+ischemic liver injury
+ischemic neuroinflammatory injury
+ischemic neuronal injury
+ischemic preconditioning (IPC)
+ischemic stroke (IS)
+ischemic tolerance
+ischemic vascular injuries
+islet beta-cell repair
+islets damage
+islets hypoxia/reoxygenation (H/R) injury
+islets of Langerhans
+isoflurane-induced neurotoxicity
+isoproterenol-induced cardiac injury
+isoproterenol-induced myocardial ischemia (ISO-AMI)
+Japanese Encephalitis virus (JEV) infection
+japonicum infection
+jaundice
+juvenile lupus nephritis (JLN)
+kaposi¡¯s sarcoma-associated herpesvirus (KSHV) infection
+kaposi's sarcoma (KS)
+Kashin-Beck Disease (KBD)
+keloids
+keratinocyte migration and boosts re-epithelialization during skin wound healing
+keratinocytes (KCs) diferentiation
+ketamine-induced cardiotoxicity
+ketamine-induced neurotoxicity
+kidney damage
+kidney damage and kidney stones
+kidney fibrosis
+kidney fibrosis and mesangial hypertrophy
+kidney injury and fibrosis
+kidney ischemia injury
+kidney ischemia reperfusion (IR) injury
+kidney stone disease
+kidney transplantation
+kidney tubular cell injury
+klebsiella pneumoniae infection
+lactogenesis
+lanthionine toxicity
+large B-cell lymphomas (DLBCLs)
+large intestine cancer
+laryngeal cancer
+laryngeal squamous cell carcinoma (LSCC)
+latent tuberculosis infection (LTBI)
+lateral root formation
+lead (Pb) acetate-induced thyrotoxicity
+lead (Pb) toxicity
+lead-induced hepatotoxicity
+lead-induced nephrotoxicity
+lead-induced neurotoxicity
+leaf curl disease
+leaky gut
+learning and memory deficits
+learning and memory impairment and neurodegeneration
+learning deficits and abnormal social behaviors
+left ventricular (LV) remodeling
+left ventricular hypertrophy (LVH)
+legg Calve Perthes disease (LCPD)
+Legionella pneumophila (L. pneumophila) infection
+leiomyoma
+leishmania RNA virus 1 (LRV1) infection
+leishmaniasis
+lepatotoxicity
+leprosy
+leukemia
+leukemogenesis and drug resistance
+levodopa-induced dyskinesia (LID)
+Lewis lung cancer
+linesprostate cancer
+lipid accumulation
+lipid accumulation and inflammatory response
+lipid homeostasis
+lipid metabolism
+lipid uptake
+lipogenesis
+lipotoxic oxidative stress
+lipotoxicity
+Listeria infection
+liver cirrhosis
+liver cirrhosis and hepatocellular carcinoma
+liver damage
+liver disease
+liver fibrosis
+liver fibrosis/cirrhosis
+liver growth
+liver homeostasis
+liver inflammation and cancer
+liver inflammation and fibrogenesis
+liver mature
+liver necroptosis
+liver preneoplastic foci and tumors
+liver regeneration
+liver sinusoidal endothelial cells (LSEC) injury
+liver toxicity
+locally advanced head and neck squamous cell carcinoma (HNSCC)
+locally advanced rectal cancer (LARC)
+locomotor sensitization
+loeys-Dietz syndrome (LDS)
+longevity
+longevity and neuroprotection
+long-term peritoneal dialysis (PD) ultrafiltration failure
+long-term potentiation (LTP) persistence
+loss and apoptosis of beta cell
+low birth weight (LBW)
+low doses hyper-radiosensitivity (LDHRS)
+low extremity deep vein thrombosis
+lower respiratory tract infections
+LPS-induced inflammation and damage
+LPS-induced inflammation and sepsis
+LPS-induced injury
+LPS-induced neuroinflammation
+LPS-induced podocyte apoptosis
+lumbar disc degeneration (LDD)
+lung adenocarcinoma (LUAD)
+lung cancer
+lung diseases
+lung fibrosis
+lung function decline
+lung injury
+lung ischemia/reperfusion (I/R) injury
+lung squamous cell carcinoma (LSQCC)
+lung tumorigenesis
+lupus erythematosus (LE)
+lupus nephritis (LN)
+lymph node cancer of prostate
+lymphangioleiomyomatosis (LAM)
+lymphoblastic malignancies
+lymphocyte apoptosis
+lymphocytic choriomeningitis virus (LCMV) infection
+lymphocytic leukemia
+lymphoma
+lymphomagenesis
+lymphosarcoma
+macrophage activation
+macrophage activation and polarization
+macrophage apoptosis
+macrophage differentiation and activation
+macrophage differentiation and polarization
+macrophage foam cell formation
+macrophage homeostasis
+macrophage inflammatory response
+macrophage maturation
+macrophage polarization
+macular degeneration
+magnaporthe oryzae (M. oryzae) infection
+major depressive disorder (MDD)
+malaria
+male fertility
+male hypogonadism
+male infertility
+male reproductive disorders
+male sterility
+malignancies of the lymphocyte lineage
+malignant arrhythmias
+malignant astrocytic gliomas
+malignant bone cancer
+malignant glioma
+malignant melanoma (MM)
+malignant mesothelioma (MM)
+malignant pleural mesothelioma (MPM)
+malignant pulmonary disorders
+malignant transformation of esophageal epithelial cells
+malnutrition
+mammary development
+manganese induced neurotoxic
+mantle cell lymphoma (MCL)
+Marek's disease (MD)
+mast cell degranulation
+mastitis
+maternal H. bakeri infection
+maternal hyperglycemia
+maternal undernutrition (MUN) during pregnancy
+maturation of oocytes
+MC-LR-induced hepatotoxicity
+mechanical trauma injury
+mechanically induced inflammation
+medulloblastoma
+megakaryocytic differentiation
+melanin metabolism disorders
+melanogenesis
+melanoma
+membranous nephropathy (MN)
+memory impairment in diabetes
+memory loss
+meningioma
+meningitis
+menopausal arthritis
+mercury toxicity in zebrafish embryos
+mesenchymal stem cell transplantation (MSCT)
+mesenchymal stem cells (MSCs) dysfunction
+mesial temporal lobe epilepsy (MTLE)
+mesocortical dopamine development in adolescence
+mesothelial/epithelial-mesenchymal transition (MMT/EMT)
+metabolic and functional derangements in the heart
+metabolic disease
+metabolic disorders
+metabolic effects of estrogen
+metabolic processes
+metabolic syndrome
+metal-induced carcinogenesis
+metastasized melanoma
+metastatic bladder cancer
+metastatic chondrosarcoma
+metastatic colorectal cancer (mCRC)
+metastatic renal cell carcinoma (mRCC)
+methamphetamine (METH) addiction
+methamphetamine (METH)-induced locomotor sensitization
+methamphetamine (METH)-mediated neurotoxicity
+methotrexate (MTX) resistance
+methylmalonic acidemia (MMA)
+MGO-induced endothelial insulin-resistance
+microbial infection
+microglial activation
+microglial neuroinflammation
+microvascular endothelial dysfunction
+microvascular obstruction (MO)
+microwave-induced adverse health outcomes 
+migration and invasion of endometriotic cells
+migration of bone marrow mesenchymal stem cells (BMSCs)
+migration of human dental pulp cells
+migration of renal cell carcinoma
+migration of vascular smooth muscle cells
+minimal change disease (MCD)
+miRNA biogenesis
+miscarriage
+mitochondrial dynamics
+mitochondrial dysfunction
+mitochondrial fission
+mitochondrial function of white adipose tissue (WAT)
+mitophagy
+monocytic differentiation
+morphine addiction
+morphine induced neuroinflammation
+morphine tolerance
+mouse lung tumors
+MPTP-induced mouse subacute
+mucosal repair
+multidrug resistance (MDR)
+multiple myeloma (MM)
+multiple sclerosis (MS)
+multiple system atrophy (MSA)
+multiple T myeloma
+multi-walled carbon nanotubes (MWCNTs) toxicity
+Mungbean Yellow Mosaic India Virus (MYMIV) infection
+murine atherosclerosis and vascular smooth muscle cell proliferation
+murine cytomegalovirus (MCMV) infection
+murine norovirus (MNV) infection
+murine scrapie
+muscarinic M(1) receptor dysfunction
+muscle atrophy
+muscle cell proliferation and differentiation
+muscle cells during adipogenic transdifferentiation
+muscle health
+muscle hypertrophy
+muscle injury
+muscle tumor
+myasthenia gravis (MG)
+mycobacterium tuberculosis (Mtb) infection
+mycoplasma pneumoniae pneumonia(MPP)
+myelin abnormalities
+myelodysplastic syndrome (MDS)
+myeloid leukemia
+myeloid neoplasms
+myeloma
+myeloproliferative disorder
+myeloproliferative neoplasms
+myoblast differentiation
+myoblast proliferation
+myocardial angiogenesis
+myocardial apoptosis
+myocardial differentiation and development
+myocardial dysfunction
+myocardial hypoxia injury
+myocardial hypoxia/reoxygenation (H/R) injury
+myocardial hypoxic/ischemic injury
+myocardial infarction (MI)
+myocardial infarction (MI)-induced heart failure (HF)
+myocardial injury
+myocardial ischaemic injury
+myocardial ischemia/reperfusion (I/R) injury (MIRI)
+myocardial ischemic preconditioning (IP)
+myocardial lipotoxic injury
+"myocardial remodeling,apoptosis"
+myocardial repair
+myocardial reperfusion injury
+myocarditis
+myocarditis and heart dysfunction
+myocardium hypertrophy
+myofiber specification
+myofiber type transition
+myofibroblast differentiation
+myofibroblast formation
+myofibroblast proliferation
+myogenesis and muscle homeostasis
+myogenic differentiation
+myogenic hypoplasia
+myogenic-lineage differentiation
+myopia
+nanoparticles toxicity
+nanopolystyrene toxicity
+nasopharyngeal carcinoma (NPC)
+neck squamous cell carcinomas (HNC)
+necroptosis
+neointimal formation
+neointimal hyperplasia
+neomycin-induced ototoxicity
+neonatal brain hypoxia
+neonatal cerebral palsy
+neonatal hypoxic-ischemic brain damage
+neonatal hypoxic-ischemic encephalopathy 
+neonatal necrotizing enterocolitis (NEC)
+neonatal pneumonia
+neonatal sepsis (NS)
+neovascularization
+neovasculogenesis
+nephroblastoma
+nephrolithiasis
+nephropathy
+nephrotic syndrome (NS)
+nephrotoxicity
+nerve injury
+nerve regeneration
+nerve sprouting
+nerve system injury
+nervous and immune system diseases
+nervous system cancers
+nervous system diseases
+neural degenerative diseases
+neural differentiation
+neural dysfunctions
+neural function
+neural ischemia/reperfusion (I/R) injury
+neural ischemic injury
+neural progenitor cell (NPC) self-renewal
+neural stem cells (NSCs) injury
+neural tube defects (NTDs)
+neurilemmoma
+neurite outgrowth
+neuritogenesis
+neurobehavioral effects of nicotine
+neuroblastoma (NB)
+neurodegeneration (ND)
+neurodegenerative diseases
+neurodegenerative pathogenesis
+neurodevelopmental disorder
+neurodevelopmental processes
+neuroendocrine tumors
+neurogenesis
+neuroimmune
+neuroinflammation
+neurological deficits
+neurological diseases
+neurological disorders
+neurological injury
+neuromyelitis optica (NMO)
+neuron apoptosis
+neuron proliferation
+neuron proliferation and migration
+neuron protection
+neuron survival
+neuronal adaptations
+neuronal cell death
+neuronal cell dysfunction and apoptosis
+neuronal cell injury
+neuronal development
+neuronal differentiation
+neuronal function
+neuronal mechanisms
+neuronal morphogenesis
+neuronal survival and neurite growth
+neuropathic pain (NP)
+neuropathy-induced blood-nerve barrier (BNB) opening
+neuroplasticity
+neuroprotective effects
+neuropsychiatric disorders
+neuropsychological disorders
+neurotensin receptor 1 recycling
+neurotoxicity
+neutrophil extracellular traps (NETs) generation
+neutrophilic asthma
+new-onset diabetes after liver transplantation (NODALT)
+nickel toxicity
+nicotine addiction
+nicotine intake
+nitrate regulation
+nitrate tolerance
+nitrogen starvation
+noise-induced deafness
+noise-induced hearing loss (NIHL)
+non small cell lung cancer (NSCLC)
+nonalcoholic fatty liver disease (NAFLD)
+nonalcoholic fatty liver disease/nonalcoholic steatohepatitis (NAFLD/NASH)
+nonalcoholic steatohepatitis (NASH)
+nonalcoholic steatohepatitis-hepatocellular carcinoma (NASH-HCC)
+non-Hodgkin lymphoma (NHL)
+non-segmental vitiligo (NSV)
+non-small cell lung cancer (NSCLC)
+non-ST elevation acute coronary syndrome (NSTE-ACS)
+non-surgical sterilization
+non-traumatic osteonecrosis of femoral head (ONFH)
+obesity
+obesity and diabetes
+obesity and glucose homeostasis
+obesity and metabolic syndrome
+obesity and obesity-associated insulin resistance
+obesity-associated comorbidities
+obesity-induced cardiac dysfunction
+obesity-induced chronic inflammation
+obesity-induced hepatic insulin resistance
+obesity-induced myocardial injury
+obesity-related complications
+obesity-related diseases
+obstructive cholestasis
+obstructive sleep apnea (OSA)
+obstructive sleep apnea-induced cardiovascular disease
+obstructive sleep apnoea-hypopnoea syndrome (OSAHS)
+occupational asthma (OA)
+occupational noise-induced hearing loss (ONIHL)
+ochratoxin A (OTA) nephrotoxicity
+ochratoxin A (OTA) toxicity
+ocular infection
+oesophageal adenocarcinoma (OAC)
+oesophageal squamous cell carcinoma (ESCC)
+olfactory discrimination
+olfactory injury
+open-angle glaucoma (OAG)
+opioid tolerance
+opioid use disorder (OUD)
+opioid-induced damage to microglia
+opisthorchis viverrini infection
+optic nerve injury
+oral cancer
+oral carcinogenesis
+oral cavity cancer
+oral lichen planus (OLP)
+oral squamous cell carcinoma (OSCC)
+oral submucous fibrosis (OSF)
+orbital fibrosis
+orchitis
+organophosphate-induced cytotoxicity
+organs hypoxia
+ormeloxifene-induced inhibition of embryo implantation
+orofacial inflammatory pain
+oropharyngeal squamous cell carcinoma (OPSCC)
+orthodontic
+orthodontic tooth movement
+orthopedic diseases
+osmoregulation
+ossification
+osteoarthritis (OA)
+osteoblast differentiation and bone formation
+osteoblast differentiation and function
+osteoblast injury
+osteoblastic differentiation
+osteoblastic differentiation and inhibition of adipocyte formation
+osteoblasts apoptosis
+osteoblasts inflammation
+osteochondral activity
+osteoclast differentiation
+osteoclastic apoptosis
+osteoclast-mediated diseases
+osteoclastogenesis
+osteoclast-related bone disorders
+osteogenesis
+osteogenesis and angiogenesis
+osteogenesis from preosteoblasts
+osteogenesis imperfecta (OI)
+osteogenic capability
+osteogenic differentiation and bone formation
+osteogenic differentiation and calcification
+osteogenic-like differentiation
+osteolysis
+osteomyelitis
+osteonecrosis
+osteonecrosis of femoral head (ONFH)
+osteopenic disorders
+osteoporosis
+osteoporotic injury of osteoblasts
+osteoprotective effect of diosgenin (DIO)
+osteosarcoma (OS)
+osteosarcoma tumorigenesis
+otitis media (OM)
+otitis media with effusion (OME)
+ototoxic effects of kanamycin-furosemide
+ovarian cancer (OC)
+ovarian cancer cell stemness
+ovarian endometrioid adenocarcinoma
+ovarian steroidogenesis
+ovarian toxicity
+ovarian tumours
+ovariectomized (OVX)-induced bone resorption
+ovary development and functions
+ovary structure and function
+overweight and obese
+ovulation and corpus luteum (CL) formation
+ovulation and subsequent embryo development
+oxaliplatin (L-OHP) resistance
+oxaliplatin induced-neuropathy
+oxdative stress
+oxidative stress
+oxLDL-induced vascular smooth muscle cell inflammation
+oxygen glucose deprivation (OGD)-induced myocardial cell injury
+oxygen species (ROS)
+oxygen-glucose deprivation (OGD) induced neuron damage
+oxygen-glucose deprivation/reoxygenation (OGD/R) injury
+oxygen-induced retinopathy (OIR)
+P. aeruginosa PA14 infection
+P. gingivalis infection
+paclitaxel (PTX) resistance
+pain
+painful diabetic neuropathy (PDN)
+painful or stressful conditions
+pancreatic cancer (PC)
+pancreatic ductal adenocarcinoma (PDAC)
+pancreatic injury
+pancreatic islet injury
+pancreatic neoplasms
+pancreatic ¦Â-cell dysfunction
+papillary thyroid cancer (PTC)
+paracrine function
+paraquat (PQ)-induced acute lung injury and pulmonary fibrosis
+paraquat (PQ)-induced pulmonary fibrosis
+paraquat (PQ)-induced toxicity
+paraquat poisoning
+paraquat poisoning-induced lung injury
+parasites infection
+parkinson's disease (PD)
+particle-induced osteolysis (PIO)
+pathogen reduction
+pathologic cardiovascular
+pathological changes in the brain
+pathological hypertrophy
+pathological neovascularization
+pathological perivascular fibrosis in hypertension
+pathological proliferation of VSMCs
+pathological retinal neovascularization disease
+pathological senescence
+PDLCs osteoblastic differentiation
+peak parasitemia
+pediatric asthma
+pediatric enteritis
+pediatric myocarditis (PM)
+pediatric pneumonia
+pEG resistance of tobacco
+pelvic endometriosis
+penetrating ballistic-like brain injury (PBBI)
+pentachlorophenol (PCP) developmental toxicity
+perfluorooctane sulfonate (PFOS)-induced toxic action
+perfluorooctane sulfonic acid (PFOS)-induced placenta cell toxicity
+perfluorooctanoic acid (PFOA)-induced liver toxicity
+perfluorooctanoic acid toxicity
+pericardial patch angioplasty
+periodontal bone defect
+periodontal disease
+periodontal inflammation
+periodontal ligament repair
+periodontal tissue damage and repair
+periodontitis
+periodontitis in obese subjects (PiOSs)
+periodontitis with diabetes
+peripheral and CNS inflammation
+peripheral arterial disease (PAD)
+peripheral inflammation
+peripheral nerve injury (PNI)
+peripheral neuropathic pain
+peripheral neuropathy
+periprosthetic osteolysis
+peritoneal dialysis (PD)
+peritoneal fibrosis
+perivascular fibrosis
+permanent depressive-like behaviours and memory impairment
+persistent memory
+persistent pulmonary hypertension of the newborn (PPHN)
+peste des petits ruminants (PPR) virus infection
+peste des petits ruminants virus (PPRV) infection
+phallus development
+phencyclidine-induced schizophrenia-related locomotor hyperactivity
+phenobarbital (PB)-mediated tumours
+phenotypic switch of PASMCs
+phenotypic switching of VSMCs
+pheochromocytoma (PCC)
+phosphorus (Pi) starvation
+photoaging
+physiological impairments associated with aging
+physiological myocardial hypertrophy (PMH)
+piglet diarrhea
+pigmentation
+pigmented skin diseases
+pirarubicin (THP) cardiotoxicity
+pirarubicin (THP)-induced myocardial damage
+pituitary adenoma
+pituitary gonadotrope FSH secretion
+placental apoptosis
+placental development
+placentation
+plant growth and development
+plant salinity tolerance
+plasmodium chabaudi infection
+plasmodium infection
+platelet inhibition
+pleural fibrosis
+plvic inflammatory disease
+PM 2.5 or DEPs-induced inflammatory response
+PM2.5 exposure
+PM2.5-induced carcinogenesis
+PM2.5-induced lung inflammation
+pneumococcal diseases
+pneumoconiosis
+pneumonia
+podocyte apoptosis
+podocyte apoptosis and mitochondrial dysfunction
+podocyte injury
+podocyte protection
+podocytopathy
+polychlorinated biphenyls (PCBs) toxicity
+polycystic ovarian syndrome (PCOS)
+polymicrobial sepsis
+polymyositis (PM)
+polyomavirus BK (BKV) infection
+POMC neuronal development and/or function
+populus under cold stress
+porcine adrenal gland inflammation
+porcine epidemic diarrhea virus (PEDV) infection
+porcine hemagglutinating encephalomyelitis virus (PHEV) infection
+porcine reproductive and respiratory syndrome virus (PRRSV) infection
+post-angioplasty restenosis
+posterior capsular opacification (PCO)
+postherpetic neuralgia (PHN)
+post-intracerebral hemorrhage (ICH)
+post-menopausal depression
+postmenopausal osteoarthritis
+postmenopausal osteoporosis (PMOP)
+postmyocardial infarction
+postoperative cognitive dysfunction (POCD)
+postoperative peritoneal adhesion (PPA)
+postpartum depression (PPD)
+postprandial lipogenesis
+post-stroke
+post-stroke angiogenesis
+post-stroke brain damage
+post-stroke cognitive impairment (PSCI)
+post-stroke depression (PSD)
+post-stroke inflammation
+post-transcriptional regulation
+post-traumatic stress disorder (PTSD)
+post-viral bacterial pneumonia
+preadipocyte differentiation
+precancerous lesion (PCL)
+precancerous lung lesion
+precocious puberty (PP)
+precocious puberty and testicular tumors
+precursor B-cell acute lymphoblastic leukemia (B-ALL)
+prediabetes state
+preeclampsia (PE)
+pregnancy
+pregnancy complication preeclampsia
+pregnancy disease
+pregnancy-induced hypertension (PIH)
+premature ovarian dysfunction (POD)
+premature ovarian failure (POF)
+premature senescence
+prenatal inflammation
+preosteoblast differentiation
+pressure ulcer (PU)
+preterm labour
+primary biliary cholangitis (PBC)
+primary cultures of porcine adipocytes
+primary gastric tumors
+primary myelofibrosis (PMF)
+primary open angle glaucoma (POAG)
+primary ovarian insufficiency (POI)
+prion infection
+pristine-induced systemic lupus erythematosus (SLE)
+proangiogenic function
+procalcitonin (PCT) production
+production of proinflammatory cytokines
+progesterone production in rat granulosa cells
+programmed cell death
+pro-inflammatory activity
+prolactinoma
+proliferation and apoptosis
+"proliferation, apoptosis, coronary microembolization"
+"proliferation, migration, and apoptosis of VSMCs"
+proliferative diabetic retinopathy (PDR)
+proliferative retinopathy (OIR)
+proliferative vascular diseases
+prolong longevity
+promote bone formation
+promote regulatory T-cell development
+propofol-induced developmental neurotoxicity
+propofol-induced neuroapoptosis
+propofol-induced neurotoxicity
+propofol-induced neurotoxicity and cognitive dysfunction
+propofol-induced neurotoxicity and neuroinflammation
+prostate cancer
+prostate development
+prostatic deficits
+prostatic hyperplasia (BPH)
+protecting neural stem cells (NSCs) from reactive oxygen species (ROS)
+proximal tubular cell apoptosis
+pseudomonas aeruginosa lung infection
+pseudopregnant
+psoriasis
+psoriasis-like dermatitis
+psoriatic
+psoriatic arthritis (PsA)
+psoriatic lesions
+psychosis
+psychotic disorders
+pterygium
+pulmonary arterial hypertension (PAH)
+pulmonary arterial stenosis (PAS)
+pulmonary artery smooth muscle cell proliferation and migration
+pulmonary diseases
+pulmonary embolism
+pulmonary fibroblasts proliferation
+pulmonary hypertension (PH)
+pulmonary hypoplasia
+pulmonary inflammation
+pulmonary inflammatory response
+pulmonary injury
+pulmonary microvascular endothelial cells (PMECs) injury
+pulmonary toxicological
+pulmonary tuberculosis (PTB)
+pulmonary vascular endothelial cell (PVEC) injury
+pulmonary vascular remodeling
+pulpal inflammation
+pulpitis
+pyroptosis
+radiation enteropathy
+radiation induced bystander effect (RIBE)
+radiation nephropathy
+radiation resistance of breast cancer (BRCA)
+radiation-induced acute and chronic complications
+radiation-induced brain injury (RBI)
+radiation-induced central nervous system toxicity
+radiation-induced fibrosis (RIF)
+radiation-induced heart disease (RIHD)
+radiation-induced injury
+radiation-induced intestinal fibrosis (RIF)
+radiation-induced intestinal injury
+radiation-induced liver disease (RILD)
+radiation-induced lung disease
+radiation-induced lung injury (RILI)
+radiation-induced myocardial fibrosis (RIMF)
+radiation-induced oral mucositis (RIOM)
+radiation-induced pulmonary fibrosis (RIPF)
+radiation-induced skin injury
+radiocarcinogenesis
+radioresistance
+radiosensitivity
+radiosensitivity of cancer cells
+reactive oxygen species (ROS)-induced cardiac myocyte injury
+recanalization of thrombi
+rectal cancer
+rectal injury
+recurrent miscarriage (RM)
+red peel coloration and anthocyanin accumulation
+reduced postprandial lipemia
+reflux esophagitis
+refractory epilepsy
+regeneration of skeletal muscle
+regeneration of the intestinal epithelia
+regulating the activity of Shh signaling
+regulation of cell cycle
+rejection after lung transplantation
+relapsing-remitting multiple sclerosis (RRMS)
+release of microRNAs into extracellular spaces
+remote ischemic preconditioning (RIPC)
+renal and podocytes injuries
+renal cancer
+renal cell carcinoma (RCC)
+renal cytotoxicity
+renal development
+renal disease
+renal dysfunction
+renal fibrosis
+renal glomerular and tubulo-interstitial fibrosis
+renal inflammation and fibrosis
+renal inflammatory diseases
+renal injury
+renal interstitial fibrosis (RIF)
+renal interstitial inflammatory
+renal ischemia/reperfusion (I/R) injury
+renal oxidative damage
+renal proximal tubular function
+renal toxic
+renal tubular epithelial cells (RTEC) injury
+renal tubular epithelial to mesenchymal transition
+renal tubules injury
+renal tubulointerstitial fibrosis (TIF)
+renal vascular endothelial dysfunction
+renin-angiotensin-aldosterone system regulation
+repair of epidermal growth factor (EGF)
+repair of spinal cord injury
+reperfusion injury
+reperfusion injury in diabetic heart
+reperfusion/ischemia brain injury
+repigmentation outcomes
+reproduction and some steroid-related disorders
+reproductive toxicity
+reprogramming activity of somatic cell nuclear transfer (SCNT) embryos
+residual platelet reactivity
+resistance of plants to pathogens
+resistance to P. infestans
+resistant depression (TRD)
+respiratory bacterial infection
+respiratory distress syndrome
+respiratory infections
+respiratory inflammation
+respiratory injury
+respiratory syncytial virus (RSV)-associated pneumonia
+respiratory syndrome virus (PRRSV) infection
+respiratory system injury
+respiratory toxicity
+response to abiotic stress
+restenosis after angioplasty or stent
+reticuloendotheliosis virus (REV) infection
+retinal angiogenesis
+retinal degenerative diseases
+retinal dysfunction
+retinal injury
+retinal ischemia reperfusion injury (RIR)
+retinal lesions
+retinal microvascular abnormality
+retinal neovascularization (RNV)
+retinal pigment epithelium (RPE) cells injuries
+retinal toxicity
+retinitis pigmentosa
+retinoblastoma (RB)
+retinocollicular/tectal map formation
+retinopathy of prematurity (ROP)
+reversine-induced dedifferentiation
+rev-T infection
+rhabdomyosarcoma (RMS)
+rheumatic heart disease (RHD)
+rheumatoid arthritis (RA)
+rhinitis
+rhinovirus 1B (RV1B) infection
+rhizobium infection
+ribavirin-induced cardiac developmental toxicity
+rice black-streaked dwarf virus (RBSDV) infection
+root-knot nematodes (RKNs) infection
+ropivacaine induced neurocyte injury
+rosacea
+rotavirus (RV) infection
+RPE mitochondrial dysfunction
+ruptured intracranial aneurysm (IA)
+salmonella typhimurium infection
+salt stress
+salt-sensitive hypertension
+satus epilepticus (SE)
+scar adhesion after joint surgery
+scar formation after the glaucoma filtration surgery
+schistosomiasis
+schistosomiasis hepatic fibrosis
+schistosomiasis liver inflammation
+schizophrenia (SZ)
+schwannoma
+sciatic nerve conditioning injury
+scleroderma fibrosis
+sclerosing cholangitis
+seawater-immersed blast-injury wounds (SIBIW)
+secondary brain injury (SBI)
+secondary injury after spinal cord injury (SCI)
+secondary osteoporosis
+seizure
+selenium (Se) deficiency symptoms
+selenium (Se)-deficient cardiomyocytes injury
+self-renewal and maintenance of spermatogonial stem cells
+seneca valley virus (SVV) infection
+sepsis
+sepsis and septic shock
+sepsis-induced acute hepatic injury
+sepsis-induced acute kidney injury
+sepsis-induced acute lung injury
+sepsis-induced acute respiratory distress syndrome
+sepsis-induced brain injury (SIBI)
+sepsis-induced liver injury
+sepsis-induced lung injury
+sepsis-induced myocardial injury
+sepsis-induced renal injury
+sepsis-induced severe cardiomyopathy
+sepsis-induced skeletal muscle wasting
+septic shock
+septicemia
+sertoli cells-only syndrome (SCOS)
+severe acute pancreatitis (SAP)
+severe asthma (SA)
+severe central nervous system complications
+severe community-acquired pneumonia (SCAP)
+severe fever with thrombocytopenia syndrome (SFTS)
+severe lung injury
+severe septic
+sevoflurane anesthesia-mediated cognitive dysfunction
+sevoflurane-induced abnormal cognition
+sevoflurane-induced neuronal apoptosis
+sevoflurane-induced neurotoxicity
+sex differences of social defeat stress
+short bowel syndrome (SBS)
+sickle cell anemia (SCA)
+sickle cell disease (SCD)
+side effects of antidepressant drugs
+signalling pathway in rice during Cr stress
+silicosis
+silver nanoparticles (SNPs) induced cytotoxicity
+simian immunodeficiency virus (SIV) infection
+sinonasal squamous cell carcinoma
+sinus bradycardia
+sinusoidal obstruction syndrome
+sj?gren's syndrome (SS)
+skeletal deficiencies
+skeletal fluorosis
+skeletal muscle adaptation
+skeletal muscle atrophy
+skeletal muscle development
+skeletal muscle development and disease
+skeletal muscle differentiation
+skeletal muscle hypertrophy
+skeletal muscle injury
+skeletal muscle insulin resistance
+skeletal muscle myogenesis
+skeletal muscle regeneration
+skin cancer
+skin damage
+skin diseases
+skin fibrosis
+skin healing process
+skin inflammation
+skin photoaging
+skin photodamage
+skin pigmentation disorders
+skin senescence
+skin wound healing
+skin wrinkle formation
+sleep apnea syndrome (SAS)
+small-cell lung cancer (SCLC)
+smoke inhalation injury (SII)
+smoke-induced lung injury (SILI)
+smoking-related interstitial fibrosis (SRIF)
+smooth muscle cell differentiation
+sodium oxalate-induced kidney stones
+somatic cell reprogramming
+sophageal carcinogenesis
+sorafenib-induced cytotoxicity
+soybean nodulation
+spatial learning and memory impairment
+spatial memory impairment
+spermatogenesis
+spermatogonial differentiation
+spina bifida
+spinal cord injury (SCI)
+spinal cord ischemia injury (SCII)
+spinal cord ischemia/reperfusion injury (SCII)
+spinal cord neurotoxicity
+spinal ossification of the posterior longitudinal ligament (OPLL)
+spiral artery remodeling
+spontaneous preterm birth (SPB)
+squamous cell carcinoma (SCC)
+squamous cell carcinoma (SQCC) and adenocarcinoma (ADC£©
+stabilizes specific miRNA populations in human fibroblasts
+staphylococcus aureus infection
+status epilepticus (SE)
+steatosis
+steatotic hepatocytes
+steroid-induced avascular necrosis of femoral head (SANFH)
+steroid-induced necrosis of femoral head (SNFH)
+steroid-induced osteonecrosis of femoral head (ONFH)
+steroid-insensitive allergic airway disease (SSIAAD)
+steroidogenesis
+steroidogenesis disturbance
+streptococcus infection
+stress response
+stress-associated premature senescence (SAPS)
+stress-induced depression
+stress-induced myocardial injury
+stroke
+stroke-prone spontaneously hypertensive
+subacute thyroiditis
+subarachnoid hemorrhage (SAH)
+subconjunctival fibrosis
+subependymal giant cell astrocytoma (SEGA)
+subgroup J avian leukosis virus (ALV-J) infection
+subtelomeric DNA methylation
+sulfur dioxide (SO2) stress and oxidative stress
+sulfur mustard induced lung disease
+sunitinib-induced cardiac dysfunction
+supraesophageal bile reflux
+susceptibility of tumour cells to natural killer cell-mediated cytotoxicity
+sustained endoplasmic reticulum stress
+sympathoadrenal response
+synthesis and secretion of catecholamines
+syphilis
+systemic acquired resistance (SAR)
+systemic adipose tissue inflammation
+systemic and mucosal infections
+systemic Candidiasis
+systemic lupus erythematosus (SLE)
+systemic sclerosis (SSc)
+T cell immunotherapy
+T cell tumorigenesis
+T. gondii induced hepatic damage
+T. gondii induced neurological disorder
+T. gondii infection
+T-2 toxin-induced inflammatory response
+taxus chinensis development
+T-cell acute lymphoblastic leukemia (T-ALL)
+teleost inflammatory responses
+telomere homeostasis
+temozolomide (TMZ) resistance in glioblastoma (GBM)
+temporal lobe epilepsy (TLE)
+temporomandibular joint osteoarthritis
+teratogenesis
+teratomas
+terminal chondrogenesis
+testicular damage
+testicular germ cell tumors (TGCTs)
+testicular ischemia-reperfusion injury (IRI)
+testicular lesion
+testicular steroidogenesis dysfuction
+testicular toxicity
+testis development and spermatogenesis
+testosterone
+therapeutic potential of a LSNA
+thermal acclimation
+thoracic aortic aneurysm (TAA)
+thoracic aortic aneurysm and dissection (TAAD)
+thoracic aortic dissection (TAD)
+thrombosis
+thymic atrophy and alterations in T cell differentiation
+thymic lymphoma (RITL)
+thymic stromal cells senescence
+thyroid cancer (TC)
+thyroid eye disease (TED)
+thyroid hormone-induced disorders of lipid metabolism
+tibial nerve regeneration
+tillering
+TiO2-NPs-mediated colonic cytotoxicity
+tissue fibrosis
+tissue injury
+tissue regeneration
+tissue toxicity of radiation
+TNF¦Á-induced endothelial dysfunction
+tobacco growth and development
+tolerogenic properties of dendritic cells
+toluene-induced toxicity
+tomato resistance
+tongue cancer
+tongue squamous cell carcinoma (TSCC)
+toxic effects in renal proximal tubular epithelial cells
+toxic effects of cadmium
+toxic effects of DDT
+toxicity in aquatic organisms
+toxicity of arsenic
+toxicity of Benzo[a]pyrene (BaP)
+toxicity of cadmium (Cd)
+toxicity of nanoparticles
+toxicity of perfluorooctane sulfonate (PFOS)
+toxicity of PM2.5
+toxicity of silver (Ag)
+toxicity of Triclosan (TCS)
+toxicokinetic of SHENMAI
+toxoplasma gondii infection
+tracheal injury
+training responses
+trans-differentiation of pulmonary fibroblasts into myofibroblasts
+transgenerational pancreatic impairment 
+transient cerebral ischemia
+transient cerebral ischemia/reperfusion injury
+transitional cell carcinomas (TCCs)
+transmissible gastroenteritis (TGE)
+transmissible gastroenteritis virus (TGEV) infection
+transplacental clastogenic and epigenetic effects
+transplant vasculopathy
+traumatic brain injury (TBI)
+traumatic hemorrhagic shock (THS)
+treat steroid-related diseases
+treponema pallidum (Tp) infection
+trichloroethylene (TCE) hepatocarcinogenesis
+trichofolliculoma-like hair follicle-derived tumours
+triclosan (TCS) exposure
+trigeminal neuralgia (TN)
+trigeminal neuropathic pain
+triple negative breast cancer (TNBC)
+tuberculosis (TB)
+tuberous sclerosis complex (TSC)
+tubular injury
+tubulointerstitial fibrosis (TIF)
+tubulointerstitial inflammation
+tumor angiogenesis
+tumor angiogenesis and growth
+tumor immune evasion in gastric cancer (GC)
+tumor metastasis
+tumor necrosis factor (TNF)-receptor-associated periodic fever syndrome (TRAPS)
+tumor radiotherapy
+tumorigenesis
+tumorigenesis of arsenite
+tumorigenicity
+tumor-initiating cells (TICs) activation
+type 1 diabetes mellitus (T1DM)
+type 1 diabetic embryopathy
+type 2 diabetes mellitus (T2DM)
+type II pneumocyte differentiation
+ulcer relapse
+ulcerative colitis (UC)
+ultraviolet radiation (UV) effects
+ultraviolet radiation-induced bystander effects (UV-RIBEs)
+unilateral ureteral obstruction (UUO)
+unstable angina (UA)
+uremia
+urethral stricture
+uric acid nephropathy (UAN)
+urinary bladder cancers (UBCs)
+urinary tract infections (UTIs)
+urothelial bladder carcinoma
+urothelial carcinoma
+uterine fibrosis
+uterine leiomyoma (UL)
+uterine receptivity
+uterovascular transformation
+UVB-induced apoptosis and inflammatory
+UVB-induced cellular response
+UVB-induced injury
+UVB-mediated retinal damage
+uveal melanoma
+varicose vein
+vascular aging
+vascular calcification (VC)
+vascular cognitive impairment (VCI)
+vascular dementia (VD)
+vascular dementia in diabetes
+vascular development
+vascular disease
+vascular endothelial cell injury
+"vascular endothelial cell proliferation , apoptosis"
+vascular endothelial cells (ECs) proliferation
+vascular endothelial cells (VECs) autophagy and apoptosis
+vascular endothelial dysfunction
+vascular endothelial injury
+vascular growth
+vascular hyper-reactivity
+vascular injury
+vascular permeability
+vascular relaxation
+vascular remodeling
+vascular restenosis
+vascular senescence
+vascular smooth muscle aging
+vascular smooth muscle cell (VSMC) differentiation
+vascular smooth muscle cell (VSMC) phenotypic switching
+vascular smooth muscle cell calcification
+vascular smooth muscle cell migration and proliferation
+vascular smooth muscle cell proliferation
+vascular tones
+vascularization
+VECs apoptosis
+vegetative phase change
+vein graft restenosis
+vein grafts
+venous malformations (VMs)
+ventilator-induced lung injury (VILI)
+ventricular arrhythmias (VA)
+ventricular contractile dysfunction
+ventricular fibrillation
+vessel injury
+vessel stenosis
+vestibular schwannomas (VSs)
+Vibrio alginolyticus infection
+Vibrio anguillarum infection
+vincristine (VCR) resistance
+viral encephalitis in children
+viral myocarditis (VM)
+viral replication
+viral-induced neuroinflammation
+visceral leishmaniasis
+visceral obesity and metabolic dysfunction
+visceral pain in colitis
+vitamin D metabolism
+vitamin D-sensitive mRNA concentrations
+vitiligo
+vitiligo repigmentation
+Von Hippel-Lindau (VHL) disease
+VSMCs proliferation and migration
+vulvovaginal candidiasis (VVC)
+waldenstrom macroglobulinemia
+warburg effect
+water deficit
+WC-Co-induced carcinogenesis
+wear particle-induced osteolysis (PIO)
+weight gain
+weight loss
+wet age-related macular degeneration (wAMD)
+white spot syndrome virus (WSSV) infection
+whole-body metabolic adaptations
+wilson's disease
+Wnt-5a effect on hippocampal neurons
+wolbachia infection
+wound healing
+wound healing and regeneration of skin tissues.
+wound healing defects and vascular dysfunction
+xenon-conferred
+xylem patterning and maturation
+Zika virus (ZIKV) infection
+zinc deficiency illnesses
+zucker diabetic fatty (ZDF)
+¦Â-adrenoceptor intervention
+¦Â-cell apoptosis
+¦Â-cell death and diabetes
+¦Â-cell dysfunction
+¦Â-lactoglobulin (¦Â-Lg) allergy
+¦¤9-tetrahydrocannabinol toxicity
+¦Ì-Opioid receptor (MOR) biosynthesis

@@ -1,0 +1,150 @@
+ID	Species	ncRNA	ncRNA type	Environmental factor (EF)	Phenotype	Sample	Condition of EF	Evidence	PubMed ID
+1	Apple	MLNC3.2	lncRNA	light	anthocyanin biosynthetic	apple peels from the 'Red Fuji' cultivar	light treatment	dysregulated	31344284
+2	Apple	MLNC4.6	lncRNA	light	anthocyanin biosynthetic	apple peels from the 'Red Fuji' cultivar	light treatment	dysregulated	31344284
+3	Arabidopsis thaliana	AK221488	lncRNA	fusarium oxysporum	infection of Fusarium oxysporum	Arabidopsis thaliana	Fusarium oxysporum infection treatment	dysregulated	24117540
+4	Arabidopsis thaliana	AK226818	lncRNA	fusarium oxysporum	infection of Fusarium oxysporum	Arabidopsis thaliana	Fusarium oxysporum infection treatment	dysregulated	24117540
+5	Arabidopsis thaliana	At2g30770	lncRNA	fusarium oxysporum	infection of Fusarium oxysporum	Arabidopsis thaliana	Fusarium oxysporum infection treatment	dysregulated	24117540
+6	Arabidopsis thaliana	DRIR	lncRNA	abscisic acid (ABA)	response to abiotic stress	arabidopsis	abscisic acid (ABA) treatment	downregulated	28887353
+7	Arabidopsis thaliana	DRIR	lncRNA	salt	response to abiotic stress	arabidopsis	salt stress	downregulated	28887353
+8	Arabidopsis thaliana	T5120	lncRNA	nitrate	nitrate regulation	Arabidopsis seedling roots	nitrate treatment	upregulated	31264223
+9	Barley	TCONS_00002619	lncRNA	boric acid	barley development and environmental response	Barley	boric acid treatment	"Compared to the untreated control, the abundance of TCONS_00002619 transcripts dramatically increased in the root of Sahara exposed by excess-B."	31730798
+10	Barley	TCONS_00006186	lncRNA	boric acid	barley development and environmental response	Barley	boric acid treatment	"Compared to the untreated control, the abundance of TCONS_00006186 transcripts dramatically increased in the leaf of Sahara exposed by excess-B."	31730798
+11	Barley	TCONS_00045190	lncRNA	boric acid	barley development and environmental response	Barley	boric acid treatment	"Compared to the untreated control, the abundance of TCONS_00045190 transcripts dramatically increased in the root of Sahara exposed by excess-B."	31730798
+12	Barley	TCONS_00056415	lncRNA	boric acid	barley development and environmental response	Barley	boric acid treatment	"Compared to the untreated control, the abundance of TCONS_00056415 transcripts dramatically increased in the leaf of Sahara exposed by excess-B."	31730798
+13	Barley	TCONS_00077802	lncRNA	boric acid	barley development and environmental response	Barley	boric acid treatment	"Compared to the untreated control, the abundance of TCONS_00077802 transcripts dramatically increased in the leaf of Sahara exposed by excess-B."	31730798
+14	Caenorhabditis elegans	linc-18	lncRNA	nanopolystyrene	nanopolystyrene toxicity	Caenorhabditis elegans	nanopolystyrene exposure	upregulated	31541829
+15	Caenorhabditis elegans	linc-2	lncRNA	nanopolystyrene	nanopolystyrene toxicity	Caenorhabditis elegans	nanopolystyrene exposure	upregulated	31541829
+16	Caenorhabditis elegans	linc-50	lncRNA	nanopolystyrene	nanopolystyrene toxicity	Caenorhabditis elegans	nanopolystyrene exposure	downregulated	31541829
+17	Caenorhabditis elegans	linc-61	lncRNA	nanopolystyrene	nanopolystyrene toxicity	Caenorhabditis elegans	nanopolystyrene exposure	upregulated	31541829
+18	Caenorhabditis elegans	linc-9	lncRNA	nanopolystyrene	nanopolystyrene toxicity	Caenorhabditis elegans	nanopolystyrene exposure	upregulated	31541829
+19	Cattle	H19	lncRNA	lipopolysaccharide (LPS)	cell proliferation	bovine mammary epithelial cells (MAC-T).	lipopolysaccharide (LPS) treatment	upregulated	30984483
+20	Cattle	XIST	lncRNA	escherichia coli (E.coli)	bovine mastitis	bovine mammary alveolar cell-T (MAC-T)	Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus) infection	upregulated	30362186
+21	Cattle	XIST	lncRNA	Staphylococcus aureus	bovine mastitis	bovine mammary alveolar cell-T (MAC-T)	Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus) infection treatment	upregulated	30362186
+22	Chicken	ENSGALG00000053559	lncRNA	cadmium (Cd)	cadmium pollution	liver tissues	cadmium (Cd) treatment	upregulated	33078306
+23	Chicken	ENSGALG00000053926	lncRNA	cadmium (Cd)	cadmium pollution	liver tissues	cadmium (Cd) treatment	upregulated	33078306
+24	Chicken	ENSGALG00000054404	lncRNA	cadmium (Cd)	cadmium pollution	liver tissues	cadmium (Cd) treatment	downregulated	33078306
+25	Chicken	ALDBGALG0000005049	lncRNA	Se-deficient diet	inflammation	chicken muscles	Se-deficient diet treatment	downregulated	28881768
+26	Chicken	GALMD1	lncRNA	Marek's disease virus (MDV)	Marek's disease (MD)	MD-resistant line of birds	marek's disease virus (MDV) infection	downregulated	31798630
+27	Chicken	GALMD3	lncRNA	Marek's disease virus (MDV)	Marek's disease (MD)	White Leghorn chickens CD4+ T cells	MDV was injected intra-abdominally with 500 plaque-forming units (pfu) at the fifth day after hatching	upregulated in CD4+ T cells	28860661
+28	Chicken	lnc2315	lncRNA	selenium (Se)	selenium (Se)-deficient cardiomyocytes injury	?chicken heart tissues	Selenium deficiency treatment	"TNNT2 suppression induced cardiac calcium overload in vivo and in vitro miR-1594 activates cardiac calcium overload by targeting TNNT2 Moreover, lnc-3215 regulates miR-1594, and thus influences the TNNT2 expression in vivo and in vitro"	31479920
+29	Chicken	lncRNA107052630	lncRNA	ammonia (NH3)	intestinal toxicity	jejunum	ammonia (NH3) treatment	Cooperative application of transcriptomics and ceRNA hypothesis: LncRNA-107052630/miR-205a/G0S2 crosstalk is involved in ammonia-induced intestinal apoptotic injury in chicken	32334290
+30	Chicken	lncRNA107053293	lncRNA	ammonia (NH3)	respiratory system injury	chicken trachea	ammonia (NH3) treatment	lncRNA-107053293 regulated necroptosis by acting as a competing endogenous RNA of miR-148a-3p.	31791863
+31	Chicken	lncRNA3037	lncRNA	NaHS	respiratory toxicity	LMH cells; tracheal tissues	NaHS stimulation	LncRNA3037 is downregulated and miR-15a is upregulated in tracheal tissue and LMH cells under H 2S exposure.	31683218
+32	Chicken	lncRNA3037	lncRNA	hydrogen sulfide (H2S)	respiratory toxicity	tracheal tissue	H2S?exposure	H2S exposure mediates apoptosis and necroptosis through lncRNA3037/miR-15/A20-BCL2.	31683218
+33	Chicken	MG066601	lncRNA	avian leukosis virus (ALV-J)	hematopoietic malignancy in myeloid leukemia and hemangioma	chickens CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	29198037
+34	Chicken	MG066609	lncRNA	avian leukosis virus (ALV-J)	hematopoietic malignancy in myeloid leukemia and hemangioma	chickens CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	29198037
+35	Chicken	MG066616	lncRNA	avian leukosis virus (ALV-J)	hematopoietic malignancy in myeloid leukemia and hemangioma	chickens CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	29198037
+36	Chicken	MG066617	lncRNA	avian leukosis virus (ALV-J)	hematopoietic malignancy in myeloid leukemia and hemangioma	chickens CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	29198037
+37	Chicken	MG066618	lncRNA	avian leukosis virus (ALV-J)	hematopoietic malignancy in myeloid leukemia and hemangioma	chickens CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	29198037
+38	Chicken	MG066629	lncRNA	avian leukosis virus (ALV-J)	hematopoietic malignancy in myeloid leukemia and hemangioma	chickens CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	29198037
+39	Chicken	NONGGAT001975.2	lncRNA	avian leukosis virus (ALV-J)	avian leukosis virus subgroup J (ALV-J) infection	HD11 and CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	28673822
+40	Chicken	NONGGAT005832.2	lncRNA	avian leukosis virus (ALV-J)	avian leukosis virus subgroup J (ALV-J) infection	HD11 and CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	28673822
+41	Chicken	NONGGAT009792.2	lncRNA	avian leukosis virus (ALV-J)	avian leukosis virus subgroup J (ALV-J) infection	HD11 and CEF cells	avian leukosis virus subgroup J (ALV-J) infection	upregulated	28673822
+42	Chicken	satb1	lncRNA	Marek's disease virus (MDV)	T cell tumorigenesis	T cell	marek's disease virus treatment	"linc-satb1, was found to play a crucial role in MD immune response by regulating a nearby protein-coding gene SATB1"	26471251
+43	Chicken	XLOC_098131	lncRNA	daidzein (DA)	immune response	chicken liver tissues	daidzein (DA) treatment	upregulated	31057556
+44	Common carp	MSTRG.16320.2	lncRNA	bisphenol A (BPA)	toxicity in aquatic organisms	head kidney (HK) macrophages	bisphenol A (BPA) treatment	upregulated	32147374
+45	Common carp	rna19947	lncRNA	bisphenol A (BPA)	toxicity in aquatic organisms	head kidney (HK) macrophages	bisphenol A (BPA) treatment	downregulated	32147374
+46	Common carp	XLOC_024184	lncRNA	bisphenol A (BPA)	toxicity in aquatic organisms	head kidney (HK) macrophages	bisphenol A (BPA) treatment	downregulated	32147374
+47	Common carp	XLOC_069999	lncRNA	bisphenol A (BPA)	toxicity in aquatic organisms	head kidney (HK) macrophages	bisphenol A (BPA) treatment	upregulated	32147374
+48	Common carp	XLOC_115571	lncRNA	bisphenol A (BPA)	toxicity in aquatic organisms	head kidney (HK) macrophages	bisphenol A (BPA) treatment	upregulated	32147374
+49	Common carp	XLOC_133815	lncRNA	bisphenol A (BPA)	toxicity in aquatic organisms	head kidney (HK) macrophages	bisphenol A (BPA) treatment	downregulated	32147374
+50	Common carp	XLOC_142217	lncRNA	bisphenol A (BPA)	toxicity in aquatic organisms	head kidney (HK) macrophages	bisphenol A (BPA) treatment	upregulated	32147374
+51	Common carp	XLOC_147893	lncRNA	bisphenol A (BPA)	toxicity in aquatic organisms	head kidney (HK) macrophages	bisphenol A (BPA) treatment	upregulated	32147374
+52	Cotton	lncRNA973	lncRNA	salt	salt stress	"cotyledons, stems and roots from Upland cotton ¡®SN91¨C11¡¯ plants"	salt treatment	upregulated	31666019
+53	Cucumber	TCONS_00000311	lncRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	downregulated	31125116
+54	Cucumber	TCONS_00005674	lncRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	downregulated	31125116
+55	Cucumber	TCONS_00007594	lncRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	downregulated	31125116
+56	Cucumber	TCONS_00011359	lncRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	upregulated	31125116
+57	Cucumber	TCONS_00014332	lncRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	downregulated	31125116
+58	Cucumber	TCONS_00014717	lncRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	downregulated	31125116
+59	Cucumber	TCONS_00031790	lncRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	downregulated	31125116
+60	Cucumber	TCONS_00031790	lncRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	upregulated	31125116
+61	Green monkey	NEAT1	lncRNA	HTNV strain 76-118	hantaan virus (HTNV) infection	Vero E6 cells	treat with HTNV strain 76-118 was	upregulated	28202761
+62	Pig	ALDBSSCT0000001353	lncRNA	baicalin (BAI)	H. parasuis infection	porcine aortic vascular endothelial cells (PAVECs)	baicalin (BAI) treatment	"The expression levels of lncRNA ALD was significantly upregulated after H. parasuis stimulation ( p < 0.05); however, after baicalin pretreatment, the expression levels was significantly downregulated."	32096672
+63	Pig	ALDBSSCT0000001677	lncRNA	baicalin (BAI)	H. parasuis infection	porcine aortic vascular endothelial cells (PAVECs)	baicalin (BAI) treatment	"The expression levels of lncRNA ALDBSSCT0000001677 was significantly upregulated after H. parasuis stimulation ( p < 0.05); however, after baicalin pretreatment, the expression levels of it was significantly downregulated."	32096672
+64	Pig	ALDBSSCT0000010434	lncRNA	baicalin (BAI)	H. parasuis infection	porcine aortic vascular endothelial cells (PAVECs)	baicalin (BAI) treatment	"The expression levels of lncRNA ALDBSSCT0000010434 was significantly upregulated after H. parasuis stimulation ( p < 0.05); however, after baicalin pretreatment, the expression levels was significantly downregulated."	32096672
+65	Pig	ENSSSCG00000034497	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	downregulated	32605750
+66	Pig	ENSSSCG00000035352	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	downregulated	32605750
+67	Pig	ENSSSCG00000035593	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	downregulated	32605750
+68	Pig	ENSSSCG00000039062	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	downregulated	32605750
+69	Pig	ENSSSCG00000039561	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	downregulated	32605750
+70	Pig	FDNCR1	lncRNA	TGF-¦Â1	adipogenesis	porcine preadipocytes	TGF-¦Â1 treatment	TGF-¦Â1-Mediated FDNCR1 Regulates Porcine Preadipocyte Differentiation via the TGF-¦Â Signaling Pathway	32796679
+71	Pig	ITSN1-OT1	lncRNA	dextran sodium sulfate (DSS)	intestinal barrier dysfunction	IPEC-J2 cells	Dextran sulfate sodium treatment	Atractylodis macrocephalae polysaccharides protect against DSS-induced intestinal injury through a novel lncRNA ITSN1-OT1.	33248053
+72	Pig	MSTRG.10724.2	lncRNA	baicalin (BAI)	H. parasuis infection	porcine aortic vascular endothelial cells (PAVECs)	baicalin (BAI) treatment	"The expression levels of lncRNA MSTRG.10724.2 was significantly upregulated after H. parasuis stimulation ( p < 0.05); however, after baicalin pretreatment, the expression levels was significantly downregulated."	32096672
+73	Pig	MSTRG.14711.2	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+74	Pig	MSTRG.18940.1	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	downregulated	32605750
+75	Pig	MSTRG.211821	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+76	Pig	MSTRG.21517.1	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+77	Pig	MSTRG.2441.1	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+78	Pig	MSTRG.27544.1	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+79	Pig	MSTRG.35452.15	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+80	Pig	MSTRG.36907.1	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+81	Pig	MSTRG.3767.1	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+82	Pig	MSTRG.3767.2	lncRNA	Seneca Valley virus (SVV)	seneca valley virus (SVV) infection	ST cells	Seneca Valley virus (SVV) treatment	upregulated	32605750
+83	Pig	MSTRG.41924.1	lncRNA	diquat	oxidative stress	piglets liver tissues	diquat treatment	upregulated	31214284
+84	Pig	MSTRG.50562.2	lncRNA	diquat	oxidative stress	piglets liver tissues	diquat treatment	upregulated	31214284
+85	Pig	MSTRG.51205.3	lncRNA	diquat	oxidative stress	piglets liver tissues	diquat treatment	upregulated	31214284
+86	Pig	MSTRG.61844.8	lncRNA	diquat	oxidative stress	piglets liver tissues	diquat treatment	upregulated	31214284
+87	Pig	MSTRG.68556.2	lncRNA	diquat	oxidative stress	piglets liver tissues	diquat treatment	downregulated	31214284
+88	Pig	MSTRG.82168.2	lncRNA	diquat	oxidative stress	piglets liver tissues	diquat treatment	downregulated	31214284
+89	Pig	MSTRG.86425.1	lncRNA	diquat	oxidative stress	piglets liver tissues	diquat treatment	upregulated	31214284
+90	Pig	MSTRG.9629.1	lncRNA	baicalin (BAI)	H. parasuis infection	porcine aortic vascular endothelial cells (PAVECs)	baicalin (BAI) treatment	"The expression levels of lncRNA ALD was significantly upregulated after H. parasuis stimulation ( p < 0.05); however, after baicalin pretreatment, the expression levels was significantly downregulated."	32096672
+91	Pig	MSTRG.98845.2	lncRNA	diquat	oxidative stress	piglets liver tissues	diquat treatment	upregulated	31214284
+92	Pig	TCONS_00036806	lncRNA	4-tert-octylphenol (OP)	rheumatoid arthritis (RA)	ovaries	4-tert-octylphenol (OP) treatment	downregulated	32450468
+93	Pig	TCONS_00058367	lncRNA	transmissible gastroenteritis virus (TGEV)	inflammation	porcine intestinal epithelial cell-jejunum 2 (IPEC-J2) cell line	Transmissible gastroenteritis virus (TGEV) infection treatment	the dysregulated lncRNA TCONS_00058367 might lead to a reduction of phosphorylation of transcription factor p65 (p-p65) in TGEV-infected IPEC-J2 cells by negatively regulating its antisense gene promyelocytic leukemia (PML)	31684870
+94	Pig	ALDBSSCT0000002830	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	downregulated	32122616
+95	Pig	ALDBSSCT0000002830	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	downregulated	32122616
+96	Pig	ALDBSSCT0000002870	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	downregulated	32122616
+97	Pig	ALDBSSCT0000002870	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	downregulated	32122616
+98	Pig	ALDBSSCT0000003044	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+99	Pig	ALDBSSCT0000003044	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+100	Pig	ALDBSSCT0000003405	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+101	Pig	ALDBSSCT0000003405	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+102	Pig	ALDBSSCT0000004845	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	downregulated	32122616
+103	Pig	ALDBSSCT0000004845	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	downregulated	32122616
+104	Pig	ALDBSSCT0000006627	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	downregulated	32122616
+105	Pig	ALDBSSCT0000006627	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	downregulated	32122616
+106	Pig	ALDBSSCT0000010381	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	downregulated	32122616
+107	Pig	ALDBSSCT0000010381	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	downregulated	32122616
+108	Pig	ALDBSSCT0000018610	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	downregulated	32122616
+109	Pig	ALDBSSCT0000018610	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	downregulated	32122616
+110	Pig	ENSSSCT00000033557	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+111	Pig	ENSSSCT00000033557	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+112	Pig	LNC_000206	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+113	Pig	LNC_000206	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+114	Pig	LNC_000237	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+115	Pig	LNC_000237	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+116	Pig	LNC_000293	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+117	Pig	LNC_000293	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+118	Pig	LNC_000342	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+119	Pig	LNC_000342	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+120	Pig	LNC_000597	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	downregulated	32122616
+121	Pig	LNC_000597	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	downregulated	32122616
+122	Pig	LNC_001246	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+123	Pig	LNC_001246	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+124	Pig	LNC_001319	lncRNA	gE/TK deficient (gE-TK-PRV) PRV-II	antiviral immune response	PK-15 cells	gE/TK deficient (gE-TK-PRV) PRV-II infection	upregulated	32122616
+125	Pig	LNC_001319	lncRNA	pseudorabies virus type II (PRV-II)	antiviral immune response	PK-15 cells	pseudorabies virus type II (PRV-II) infection treatment	upregulated	32122616
+126	Populus tomentosa	TCONS_00003480	lncRNA	indole-3-acetic acid (IAA)	growth of P. tomentosa	1-year-old poplar clones	indole-3-acetic acid (IAA) treatment	downregulated	31324970
+127	Populus tomentosa	TCONS_00004832	lncRNA	indole-3-acetic acid (IAA)	growth of P. tomentosa	1-year-old poplar clones	indole-3-acetic acid (IAA) treatment	downregulated	31324970
+128	Rabbit	MEG3	lncRNA	methylene blue (MB)	osteoarthritis (OA)	knee joint	methylene blue (MB) treatment	MEG3 was significantly increased following treatment with MB.	29581742
+129	Rabbit	MSTRG.10603.16	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	carotid arteries	high fat diet (HFD) feed	dysregulated	31392586
+130	Rabbit	MSTRG.1124.1	lncRNA	T. mentagrophytes	dermatophytosis lesional	skin	T. mentagrophytes treatment	downregulated	29560532
+131	Rabbit	MSTRG.12022.1	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	carotid arteries	high fat diet (HFD) feed	dysregulated	31392586
+132	Rabbit	MSTRG.12250.4	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	carotid arteries	high fat diet (HFD) feed	dysregulated	31392586
+133	Rabbit	MSTRG.12799.3	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	carotid arteries	high fat diet (HFD) feed	dysregulated	31392586
+134	Rabbit	MSTRG.14353.1	lncRNA	T. mentagrophytes	dermatophytosis lesional	skin	T. mentagrophytes treatment	downregulated	29560532
+135	Rabbit	MSTRG.14801.3	lncRNA	T. mentagrophytes	dermatophytosis lesional	skin	T. mentagrophytes treatment	upregulated	29560532
+136	Rabbit	MSTRG.3615.1	lncRNA	T. mentagrophytes	dermatophytosis lesional	skin	T. mentagrophytes treatment	upregulated	29560532
+137	Rabbit	MSTRG.5258.4	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	carotid arteries	high fat diet (HFD) feed	dysregulated	31392586
+138	Rabbit	MSTRG.5352.1	lncRNA	high fat diet (HFD)	atherosclerosis (AS)	carotid arteries	high fat diet (HFD) feed	dysregulated	31392586
+139	Rabbit	MSTRG.6673.1	lncRNA	T. mentagrophytes	dermatophytosis lesional	skin	T. mentagrophytes treatment	upregulated	29560532
+140	Rabbit	MSTRG.7195.4	lncRNA	T. mentagrophytes	dermatophytosis lesional	skin	T. mentagrophytes treatment	upregulated	29560532
+141	Tomato	lncRNA39026	lncRNA	Phytophthora infestans (P. infestans)	resistance to P. infestans	tomato plants	Phytophthora infestans infection treatment	"lncRNA39026 might function to decoy miR168a and affect the expression of PR genes in tomato plants, increasing resistance to disease"	31876247
+142	Tomato	lncRNA44664	lncRNA	Pseudomonas putida Sneb821	root-knot nematodes (RKNs) infection	tomato root	Pseudomonas putida Sneb821 treatment	downregulated	32019153
+143	Tomato	lncRNA48734	lncRNA	Pseudomonas putida Sneb821	root-knot nematodes (RKNs) infection	tomato root	Pseudomonas putida Sneb821 treatment	upregulated	32019153
+144	Tomato	sly-miR156d	lncRNA	Pseudomonas putida Sneb821	root-knot nematodes (RKNs) infection	tomato root	Pseudomonas putida Sneb821 treatment	downregulated	32019153
+145	Tomato	sly-miR396a	lncRNA	Pseudomonas putida Sneb821	root-knot nematodes (RKNs) infection	tomato root	Pseudomonas putida Sneb821 treatment	upregulated	32019153
+146	Zebrafish	MALAT1	lncRNA	mercury	mercury toxicity in zebrafish embryos	"the brain region, eyes, and notochord of developing zebrafish embryos"	mercury exposure	upregulated	30912647
+147	Zebrafish	TCONS00017790	lncRNA	¦Â-diketone antibiotic (DKAs)	chronic ¦Â-diketone antibiotic (DKAs) exposure	zebrafish	exposure to DKAs treatment	dysregulated	27951453
+148	Zebrafish	TCONS00027240	lncRNA	¦Â-diketone antibiotic (DKAs)	chronic ¦Â-diketone antibiotic (DKAs) exposure	zebrafish	exposure to DKAs treatment	dysregulated	27951453
+149	Zebrafish	TCONS00129029	lncRNA	¦Â-diketone antibiotic (DKAs)	chronic ¦Â-diketone antibiotic (DKAs) exposure	zebrafish	exposure to DKAs treatment	dysregulated	27951453

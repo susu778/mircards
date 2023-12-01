@@ -1,0 +1,87 @@
+ID	Species	ncRNA	ncRNA type	Environmental factor (EF)	Phenotype	Sample	Condition of EF	Evidence	PubMed ID
+1	Rat	chr1:142682098|142682602	circRNA	hyperoxia	bronchopulmonary dysplasia (BPD)	lung tissues	hyperoxia treatment	downregulated	31961470
+2	Rat	chr1:87010380|87010777	circRNA	hyperoxia	bronchopulmonary dysplasia (BPD)	lung tissues	hyperoxia treatment	downregulated	31961470
+3	Rat	chr15:67588477|67588841	circRNA	hyperoxia	bronchopulmonary dysplasia (BPD)	lung tissues	hyperoxia treatment	downregulated	31961470
+4	Rat	chr18:49891333|49891588	circRNA	hyperoxia	bronchopulmonary dysplasia (BPD)	lung tissues	hyperoxia treatment	downregulated	31961470
+5	Rat	chr19:9683854|9684128	circRNA	hyperoxia	bronchopulmonary dysplasia (BPD)	lung tissues	hyperoxia treatment	downregulated	31961470
+6	Rat	chr5:90817794|90827570	circRNA	TGF-¦Â1	epithelial-mesenchymal transition (EMT)	rat coronary artery endothelial cells (CAEC)	TGF-¦Â1 treatment	upregulated	29521313
+7	Rat	chr6:22033342|22038870	circRNA	TGF-¦Â1	epithelial-mesenchymal transition (EMT)	rat coronary artery endothelial cells (CAEC)	TGF-¦Â1 treatment	upregulated	29521313
+8	Rat	chr8:71336875|71337745	circRNA	hyperoxia	bronchopulmonary dysplasia (BPD)	lung tissues	hyperoxia treatment	downregulated	31961470
+9	Rat	chr8:71336875|71337745	circRNA	TGF-¦Â1	epithelial-mesenchymal transition (EMT)	rat coronary artery endothelial cells (CAEC)	TGF-¦Â1 treatment	upregulated	29521313
+10	Rat	circANKRD36	circRNA	lipopolysaccharide (LPS)	myocarditis	H9c2 cells	lipopolysaccharide (LPS) treatment	upregulated	31442445
+11	Rat	circANXA2	circRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	The expression of CircANXA2 was upregulated in H/R-treated H9c2 cells.	32685535
+12	Rat	circANXA2	circRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	upregulated	32685535
+13	Rat	circBNIP3	circRNA	hypoxia	hypoxia-induced injury	H9c2 cell	hypoxia induce	upregulated	31923741
+14	Rat	circCamk4	circRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	primary neuronal cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	32332879
+15	Rat	circCDR1as	circRNA	1-methyl-4-phenylpyridinium (MPP+)	parkinson's disease (PD)	PC12 cells	1-methyl-4-phenylpyridinium (MPP+) treatment	upregulated	32889692
+16	Rat	circCDR1as	circRNA	exendin-4 (Ex-4)	parkinson's disease (PD)	1-methyl-4-phenylpyridinium (MPP+)-treated PC12 cells	Exendin-4 (Ex-4)?treatment	downregulated	32889692
+17	Rat	circCDR1as	circRNA	exendin-4 (Ex-4)	neuronal cell injury	PC12 cells	Exendin-4 (Ex-4) treatment	Ex-4 downregulated 1-methyl-4 phenyl-pyridine ion (MPP+) -induced CDR1as expression in PC12 cells and upregulated miR-671 expression.	32889692
+18	Rat	circDENND2A	circRNA	oxygen glucose deprivation (OGD)	myocardial infarction (MI)	rat H9c2 cells	oxygen glucose deprivation (OGD) treatment	OGD upregulated circDENND2A expression in H9c2 cells	31878833
+19	Rat	circDENND2A	circRNA	oxygen glucose deprivation (OGD)	myocardial infarction (MI)	H9c2 cells	oxygen glucose deprivation (OGD) treatment	circDENND2A overexpression enhanced OGD-inhibited cell viability and migration but declined OGD-promoted apoptosis by downregulating miR-34a and via ¦Â-catenin and Ras/Raf/MEK/ERK pathways	31878833
+20	Rat	circDENND4C	circRNA	oxygen glucose deprivation (OGD)	ischemic heart disease (IHD)	H9c2 cells	oxygen and glucose deprivation (OGD) treatment	CircRNA-DENND4C was upregulated after OGD/R stimulation	33090893
+21	Rat	circDNMT3B	circRNA	streptozocin (STZ)	diabetic retinopathy (DR)	retinas tissues	streptozotocin treatment	downregulated	31636010
+22	Rat	circEIF4G2	circRNA	high glucose (HG)	diabetic nephropathy (DN)	NRK-52E cells	high glucose (HG) treatment	upregulated	33615661
+23	Rat	circFADS2	circRNA	lipopolysaccharide (LPS)	cell proliferation	chondrocytes	lipopolysaccharide (LPS) treatment	upregulated	31141496
+24	Rat	circHIPK3	circRNA	caerulein (Cae)	acute pancreatitis (AP)	AR42J cells	caerulein treatment	"circHIPK3 promotes pyroptosis in acinar cells through regulation of the miR-193a-5p/GSDMD axis, which eventually aggravates AP disease."	32318575
+25	Rat	circHIPK3	circRNA	CoCl2	spinal cord injury (SCI)	PC12 cells	CoCl2 treatment	circ-HIPK3 relieves the neuronal cell apoptosis through regulating miR-588/DPYSL5 axis in SCI.	32247616
+26	Rat	circITCH	circRNA	H2O2	cardiovascular disease (CVD)	H9c2 cells	H2O2 treatment	downregulated	33350543
+27	Rat	circLRP6	circRNA	streptozocin (STZ)	diabetes mellitus (DM)	INS-1 cells	streptozotocin (STZ) treatment	The expression of circLRP6 was elevated while cell viability was decreased after INS-1 cells were exposed to STZ.	33826088
+28	Rat	circMAT2B	circRNA	oxygen glucose deprivation (OGD)	myocardial infarction (MI)	H9c2 cells	Oxygen-glucose deprivation (OGD) treatment	circMAT2B knockdown works as an inflammatory inhibitor in OGD-induced H9c2 cells inflammatory injury through up-regulating miR-133	32897801
+29	Rat	circNCX1	circRNA	H2O2	ischemic heart disease (IHD)	H9c2 cells	H2O2 treatment	A time-dependent increase in circNCX1 level was observed in H9c2 cells upon treatment with 100 ¦ÌM H2O2.	30187887
+30	Rat	circNFIX	circRNA	H2O2	myocardial infarction (MI)	H9c2 cells	oxidative stress treatment	The expression of circNFIX was significantly downregulated in cardiomyocytes subjected to oxidative stress.	33067659
+31	Rat	circPan3	circRNA	doxorubicin (DOX)	doxorubicin (DOX)-induced cardiotoxicity	H9c2 cells	doxorubicin (Dox) treatment	downregulated	32135167
+32	Rat	circPlekha7	circRNA	Smad3 inhibitor (SIS3)	intrauterine adhesion (IUA)	endometrial stromal cell (ESC)	SIS3 treatment	CircPlekha7 was identified as one of the significantly upregulated circRNAs in the SIS3 group	32801258
+33	Rat	circPTK2	circRNA	oxygen glucose deprivation (OGD)	neuron apoptosis	rat primary hippocampal microglial cells	oxygen-glucose deprivation (OGD) induce treatment	upregulated	30742923
+34	Rat	circPVT1	circRNA	glucocorticoid (GC)	steroid-induced osteonecrosis of femoral head (ONFH)	bone marrow-derived mesenchymal stem cells (BMSCs)	Glucocorticoid (GC)?treatment	"We found that CircPVT1 was decreased in the femoral head of SIONFH rats and GC-treated BMSCs, while miR-21-5p was markedly upregulated."	33733589
+35	Rat	circSAMD4A	circRNA	hypoxia/reoxygenation (H/R)	acute myocardial infarction (AMI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	circSAMD4A were upregulated after H/R induction.	33219594
+36	Rat	circSamd4a	circRNA	inorganic phosphate (Pi)	vascular calcification (VC)	rat vascular smooth muscle cells	inorganic phosphate treatment	"circSamd4a was downregulated after vascular calcification induction. While silencing circSamd4a promoted vascular calcification, overexpressing it reduced vascular calcification in calcium assay and Alizarin red S (ARS) staining."	31790973
+37	Rat	circSamd4a	circRNA	inorganic phosphate (Pi)	vascular calcification (VC)	Vascular Smooth Muscle Cells	Inorganic phosphate (Pi) treatment	downregulated	31790973
+38	Rat	circShank3	circRNA	dexmedetomidine (DEX)	postoperative cognitive dysfunction (POCD)	Hippocampus	dexmedetomidine (Dex) treatment	circ-Shank3 participate in the process of Dex improved POCD through regulating the P53 and NF-¦ÊB signaling pathways.	32226705
+39	Rat	circTtc3	circRNA	hypoxia	apoptosis	Neonatal rat ventricular myocytes (NRVMs) and fibroblasts	hypoxia induce	upregulated	30876857
+40	Rat	circTtc3	circRNA	TGF-¦Â1	apoptosis	Neonatal rat ventricular fibroblasts	TGF-¦Â1 treatment	upregulated	30876857
+41	Rat	circTTC3	circRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	primary neural stem cells (NSCs) were obtained from rat embryos	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	the expression of circTTC3 was elevated in the MCAO/R mice and oxygen and glucose deprivation (OGD)-treated astrocytes	33579365
+42	Rat	circZNF292	circRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	hypoxic-ischemic encephalopathy (HIE)	neural stem cells (NSCs)	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	32052645
+43	Rat	circZNF292	circRNA	hypoxia	ischemic heart disease (IHD)	H9c2 cells	hypoxia treatment	"The production of the circZNF292 was promoted by OGD. Abundant circZNF292 released OGD-induced damage by up-regulating cell viability and Wnt3a/¦Â-catenin or mTOR proteins, but down-regulating apoptosis and autophagy."	31607209
+44	Rat	rno_circ_0000064	circRNA	salidroside (SAL)	ischemia/reperfusion (I/R) injury	rat heart	salidroside (SAL) treatment	Sal treatment attenuated autophagy by up-regulating the expression of hsa_circ_0000064 (circ-0000064) and Rapamycin (RAPA) treatment abolished it	32858179
+45	Rat	rno_circ_0002074	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+46	Rat	rno_circ_0002322	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+47	Rat	rno_circ_0002640	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+48	Rat	rno_circ_0003331	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+49	Rat	rno_circ_0004153	circRNA	iohexol	contrast-induced acute kidney injury (CIAKI)	Renal tissue	"Animals were dehydrated for 48 h and then underwent furosemide (10 mL/kg; Harvest Pharmaceutical, Shanghai, China) injection 30 min before administration of iohexol (15 mL/kg, group CI-AKI; iodine, 350 mg/mL; GE Healthcare, Shanghai, China) or 0.9% normal saline (15 mL/kg, control group)."	circRNA circ_0004153 was significantly upregulated in Contrast-induced acute kidney injury (CI-AKI).	31234008
+50	Rat	rno_circ_0004699	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+51	Rat	rno_circ_0004849	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+52	Rat	rno_circ_0004938	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+53	Rat	rno_circ_0005139	circRNA	2-imidazolidinethione	anorectal malformations (ARM)	Intestinal epithelial cells; IECs and anorectal tissues	2-imidazolidinethione treatment	"Rno_circ_0005139 influences cell proliferation and apoptosis by acting as a miR-324-3p sponge, thereby downregulating Wnt5a in ARM."	32848333
+54	Rat	rno_circ_0005972	circRNA	hypoxia	acute myocardial infarction (AMI)	H9c2 cells	hypoxia treatment	upregulated	31923741
+55	Rat	rno_circ_0006385	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+56	Rat	rno_circ_0006567	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+57	Rat	rno_circ_0007717	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+58	Rat	rno_circ_0008082	circRNA	lipopolysaccharide (LPS)	septic shock	heart tissue	lipopolysaccharide (LPS) treatment	dysregulated	31332662
+59	Rat	rno_circ_001372	circRNA	propofol (PPF)	propofol-induced neurotoxicity and neuroinflammation	brain tissues; PC-12 cells	propofol treatment	The propofol anesthesia decreases the levels of rno_circ_001372 in vitro and vivo	32506974
+60	Rat	rno_circ_001555	circRNA	amyloid-¦Â (A¦Â) 1-42	Alzheimer's disease (AD)	hippocampus	amyloid ¦Â1-42?(A¦Â) treatment	upregulated	29706607
+61	Rat	rno_circ_002948	circRNA	laminectomy plus contusion	spinal cord injury (SCI)	spinal cord	laminectomy plus contusion treatment	downregulated	30756390
+62	Rat	rno_circ_003593	circRNA	Malva sylvestris L. (MS)	ischemic heart disease (IHD)	heart sissues	Malva sylvestris L. (MS) treatment	We noted that rat_circ_003593 (circ003593) was upregulated by I/ R injury and downregulated by MS pre-treatment.	33101012
+63	Rat	rno_circ_004806	circRNA	lipopolysaccharide (LPS)	sepsis	aortic tissues	lipopolysaccharide (LPS) treatment	upregulated	32452125
+64	Rat	rno_circ_004930	circRNA	lipopolysaccharide (LPS)	sepsis	aortic tissues	lipopolysaccharide (LPS) treatment	downregulated	32452125
+65	Rat	rno_circ_00534	circRNA	laminectomy plus contusion	spinal cord injury (SCI)	spinal cord	laminectomy plus contusion treatment	downregulated	30756390
+66	Rat	rno_circ_005442	circRNA	kaempferol	depression	hippocampus	Kaempferol (Kae) treatment	downregulated	31898506
+67	Rat	rno_circ_0054633	circRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	lung tissues	lipopolysaccharide (LPS) treatment	upregulated	32950633
+68	Rat	rno_circ_005564	circRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	rats lung tissues	lipopolysaccharide (LPS) treatment	dysregulated	28864418
+69	Rat	rno_circ_006096	circRNA	laminectomy plus contusion	spinal cord injury (SCI)	spinal cord	laminectomy plus contusion treatment	downregulated	30756390
+70	Rat	rno_circ_0062389	circRNA	hypoxia/reoxygenation (H/R)	heart failure (HF)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	Silencing circ_0062389 alleviates cardiomyocyte apoptosis in heart failure rats via modulating TGF-¦Â1/Smad3 signaling pathway	32949699
+71	Rat	rno_circ_008634	circRNA	lipopolysaccharide (LPS)	sepsis	aortic tissues	lipopolysaccharide (LPS) treatment	downregulated	32452125
+72	Rat	rno_circ_008728	circRNA	lipopolysaccharide (LPS)	sepsis	aortic tissues	lipopolysaccharide (LPS) treatment	upregulated	32452125
+73	Rat	rno_circ_010219	circRNA	lipopolysaccharide (LPS)	sepsis	aortic tissues	lipopolysaccharide (LPS) treatment	downregulated	32452125
+74	Rat	rno_circ_010489	circRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	rats lung tissues	lipopolysaccharide (LPS) treatment	dysregulated	28864418
+75	Rat	rno_circ_010684	circRNA	amyloid-¦Â (A¦Â) 1-42	Alzheimer's disease (AD)	hippocampus	amyloid ¦Â1-42?(A¦Â) treatment	upregulated	29706607
+76	Rat	rno_circ_011426	circRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	rats lung tissues	lipopolysaccharide (LPS) treatment	dysregulated	28864418
+77	Rat	rno_circ_013017	circRNA	laminectomy plus contusion	spinal cord injury (SCI)	spinal cord	laminectomy plus contusion treatment	downregulated	30756390
+78	Rat	rno_circ_013981	circRNA	amyloid-¦Â (A¦Â) 1-42	Alzheimer's disease (AD)	hippocampus	amyloid ¦Â1-42?(A¦Â) treatment	downregulated	29706607
+79	Rat	rno_circ_014900	circRNA	kaempferol	depression	hippocampus	Kaempferol (Kae) treatment	upregulated	31898506
+80	Rat	rno_circ_015513	circRNA	laminectomy plus contusion	spinal cord injury (SCI)	spinal cord	laminectomy plus contusion treatment	downregulated	30756390
+81	Rat	rno_circ_016014	circRNA	lipopolysaccharide (LPS)	sepsis	aortic tissues	lipopolysaccharide (LPS) treatment	upregulated	32452125
+82	Rat	rno_circ_017418	circRNA	lipopolysaccharide (LPS)	sepsis	aortic tissues	lipopolysaccharide (LPS) treatment	downregulated	32452125
+83	Rat	rno_circ_017759	circRNA	amyloid-¦Â (A¦Â) 1-42	Alzheimer's disease (AD)	hippocampus	amyloid ¦Â1-42?(A¦Â) treatment	downregulated	29706607
+84	Rat	rno_circ_19423	circRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	rats lung tissues	lipopolysaccharide (LPS) treatment	dysregulated	28864418
+85	Rat	rno_circ_30664	circRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	rats lung tissues	lipopolysaccharide (LPS) treatment	dysregulated	28864418
+86	Rat	rno_circ_68566	circRNA	ischemia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	ischemia buffer treatment	circ-0068566 inhibited the development of myocardial ischemia reperfusion injury by regulating hsa-miR-6322/PARP2 signal pathway.	32633392

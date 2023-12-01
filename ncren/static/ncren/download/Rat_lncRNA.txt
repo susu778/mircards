@@ -1,0 +1,585 @@
+ID	Species	ncRNA	ncRNA type	Environmental factor (EF)	Phenotype	Sample	Condition of EF	Evidence	PubMed ID
+1	Rat	AABR07037489.1	lncRNA	nickel	steroidogenesis disturbance	Leydig cells	NiSO4 induce	dysregulated	31734292
+2	Rat	AABR07037489.1	lncRNA	NiSO4	steroidogenesis disturbance	rat Leydig cells	NiSO4 treatment	downregulated	31734292
+3	Rat	AABR07070307.1	lncRNA	NiSO4	steroidogenesis disturbance	rat Leydig cells	NiSO4 treatment	downregulated	31734292
+4	Rat	Abcf2-004	lncRNA	letrozole	polycystic ovarian syndrome (PCOS)	ovarian tissues	letrozole treatment	upregulated	29505837
+5	Rat	Adgrv1-003	lncRNA	letrozole	polycystic ovarian syndrome (PCOS)	ovarian tissues	letrozole treatment	upregulated	29505837
+6	Rat	AF159100	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	Sprague-Dawley (SD) rats	angiotensin II (Ang II) treatment	upregulated	24817929
+7	Rat	AF230638	lncRNA	aldosterone	chronic kidney disease (CKD)	mesangial cells (MCs)	aldosterone treatment	downregulated	28849035
+8	Rat	AF336872	lncRNA	aldosterone	chronic kidney disease (CKD)	mesangial cells (MCs)	aldosterone treatment	upregulated	28849035
+9	Rat	AJ005396	lncRNA	bleomycin (BLM)	lung fibrosis	fibrotic lung tissues	bleomycin (BLM) treatment	upregulated	23732278
+10	Rat	AK003290	lncRNA	tanshinone IIA (Tan IIA)	acute myocardial infarction (AMI)	H9c2 cells	Tanshinone IIA (TSA) treatment	"TSA exerts the protective role against H/R induced apoptosis, oxidative and MMP loss of cardiomyocytes via regulating AK003290 and miR-124-5p signaling"	32220226
+11	Rat	AK046177	lncRNA	Safflor yellow B (SYB)	stroke	cortical cells	Safflor yellow B (SYB) treatment	Safflor Yellow B Attenuates Ischemic Brain Injury via downregulated of Long Noncoding AK046177 and Inhibition of MicroRNA-134 Expression in Rats	32566081
+12	Rat	AK12348	lncRNA	anoxia/reoxygenation (A/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	anoxia/reoxygenation (A/R) treatment	"The relative level of lncRNA AK12348, LDH release and cell apoptotic rate in A/R cardiomyocytes was significantly higher than that in normal cardiomyocytes."	29398472
+13	Rat	AK12348	lncRNA	anoxia/reoxygenation (A/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	rat cardiomyocyte H9C2	anoxia/reoxygenation (A/R) treatment	upregulated	29398472
+14	Rat	AK123702	lncRNA	hypoxia	gastric cancer (GC)	GC cells	hypoxia treatment	upregulated	26884908
+15	Rat	AK139128	lncRNA	hypoxia	myocardial infarction (MI)	cardiomyocytes	hypoxia treatment	hypoxia upregulated the level of AK139128 in CMs and exosomes and exosomal AK139128 derived from hypoxic CMs modulated cellular activities of CFs in vitro and in vivo.	32494135
+16	Rat	ANRIL	lncRNA	hypoxia	acute myocardial infarction (AMI)	H9c2 cells	hypoxia induce	upregulated	31264206
+17	Rat	ANRIL	lncRNA	hypoxia	acute myocardial infarction (AMI)	H9c2 cells	hypoxia treatment	ANRIL plays a protective part in hypoxia-induced H9c2 cell injury via modulating the miR-7-5p/SIRT1 axis	31264206
+18	Rat	ANRIL	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	rat adrenal medulla-derived pheochromocytoma cell line PC-12	oxygen-glucose deprivation (OGD) induce treatment	OGD-induced PC-12 cell injury and decreased ANRIL expression	31174432
+19	Rat	Atat1	lncRNA	NiSO4	steroidogenesis disturbance	rat Leydig cells	NiSO4 treatment	downregulated	31948324
+20	Rat	ATB	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	PC12 cells	amyloid-¦Â (A¦Â) 25-35 treatment	A¦Â 25-35-induced injury in PC12 cells and increased the expression of lncRNA-ATB.	30248538
+21	Rat	AX765700	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	Sprague-Dawley (SD) rats	angiotensin II (Ang II) treatment	upregulated	24817929
+22	Rat	AY325162	lncRNA	aldosterone	chronic kidney disease (CKD)	mesangial cells (MCs)	aldosterone treatment	upregulated	28849035
+23	Rat	BACE1-AS	lncRNA	6-hydroxydopamine (6-OHDA)	parkinson's disease (PD)	substantia nigra	6-hydroxydopamine (6-OHDA) treatment	downregulated of lncRNA BACE1-AS inhibits iNOS activation in the substantial nigra and improve oxidative stress injury in PD rats by upregulating miR-34b-5p and downregulating BACE1.	32308102
+24	Rat	BC079195	lncRNA	manganese (Mn)	neurotoxicity	hippocampal neurons	Manganese (Mn) treatment	upregulated	26745496
+25	Rat	BC086588	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	Sprague-Dawley (SD) rats	angiotensin II (Ang II) treatment	upregulated	24817929
+26	Rat	BC088254	lncRNA	aldosterone	chronic kidney disease (CKD)	mesangial cells (MCs)	aldosterone treatment	upregulated	28849035
+27	Rat	BC089928	lncRNA	manganese (Mn)	neurotoxicity	hippocampal neurons	Manganese (Mn) treatment	downregulated	26745496
+28	Rat	BC092207	lncRNA	subarachnoid hemorrhage (SAH)	early brain injury (EBI)	brain	subarachnoid hemorrhage (SAH) treatment	upregulated	25777551
+29	Rat	BC167085	lncRNA	aldosterone	chronic kidney disease (CKD)	mesangial cells (MCs)	aldosterone treatment	downregulated	28849035
+30	Rat	BC168211	lncRNA	aldosterone	chronic kidney disease (CKD)	mesangial cells (MCs)	aldosterone treatment	upregulated	28849035
+31	Rat	BC168687	lncRNA	aldosterone	chronic kidney disease (CKD)	mesangial cells (MCs)	aldosterone treatment	upregulated	28849035
+32	Rat	BC168687	lncRNA	streptozocin (STZ)	diabetic neuropathic pain (DNP)	rats DRG	injected intraperitoneally with a dosage of 30?mg/kg streptozotocin (STZ) solution treatment	upregulated	29204447
+33	Rat	BCYRN1	lncRNA	platelet derived growth factor-BB (PDGF-BB)	asthma	airway smooth muscle cells (ASMCs) isolated from SD rat	platelet-derived growth factor-BB (PDGF-BB) treatment	upregulation	27648131
+34	Rat	BDNF-AS	lncRNA	hypoxia	acute spinal cord injury (ASCI)	AGE1.HN cells; PC12 cells	hypoxia treatment	"BDNF-AS, PRDM5 and c-caspase 3 expression were significantly upregulated, while miR-130b-5p was suppressed in the ASCI group and neuronal cells following hypoxia treatment."	29995562
+35	Rat	BDNF-AS	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	PC12 cells	amyloid-¦Â (A¦Â) 25-35 treatment	A¦Â 25-35 apparently increased BDNF-AS but decreased BDNF in PC12 cells.	29902125
+36	Rat	BDNF-AS	lncRNA	lithium (Li)	spinal cord injury (SCI)	spinal cord	lithium treatment	"Furthermore, lithium treatment alleviated the inflammatory response by inactivating the nuclear factor-kappa B (NF-¦ÊB) pathway and inhibited the expression of lncRNA brain-derived neurotrophic factor antisense (BDNF-AS) in SCI rats."	33464390
+37	Rat	BLACAT1	lncRNA	IL-6	osteogenesis	bone marrow stromal stem cells (BMSCs)	IL-6 treatment	"BLACAT1 expression was increased in inflammatory BMSCs, and knockdown of BLACAT1 promoted proliferation and osteogenic differentiation of BMSCs targeting miR-142-5p."	32271407
+38	Rat	Blnc1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	renal tissues	streptozotocin (STZ) treatment	upregulated	31632538
+39	Rat	Bmncr	lncRNA	macrophage colony-stimulating factor (M-CSF) and receptor activator of NF-¦ÊB ligand (RANKL)	osteoporosis	Bone marrow mesenchymal stem cells (BMMs) isolated from rats undergoing ovariectomy (OVX)	RANKL (50 ng/mL) and M-CSF (50 ng/mL) for 120 h treatment	Bmncr expression gradually downregulated during RANKL-induced in vitro osteoclast differentiation	31773670
+40	Rat	CASC2	lncRNA	pentylenetetrazol (PTZ)	epilepsy	hippocampus tissues	pentylenetetrazol (PTZ) treatment	lncRNA CASC2 was time-dependently downregulated in the epileptic groups compared with the control group	31958564
+41	Rat	CASC2	lncRNA	hypoxia	hypoxic pulmonary hypertension (HPH)	pulmonary arterial tissues and pulmonary artery smooth muscle cells (PASMCs)	hypoxia induce	downregulated	30857524
+42	Rat	CASC9	lncRNA	lipopolysaccharide (LPS)	lung injury	lung tissues	Lipopolysaccharide (LPS) treatment	CASC9 was markedly downregulated while miR-195-5p was significantly upregulated in HSAECs treated by LPS and lung tissues of rats with sepsis.	32221619
+43	Rat	CASC9	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	PC-12 cells	lipopolysaccharide (LPS) treatment	The results showed that lncRNA CASC9 was downregulated and miR-383-5p was upregulated in SCI rats and LPS-induced PC12 cells.	33438067
+44	Rat	CCAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	spinal cord injury (SCI)	astrocytes	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	CCAT1 Protects Astrocytes Against OGD/R-Induced Damage by Targeting the miR-218/NFAT5-Signaling Axis	32239388
+45	Rat	CD36-005	lncRNA	letrozole	polycystic ovarian syndrome (PCOS)	ovarian tissues	letrozole treatment	upregulated	29505837
+46	Rat	Cdkn1	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	cardiac	angiotensin II (Ang II) treatment	downregulated	25979571
+47	Rat	Cdkn1	lncRNA	losartan	cardiac fibrosis	heart tissues	Losartan treatment	"losartan (AT1 blocker) nearly completely reversed the decrease of lncRNA-NR024118 and partly reversed the decrease of Cdkn1c induced by Ang II in adult rat cardiac fibroblasts,"	25979571
+48	Rat	CHAR	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	neonatal rat ventricular cells (NRVCs)	angiotensin II (Ang II) treatment	CHAR was also down©\regulated in AngII©\treated NRVCs. CHAR participates in pathological cardiac hypertrophy in vitro. CHAR regulates cardiac hypertrophy via the miR©\20b/PTEN/AKT pathway.	31465630
+49	Rat	CHRF	lncRNA	lipopolysaccharide (LPS)	myocarditis	H9c2 cells	lipopolysaccharide (LPS) treatment	"?Silence of lncRNA CHRF impeded the LPS injury to H9c2 cells, as cell viability was increased, apoptosis was inhibited, ROS generation was decreased, and the expression of interleukin (IL)-6 and tumor necrosis factor (TNF)-¦Á was suppressed. However, silence of lncRNA CHRF had no impacts on normal H9c2 cells growth."	30695715
+50	Rat	CPS1©\IT	lncRNA	hypoxia	pulmonary arterial hypertension (PAH)	pulmonary artery tissues	hypoxia induce	downregulated	30982984
+51	Rat	CRNDE	lncRNA	lipopolysaccharide (LPS)	intrauterine infection	brain tissues	lipopolysaccharide (LPS) treatment	CRNDE deteriorates intrauterine infection-induced neonatal brain injury	32234564
+52	Rat	CRNDE	lncRNA	lipopolysaccharide (LPS)	myocardial injury	H9c2 cells	lipopolysaccharide (LPS) treatment	CRNDE/miR-29a/SIRT1 network regulated sepsis-induced myocardial injury.	32473249
+53	Rat	CRNDE	lncRNA	platelet derived growth factor-BB (PDGF-BB)	restenosis after angioplasty or stent	rat carotid artery and vascular smooth muscle cells (VSMCs)	platelet-derived growth factor-BB (PDGF-BB) treatment	upregulated	30740670
+54	Rat	CRNDE	lncRNA	feeney's freefall impact	traumatic brain injury (TBI)	brain tissues	Feeney's freefall impact induce	upregulated	31345079
+55	Rat	CTPB1-AS2	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	The neonatal rat ventricular myocytes (NRVMs)	angiotensin II (Ang II) treatment	upregulated	31220774
+56	Rat	CUST-2117-PI428311958	lncRNA	high fat diet (HFD)	obesity	rats	high fat diet (HFD) feed	upregulated	28761781
+57	Rat	CUST-4640-PI428311958	lncRNA	high fat diet (HFD)	obesity	rats	high fat diet (HFD) feed	upregulated	28761781
+58	Rat	CUST-5105-PI428311958	lncRNA	high fat diet (HFD)	obesity	rats	high fat diet (HFD) feed	upregulated	28761781
+59	Rat	CUST-6638-PI428311958	lncRNA	high fat diet (HFD)	obesity	rats	high fat diet (HFD) feed	upregulated	28761781
+60	Rat	CUST-9613-PI428311958	lncRNA	high fat diet (HFD)	obesity	rats	high fat diet (HFD) feed	upregulated	28761781
+61	Rat	CYTOR	lncRNA	lipopolysaccharide (LPS)	myocardial injury	H9c2 cells	lipopolysaccharide (LPS) treatment	upregulated	32181504
+62	Rat	DANCR	lncRNA	hypoxia	acute myocardial infarction (AMI)	H9c2 cells	hypoxia treatment	DANCR alleviated hypoxia-caused H9c2 cells damage through positive regulation of HIF-1¦Á.	33426962
+63	Rat	DANCR	lncRNA	compression force (CF)	cell differentiation	human periodontal ligament (PDL) cells	compression force (CF) treatment	upregulated	31213122
+64	Rat	DANCR	lncRNA	tunicamycin (TM)	endoplasmic reticulum stress (ERS)	H9c2 cells	tunicamycin treatment	lncRNA Dancr overexpression protected cardiomyocytes against ERS injury via sponging miR-6324.	33300079
+65	Rat	DANCR	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	brain microvascular endothelial cell (BMEC)	oxygen glucose deprivation (OGD) treatment	"DANCR expression significantly increased at 2, 4, 6, 8, and 10 h after OGD."	31986122
+66	Rat	DCRF	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	neonatal rats cardiomyocytes	high glucose (HG) treatment	High glucose increased DCRF expression and induced autophagy in cardiomyocytes.	31285779
+67	Rat	DCRF	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	rat heart tissues	streptozotocin treatment	"DCRF knockdown reduced cardiomyocyte autophagy, attenuated myocardial fibrosis, and improved cardiac function in diabetic rats"	31285779
+68	Rat	DGCR5	lncRNA	hypoxia	myocardial infarction (MI)	H9c2 cells	hypoxia induce	downregulated	31826181
+69	Rat	DGCR5	lncRNA	polydatin (PD)	myocardial infarction (MI)	hypoxia-induced H9c2 cells	Polydatin (PD) treatment	upregulated	31826181
+70	Rat	DGCR5	lncRNA	hypoxia	spinal cord injury (SCI)	PC12 cells	hypoxia treatment	DGCR5 was downregulated in PC12 cells treated with hypoxia.	30146926
+71	Rat	Dlg4	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+72	Rat	EFNA3	lncRNA	hypoxia	cerebral ischemia injury (CII)	hypoxia-injured rat adrenal pheochromocytoma (PC-12) cells	hypoxia induce	"?lncRNA EFNA3 was highly expressed in response to hypoxia. Deletion of lncRNA EFNA3 significantly aggravated hypoxia-induced injury in PC-12 cells, as the impairment of cell viability, migration, and invasion, and the inducement of apoptosis. LncRNA EFNA3 worked as a sponging molecule for miR-101a and miR-101a suppression-protected PC-12 cells against hypoxia-induced injury even when lncRNA EFNA3 was silenced."	30125989
+73	Rat	EFNA3	lncRNA	hypoxia	cerebral ischemia injury (CII)	PC-12 cells	hypoxia treatment	lncRNA EFNA3 was highly expressed in response to hypoxia.	30125989
+74	Rat	EGOT	lncRNA	recombinant human brain natriuretic peptide (rhBNP)	hypoxia-induced injury	H9c2 cells	recombinant human brain natriuretic peptide (rhBNP) treatment	Hypoxia significantly induced injury in H9c2 cells (inhibited cell viability and promoted cell apoptosis and autophagy) and decreased the expression of EGOT	30031611
+75	Rat	Eif4g2	lncRNA	palmitate	pancreatic ¦Â-cell dysfunction	INS-1E cells	palmitate treatment	lncEif4g2 is able to indirectly regulate the expression of CREB via targeting miR-3074-5p in INS-1E cells and mouse islets	32956705
+76	Rat	Ell2	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+77	Rat	ENSRNOG00000037522	lncRNA	streptozocin (STZ)	epithelial-mesenchymal transition (EMT)	kidney tissues	streptozocin (STZ) treatment	ENSRNOG00000037522 was significantly increased in kidney tissues	29436579
+78	Rat	ENSRNOT00000065561	lncRNA	chronic intermittent hypoxia (CIH)	obstructive sleep apnea-induced cardiovascular disease	heart tissues	chronic intermittent hypoxia (CIH) treatment	upregulated	30535531
+79	Rat	ENST00000052577	lncRNA	A2B5+ cell transplantation	traumatic brain injury (TBI)	TBI Sprague-Dawley rats	A2B5+ cell transplantation	upregulated	29251113
+80	Rat	ENST00000446135	lncRNA	cadmium (Cd)	cadmium-induced toxicity	lung tissues	cadmium (Cd) treatment	upregulated	33447366
+81	Rat	FAF	lncRNA	hypoxia	acute myocardial infarction (AMI)	Cardiomyocytes were isolated from 1©\ to 3©\day©\old rats	hypoxia induce	downregulated	31093967
+82	Rat	FAF	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	cardiac fibroblasts (CFs); heart tissues	angiotensin II (Ang II) treatment	lncRNA FAF was decreased in heart tissues and CFs treated with Ang II compared with the control.	31708099
+83	Rat	FAM83H-AS1	lncRNA	advanced glycation end product (AGE)	intervertebral disc degeneration (IDD)	nucleus pulposus (NP) cells	advanced glycation end products (AGEs) treatment	downregulated	33313263
+84	Rat	Fendrr	lncRNA	caerulein (Cae)	acute pancreatitis (AP)	AR42J cells	caerulein (Cae) treatment	LncRNA Fendrr was also upregulated in AP cell model and directly bound ANXA2 protein.	30474876
+85	Rat	Fendrr	lncRNA	hypoxia	cardiomyocyte apoptosis	H9c2 cells	hypoxia treatment	LncRNA Fendrr inhibits hypoxia/reoxygenation-induced cardiomyocyte apoptosis by downregulating p53 expression.	32537758
+86	Rat	FGD5-AS1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	primary cortical neuron culture	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	FGD5-AS1 may protect the neuron against OGD/R injury via acting as a ceRNA for miR-223 to mediate IGF1R expression	32337949
+87	Rat	FIRRE	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	stroke	primary microglial cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	FIRRE was upregulated in OGD/R-treated microglial cells	29715458
+88	Rat	FOXD3-AS1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9C2 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31632535
+89	Rat	FTX	lncRNA	lithium chloride and pilocarpine	epilepsy	hippocampal neuron	lithium chloride and pilocarpine induce	"?FTX is notably reduced in the hippocampus of SE rat model. Moreover, the in?vivo overexpression of FTX inhibited SE-induced hippocampus neuron apoptosis."	30871773
+90	Rat	FTX	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9C2 cells	hypoxia/reoxygenation (H/R) treatment	FTX alleviates hypoxia/reoxygenation-induced cardiomyocyte injury via miR-410-3p/Fmr1 axis	31957854
+91	Rat	FTX	lncRNA	Nogo-66	neurite outgrowth	PC12 cells	Nogo-66 treatment	LncRNA FTX Involves in the Nogo-66-Induced Inhibition of Neurite Outgrowth Through Regulating PDK1/PKB/GSK-3¦Â Pathway.	32107749
+92	Rat	Gadd45a	lncRNA	sevoflurane (SEV)	sevoflurane-induced neurotoxicity	neural stem cells (NSCs)	sevoflurane treatment	lncRNA Gadd45a were positively coupregulated in rat NSCs fol- lowing exposure to sevoflurane	29521679
+93	Rat	gadd7	lncRNA	agmatine (AGM)	hyperoxia-induced acute lung injury (HALI)	rat lung tissues	agmatine (AGM) treatment	"AGM decreased the upregulated expression of lncRNA gadd7 caused by hyperoxia and due to the presence of the competitive binding of lncRNA gadd7 and MFN1 to miR-125a, AGM indirectly decreased MFN1 protein expression to inhibit the cells apoptosis."	31196629
+94	Rat	GAS5	lncRNA	isoproterenol	acute myocardial infarction (AMI)	rat myocardial tissues	subcutaneous injection of isoproterenol (ISO)	"SiRNA GAS5 can enhance the cardiac function of AMI model rats, relieve pathological damage, reduce myocardial cell apoptosis, and inhibit the occurrence of myocardial fibrosis. The possible underlying mechanism may be associated with upregulated of miR-21."	31646590
+95	Rat	GAS5	lncRNA	bisphenol A (BPA)	bisphenol A (BPA) induced neurotoxicity	PC12cells	bisphenol A (BPA) treatment	GAS5 was downregulated in PC12 cells induced by BPA.	29552716
+96	Rat	GAS5	lncRNA	hypoxia/reoxygenation (H/R)	cardiomyocyte apoptosis	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	"LncRNA-GAS5 regulates PDCD4 expression to mediate MI-induced cardiomyocyte apoptosis via targeting miR-21, suggesting that GAS5 could be a therapeutic target for MI."	32308118
+97	Rat	GAS5	lncRNA	homocysteine (Hcy)	cell damage	primary cardiac microvascular endothelial cells (CMECs)	homocysteine (HCY) treatment	downregulated	30825202
+98	Rat	GAS5	lncRNA	deep hypothermic circulatory arrest	cerebral injury	rat hippocampal tissues	deep hypothermic circulatory arrest treatment	upregulated	30824348
+99	Rat	GAS5	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	AC16 cardiomyocytes	high glucose (HG) treatment	GAS5 expression was upregulated in HG-treated AC16 cardiomyocytes and the rat diabetic myocardial injury model	33682891
+100	Rat	GAS5	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	H9c2 cells	high glucose (HG) treatment	"GAS5 downregulated high blood glucose concentrations in STZ-induced diabetic rats, however its expression levels decreased in both HG-processed H9C2 cells and the myocardium of DM model rats."	33313941
+101	Rat	GAS5	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	H9c2 cells	high glucose (HG) treatment	downregulated	33313941
+102	Rat	GAS5	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	H9c2 cells	streptozotocin (STZ) treatment	"GAS5 downregulated high blood glucose concentrations in STZ-induced diabetic rats, however its expression levels decreased in both HG-processed H9C2 cells and the myocardium of DM model rats"	33313941
+103	Rat	GAS5	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	myocardium	streptozotocin (STZ) treatment	downregulated	33313941
+104	Rat	GAS5	lncRNA	kainic acid (KA)	epilepsy	primary hippocampal neuron	kainic acid (KA) treatment	"lncRNA GAS5 functions as a competitive endogenous RNA of miR-135a-5p to increase expression of KCNQ3, and lncRNA GAS5 silencing inhibited the occurrence and progression of epilepsy."	31373759
+105	Rat	GAS5	lncRNA	astragaloside IV (AS-IV)	heart failure (HF)	hypoxia-treated cardiomyoblast H9c2 cells	astragaloside IV (AS-IV) treatment	"we found that lncRNA GAS5 expression was downregulated by AS-IV treatment, and AS-IV might affect hypoxia-stimulated H9c2 cells through lncRNA GAS5."	31136949
+106	Rat	GAS5	lncRNA	hypoxia	heart failure (HF)	H9c2 cells	hypoxia induce	"silence of lncRNA GAS5 attenuated hypoxia-triggered cell death, silence of lncRNA GAS5 protected H9c2 cells against hypoxia-induced injury possibly via sponging miR-142-5p."	31085811
+107	Rat	GAS5	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	Liver tissues	carbon tetrachloride (CCl4) treatment	lncRNA GAS5 can be used as a sponge platform for miR-23a to decrease miR-23a expression levels competitively.	30735452
+108	Rat	GAS5	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	brain tissues	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	GAS5 and PTEN expression levels were elevated in brain tissues of MCAO rats and OGD/R-induced PC12 cells	33309710
+109	Rat	GAS5	lncRNA	hypoxia	myocardial infarction (MI)	myocardial cell line H9c2	hypoxia induce	upregulated	31429119
+110	Rat	GAS5	lncRNA	norepinephrine (NE)	myocardial infarction (MI)	H9c2 cells	Norepinephrine (NE) treatment	upregulated	30099044
+111	Rat	GAS5	lncRNA	anoxia/reoxygenation (A/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	anoxia/reoxygenation (A/R) treatment	lncRNA GAS5 in H9c2 cells treated with anoxia and reoxygenation was significantly upregulated.	31985016
+112	Rat	GAS5	lncRNA	palmitic acid (PA)	myocardial lipotoxic injury	H9c2 cells	palmitic acid (PA) treatment	GAS5 was significantly upregulated in cardiomyocytes following treatment with PA	30365114
+113	Rat	GAS5	lncRNA	cocaine	neural function	nucleus accumbens (NAc)	cocaine treatment	downregulated	32711952
+114	Rat	GAS5	lncRNA	methamphetamine (METH)	neurotoxicity	prefrontal cortical neurons	Methamphetamine treatment	upregulated	28619521
+115	Rat	GAS5	lncRNA	curcumin (Cur)	post-stroke depression (PSD)	hippocampus	curcumin treatment	upregulated	32627518
+116	Rat	GAS5	lncRNA	hypoxia	stroke	rat brain tissues	Transient focal ischemia was induced by intraluminal occlusion of the right Middle cerebral artery occlusion (MCAO)	"GAS5 was upregulated in MCAO rats and in vitro hypoxia cell model while miR-221 expression was decreased in vitro hypoxia cell model. GAS5 promoted cells apoptosis, while miR-221 inhibited cell apoptosis through regulation of PUMA and downstream JNK/H2AX signaling."	31878844
+117	Rat	Giver	lncRNA	angiotensin II (Ang II)	hypertension	Rat vascular smooth muscle cell (VSMC)	angiotensin II (Ang II) treatment	upregulated	30566058
+118	Rat	Giver	lncRNA	angiotensin II (Ang II)	hypertension	vascular smooth muscle cell (VSMC)	angiotensin II (Ang II) treatment	AngII increased the expression of Giver.	30566058
+119	Rat	Gm2691	lncRNA	hypoxia	acute myocardial infarction (AMI)	neonatal rat ventricular cardiomyocytes	AnaeroPack anaerobic system treatment	LncRNA Gm2691 improved the cardiac function and attenuated the inflammatory response in vivo	31169981
+120	Rat	Gm4419	lncRNA	hypoxia/reoxygenation (H/R)	hepatic ischemia/reperfusion injury (HIRI)	BRL-3A cells	hypoxia-reoxygenation (H/R) treatment	lncRNA Gm4419 accelerates hepatic I/R injury by targeting the miR-455-SOX6 axis.	32114773
+121	Rat	Gm4419	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	microglial cells from SD rat	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	28476620
+122	Rat	Gm4419	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H92c cells	hypoxia/reoxygenation treatment	upregulated	32590403
+123	Rat	Gpr19	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	acute myocardial infarction (AMI)	rat ventricular cardiomyocytes (NRCMs)	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31622017
+124	Rat	Gpr19	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	Neonatal rat ventricular cardiomyocytes (NRCMs)	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	Inhibition of the LncRNA Gpr19 attenuates ischemia-reperfusion injury after acute myocardial infarction by inhibiting apoptosis and oxidative stress via the miR-324-5p/Mtfr1 axis.	31622017
+125	Rat	Grik2-001	lncRNA	letrozole	polycystic ovarian syndrome (PCOS)	ovarian tissues	letrozole treatment	downregulated	29505837
+126	Rat	H19	lncRNA	hypoxia	acute myocardial infarction (AMI)	rat H9c2 cells	hypoxia	upregulated	29179202
+127	Rat	H19	lncRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	lung tissues	lipopolysaccharide (LPS) treatment	"The expression of H19 and FOXA1 was significantly upregulated, while the expression of miR-423-5p was downregulated in LPS-induced ARDS rats."	33629893
+128	Rat	H19	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	PC12 cells	amyloid-¦Â (A¦Â) 25-35 treatment	"Elevated H19, HMGB1 and decreased miR-129 were found in A¦Â25-35-treated PC12 cells as well as in brain tissues of AD mice."	33410377
+129	Rat	H19	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	ancestral TCDD exposure	ovary of TCDD treated F3 female rats	Pregnant Sprague-Dawley female rats (F0) were given with either vehicle or TCDD (100 or 500?ng/kg BW/day) by gavages during days 8-14 of gestation.	upregulated	31629011
+130	Rat	H19	lncRNA	hypoxia	cardiac rehabilitation	H9c2 cells	hypoxic preconditioning (HPC) treatment	"HPC treatment protected H9c2 cells against H2O2-induced injury, upregulated the level of long noncoding RNA (lncRNA) H19."	33197240
+131	Rat	H19	lncRNA	hypoxia	cerebral ischemia/reperfusion (I/R) injury	brain tissues	(lncRNA H19) was found to be upregulated by hypoxia	upregulated	28203482
+132	Rat	H19	lncRNA	streptozocin (STZ)	diabetes mellitus (DM)	rats renal tubular epithelial cells	streptozotocin treatment	upregulated	29029394
+133	Rat	H19	lncRNA	high glucose (HG) and lipid diet	diabetic foot ulcer (DFU)	ulcer tissues	high glucose and lipid diet	lncRNA H19 accelerated wound healing in DFU through elevation of CTGF and activation of the MAPK signaling pathway.	32698141
+134	Rat	H19	lncRNA	adriamycin (ADR)	dilated cardiomyopathy (DCM)	rats?myocardial tissue	adriamycin (ADR) treatment	upregulated	28430627
+135	Rat	H19	lncRNA	hindlimb unloading (HLU)	disuse osteoporosis (DOP)	rats	HLU treatment	downregulated	28447380
+136	Rat	H19	lncRNA	intra-amygdala kainic acid	epilepsy	hippocampus	intra-amygdala kainic acid treatment	H19 is involved in astrocyte activation in the hippocampus of epileptic rats.	30314521
+137	Rat	H19	lncRNA	kainic acid (KA)	epilepsy	rat hippocampus neurons	kainic acid treatment	LncRNA H19 could competitively bind to let-7b to promote hippocampal glial cell activation and epileptic seizures by targeting Stat3 in a rat model of temporal lobe epilepsy.	32648622
+138	Rat	H19	lncRNA	hypoxia	hypoxic brain injury	PC-12 cell	hypoxia induce	"Hypoxia-induced cell damage was aggravated by lncRNA H19 overexpression, while was alleviated by lncRNA H19 silence."	30312698
+139	Rat	H19	lncRNA	geniposide (GEN)	hypoxic/ischemic brain damage (HIBD)	oxygen and glucose deprivation (OGD)-treated PC-12 cells	Geniposide (GEN) treatment	upregulated	30472296
+140	Rat	H19	lncRNA	hypoxia	hypoxic/ischemic brain damage (HIBD)	PC-12 cells	oxygen and glucose deprivation (OGD)	downregulated	30472296
+141	Rat	H19	lncRNA	geniposide (GEN)	hypoxic-ischemic encephalopathy (HIE)	PC-12 cells	geniposide (GEN) treatment	H19 expression was upregulated by GEN.	30472296
+142	Rat	H19	lncRNA	hypoxia	ischemic stroke (IS)	rat brain tissues	middle cerebral artery occlusion/reperfusion (MCAO/R) injury	upregulated	31170091
+143	Rat	H19	lncRNA	oxygen glucose deprivation (OGD)	ischemic stroke (IS)	rat neuronal cells	oxygen glucose deprivation (OGD) treatment	upregulated	31170091
+144	Rat	H19	lncRNA	hypoxia	myocardial infarction (MI)	rat cardiomyocyte	hypoxia treatment	Downregulated H19 and upregulated CYP1B1 were observed in MI patients.	33389498
+145	Rat	H19	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia treatment	upregulated	32319634
+146	Rat	H19	lncRNA	H2O2	myocardial ischemic preconditioning (IP)	H9c2 cells	H2O2 treatment	H19 overexpression enhanced the protective role of H2 O2 -PC in cardiomyocytes.	31975412
+147	Rat	H19	lncRNA	chronic constriction injury (CCI)	neuropathic pain (NP)	Schwann cells	chronic constriction injury (CCI) induce	Silencing H19 inhibited NP by suppressing CDK5/p35 and p-CREB phosphorylation via the miR-196a-5p/CDK5 axis.	32903807
+148	Rat	H19	lncRNA	"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"	ovary development and functions	female offspring rats (F1) ovary	the pregnant rats were treated with TCDD (100?ng/kg/day or 500?ng/kg/day) or only vehicle and corn oil on the day 8-14 of gestation through the gavage with a stainless-steel feeding needle. The vaginal opening time and estrous cycle of female offspring rats (F1) were monitored twice a day.	downregulated	31063829
+149	Rat	H19	lncRNA	metformin (Met)	polycystic ovarian syndrome (PCOS)	ovary tissues	Metformin (Met) treatment	downregulated	30989649
+150	Rat	H19	lncRNA	estrogen (ES)	postmenopausal osteoporosis (PMOP)	bone tissues	estrogen treatment	upregulated	33577975
+151	Rat	H19	lncRNA	IL-1¦Â	pulmonary arterial hypertension (PAH)	pulmonary arterial smooth muscle cells (PASMCs)	IL-1¦Â treatment	upregulated	30547791
+152	Rat	H19	lncRNA	monocrotaline (MCT)	pulmonary arterial hypertension (PAH)	serum; lungs tissues	monocrotaline (MCT) treatment	H19 was highly expressed in the serum and lungs of MCT-induced models.	30547791
+153	Rat	H19	lncRNA	platelet derived growth factor-BB (PDGF-BB)	pulmonary arterial hypertension (PAH)	pulmonary arterial smooth muscle cells (PASMCs)	platelet-derived growth factor (PDGF)-BB treatment	upregulated	30547791
+154	Rat	H19	lncRNA	3-methyladenine (3-MA)	repair of epidermal growth factor (EGF)	IEC-6 cells	3-methyladenine (3-MA) treatment	downregulated	32301281
+155	Rat	H19	lncRNA	rapamycin	repair of epidermal growth factor (EGF)	IEC-6 cells	Rapamycin treatment	upregulated	32301281
+156	Rat	H19	lncRNA	lipopolysaccharide (LPS)	sepsis-induced myocardial injury	H9c2 cells	lipopolysaccharide (LPS) treatment	"H19 and SORBS2 were downregulated in H9C2 cells following LPS treatment, while miR-93-5p was upregulated."	32996061
+157	Rat	H19	lncRNA	lipopolysaccharide (LPS)	sepsis-induced myocardial injury	H9C2 cells	lipopolysaccharide (LPS) treatment	H19 attenuated the development of sepsis-induced myocardial injury in vitro via modulation of the miR-93-5p/SORBS2 axis.	32996061
+158	Rat	H19	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	primary spinal neurons	lipopolysaccharide (LPS) treatment	SCI resulted in lncRNA H19 higher expression and miR-370-3p lower expression.	33708438
+159	Rat	H19	lncRNA	metformin and sitagliptin	polycystic ovarian syndrome (PCOS)	primary ovarian granulosa cells?culture	metformin (DMBG) and sitagliptin (TECOS) treatment	co-treatment with TECOS and DMBG induced H19 expression via suppressing the PI3K/AKT-DNMT1 pathway.	31405334
+160	Rat	HCG18	lncRNA	high glucose (HG)	diabetic peripheral neuropathy (DPN)	macrophage	high glucose (HG) treatment	LncRNA HCG18 was highly expressed in DPN model and HG-induced macrophages.	32996080
+161	Rat	HIF1A-AS2	lncRNA	hypoxia	ischemic stroke (IS)	HUVECs	pMCAO treatment	upregulated in infraction areas	28985553
+162	Rat	HOTAIR	lncRNA	sepsis	acute kidney injury (AKI)	?kidney tissues	cecal ligation puncture induced sepsis treatment	lncRNA HOTAIR mimics could remarkably improve the renal function of sepsis rats	31081107
+163	Rat	HOTAIR	lncRNA	hypoxia	acute myocardial infarction (AMI)	neonatal rat cardiomyocytes	hypoxia treatment	downregulated	29258067
+164	Rat	HOTAIR	lncRNA	hypoxia	acute myocardial infarction (AMI)	H9C2 cells	hypoxia induce	upregulated	30468490
+165	Rat	HOTAIR	lncRNA	bisphenol-A (BPA) and diethylstilbestrol (DES)	breast cancer	mammary glands of rat	BPA and DES treatment	upregulated	24533974
+166	Rat	HOTAIR	lncRNA	exenatide (EXA)	cirrhotic cardiomyopathy	thioacetamide (TAA)-treated rats cardiac tissue	exenatide (EXA) treatment	upregulated	31100415
+167	Rat	HOTAIR	lncRNA	thioacetamide (TAA)	cirrhotic cardiomyopathy	cardiac tissue	thioacetamide (TAA) treatment	downregulated	31100415
+168	Rat	HOTAIR	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	H9c2 cells	?high glucose (HG) induce	HOTAIR protected against DCM via activation of the SIRT1 expression by sponging miR-34a.	30216438
+169	Rat	HOTAIR	lncRNA	streptozocin (STZ)	diabetic cardiomyopathy (DCM)	heart tissues	streptozotocin (STZ) treatment	HOTAIR was downregulated in the diabetic hearts	30216438
+170	Rat	HOTAIR	lncRNA	lipopolysaccharide (LPS)	rheumatoid arthritis (RA)	chondrocytes obtained from SD rats	lipopolysaccharide (LPS) treatment	downregulated	28732288
+171	Rat	HOTAIR	lncRNA	H2O2	ischemia/reperfusion (I/R) injury	H9c2 cells	H2O2 treatment	HOTAIR was significantly downregulated in H9c2 cells in response to oxidative stimuli.	30239560
+172	Rat	HOTAIR	lncRNA	sulfasalazine	multiple sclerosis (MS)	OLN-93 cells	sulfasalazine (SF) treatment	SF downregulated lncRNA HOTAIR but upregulated miR-136-5p	29944870
+173	Rat	HOTAIR	lncRNA	hypoxia	myocardial infarction (MI)	rat heart tissues	permanent ligation of the left anterior descending (LAD) coronary artery induce	downregulated	30607799
+174	Rat	HOTAIR	lncRNA	H2O2	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	H2O2 treatment	HOTAIR aggravates myocardial IR by competitively binding SRSF1 with microRNA-126.	32964995
+175	Rat	HOTAIR	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	upregulated	32256945
+176	Rat	HOTAIR	lncRNA	matrine	oxidative stress	H9c2 cells	matrine treatment	Matrine modulated H2O2-induced myocardial oxidative stress repair through HOTAIR/miR-106b-5p axis via AKT and STAT3 signaling pathway.	32395744
+177	Rat	HOTAIR	lncRNA	dehydro-isoandrosterone	polycystic ovarian syndrome (PCOS)	ovarian tissues and granulosa cells	dehydro-isoandrosterone treatment	LncRNA HOTAIR up-regulates the expression of IGF1 and aggravates the endocrine disorders and granulosa cell apoptosis through competitive binding to miR-130a in rat models of PCOS.	31733099
+178	Rat	HOTAIR	lncRNA	dehydro-isoandrosterone	polycystic ovarian syndrome (PCOS)	ovarian tissues	dehydro-isoandrosterone treatment	upregulated	31733099
+179	Rat	HOTAIR	lncRNA	paeonol (PAE)	renal interstitial fibrosis (RIF)	renal tissues or NRK-49F cells	paeonol (PAE) treatment	PAE was found to decrease HOTAIR and Notch1 expression but to increase the miR-124 expression in RIF rats.	30714138
+180	Rat	HOTAIR	lncRNA	sevoflurane (SEV)	sevoflurane anesthesia-mediated cognitive dysfunction	hippocampus	sevoflurane treatment	upregulated	29352445
+181	Rat	HOTTIP	lncRNA	streptozocin (STZ)	diabetic retinopathy (DR)	retina tissues	streptozocin (STZ) treatment	upregulated	29863235
+182	Rat	HOXA-AS2	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	kidney tissues	streptozotocin (STZ) treatment	HOXA-AS2 was downregulated in STZ-induced DN rats	32432759
+183	Rat	HOXB-AS3	lncRNA	doxorubicin (DOX)	cardiotoxicity	H9c2 cells	Doxorubicin (DOX) treatment	Relative level of HOXB-AS3 was upregulated in DOX-treated cardiomyocytes. Silence of HOXB-AS3 in cardiomyocytes undergoing DOX treatment markedly elevated their proliferative ability.	32010313
+184	Rat	HOXB-AS3	lncRNA	doxorubicin (DOX)	doxorubicin (DOX)-induced cardiotoxicity	H9c2 cells	doxorubicin (DOX) treatment	Relative level of HOXB-AS3 was upregulated in DOX-treated cardiomyocytes.	32010313
+185	Rat	HULC	lncRNA	hypoxia/reoxygenation (H/R)	acute myocardial infarction (AMI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	downregulated	32674625
+186	Rat	HULC	lncRNA	dimethylnitrosamine (DMN)	liver cirrhosis	liver tissues	dimethylnitrosamine (DMN) treatment	upregulated	31933850
+187	Rat	IFNG-AS1	lncRNA	vildagliptin (Vilda)	ulcerative colitis (UC)	colon tissues	Vildagliptin (Vilda) treatment	"Vilda hsa markedly inhibited the expression of lncRNA IFNG-AS1 and miR-146a, as well as PI3K/Akt/NF¦ÊB pathway"	33434756
+188	Rat	ILF3-AS1	lncRNA	hypoxia	myocardial infarction (MI)	H9c2 cells	hypoxia treatment	ILF3-AS1 was downregulated by hypoxia.	32196615
+189	Rat	JHDM1D-AS1	lncRNA	H2O2	periodontal ligament repair	rat periodontal ligament stem cells (PDLSCs)	H2O2 treatment	downregulated	31276733
+190	Rat	KCNA2-AS	lncRNA	varicella zoster virus (VZV)	postherpetic neuralgia (PHN)	spinal cord tissue	Varicella zoster virus (VZV) treatment	KCNA2-AS was highly expressed in the spinal cord tissue of PHN model rats	33225882
+191	Rat	KCNQ1OT1	lncRNA	hypoxia	acute myocardial infarction (AMI)	H9c2 cells	hypoxia treatment	"Kcnq1ot1 sponged miR-466k and miR-466i-5p to up-regulate Tead1, thus triggering cardiomyocyte injury in the process of AMI."	32422306
+192	Rat	KCNQ1OT1	lncRNA	high glucose (HG)	diabetic corneal endothelial keratopathy	rat corneal endothelial cells	high glucose treatment	upregulated	31693400
+193	Rat	KCNQ1OT1	lncRNA	streptozocin (STZ)	diabetic corneal endothelial keratopathy	corneal endothelial cells	streptozotocin (STZ) treatment	upregulated	31693400
+194	Rat	KCNQ1OT1	lncRNA	ketamine	ketamine-induced neurotoxicity	neurons of the hippocampus; PC-12 cells	ketamine treatment	LncRNA KCNQ1OT1 Sponges miR-206 to Ameliorate Neural Injury Induced by Anesthesia via Up-Regulating BDNF.	33204065
+195	Rat	KCNQ1OT1	lncRNA	lipopolysaccharide (LPS)	myocardial injury	H9c2 cells	lipopolysaccharide (LPS) treatment	downregulated of KCNQ1OT1 advances cardiac injury through regulating miR-192-5p/XIAP axis during sepsis.	32102564
+196	Rat	L20992	lncRNA	lead (Pb)	lead-induced neurotoxicity	PC12 cells	lead treatment	lncRNAL20992 was significantly upregulated in a lead-induced neuronal-injury cell model.	29029323
+197	Rat	LEF1-AS1	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	primary microglial cells	lipopolysaccharide (LPS) treatment	"We revealed that LncRNA LEF1-AS1 was distinctly upregulated, whereas miR-222-5p was significantly downregulated in LPS-treated SCI and microglial cells."	33407665
+198	Rat	LEGLTBC	lncRNA	high glucose (HG) and palmitate (HG/PA)	type 2 diabetes mellitus (T2DM)	INS-1 cells	high glucose and palmitate (HG/PA) treatment	downregulated	31737170
+199	Rat	LET	lncRNA	hypoxia	ischemic heart disease (IHD)	H9c2 cells	hypoxia treatment	downregulated	31222827
+200	Rat	LET	lncRNA	hypoxia	ischemic heart disease (IHD)	H9c2 cells	hypoxia induce	The expression of lncRNA-LET was repressed by hypoxia. Overexpression of lncRNA-LET attenuated hypoxia-induced injury in H9c2 cells.	31222827
+201	Rat	Lin28	lncRNA	"2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP)"	colorectal cancer (CRC)	rat tumors; colonic mucosa tissues	"2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) treatment"	the let-7/c-Myc/Lin28 axis is dysregulated in heterocyclic amine-induced colon carcinogenesis	22641368
+202	Rat	LINC00261	lncRNA	hypoxia/reoxygenation (H/R)	ischemia/reperfusion (I/R)-mediated acute myocardial infarction (AMI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	The expression of LINC00261 was significantly downregulated in H9C2 cells.	32558131
+203	Rat	LINC00339	lncRNA	doxorubicin (DOX)	doxorubicin (DOX)-induced cardiotoxicity	primary cultured myocardial cells (PC); H9c2 cells	doxorubicin (DOX) treatment	Primary cultured myocardial cell (PC) and H9C2 cell line were treated with different concentrations of DOX and the expression of LINC00339 were markedly upregulated.	30170730
+204	Rat	LINC00472	lncRNA	lipopolysaccharide (LPS)	sepsis-induced acute hepatic injury	liver tissues	Lipopolysaccharide (LPS) treatment	upregulated	33129786
+205	Rat	LINC00707	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	PC-12 cells	lipopolysaccharide (LPS) treatment	LINC00707 alleviates LPS-induced inflammation and apoptosis in PC-12 cells by targeting miR-30a-5p/Neurod 1	31272297
+206	Rat	LINC00961	lncRNA	hypoxia	myocardial infarction (MI)	cardiomyocytes H9c2	hypoxia induce	upregulated	30887575
+207	Rat	LINC01614	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2cells	hypoxia/reoxygenation (H/R) treatment	upregulated	32231469
+208	Rat	LNC_000343	lncRNA	iohexol	contrast-induced acute kidney injury (CIAKI)	Renal tissue	"Animals were dehydrated for 48 h and then underwent furosemide (10 mL/kg; Harvest Pharmaceutical, Shanghai, China) injection 30 min before administration of iohexol (15 mL/kg, group CI-AKI; iodine, 350 mg/mL; GE Healthcare, Shanghai, China) or 0.9% normal saline (15 mL/kg, control group)."	lncRNA LNC_000343 was downregulated in Contrast-induced acute kidney injury (CI-AKI).	31234008
+209	Rat	lnc000908	lncRNA	isoproterenol	cardiac fibrosis	heart tissues	isoproterenol treatment	upregulated	31297954
+210	Rat	lncRNA00654	lncRNA	pentoxifylline (PTX)	cardiac injury	heart sissues	Pentoxifylline (PTX) treatment	Pentoxifylline (PTX) treatment produced a dose-dependent decrease in lncRNA-00654 expressions	31972363
+211	Rat	lncRNA5657	lncRNA	lipopolysaccharide (LPS)	sepsis-induced lung injury	NR8383 cells	lipopolysaccharide (LPS) treatment	upregulated	32866783
+212	Rat	LOC102546452	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+213	Rat	LOC102547847	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+214	Rat	LOC102549714	lncRNA	silica	silicosis	lung tissues	silica treatment	upregulated	32028236
+215	Rat	LOC102549714	lncRNA	TGF-¦Â1	silicosis	rat lung fibroblasts (FBs)	TGF-¦Â1 treatment	upregulated	32028236
+216	Rat	LOC102549726	lncRNA	nickel	steroidogenesis disturbance	Leydig cells	NiSO4 induce	dysregulated	31734292
+217	Rat	LOC102549726	lncRNA	NiSO4	steroidogenesis disturbance	rat Leydig cells	NiSO4 treatment	upregulated	31734292
+218	Rat	LOC102550137	lncRNA	silica	silicosis	lung tissues	silica treatment	upregulated	32028236
+219	Rat	LOC102550137	lncRNA	TGF-¦Â1	silicosis	rat lung fibroblasts (FBs)	TGF-¦Â1 treatment	upregulated	32028236
+220	Rat	LOC102551149	lncRNA	platelet-derived growth factor (PDGF)	liver fibrosis	hepatic stellate cells (HSCs)	platelet-derived growth factor (PDGF) treatment	downregulated	32306379
+221	Rat	LOC102553339	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+222	Rat	LOC103690121	lncRNA	high glucose (HG)	type 1 diabetes mellitus (T1DM)	rat hippocampal neurons (RN-h cells)	high glucose treatment	upregulated	30851305
+223	Rat	LOC103690121	lncRNA	streptozocin (STZ)	type 1 diabetes mellitus (T1DM)	hippocampal tissues	streptozotocin (STZ) treatment	upregulated	30851305
+224	Rat	LOC103691197	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+225	Rat	LOC103691336	lncRNA	MgSO4	osteogenesis	rat primary bone marrow stromal cells	MgSO4 treatment	upregulated	31081160
+226	Rat	LOC103691771	lncRNA	silica	silicosis	lung tissues	silica treatment	upregulated	32028236
+227	Rat	LOC103691771	lncRNA	TGF-¦Â1	silicosis	rat lung fibroblasts (FBs)	TGF-¦Â1 treatment	upregulated	32028236
+228	Rat	LOC103692016	lncRNA	silica	silicosis	lung tissues	silica treatment	downregulated	32028236
+229	Rat	LOC103692016	lncRNA	TGF-¦Â1	silicosis	rat lung fibroblasts (FBs)	TGF-¦Â1 treatment	downregulated	32028236
+230	Rat	LOC103692656	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+231	Rat	LOC103693125	lncRNA	silica	silicosis	lung tissues	silica treatment	downregulated	32028236
+232	Rat	LOC103693125	lncRNA	TGF-¦Â1	silicosis	rat lung fibroblasts (FBs)	TGF-¦Â1 treatment	downregulated	32028236
+233	Rat	Lrrc75a-as1	lncRNA	inorganic phosphate (Pi)	vascular calcification (VC)	rat vascular smooth muscle cells (VSMCs)	inorganic phosphate treatment	downregulated	30971745
+234	Rat	MAGI1-IT1	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	H9c2 cells	angiotensin II (Ang II) treatment	downregulated	31222747
+235	Rat	MAGI1-IT1	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	H9c2 cells	angiotensin II (Ang II) treatment	MAGI1-IT1 functioned as a negative regulator in CH through inactivating Wnt/beta-catenin pathway via targeting miR-302e/DKK1 axis	31222747
+236	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	kidney tissues; NRK-52E cells	lipopolysaccharide (LPS) treatment	upregulated	29115409
+237	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	NRK-52E cells	lipopolysaccharide (LPS) treatment	upregulated	29115409
+238	Rat	MALAT1	lncRNA	"5(S), 6(R),7-trihydroxyheptanoic acid methyl ester (BML-111)"	acute lung injury (ALI)	lung tissues	BML-111 treatment	upregulated	29704485
+239	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	lung tissues	lipopolysaccharide (LPS) treatment	MALAT1 was upregulated and mir-146a was downregulated in lps-induced ALI rat model.	29649906
+240	Rat	MALAT1	lncRNA	hyperbaric oxygen (HBO)	acute myocardial infarction (AMI)	Rat cardiac myocytes	Hyperbaric oxygen (HBO) treatment	HBO significantly increased MALAT1 expression in cardiac myocytes.	32939962
+241	Rat	MALAT1	lncRNA	hypoxia	acute myocardial infarction (AMI)	heart tissues	ligation of the left anterior descending coronary artery	upregulated	32010261
+242	Rat	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	acute myocardial infarction (AMI)	H9c2 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31669130
+243	Rat	MALAT1	lncRNA	caerulein (Cae)	acute pancreatitis (AP)	"AR42J, a rat pancreatic acinar cell line"	caerulein (Cae) treatment	upregulated	31518341
+244	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	acute respiratory distress syndrome (ARDS)	lung tissues	lipopolysaccharide (LPS) treatment	upregulated	33407436
+245	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	acute spinal cord injury (ASCI)	primary microglia	lipopolysaccharide (LPS) treatment	"Upon treatment with LPS, MALAT1 expression dramatically increased in the microglia in vitro."	29631367
+246	Rat	MALAT1	lncRNA	amyloid-¦Â (A¦Â) 1-42	Alzheimer's disease (AD)	nerve growth factor (NGF) stimulated PC 12 cells and primary cerebral cortex neurons of rat embryo	amyloid ¦Â1-42?(A¦Â) treatment	downregulated	31345147
+247	Rat	MALAT1	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	PC12; C6 cells	amyloid-¦Â (A¦Â) 25-35 treatment	MALAT1 could promote neuronal recovery following AD through the miR-30b/CNR1 network and the PI3K/AKT signaling activation.	32976819
+248	Rat	MALAT1	lncRNA	fluid-percussion injury (FPI)	brain edema	astrocyte	fluid percussion injury (FPI) induce	downregulated	31218751
+249	Rat	MALAT1	lncRNA	cadmium (Cd)	cadmium-induced toxicity	rats lung	cadmium (Cd) treatment	upregulated in the lung	30090506
+250	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	cell differentiation	differentiated BM-MSCs	lipopolysaccharide (LPS) treatment	"In hepatocytes differentiated from BM-MSCs, miR-217 was downregulated and lncRNA MALAT1 was upregulated. RIP analysis showed MALAT1 was physically associated with miR-217 and might function in the regulation of ZEB-1, further enhancing the expression of TERT so as to augment telomerase activity."	30658864
+251	Rat	MALAT1	lncRNA	aerobic exercise	chronic heart failure (CHF)	myocardial tissues	aerobic exercise training (AET) treatment	upregulated	33708967
+252	Rat	MALAT1	lncRNA	streptozocin (STZ)	diabetes-related microvascular complications	diabetic rats retinal endothelial cell	STZ treatment	upregulated	25356875
+253	Rat	MALAT1	lncRNA	streptozocin (STZ)	diabetic gastroparesis (DGP)	stomach	streptozocin (STZ) treatment	MALAT1 was upregulated in rat model of DGP	29317209
+254	Rat	MALAT1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	rats renal tubular epithelial cells	streptozotocin treatment	upregulated	27964927
+255	Rat	MALAT1	lncRNA	angiotensin II (Ang II)	hypertension	rat vascular tissues	angiotensin II (Ang II) treatment	upregulated	31343412
+256	Rat	MALAT1	lncRNA	hypoxia	hypoxia-induced injury	PC12 cells	hypoxia treatment	upregulated	29360503
+257	Rat	MALAT1	lncRNA	H2O2	myocardial infarction (MI)	H9C2 cells	H2O2 treatment	upregulated	30841417
+258	Rat	MALAT1	lncRNA	hypoxia	myocardial infarction (MI)	H9c2 cells	hypoxia induce	Hypoxia significantly enhanced the expression of Malat1. Knockdown of Malat1 aggravated hypoxia-induced H9c2 cell injury.	30843674
+259	Rat	MALAT1	lncRNA	isoproterenol	myocardial infarction (MI)	heart tissues	isoproterenol (ISO) treatment	LncRNA MALAT1 was upregulated in the myocardial infarction areas.	30536615
+260	Rat	MALAT1	lncRNA	isoproterenol	myocardial infarction (MI)	rat H9C2 cells	isoproterenol (ISO) treatment	lncRNA MALAT1 protected cardiomyocytes from ISO-induced apoptosis by sponging miR-558 thus promoting ULK1-dependent autophagy.	30536615
+261	Rat	MALAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9C2 cardiomyocytes	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	31823095
+262	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	myocarditis	H9c2 cells	lipopolysaccharide (LPS) treatment	downregulated	31027517
+263	Rat	MALAT1	lncRNA	myricetin	myocarditis	LPS-treated H9c2 cells	myricetin treatment	upregulated	31027517
+264	Rat	MALAT1	lncRNA	brachial plexus avulsion	neuropathic pain (NP)	spinal cords	brachial plexus avulsion induce	downregulated	31114309
+265	Rat	MALAT1	lncRNA	chronic constriction injury (CCI)	neuropathic pain (NP)	L4©\L6 dorsal spinal cord of rats	chronic constriction injury (CCI) induce	upregulated	30740678
+266	Rat	MALAT1	lncRNA	sevoflurane (SEV)	neurotoxicity	rat hippocampal tissues	Sevoflurane exposure treatment	"Suppression of MALAT1 can reduce the apoptosis of hippocampal neurons induced by sevoflurane anesthesia, improve the capability of spatial learning, and memory function and alleviate the loss of hippocampal nerve cells in developing rats"	31190336
+267	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	rat chondrocytes	lipopolysaccharide (LPS) treatment	MALAT1 was upregulated in chondrocytes induced by LPS.	31472145
+268	Rat	MALAT1	lncRNA	lipopolysaccharide (LPS)	osteoarthritis (OA)	Isolated rat chondrocytes	lipopolysaccharide (LPS) treatment	"In OA patients and OA cell model, the expression of MALAT1 and PI3K was clearly reduced. Following with MALAT1 silencing, the generation of Cyclooxygenase-2 (COX-2), Interleukin-6 (IL-6) and Matrix metallopeptidase-13 (MMP-13) were promoted, while the level of type II collagen (COL2) was inhibited. Moreover, MALAT1 silencing caused a significant reduction in the proliferative rate of LPS-treated chondrocytes through inducing apoptosis."	31472145
+269	Rat	MALAT1	lncRNA	green tea polyphenols (GTP)	oxidative stress	PC12 cells	PC12 cells were preincubated with GTP prior to H2O2 stimulation	upregulated	31456460
+270	Rat	MALAT1	lncRNA	uterine perfusion pressure (RUPP)	pregnancy-induced hypertension (PIH)	aortic endothelial cells (ECs)	uterine perfusion pressure (RUPP) treatment	upregulated	32351607
+271	Rat	MALAT1	lncRNA	resveratrol	pulmonary embolism	pulmonary embolism (PE) induced heart tissues	resveratrol (Res) treatment	downregulated	31573048
+272	Rat	MALAT1	lncRNA	high glucose (HG)	pyroptosis	H9c2 cells	high glucose (HG) treatment	"MALAT1 mRNA expression levels were significantly increased, whereas miR-141-3p expression levels were significantly decreased in HG-treated H9C2 cells compared with the NG group."	33576445
+273	Rat	MALAT1	lncRNA	sinapic acid (SA)	pyroptosis	macrophages	sinapic acid (SA) treatment	downregulated	29095793
+274	Rat	MALAT1	lncRNA	ginkgo biloba extract (GBE)	renal injury	methotrexate (MTX)-induce rat renal tissues	Ginkgo biloba extract (GB) treatment	downregulated	31684190
+275	Rat	MALAT1	lncRNA	methotrexate (MTX)	renal injury	renal tissues	Methotrexate (MTX) treatment	upregulated	31684190
+276	Rat	MALAT1	lncRNA	cecal ligation and puncture (CLP)	sepsis	rats	cecal ligation and puncture (CLP) treatment	upregulated	29227823
+277	Rat	MALAT-1	lncRNA	IL-1¦Â	articular cartilage inflammation	primary articular chondrocytes culture	IL-1¦Â?treatmrnt	"In response to IL-1¦Â induction, articular chondrocytes showed reduced MALAT-1 expression; moreover, obvious cartilage injury was observed with decreased chondrocyte viability and Col II expression and elevated chondrocyte apoptosis, MMP-13 expression, and p-JNK expression."	31111559
+278	Rat	MALAT1EZH2	lncRNA	cecal ligation and puncture (CLP)	sepsis	Sprague-Dawley (SD) rats	cecal ligation and puncture (CLP) treatment	upregulated	28831768
+279	Rat	MALAT1EZH2	lncRNA	lipopolysaccharide (LPS)	sepsis	cardiac microvascular endothelial cells (CMVECs)	lipopolysaccharide (LPS) treatment	upregulated	28831769
+280	Rat	MANTIS	lncRNA	monocrotaline (MCT)	idiopathic pulmonary arterial hypertension	human umbilical vein endothelial cells	monocrotaline treatment	downregulated	28351900
+281	Rat	MEG3	lncRNA	hypoxia	acute myocardial infarction (AMI)	H9c2 cells	hypoxia treatment	upregulated	28731278
+282	Rat	MEG3	lncRNA	hypoxia	acute myocardial infarction (AMI)	rat cardiomyocyte-drived H9c2 cells	hypoxia	upregulated	28731278
+283	Rat	MEG3	lncRNA	hypoxia	acute myocardial infarction (AMI)	H9c2 cells	hypoxia induce	"The expression levels of MEG3 and TRPV4 were significantly increased, whereas miR-325-3p expression levels were significantly decreased in hypoxic H9c2 cells compared with normoxic H9c2 cells."	33179099
+284	Rat	MEG3	lncRNA	oxygen glucose deprivation (OGD)	apoptosis	H9c2 cells	oxygen and glucose deprivation (OGD) induce treatment	upregulated	31184214
+285	Rat	MEG3	lncRNA	salvianolic acid B (Sal B)	apoptosis	hypoxia-induced H9c2 cells	?Salvianolic acid B (Sal-B) treatment	downregulated	31184214
+286	Rat	MEG3	lncRNA	high glucose (HG)	cardiomyocytes injury	Primary cultures of ventricular myocytes	high glucose (HG) treatment	The downregulated of MEG3 could attenuate cardiomyocytes injury and apoptosis induced by HG.	31539151
+287	Rat	MEG3	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral infarction (CI)	rat brain microvascular endothelial cells (RBMVECs)	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	28634073
+288	Rat	MEG3	lncRNA	hypoxia	cerebral ischemia/reperfusion (I/R) injury	brain tissues	middle cerebral artery occlusion (MCAO) induce	upregulated	30841460
+289	Rat	MEG3	lncRNA	N-acetyl-L-cysteine (NAC)	cirrhotic neuropathy	thiacetamide (TAA)-treated rats liver tissues and sciatic nerve	N-acetylcysteine (NAC) treatment	downregulated	31751619
+290	Rat	MEG3	lncRNA	thioacetamide (TAA)	cirrhotic neuropathy	liver tissues and sciatic nerve	thiacetamide (TAA) treatment	upregulated	31751619
+291	Rat	MEG3	lncRNA	streptozocin (STZ)	diabetes-related cognitive impairments	PC12 cells	streptozotocin (STZ) treatment	"Here, it was observed that MEG3 was significantly downregulated in STZ (streptozotocin)-induced diabetic rats"	33843209
+292	Rat	MEG3	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	rat kidney tissues	streptozotocin treatment	downregulated	31799068
+293	Rat	MEG3	lncRNA	high glucose (HG)	diabetic retinopathy (DR)	microvascular endothelial cells	high glucose (HG) treatment	DNMT1-mediated lncRNA MEG3 methylation accelerates endothelial-mesenchymal transition in diabetic retinopathy through the PI3K/Akt/mTOR signaling pathway	33284093
+294	Rat	MEG3	lncRNA	streptozocin (STZ)	diabetic retinopathy (DR)	retinal lesions	streptozotocin treatment	DNMT1-mediated lncRNA MEG3 methylation accelerates endothelial-mesenchymal transition in diabetic retinopathy through the PI3K/Akt/mTOR signaling pathway	33284093
+295	Rat	MEG3	lncRNA	hypoxia	hypoxia-induced injury	pheochromocytoma-12 (PC12) cell	hypoxia induce	upregulated	31392726
+296	Rat	MEG3	lncRNA	hypoxia	hypoxia-induced injury	PC12 cells	hypoxia treatment	MEG3 silencing suppresses hypoxia-induced PC12 cell injury by inhibiting TIMP2 promoter methylation.	31392726
+297	Rat	MEG3	lncRNA	hyperoxia	hypoxic/ischemic brain damage (HIBD)	PC12 cells	hypoxia treatment	Silencing MEG3 protects PC12 cells from hypoxic injury by targeting miR-21.	32050796
+298	Rat	MEG3	lncRNA	platelet-derived growth factor (PDGF)	intimal hyperplasia (IH)	vascular smooth muscle cell (VSMCs)	Platelet derived growth factor (PDGF)-BB treatment	PDGF-BB decreasedthe expression of MEG3	30156956
+299	Rat	MEG3	lncRNA	hypoxia	ischemic stroke (IS)	mouse brain tissues	middle cerebral artery occlusion (MCAO)	upregulated	31794744
+300	Rat	MEG3	lncRNA	platelet derived growth factor-BB (PDGF-BB)	ischemia/reperfusion (I/R) injury	vascular smooth muscle cell (VSMCs)	Platelet derived growth factor (PDGF)-BB treatment	downregulated	30156956
+301	Rat	MEG3	lncRNA	hypoxia	ischemic stroke (IS)	Sprague¨CDawley rats brain tissues	middle cerebral artery occlusion (MCAO) treatment	downregulated in brain tissues	27900677
+302	Rat	MEG3	lncRNA	thioacetamide (TAA)	liver cirrhosis	liver tissues	thiacetamide (TAA) treatment	upregulated	31751619
+303	Rat	MEG3	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	rat H9C2 cells	hypoxia induce	downregulated of MEG3 protects myocardial cells against I/R-induced apoptosis through miR-7-5p/PARP1 pathway	31366567
+304	Rat	MEG3	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	The myocardial A10 cell lines	hypoxia induce	upregulated	31389596
+305	Rat	MEG3	lncRNA	IL-1¦Â	osteoarthritis (OA)	rat chondrocytes	IL-1¦Â treatment	downregulated	31253047
+306	Rat	MEG3	lncRNA	nickel oxide nanoparticles (NiO NPs)	lung fibrosis	lung tissues	Nickel oxide nanoparticles (NiO NPs) treatment	downregulated	33547861
+307	Rat	MEG3	lncRNA	"5-Aza-2'-deoxycytidine (5-Aza-dC, decitabine)"	rheumatoid arthritis (RA)	synovial tissues and fibroblast-like synoviocytes (FLSs)	"5-Aza-2'-deoxycytidine (5-Aza-dC, decitabine) treatment"	upregulated	30644097
+308	Rat	MEG3	lncRNA	complete freund's adjuvant (CFA)	rheumatoid arthritis (RA)	synovial tissues and fibroblast-like synoviocytes (FLSs)	complete Freund's adjuvant (CFA) treatment	downregulated	30644097
+309	Rat	MEG3	lncRNA	lipopolysaccharide (LPS)	rheumatoid arthritis (RA)	chondrocyte	lipopolysaccharide (LPS) treatment	MEG3 was downregulated evidently in lipopolysaccharide (LPS)-treated chondrocyte. upregulated MEG3 resulted in an increase the level of Ki67.	31411001
+310	Rat	MEG3	lncRNA	lithium chloride and pilocarpine	temporal lobe epilepsy (TLE)	hippocampal neuronal	lithium chloride and pilocarpine treatment	"MEG3 reduced proinflammatory cytokines, oxidative stress, and apoptosis rate of hippocampal neuron and enhanced cell viability through the activation of the PI3K/AKT/mTOR pathway in SREDs and rats with TLE."	33149593
+311	Rat	MEG3	lncRNA	"2,4,6-trinitrobenzene sulfonic acid (TNBS)"	ulcerative colitis (UC)	colon tissues	"2, 4, 6-Trinitrobenzenesulfonic acid solution (TNBS) treatment"	downregulated	33394187
+312	Rat	MHRT	lncRNA	H2O2	cardiomyocytes against H2O2-Induced Apoptosis	cardiac myocytes	H2O2 treatment	upregulated	26759697
+313	Rat	Mhrt	lncRNA	doxorubicin (DOX)	doxorubicin (DOX)-induced dysfunction	cardiomyocytes	doxorubicin (DOX) treatment	upregulated	27261628
+314	Rat	MIAT	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	PC12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	33745924
+315	Rat	MIAT	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	cardiomyocytes isolated from 1 to 2-day-old Wistar rats	angiotensin II (Ang II) treatment	upregulated	29157986
+316	Rat	MIAT	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	cardiomyocytes	angiotensin II (Ang II) treatment	MIAT was upregulated and miR-93 was downregulated in AngII-treated cardiomyocytes.	29673400
+317	Rat	MIAT	lncRNA	isoprenaline	cardiac hypertrophy	rat primary cardiomyocytes	isoprenaline induction	upregulated	33013286
+318	Rat	MIAT	lncRNA	isoproterenol	cardiac hypertrophy	Neonatal rat ventricular myocytes (NRVMs)	isoproterenol (ISO) treatment	upregulated	29786749
+319	Rat	MIAT	lncRNA	oxygen glucose deprivation (OGD)	cerebral ischemia injury (CII)	primary cultured cerebral microvascular endothelial cell (CMEC)	oxygen glucose deprivation (OGD) treatment	upregulated	31628679
+320	Rat	MIAT	lncRNA	oxygen glucose deprivation (OGD)	cerebral microvascular endothelial cell (CMEC) injury	cerebral microvascular endothelial cell (CMEC)	oxygen glucose deprivation (OGD) treatment	upregulated	31628679
+321	Rat	MIAT	lncRNA	glucose	diabetic cardiomyopathy (DCM)	neonatal cardiomyocytes of rats	treat with high glucose	upregulated	28703801
+322	Rat	MIAT	lncRNA	high glucose (HG)	diabetic retinopathy (DR)	rat retinal M¨¹ller cells (rMC-1) cells	high glucose	upregulated	28246353
+323	Rat	MIAT	lncRNA	high glucose (HG)	diabetic retinopathy (DR)	M¨¹ller cells	high glucose treatment	upregulated	31344482
+324	Rat	MIAT	lncRNA	berberine (BBR)	cardiac hypertrophy	rat heart tissues	berberine (BBR) treatment	downregulated	31612504
+325	Rat	MIAT	lncRNA	hypoxia	hypoxic/ischemic injury	striatal tissues	hypoxia treatment	lncRNA MIAT was downregulated in striatal tissues of neonatal rats in HI group.	30563429
+326	Rat	MIAT	lncRNA	low selenium	Kashin-Beck Disease (KBD)	serum	low selenium and/or T-2 toxin treatment	"LncRNA MIAT regulated by selenium and T-2 toxin increases NF-¦ÊB-p65 activation, promoting the progress of Kashin-Beck Disease"	33233966
+327	Rat	MIAT	lncRNA	T-2 toxin	Kashin-Beck Disease (KBD)	serum	low selenium and/or T-2 toxin treatment	"LncRNA MIAT regulated by selenium and T-2 toxin increases NF-¦ÊB-p65 activation, promoting the progress of Kashin-Beck Disease"	33233966
+328	Rat	MIAT	lncRNA	electrode	cardiac fibrosis	atrium tissues of rats	electrode stimulation	upregulated	32130618
+329	Rat	MIAT	lncRNA	catechin	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	catechin treatment	Catechin relieved H/R-induced myocardial cell apoptosis through regulating CREB/lncRNA MIAT/Akt/Gsk-3¦Â pathway.	31955523
+330	Rat	MIAT	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9C2 cells	hypoxia induce	"targeting MIAT remarkably enhanced H9c2 cell viability, decreased H/R-induced cell apoptosis and LDH leakage and significantly decreased I/R-induced myocardial infarct size, reduced myocardial apoptosis and enhanced the heart function."	30971184
+331	Rat	MIAT	lncRNA	hypoxic/ischemic	neonatal cerebral palsy	striatal tissues	hypoxic-ischemic (HI) treatment	"MIAT overexpression reduced apoptosis of Neuro2A cells through miR-211/GDNF, which relieved HI injury of neonatal rats."	30563429
+332	Rat	MIAT	lncRNA	huo xue tong luo capsule (HXTL capsule)	osteogenesis	Rat bone marrow mesenchymal stem cells (rMSCs)	Huo Xue Tong Luo capsule (HXTL capsule) treatment	downregulated	30970282
+333	Rat	MIAT	lncRNA	sepsis	renal injury	?kidney tissues	cecal ligation puncture induced sepsis treatment	lincRNA-MIAT increased in the sepsis-induced kidney injury model	31858562
+334	Rat	MIAT	lncRNA	high glucose (HG)	renal tubules injury	tubules	high glucose treatment	downregulated	26551455
+335	Rat	Mirt1	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	diabetic rats heart tissues	"The rats were fixed in supine position, intubated through right common carotid artery, and connected with a pressure transducer."	upregulated	30611788
+336	Rat	Mirt2	lncRNA	hypoxia/reoxygenation (H/R)	acute myocardial infarction (AMI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	upregulated	33199822
+337	Rat	Mirt2	lncRNA	hypoxia/reoxygenation (H/R)	acute myocardial infarction (AMI)	H9c2 cells	hypoxia reoxygenation (H/R) treatment	Mirt2 participated in the regulation of MI through the miR-764/PDK1 axis.	33199822
+338	Rat	Mirt2	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	PC12 cell	lipopolysaccharide (LPS) treatment	?lncRNA Mirt2 was upregulated in LPS-stimulated PC12 cells. Overexpression of lncRNA Mirt2 protected PC12 cells against LPS-induced injuries.	31309444
+339	Rat	MRAK134679	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	Sprague-Dawley (SD) rats	angiotensin II (Ang II) treatment	upregulated	24817929
+340	Rat	MRAK154943	lncRNA	ischemia	stroke	rat cortical tissues	focal ischemia treatment	upregulated	24063527
+341	Rat	MRAK159688	lncRNA	ischemia	stroke	rat cortical tissues	focal ischemia treatment	upregulated	24063527
+342	Rat	MRNR026574	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	Sprague-Dawley (SD) rats	angiotensin II (Ang II) treatment	upregulated	24817929
+343	Rat	MRuc008hvl	lncRNA	subarachnoid hemorrhage (SAH)	early brain injury (EBI)	brain	subarachnoid hemorrhage (SAH) treatment	upregulated	25777551
+344	Rat	MSTRG.11559	lncRNA	bleomycin (BLM)	lung fibrosis	lung tissues	bleomycin (BLM) treatment	upregulated	33193637
+345	Rat	MSTRG.11560	lncRNA	bleomycin (BLM)	lung fibrosis	lung tissues	bleomycin (BLM) treatment	upregulated	33193637
+346	Rat	MSTRG.15160	lncRNA	bleomycin (BLM)	lung fibrosis	lung tissues	bleomycin (BLM) treatment	upregulated	33193637
+347	Rat	MSTRG.199	lncRNA	bleomycin (BLM)	lung fibrosis	lung tissues	bleomycin (BLM) treatment	upregulated	33193637
+348	Rat	MSTRG.30244	lncRNA	bleomycin (BLM)	lung fibrosis	lung tissues	bleomycin (BLM) treatment	downregulated	33193637
+349	Rat	MSTRG.34031.1	lncRNA	quercetin	oxidative stress	PC-12 cells	Quercetin treatment	downregulated	33343808
+350	Rat	MSTRG.4076.1	lncRNA	quercetin	oxidative stress	PC-12 cells	Quercetin treatment	downregulated	33343808
+351	Rat	MSTRG.48686.2	lncRNA	quercetin	oxidative stress	PC-12 cells	Quercetin treatment	downregulated	33343808
+352	Rat	MSTRG.89940.1	lncRNA	quercetin	oxidative stress	PC-12 cells	Quercetin treatment	upregulated	33343808
+353	Rat	N1LR	lncRNA	ischemia/reperfusion (I/R) 	ischemia/reperfusion (I/R) injury	brain tissues	ischemia/reperfusion (I/R) treatment	upregulated	27844279
+354	Rat	NEAT1	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia induce	upregulated	30950059
+355	Rat	NEAT1	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	rat mesangial cells (RMCs)	lipopolysaccharide (LPS) treatment	upregulated	29669307
+356	Rat	NEAT1	lncRNA	amyloid-¦Â (A¦Â) 1-42	Alzheimer's disease (AD)	PC-12 cells	amyloid ¦Â1-42?(A¦Â) treatment	upregulated	31014193
+357	Rat	NEAT1	lncRNA	phenylephrine (PE)	cardiac hypertrophy	primary cardiomyocytes; myocardium	phenylephrine (PE) treatment	NEAT1 was highly expressed in myocardium of rats with cardiac hypertrophy and PE-induced primary cardiomyocytes	32096186
+358	Rat	NEAT1	lncRNA	hypoxia	cardiomyocyte apoptosis	H9c2 cardiomyocyte cell line	hypoxia induce	upregulated	31410172
+359	Rat	NEAT1	lncRNA	arsenic trioxide (ATO)	cardiac injury	H9c2 cells	arsenic trioxide (As2O3) treatment	NEAT1 regulated the expression of inflammatory factors to protect cardiomyocytes from As2O3 damage by inhibiting miR-124/NF-kappa B signaling pathway.	32096187
+360	Rat	NEAT1	lncRNA	doxorubicin (DOX)	cardiotoxicity	H9c2 cells	doxorubicin (Dox)?treatment	upregulation of miRNA let-7f-2-3p by long noncoding RNA (lncRNA) NEAT1 inhibits exportin-1 (XPO1)-mediated nuclear export of hematopoietic-substrate-1 associated protein X-1 (HAX-1) in Dox-induced cardiotoxicity.	31570982
+361	Rat	NEAT1	lncRNA	gastrodin (GAS)	cerebral ischemia/reperfusion (I/R) injury	OGD/R-treated rat primary cortical neurons	gastrodin (GAS) treatment	downregulated	33839999
+362	Rat	NEAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	cerebral ischemia/reperfusion (I/R) injury	Rat primary cortical neurons	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	33839999
+363	Rat	NEAT1	lncRNA	nimodipine	cognitive impairment	brain tissues	nimodipine treatment	Nimodipine can improve CI after SAH in rats through the lncRNA NEAT1/miR-27a/MAPT axis.	32606599
+364	Rat	NEAT1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	rat glomerular mesangial cell line (HBZY-1)	high glucose (HG) treatment	upregulated	32721950
+365	Rat	NEAT1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	kidney tissues	streptozocin (STZ) treatment	NEAT1 was significantly increased in streptozotocin-induced DN rat models	30549040
+366	Rat	NEAT1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	rat kidney tissues	streptozotocin (STZ) treatment	upregulated	30549040
+367	Rat	NEAT1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	kidney tissues	streptozocin (STZ) treatment	NEAT1 in the kidney was upregulated in the STZ-induced DN rats.	32721950
+368	Rat	NEAT1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	kidney tissues	streptozotocin treatment	upregulated	30515796
+369	Rat	NEAT1	lncRNA	IL-1¦Â	epilepsy	CTX-TNA cells	IL-1¦Â treatment	upregulated	31948324
+370	Rat	NEAT1	lncRNA	ischemia/reperfusion (I/R) 	ischemia/reperfusion (I/R) injury	PC12 cells	ischemia/reperfusion (I/R) treatment	LncRNA NEAT1 aggravates cerebral I/R injury by suppressing miR-874-3p expression.	32329323
+371	Rat	NEAT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	Rat primary microglial cell culture	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	YY1-induced upregulation of NEAT1 contributed to the OGD/R injury and neuroinflammation damage of microglial cells via Wnt/¦Â-catenin signaling pathway	31286366
+372	Rat	NEAT1	lncRNA	H2O2	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9C2 cells	H2O2 treatment	upregulated	31347173
+373	Rat	NEAT1	lncRNA	H2O2	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	H2O2 treatment	NEAT1 contributed to M-I/R injury via the modulation of miR-495-3p and MAPK6.	31347173
+374	Rat	NEAT1	lncRNA	free fatty acids (FFA)	nonalcoholic fatty liver disease (NAFLD)	BRL3A cell	free fatty acid (FFA) treatment	upregulated	31957704
+375	Rat	NEAT1	lncRNA	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"	parkinson's disease (PD)	brain tissues	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment"	upregulated	29575151
+376	Rat	NEAT1	lncRNA	hypoxia	reperfusion injury	rat cardiomyocytes	hypoxia treatment	downregulated	32826883
+377	Rat	NEAT1	lncRNA	lipopolysaccharide (LPS)	sepsis	H9c2 cells	lipopolysaccharide (LPS) treatment	lncRNA NEAT1 accelerated apoptosis and inflammation in LPS-stimulated H9c2 cells via sponging miR-590-3p.	32855700
+378	Rat	NEAT1	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	PC-12 cells	lipopolysaccharides (LPS) treatment	High NEAT1 levels can increase LPS-induced injury in PC-12 cells through the miR-29a/BCL2L11 pathway.	32776916
+379	Rat	NKILA	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischaemic injury	H9C2 cells	hypoxia/reoxygenation (H/R) treatment	NKILA enhanced the expression of myocardin via inhibiting the NF-¦ÊB signalling pathway and preventing cell apoptosis and the inflammatory response of cardiomyocytes.	31838061
+380	Rat	NKILA	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 rat myoblasts	hypoxia induce	downregulated	31838061
+381	Rat	NONRATT002335	lncRNA	bile duct ligation (BDL)	jaundice	Sprague-Dawley rats	the common bile duct was located and ligated using 4-0 silk at two points anterior to the pancreas and posterior to the hilum of the liver	upregulated	29285317
+382	Rat	NONRATT004911.2	lncRNA	liraglutide	type 2 diabetes mellitus (T2DM)	pancreases	Liraglutide treatment	downregulated	32238798
+383	Rat	NONRATT005195.2	lncRNA	adriamycin (ADR)	chronic glomerulonephritis (CGN)	glomerular tissues	adriamycin (ADR) treatment	downregulated	30458286
+384	Rat	NONRATT008453.2	lncRNA	dibutyl phthalate (DBP)	hypospadias	genital tubercle (GT)	dibutyl phthalate (DBP) treatment	"Furthermore, out of the 103 putative autophagy©\related lncRNAs, NONRATT008453.2 was the highest expressed lncRNA in the DBP©\treated group compared with the controls."	33452730
+385	Rat	NONRATT009003.2	lncRNA	adriamycin (ADR)	chronic glomerulonephritis (CGN)	glomerular tissues	adriamycin (ADR) treatment	downregulated	30458286
+386	Rat	NONRATT009208.2	lncRNA	adriamycin (ADR)	chronic glomerulonephritis (CGN)	glomerular tissues	adriamycin (ADR) treatment	downregulated	30458286
+387	Rat	NONRATT009275.2	lncRNA	adriamycin (ADR)	chronic glomerulonephritis (CGN)	glomerular tissues	adriamycin (ADR) treatment	upregulated	30458286
+388	Rat	NONRATT009530.2	lncRNA	adriamycin (ADR)	chronic glomerulonephritis (CGN)	glomerular tissues	adriamycin (ADR) treatment	upregulated	30458286
+389	Rat	NONRATT010788.2	lncRNA	lithium chloride and pilocarpine	status epilepticus (SE)	hippocampus	lithium/pilocarpine treatment		31738000
+390	Rat	NONRATT015587.2	lncRNA	metformin (Met)	pulmonary arterial hypertension (PAH)	PAH rat pulmonary arterial tissues	metformin treatment	downregulated	31060005
+391	Rat	NONRATT015587.2	lncRNA	monocrotaline (MCT)	pulmonary arterial hypertension (PAH)	rat pulmonary arterial tissues	monocrotaline treatment	upregulated	31060005
+392	Rat	NONRATT015614.2	lncRNA	liraglutide	type 2 diabetes mellitus (T2DM)	pancreases	Liraglutide treatment	downregulated	32238798
+393	Rat	NONRATT018085	lncRNA	bile duct ligation (BDL)	jaundice	Sprague-Dawley rats	the common bile duct was located and ligated using 4-0 silk at two points anterior to the pancreas and posterior to the hilum of the liver	upregulated	29285317
+394	Rat	NONRATT018630.2	lncRNA	liraglutide	type 2 diabetes mellitus (T2DM)	pancreases	Liraglutide treatment	downregulated	32238798
+395	Rat	NONRATT021972	lncRNA	high glucose and free fatty acids (HG-FFA)	diabetic cardiac autonomic neuropathy (DCAN)	sympathetic neuronal-like PC12 cells	high glucose (HG) and high FFAs (HF) treatment	upregulated	27519467
+396	Rat	NONRATT021972	lncRNA	streptozocin (STZ)	type 2 diabetes mellitus (T2DM)	rats DRG	intraperitoneal injection of STZ with 30 mg/kg treatment	upregulated in	26742527
+397	Rat	NONRATT023402.2	lncRNA	levodopa	levodopa-induced dyskinesia (LID)	PC1 2cells	Levodopa treatment	downregulated	31929116
+398	Rat	NONRATT024782.2	lncRNA	liraglutide	type 2 diabetes mellitus (T2DM)	pancreases	Liraglutide treatment	upregulated	32238798
+399	Rat	NONRATT025388	lncRNA	bile duct ligation (BDL)	jaundice	Sprague-Dawley rats	the common bile duct was located and ligated using 4-0 silk at two points anterior to the pancreas and posterior to the hilum of the liver	downregulated	29285317
+400	Rat	NONRATT025409	lncRNA	bile duct ligation (BDL)	jaundice	Sprague-Dawley rats	the common bile duct was located and ligated using 4-0 silk at two points anterior to the pancreas and posterior to the hilum of the liver	downregulated	29285317
+401	Rat	NONRATT025415	lncRNA	bile duct ligation (BDL)	jaundice	Sprague-Dawley rats	the common bile duct was located and ligated using 4-0 silk at two points anterior to the pancreas and posterior to the hilum of the liver	downregulated	29285317
+402	Rat	NONRATT026027.2	lncRNA	liraglutide	type 2 diabetes mellitus (T2DM)	pancreases	Liraglutide treatment	downregulated	32238798
+403	Rat	NONRATT026805.2	lncRNA	adriamycin (ADR)	chronic glomerulonephritis (CGN)	glomerular tissues	adriamycin (ADR) treatment	upregulated	30458286
+404	Rat	NONRATT029906.2	lncRNA	liraglutide	type 2 diabetes mellitus (T2DM)	pancreases	Liraglutide treatment	upregulated	32238798
+405	Rat	NR_002155.1	lncRNA	carbon tetrachloride (CCl4)	liver fibrosis	liver tissues	carbon tetrachloride (CCl4) treatment	downregulated	29749545
+406	Rat	NR_024118	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	cardiac	angiotensin II (Ang II) treatment	downregulated	25979571
+407	Rat	NR_024118	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	Sprague-Dawley (SD) rats	angiotensin II (Ang II) treatment	upregulated	24817929
+408	Rat	NR_024118	lncRNA	losartan	cardiac fibrosis	heart tissues	Losartan treatment	losartan (AT1 blocker) nearly completely reversed the decrease of lncRNA-NR024118 and partly reversed the decrease of Cdkn1c induced by Ang II in adult rat cardiac fibroblasts	25979571
+409	Rat	NR_026689	lncRNA	NNK	lung cancer	lung tissues	NNK treatment	upregulated	26908441
+410	Rat	NR_027943	lncRNA	methamphetamine (METH)	neurotoxicity	prefrontal cortical neurons	Methamphetamine treatment	upregulated	28619521
+411	Rat	NR_031896.1	lncRNA	(+)-cholesten-3-one (CN)	osteoblastic differentiation	mesenchymal stem cells (MSCs)	(+)-cholesten-3-one (CN) treatment	downregulated	30373531
+412	Rat	NR_038323	lncRNA	streptozocin (STZ)	diabetic retinopathy (DR)	retinas tissues	streptozotocin treatment	upregulated	31430717
+413	Rat	NR_046239.1	lncRNA	(+)-cholesten-3-one (CN)	osteoblastic differentiation	mesenchymal stem cells (MSCs)	(+)-cholesten-3-one (CN) treatment	upregulated	30373531
+414	Rat	NR_046246.1	lncRNA	(+)-cholesten-3-one (CN)	osteoblastic differentiation	mesenchymal stem cells (MSCs)	(+)-cholesten-3-one (CN) treatment	upregulated	30373531
+415	Rat	NR_110713	lncRNA	methamphetamine (METH)	neurotoxicity	prefrontal cortical neurons	Methamphetamine treatment	upregulated	28619521
+416	Rat	Nrf2	lncRNA	doxorubicin (DOX)	doxorubicin (DOX)-induced dysfunction	cardiomyocytes	doxorubicin (DOX) treatment	upregulated	27261628
+417	Rat	Nup214	lncRNA	NiSO4	steroidogenesis disturbance	rat Leydig cells	NiSO4 treatment	upregulated	31734292
+418	Rat	OGRU	lncRNA	high glucose (HG)	diabetic retinopathy (DR)	M¨¹ller cells	high glucose (HG) treatment	DR patients exhibited significantly increased expression of serum LncRNA-OGRU compared with normal individuals. Streptozotocin (STZ)-challenged rats with DR also had higher OGRU expression in retinas	33762162
+419	Rat	OIP5-AS1	lncRNA	high glucose (HG)	diabetic cardiomyopathy (DCM)	H9c2 cells	high glucose treatment	OIP5-AS1 overexpression promotes viability and inhibits high glucose-induced oxidative stress of cardiomyocytes by targeting microRNA-34a/SIRT1 axis in diabetic cardiomyopathy.	33380310
+420	Rat	Oip5-as1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	"Oip5-as1 suppresses miR-29a leading to activation of the SIRT1/AMPK/PGC1¦Á pathway, which attenuates mitochondria-mediated apoptosis during MI/R injury"	32468629
+421	Rat	OIP5-AS1	lncRNA	freund¡¯s complete adjuvant (FCA)	rheumatoid arthritis (RA)	synovial tissues	Freund¡¯s complete adjuvant (FCA) treatment	lncRNA OIP5-AS1 may mitigate RA progression through the miR-448-PON1 axis and through the inactivation of the TLR3-NF-¦ÊB signalling pathway.	32770578
+422	Rat	PACER	lncRNA	dexmedetomidine (DEX)	chronic obstructive pulmonary disease (COPD)	primary rat alveolar epithelial cells	dexmedetomidine (Dex) treatment	"DEX induction decreased PACER expression, and proliferative and migratory abilities in primary rat alveolar epithelial cells harvested from COPD rats."	33378047
+423	Rat	PEAMIR	lncRNA	particulate matter (PM2.5)	ischemia/reperfusion (I/R) injury	H9c2 cells	PM2.5 exposure treatment	LncRNA NR_136400 Suppresses Cell Proliferation and Invasion by Acting as a ceRNA of TUSC5 That Is Modulated by miR-8081 in Osteosarcoma	32100595
+424	Rat	PEBP1P2	lncRNA	platelet derived growth factor-BB (PDGF-BB)	proliferative vascular diseases	vascular smooth muscle cells (VSMCs)	platelet-derived growth factor BB (PDGF-BB) treatment	downregulated	32916601
+425	Rat	PEG10	lncRNA	H2O2	spinal cord injury (SCI)	rat PC-12 cells	H2O2 treatment	Knockdown PEG10 deteriorated H2O2-injury.	31835090
+426	Rat	PEG10	lncRNA	H2O2	spinal cord injury (SCI)	PC-12 cells	H2O2 treatment	Knockdown PEG10 remitted H2O2-injury of PC-12 cells by targeting miR-34a-5p/TLX.	31835090
+427	Rat	PTENP1	lncRNA	lipopolysaccharide (LPS)	cardiac dysfunction	H9C2 cells	lipopolysaccharide (LPS) treatment	upregulated	33341669
+428	Rat	PTENP1	lncRNA	matrine	cardiac dysfunction	LPS-treated H9C2 cells	matrine treatment	downregulated	33341669
+429	Rat	PTENP1	lncRNA	matrine	cardiac dysfunction	H9c2 cells	Matrine treatment	downregulated	33341669
+430	Rat	PVT1	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	acute ischemic stroke (AIS)	PC12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	32827544
+431	Rat	PVT1	lncRNA	curcumin (Cur)	acute kidney injury (AKI)	NRK cells	curcumin treatment	Curcumin decreased PVT1 expression in LPS-induced septic acute kidney tissues and reduced LPS-induced septic acute kidney injury in mice.	31972207
+432	Rat	PVT1	lncRNA	respiratory syncytial virus (RSV)	asthma	Sprague-Dawley rat	respiratory syncytial virus (RSV) infection treatment	upregulated	28510638
+433	Rat	PVT1	lncRNA	doxorubicin (DOX)	cardiotoxicity	H9c2 cells	Doxorubicin (DOX) treatment	Doxorubicin promotes H9c2 apoptosis and increased PVT1 expression in cardiomyocytes.	31786333
+434	Rat	PVT1	lncRNA	streptozocin (STZ)	diabetes mellitus (DM)	rat insulinoma (INS-1) cells	streptozotocin (STZ) treatment	Silencing of lncRNA PVT1 ameliorates streptozotocin-induced pancreatic ¦Â cell injury and enhances insulin secretory capacity by regulating miR-181a-5p	32758099
+435	Rat	PVT1	lncRNA	danggui buxue tang (DBT)	diabetic nephropathy (DN)	rats	danggui buxue tang (DBT) treatment	downregulated	28861164
+436	Rat	PVT1	lncRNA	doxorubicin (DOX)	doxorubicin (DOX)-induced cardiotoxicity	H9c2 cells	doxorubicin (DOX) treatment	Doxorubicin promotes H9c2 apoptosis and increased PVT1 expression in cardiomyocytes.	31786333
+437	Rat	PVT1	lncRNA	lithium chloride and pilocarpine	epilepsy	hippocampus tissues	lithium chloride-pilocarpine treatment	upregulated	30805931
+438	Rat	PVT1	lncRNA	complete freund's adjuvant (CFA)	rheumatoid arthritis (RA)	synovial tissues and RA fibroblast-like synoviocyte (RA-FLS)	complete Freund¡¯s adjuvant (CFA) treatment	upregulated	31303891
+439	Rat	RGD1566344	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	PC-12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	32424772
+440	Rat	RGD1566344	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	PC12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	"In this study, we found that RGD1566344 levels were elevated in the ischemic infarct and penumbra regions 12 h after middle cerebral artery occlusion/reperfusion (MCAO/R) in male mice and in PC12 cells with oxygen glucose deprivation/reperfusion (OGD/R)"	32424772
+441	Rat	Rian	lncRNA	hypoxia	myocardial infarction (MI)	H9c2 cells	hypoxia treatment	upregulated	32187165
+442	Rat	RMRP	lncRNA	abdominal aortic coarctation	cardiac fibrosis	heart tissues	abdominal aortic banding treatment	lncRNA RMRP expression was upregulated in the presence of cardiac fibrosis in an abdominal aortic banding-treated rat model.	31485650
+443	Rat	RMRP	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	cardiac fibroblast	angiotensin II (Ang II) treatment	"Treatment with angiotensin II increased RMRP expression in cardiac fibroblasts, while the knockdown of RMRP by small-interfering RNA inhibited cardiac fibroblast proliferation, differentiation and collagen accumulation."	31485650
+444	Rat	RMRP	lncRNA	hypoxia	myocardial injury	H9c2 cells	hypoxia exposure	LncRNA RMRP accelerates hypoxia-induced injury by targeting miR-214-5p in H9c2 cells.	31839421
+445	Rat	RMRP	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	The H9c2 cardiomyocytes	hypoxia induce	upregulated	30551524
+446	Rat	RMRP	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia treatment	Hypoxia promoted the expression of RMRP in H9c2 cells.	30551524
+447	Rat	Rn50_X_0711.1	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+448	Rat	RNF7	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	cardiac fibroblasts	angiotensin II (Ang II) treatment	RNF7 promotes the cardiac fibrosis in rat model via miR-543/THBS1 axis and TGF¦Â1 activation.	31913855
+449	Rat	ROR	lncRNA	hypoxia	chronic hypoxic heart disease (CHD)	H9c2 cells	hypoxia induce	"We found that lncRNA-ROR was elevated by hypoxia in H9c2 cells. LncRNA-ROR overexpression was able to relieve the damages of H9c2 cells induced by hypoxia through rescuing viability, suppressing apoptosis, and blocking Cytochrome c release"	31190357
+450	Rat	ROR	lncRNA	hypoxia/reoxygenation (H/R)	ischemia/reperfusion (I/R) injury	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	lncRNA-ROR was upregulated in H9c2 cells.	29694511
+451	Rat	ROR	lncRNA	hypoxia	ischemic stroke (IS)	PC12 cells	hypoxia induce	upregulated	31632583
+452	Rat	ROR	lncRNA	Skullcapflavone I (SF I)	myocardial infarction (MI)	hypoxia-stimulated H9c2 cells and primary cardiomyocytes.	Skullcapflavone I (SF I) treatment	SF I promoted the hypoxia-caused upregulated of lincRNA-ROR in H9c2 cells and primary cardiomyocytes	31220954
+453	Rat	ROR	lncRNA	ischemia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	heart tissues	the proximal left anteriordescending coronaryartery (LAD) was loosely ligated by a 6¨C0 silk suture	lncRNA ROR were upregulated in both MIRI rat model and H/R treated HCMs.	31768721
+454	Rat	RP11-513I15.6	lncRNA	diethylnitrosamine and 2-acetylaminofluorene	precancerous lesion (PCL)	liver tissues	diethylnitrosamine and 2-acetylaminofluorene treatment	upregulated	31009125
+455	Rat	RP11-513I15.6	lncRNA	pantoprazole	precancerous lesion (PCL)	liver tissues	pantoprazole treatment	downregulated	31009125
+456	Rat	RP11-583F2.2	lncRNA	diethylnitrosamine and 2-acetylaminofluorene	hepatic ischemia/reperfusion injury (HIRI)	Liver tissues and blood samples	diethylnitrosamine and 2-acetylaminofluorene treatment	upregulated	31489981
+457	Rat	RP11-583F2.2	lncRNA	hesperidin	hepatic precancerous lesion (HPC)	hepatic precancerous lesion (HPC) rat liver tissues and blood samples	Hesperidin treatment	downregulated	31489981
+458	Rat	RP4	lncRNA	hypoxia	ischemic heart disease (IHD)	H9c2 cardiac muscle cells	hypoxia induce	upregulated	31321998
+459	Rat	RPT	lncRNA	monocrotaline (MCT)	pulmonary arterial hypertension (PAH)	pulmonary artery smooth muscle cells (PASMCs)	monocrotaline (MCT) treatment	downregulated of LnRPT was also observed in the pulmonary arteries of rats with monocrotaline-induced PAH.	28915060
+460	Rat	RPT	lncRNA	platelet derived growth factor-BB (PDGF-BB)	pulmonary arterial hypertension (PAH)	pulmonary artery smooth muscle cells (PASMCs)	platelet-derived growth factor (PDGF)-BB treatment	LnRPT was downregulated significantly in responding PDGF-BB	28915060
+461	Rat	rPvt1	lncRNA	lipopolysaccharide (LPS)	sepsis-induced myocardial injury	rat heart samples	lipopolysaccharide (LPS) treatment	lncRNA rPvt1 showed significant upregulation in the sepsis group	31472370
+462	Rat	RT1-CE5-002	lncRNA	letrozole	polycystic ovarian syndrome (PCOS)	ovarian tissues	letrozole treatment	upregulated	29505837
+463	Rat	RT1-M3-1-002	lncRNA	letrozole	polycystic ovarian syndrome (PCOS)	ovarian tissues	letrozole treatment	upregulated	29505837
+464	Rat	S69206	lncRNA	bleomycin (BLM)	lung fibrosis	fibrotic lung tissues	bleomycin (BLM) treatment	upregulated	23732278
+465	Rat	SHNG16	lncRNA	dexamethasone (DEX)	neuronal cell injury	brain tissues	dexamethasone (Dex) treatment	upregulated	32323054
+466	Rat	SHNG16	lncRNA	hypoxia	neuronal cell injury	brain tissues	middle cerebral artery occlusion (MCAO) surgery	downregulated	32323054
+467	Rat	sirt1-AS	lncRNA	astragaloside IV (AS-IV)	idiopathic pulmonary fibrosis (IPF)	RLE-6TN	astragaloside IV (AS-IV) treatment	upregulated	32139663
+468	Rat	Slc25a52	lncRNA	lipopolysaccharide (LPS)	hepatocarcinogenesis	WB-F344 cells	lipopolysaccharide (LPS) treatment	upregulated	31065105
+469	Rat	SNHG1	lncRNA	kainic acid (KA)	epilepsy	CTX-TNA2 cells	kainic acid (KA) treatment	SNHG1 expression was downregulated in EP tissues and kainic acid (KA)-induced CTX-TNA2 cells.	33359246
+470	Rat	SNHG1	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	PC-12 cells	lipopolysaccharide (LPS) treatment	"SNHG1 regulated cell viability, apoptosis and autophagy in LPS-treated PC12 cells"	33515352
+471	Rat	SNHG12	lncRNA	hypoxia	ischemia/reperfusion (I/R) injury	rat brain microvascular endothelial cells (BMECs)	hypoxia induce	upregulated	31293373
+472	Rat	SNHG12	lncRNA	H2O2	ischemia/reperfusion (I/R) injury	HT22 cells	oxidative stress treatment	lncRNA SNHG12 increased cell activity and inhibited oxidative stress through inhibition of SIRT1/FOXO3a signaling-mediated autophagy in HT22 cells of I/R model.	32718291
+473	Rat	SNHG12	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia-reoxygenation (H/R) treatment	"Here, we found the increase of the SNHG12 level in hypoxia-reoxygenation (H/R)-injured-H9c2 cells."	33589923
+474	Rat	SNHG14	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	H9c2 cells	angiotensin II (Ang II) treatment	upregulated	32436661
+475	Rat	SNHG14	lncRNA	hypoxia	cyanotic congenital heart disease (CCHD)	H9c2 cells	hypoxia induce	"SNHG14 and KLF4 were upregulated, whereas miR-25-3p was downregulated in hypoxia-induced H9c2 cells and cardiac tissues of patients with CCHD compared with their controls."	33278191
+476	Rat	SNHG14	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	PC-12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	?lncRNA-small nucleolar RNA host gene 14 (SNHG14) was found upregulated oxygen-glucose deprivation and reoxygenation (OGD/R) treated PC-12 cells	30546117
+477	Rat	SNHG14	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	PC-12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	lncRNA-small nucleolar RNA host gene 14 (SNHG14) was found upregulated in oxygen-glucose deprivation and reoxygenation (OGD/R) treated PC-12 cells	30546117
+478	Rat	SNHG14	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	PC-12 cells	lipopolysaccharide (LPS) treatment	?Bioinformatics prediction and luciferase reporter assay demonstrated that miR-181b-5p could directly bind to SNHG14.	33791006
+479	Rat	SNHG15	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	PC12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	upregulated	33528807
+480	Rat	SNHG16	lncRNA	H2O2	spinal cord injury (SCI)	PC-12 cells	H2O2 treatment	downregulated	30977409
+481	Rat	SNHG3	lncRNA	oxygen glucose deprivation (OGD)	intracerebral haemorrhage (ICH)	primary brain microvascular endothelial cells (BMVECs)	oxygen-and-glucose-deprivation (OGD) plus hemin induce treatment	"In ICH rats, downregulated of Snhg3 by siRNA injection improved behavioral and histological manifestations, including number of right turns, limb placement score, integrity of blood-brain barrier (BBB), brain water content and cell apoptosis in vivo"	31610210
+482	Rat	SNHG4	lncRNA	puromycin aminonucleoside (PAN)	glomerular injury	primary rat podocytes	puromycin aminonucleoside (PAN) treatment	upregulated	30597036
+483	Rat	SNHG7	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	neonatal rat cardiomyocytes (NRCMs)	angiotensin II (Ang II) treatment	upregulated	31026094
+484	Rat	SNHG7	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	PC12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	SNHG7 was downregulated and miR-9 was upregulated by OGD/R treatment in PC12 cells	33262598
+485	Rat	SNHG8	lncRNA	hypoxia	myocardial infarction (MI)	H9c2 cells	hypoxia treatment	lncRNA SNHG8 affected myocardial infarction by affecting hypoxia-induced cardiomyocyte injury via regulation of the NF-kappaB pathway.	32772038
+486	Rat	SOX2OT	lncRNA	lipopolysaccharide (LPS)	sepsis-induced myocardial injury	H9c2 (rat cardiomyocyte cell line)	lipopolysaccharide (LPS) treatment	upregulated	31618067
+487	Rat	SOX2OT	lncRNA	H2O2	spinal cord injury (SCI)	PC-12 cells	hydrogen peroxide (H2O2 ) treatment	Sox2ot expression was significantly increased after H2O2 treatment compared with control.	30145837
+488	Rat	SOX2OT	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	PC-12 cells	lipopolysaccharide (LPS) treatment	SOX2OT was elevated in SCI rat and cell models.	33340723
+489	Rat	SOX2OT	lncRNA	doxorubicin (DOX)	cardiomyocyte apoptosis	Primary cardiomyocytes	?doxorubicin (DOX) treatment	"SOX2-OT and DP5 were highly expressed, while miR-942-5p was downregulated in DOX-treated primary cardiomyocytes and rat model"	33603338
+490	Rat	SRA1	lncRNA	angiotensin II (Ang II)	cardiac fibrosis	Cardiac myofibroblasts	angiotensin II (Ang II) treatment	"Ang-II treatment increased the SRA1 expression of cardiac myofibroblasts, whereas SRA1 knockdown by siRNA inhibited the proliferation, myofibroblast conversion, and collagen production of cardiac myofibroblasts induced by Ang-II."	30694702
+491	Rat	SRA1	lncRNA	hypoxia	hypoxia-induced injury	H9c2 cells	hypoxia treatment	hypoxia resulted in a decreased expression of SRA1 in H9c2 cardiomyocytes.	31949848
+492	Rat	SULT1C2A	lncRNA	vitamin A	congenital scoliosis (CS)	Embryos	Vitamin A deficiency treatment	downregulated	31044535
+493	Rat	TALNEC2	lncRNA	hypoxia	myocardial infarction (MI)	H9c2 cells	hypoxia induce	upregulated	30861181
+494	Rat	Tap1	lncRNA	NiSO4	steroidogenesis disturbance	rat Leydig cells	NiSO4 treatment	downregulated	31948324
+495	Rat	TapSAKI	lncRNA	escherichia coli (E.coli)	sepsis-induced acute kidney injury	kidney tissues	Escherichia coli infection	"TapSAKI was elevated in urine derived sepsis-induced kidney injury, and promoted HK-2 cell apoptosis and inflammatory response through miR-22/PTEN/TLR4/NF-¦ÊB pathway."	30666657
+496	Rat	TCF7	lncRNA	hypoxia	myocardial infarction (MI)	Mesenchymal stem cells (MSCs)	hypoxia induce	upregulated	30814673
+497	Rat	TCF7	lncRNA	integrin-linked kinase (ILK)	myocardial infarction (MI)	Mesenchymal stem cells (MSCs)	integrin-linked kinase (ILK) overexpression	upregulated	30814673
+498	Rat	TCONS_00041960	lncRNA	glucocorticoid (GC)	adipogenic and osteogenic differentiation	bone marrow mesenchymal stem cells (BMSCs)	glucocorticoid treatment	we found downregulated of TCONS_00041960 during adipogenic and osteogenic differentiation of glucocorticoid-treated bone marrow mesenchymal stem cells (BMSCs).	29319166
+499	Rat	TCONS_00052110	lncRNA	lipopolysaccharide (LPS)	heart failure (HF)	myocardium	lipopolysaccharide (LPS) treatment	upregulated	30119177
+500	Rat	TCONS_00201718	lncRNA	lipopolysaccharide (LPS)	heart failure (HF)	myocardium	lipopolysaccharide (LPS) treatment	upregulated	30119177
+501	Rat	TCONS_00202959	lncRNA	acetylcholine-CaCl2 solution	atrial fibrillation (AF)	heart tissues	acetylcholine-CaCl2 solution treatment	The expression of lncRNA TCONS_00202959 was decreased in the AF group compared to the control group.	30575932
+502	Rat	TCONS_00296056	lncRNA	lipopolysaccharide (LPS)	heart failure (HF)	myocardium	lipopolysaccharide (LPS) treatment	downregulated	30119177
+503	Rat	TCONS-00088786	lncRNA	TGF-¦Â	renal fibrosis	rat renal tubular epithelial NRK-52E cells	TGF-¦Â treatment	upregulated	28912732
+504	Rat	TCONS-01496394	lncRNA	TGF-¦Â	renal fibrosis	rat renal tubular epithelial NRK-52E cells	TGF-¦Â treatment	upregulated	28912732
+505	Rat	THRIL	lncRNA	geniposide (GEN)	myocardial infarction (MI)	H9c2 cells	Geniposide (GEN) treatment	downregulated	30953616
+506	Rat	THRIL	lncRNA	hypoxia	myocardial infarction (MI)	H9C2 cells	hypoxia induce	upregulated	29745968
+507	Rat	THRIL	lncRNA	hypoxia	myocardial infarction (MI)	H9c2 cells	hypoxia treatment	Hypoxia induced an increase of THRIL but a reduction of miR-99a and Brg1.	29745968
+508	Rat	THRIL	lncRNA	hypoxia	myocardial infarction (MI)	H9c2 cells	hypoxia induce	upregulated	30953616
+509	Rat	TINCR	lncRNA	doxorubicin (DOX)	cardiotoxicity	Primary neonatal rat cardiomyocytes (PNRC) and H9c2 cells	Doxorubicin (DOX) treatment	upregulated	31445005
+510	Rat	TINCR	lncRNA	hypoxia/reoxygenation (H/R)	ischemia/reperfusion (I/R) injury	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	"MpostC-induced upregulated of TINCR protects cardiomyocytes from I/R injury via inhibiting degradation and ubiquitination of FGF1, and subsequently activating PKC¦Å signaling pathway."	32176291
+511	Rat	TNFRSF17	lncRNA	hypoxia	hypoxic/ischemic brain damage (HIBD)	neonatal rat brain after HIBD	hypoxia induce	downregulated	31949607
+512	Rat	TTTY15	lncRNA	oxygen-glucose deprivation and reoxygenation (OGD/R)	ischemic stroke (IS)	PC12 cells	oxygen-glucose deprivation and reoxygenation (OGD/R) treatment	The results of the present study revealed that TTTY15 expression was upregulated in OGD/R-treated PC12 cells	33791020
+513	Rat	TUG1	lncRNA	diosmetin (DIOS)	acute kidney injury (AKI)	RMC cells	diosmetin (DIOS) treatment	upregulated	33182044
+514	Rat	TUG1	lncRNA	lipopolysaccharide (LPS)	acute kidney injury (AKI)	RMC cells	lipopolysaccharide (LPS) treatment	downregulated	33182044
+515	Rat	TUG1	lncRNA	zhenbao pill	acute spinal cord injury (ASCI)	cultured CD4+ T cells	Zhenbao Pill treatment	upregulated	30287503
+516	Rat	TUG1	lncRNA	metformin (Met)	atherosclerosis (AS)	aortic root tissue	Metformin treatment	Metformin prevent AS by activating the AMPK/mTOR pathway via lncRNA TUG1.	32099330
+517	Rat	TUG1	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	H9c2 cells	angiotensin II (Ang II) treatment	Silencing TUG1 attenuated Ang II-induced cardiac hypertrophy.	31183682
+518	Rat	TUG1	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	Primary cardiomyocytes	angiotensin II (Ang II) treatment	Our data indicated that TUG1 was upregulated and miR-497 was downregulated in the TAC rat model and Ang II-induced cardiomyocytes.	33817315
+519	Rat	TUG1	lncRNA	hypoxia	cell damage	H9c2 cells	hypoxia treatment	downregulated	29864957
+520	Rat	TUG1	lncRNA	sacubitril/valsartan (LCZ696)	chemotherapy-induced testicular atrophy	testicular	LCZ696 treatment	"LCZ696 increased lncRNA TUG1 expression, improved sperm characteristics, hormonal profile, testicular function, antioxidant defences, and Bcl-2"	32197949
+521	Rat	TUG1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	Mesangial cells	high glucose treatment	downregulated	31539141
+522	Rat	TUG1	lncRNA	high glucose (HG)	diabetic nephropathy (DN)	NRK-52E cells	high glucose treatment	downregulated	31933879
+523	Rat	TUG1	lncRNA	streptozocin (STZ)	diabetic nephropathy (DN)	kidney tissues	streptozocin (STZ) treatment	downregulated	31539141
+524	Rat	TUG1	lncRNA	hypoxia	hypoxia-induced cardiac dysfunctions	H9c2 cells	hypoxia treatment	Hypoxia treatment significantly increased the expression level of TUG1.	29207102
+525	Rat	TUG1	lncRNA	H2O2	myocardial infarction (MI)	cultured cardiomyocytes	H2O2 treatment	upregulated	31787746
+526	Rat	TUG1	lncRNA	hypoxia	myocardial ischaemic injury	cardiomyocyte cell line H9c2	hypoxia	upregulated	29207102
+527	Rat	TUG1	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	TUG1 silence ameliorated H/R-induced cardiomyocytes injury through regulating miR-532-5p/Sox8 axis.	32833900
+528	Rat	TUG1	lncRNA	lipopolysaccharide (LPS)	myocarditis	H9c2 cells	lipopolysaccharide (LPS) treatment	TUG1 expression was downregulated in LPS-injured H9c2 cells.	29518613
+529	Rat	TUG1	lncRNA	ketamine	neurotoxicity	primary rat hippocampal neurons	Ketamine (KET) treatment	"small interfering TUG1 (siTUG1) decreased KET-induced hippocampal neurons apoptosis and ROS level, and increased hippocampal neurons viability."	30995880
+530	Rat	TUG1	lncRNA	lipopolysaccharide (LPS)	sepsis-induced acute kidney injury	rat mesangial cells (RMCs)	lipopolysaccharide (LPS) treatment	downregulated	30834562
+531	Rat	TUG1	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	?PC-12 cell	lipopolysaccharide (LPS) treatment	"?LPS-induced decrease of cell viability, increase of apoptosis and release of IL-6 and TNF-¦Á were mitigated by TUG1 overexpression."	31326411
+532	Rat	uc.229	lncRNA	manganese (Mn)	neurotoxicity	hippocampal neurons	Manganese (Mn) treatment	downregulated	26745496
+533	Rat	uc.242	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	Primary cardiomyocytes	angiotensin II (Ang II) treatment	upregulated	33229398
+534	Rat	uc.242	lncRNA	angiotensin II (Ang II)	cardiac hypertrophy	primary cardiomyocytes	angiotensin II (Ang II) treatment	upregulated	33229398
+535	Rat	uc.412	lncRNA	TGF-¦Â1	cell proliferation	The rat mesangial cell line RMC	transforming growth factor ¦Â1 treatment	upregulated	31638227
+536	Rat	uc.48	lncRNA	high fat diet (HFD)	diabetic neuropathic pain (DNP)	Sprague-Dawley rats	high fat diet (HFD) feed	upregulated	31966886
+537	Rat	uc.48+	lncRNA	high fat diet (HFD)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	rat myocardium	high fat diet (HFD) feed	upregulated	30417395
+538	Rat	uc.48+	lncRNA	hypoxia	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9c2 cells	hypoxia induce	upregulated	30417395
+539	Rat	uc.48+	lncRNA	high fat diet (HFD)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	left ventricular tissue	high fat diet (HFD) feed	uc.48+ was upregulated in HFD I/R myocardium.	30417395
+540	Rat	uc.80-	lncRNA	chronic unpredictable mild stress (CUMS)	depression	hippocampus	chronic unpredictable mild stress (CUMS) treatment	uc.80- was downregulated in hippocampus of depressed rats.	32780551
+541	Rat	UCA1	lncRNA	lithium chloride and pilocarpine	epilepsy	brain tissues	lithium chloride-pilocarpine treatment	upregulated	28742194
+542	Rat	UCA1	lncRNA	pilocarpine	epilepsy	hippocampus; hippocampal neurons	pilocarpine treatment	"The lncRNA UCA1 and Nrf2 were downregulated in epileptiform hippocampal tissues and neurons, while the miR-495 was upregulated"	29608952
+543	Rat	UCA1	lncRNA	hypoxia	hypoxia-induced injury	neuronal pheochromocytoma (PC)-12 cells	hypoxia treatment	upregulated	319666702
+544	Rat	UCA1	lncRNA	hypoxia	ischemia/reperfusion (I/R) injury	H9C2 cells	hypoxia induce	downregulated	30877641
+545	Rat	UCA1	lncRNA	hypoxia	myocardial infarction (MI)	neonatal rat cardiomyocytes	hypoxia induce	downregulated	30998966
+546	Rat	UCA1	lncRNA	hypoxia/reoxygenation (H/R)	myocardial infarction (MI)	cardiomyocytes	hypoxia/reoxygenation (H/R) treatment	lncUCA1 might protect cardiomyocyte against H/R induced apoptosis by suppressing miR-143 and modulated the following downstream MDM2/p53 signaling pathway.	30998966
+547	Rat	UCA1	lncRNA	6-hydroxydopamine (6-OHDA)	parkinson's disease (PD)	dopaminergic neurons	6-hydroxydopamine (6-OHDA) treatment	upregulated	31301558
+548	Rat	UCA1	lncRNA	kainic acid (KA)	temporal lobe epilepsy (TLE)	hippocampal astrocyte	kainic acid (KA) treatment	UCA1 inhibited hippocampal astrocyte activation and JAK/STAT/GLAST expression in TLE rats and improved the adverse reactions caused by epilepsy.	31909503
+549	Rat	Urgcp-002	lncRNA	letrozole	polycystic ovarian syndrome (PCOS)	ovarian tissues	letrozole treatment	upregulated	29505837
+550	Rat	URIDS	lncRNA	advanced glycation end product (AGE)	diabetic foot ulcer (DFU)	dermal fibroblasts	advanced glycation end products (AGEs) treatment	lnc-URIDS was highly expressed in diabetic skin and dermal fibroblasts treated with advanced glycation end products (AGEs).	32801140
+551	Rat	XIST	lncRNA	hypoxia	cardiac injury	H9c2 cells	hypoxia induce	Hypoxic H9c2 cells demonstrated a decrease in their migration and invasion abilities and lncRNA XIST expression.	31887421
+552	Rat	XIST	lncRNA	hypoxia	acute myocardial infarction (AMI)	H9c2 cells	hypoxia treatment	"XIST protects cardiomyocytes from hypoxia-induced injury by mediating miR-150-5p/Bax axis, suggesting that XIST is an important target for AMI treatment."	32096185
+553	Rat	XIST	lncRNA	amyloid-¦Â (A¦Â) 25-35	Alzheimer's disease (AD)	Primary hippocampal neuron	amyloid-¦Â (A¦Â) 25-35 treatment	A¦Â25-35 treatment increased XIST expression in hippocampal neurons.	31949779
+554	Rat	XIST	lncRNA	hypoxia	cardiac injury	H9c2 cells	hypoxia treatment	Hypoxic H9c2 cells demonstrated a decrease in XIST expression.	31887421
+555	Rat	XIST	lncRNA	hypoxia	cardiac injury	H9c2 cells	hypoxia exposure	"XIST expressions of cardiomyocyte line, H9c2 were apparently suppressed by long-time hypoxia exposure under low glucose supply."	32415544
+556	Rat	XIST	lncRNA	ioversol	contrast-induced nephropathy (CIN)	kidney tissues	ioversol treatment	upregulated	33387208
+557	Rat	XIST	lncRNA	lipopolysaccharide (LPS)	epilepsy	CTX-TNA2 (CRL-2006) astrocyte cell line	lipopolysaccharide (LPS) treatment	upregulated	33776905
+558	Rat	XIST	lncRNA	pentylenetetrazol (PTZ)	epilepsy	dorsal hippocampus	pentylenetetrazol treatment	upregulated	33776905
+559	Rat	XIST	lncRNA	phenylephrine (PE)	hypertrophy	cardiomyoblast H9c2 cells	phenylephrine (PE) induce treatment	The expression of XIST was significantly upregulated in PE-treated cardiomyocytes Knockdown of XIST attenuated PE-induced cardiomyocyte hypertrophy	30605239
+560	Rat	XIST	lncRNA	complete freund's adjuvant (CFA)	inflammatory pain	dorsal root ganglion (DRG)	complete Freund's adjuvant (CFA) treatment	upregulated	30129228
+561	Rat	XIST	lncRNA	hypoxia/reoxygenation (H/R)	myocardial ischemia/reperfusion (I/R) injury (MIRI)	H9C2 cells	hypoxia/reoxygenation (H/R) induce	upregulated	31734557
+562	Rat	XIST	lncRNA	chronic constriction injury (CCI)	neuropathic pain (NP)	rats	chronic constriction injury (CCI) induce	upregulated	29115665
+563	Rat	XIST	lncRNA	1-methyl-4-phenylpyridinium (MPP+)	parkinson's disease (PD)	PC-12 cells	1-methyl-4-phenylpyridinium (MPP+) treatment	upregulated	33494069
+564	Rat	XIST	lncRNA	cannabinoid receptor type II (CB2R)	parkinson's disease (PD)	PC12 cells	cannabinoid receptor type II (CB2R) treatment	CB2 receptor agonist AM1241 alleviated PD via regulation of the Xist/miR-133b-3p/Pitx3 axis.	31989652
+565	Rat	XIST	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	microglial cells	lipopolysaccharide (LPS) treatment	XIST was significantly higher in LPS-induced primary microglial cells.	31778769
+566	Rat	XIST	lncRNA	lipopolysaccharide (LPS)	spinal cord injury (SCI)	mouse primary microglial cells	lipopolysaccharide (LPS) treatment	"higher level of XIST and Smurf1, but lower level of miR-27a in SCI rats and lipopolysaccharide (LPS)-induced primary microglial cells."	31778769
+567	Rat	XR_005513	lncRNA	ischemia	stroke	rat cortical tissues	focal ischemia treatment	upregulated	24063527
+568	Rat	XR_007793	lncRNA	platelet derived growth factor-BB (PDGF-BB)	neointimal formation	rat aortic smooth muscle cells	platelet-derived growth factor (PDGF)-BB treatment	XR007793 expression was significantly increased in the injured carotid artery of Sprague-Dawley rats and platelet-derived growth factor-BB induced rat aortic smooth muscle cells	30141428
+569	Rat	XR_007793	lncRNA	pathological hypertensive cyclic strain	cell proliferation and migration	vascular smooth muscle cells (VSMCs) of spontaneously hypertensive rats and Wistar-Kyoto rats	Flexcell-4000T treatment	upregulated	28319593
+570	Rat	XR_086062.1	lncRNA	(+)-cholesten-3-one (CN)	osteoblastic differentiation	mesenchymal stem cells (MSCs)	(+)-cholesten-3-one (CN) treatment	upregulated	30373531
+571	Rat	XR_145872.1	lncRNA	(+)-cholesten-3-one (CN)	osteoblastic differentiation	mesenchymal stem cells (MSCs)	(+)-cholesten-3-one (CN) treatment	upregulated	30373531
+572	Rat	XR_145894.1	lncRNA	(+)-cholesten-3-one (CN)	osteoblastic differentiation	mesenchymal stem cells (MSCs)	(+)-cholesten-3-one (CN) treatment	downregulated	30373531
+573	Rat	XR_146480.1	lncRNA	(+)-cholesten-3-one (CN)	osteoblastic differentiation	mesenchymal stem cells (MSCs)	(+)-cholesten-3-one (CN) treatment	downregulated	30373531
+574	Rat	XR_146737.1	lncRNA	(+)-cholesten-3-one (CN)	osteoblastic differentiation	mesenchymal stem cells (MSCs)	(+)-cholesten-3-one (CN) treatment	upregulated	30373531
+575	Rat	XR_344474	lncRNA	chronic intermittent hypoxia (CIH)	obstructive sleep apnea-induced cardiovascular disease	heart tissues	chronic intermittent hypoxia (CIH) treatment	upregulated	30535531
+576	Rat	XR_590196	lncRNA	chronic intermittent hypoxia (CIH)	obstructive sleep apnea-induced cardiovascular disease	heart tissues	chronic intermittent hypoxia (CIH) treatment	downregulated	30535531
+577	Rat	XR_596701	lncRNA	chronic intermittent hypoxia (CIH)	obstructive sleep apnea-induced cardiovascular disease	heart tissues	chronic intermittent hypoxia (CIH) treatment	upregulated	30535531
+578	Rat	XR_597099	lncRNA	chronic intermittent hypoxia (CIH)	obstructive sleep apnea-induced cardiovascular disease	heart tissues	chronic intermittent hypoxia (CIH) treatment	downregulated	30535531
+579	Rat	XR_600374	lncRNA	chronic intermittent hypoxia (CIH)	obstructive sleep apnea-induced cardiovascular disease	heart tissues	chronic intermittent hypoxia (CIH) treatment	downregulated	30535531
+580	Rat	ZEB1-AS1	lncRNA	bleomycin (BLM)	lung fibrosis	rat lung tissues	bleomycin (BLM) treatment	upregulated	30755599
+581	Rat	ZEB1-AS1	lncRNA	TGF-¦Â1	lung fibrosis	RLE-6TN cells	TGF-¦Â1 treatment	upregulated	30755599
+582	Rat	ZFAS1	lncRNA	hypoxia/reoxygenation (H/R)	acute myocardial infarction (AMI)	H9c2 cells	hypoxia/reoxygenation (H/R) treatment	"ZFAS1 was upregulated in H9c2 cells subjected to I/R injury, and that ZFAS1 knockdown protected against I/R-induced myocardial cell apoptosis by directly interacting with miR-590-3p, via the NF-¦ÊB pathway."	32705215
+583	Rat	ZFAS1	lncRNA	bleomycin (BLM)	lung fibrosis	lung tissues	bleomycin (BLM) treatment	upregulated	32453709
+584	Rat	ZFAS1	lncRNA	lipopolysaccharide (LPS)	acute lung injury (ALI)	lung tissues; NR8383 cells	lipopolysaccharide (LPS) treatment	rats in LPS group also resulted in a decrease in ZFAS1 expression and increase in miR-193a-3p expression in lung tissues	33848686

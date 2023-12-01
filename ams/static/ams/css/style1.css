@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+.div_1{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    margin: 160px auto;
+}
+.div_2{
+    border: 1px solid green;
+    height: 180px;
+    background-color: #7E2074;
+}
+.text_1{
+    color: white;
+    text-align: center;
+    font-size: 46px;
+    font-family: "华文行楷";
+    margin-top: 25px;
+}
+.span_1{
+    margin-left: 60px;
+}
+.a_1{
+    margin-left: 220px;
+}

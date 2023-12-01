@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search result</title>
+    <link rel="stylesheet" href="{% static 'public/bootstrap/css/bootstrap.min.css' %}" type="text/css"/>
+    <link rel="stylesheet" href="{% static 'ncren/css/style.css' %}" type="text/css" />
+    <meta name="keywords" content="ncRN, environmental factors, phenotype, ncREnvironment"/>
+</head>
+<body class="search_body">
+<table class="table table-striped table-condensed table-bordered table_body table-responsive" id="search_table">
+    <thead style="background-color: #0BA3A8; color:white;">
+    <tr>
+        <th>Detail</th>
+        <th>ncRNA</th>
+        <th>Environmental factor (EF)</th>
+        <th>Phenotype</th>
+    </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+</table>
+<div style="text-align: center; margin: 5% 0;">
+    <form id="page" action="/ncren/search_result/">
+        <a class="first_page">
+            <button type="button" class="btn btn-primary btn-sm">Previous</button>
+        </a>
+        <span id="now">
+            {% for num in page_range %}
+                <a class="now_page"><button type="button" class="btn btn-primary btn-sm">{{ num }}</button></a>
+            {% endfor %}
+        </span>
+        <a class="last_page">
+            <button type="button" class="btn btn-primary btn-sm">Next</button>
+        </a>
+{#        <button id="num_pages" type="button" class="btn btn-primary btn-sm">Total: {{ page_res.paginator.num_pages }} pages</button>#}
+        <input type="text" value="{{ ncrna }}" id="ncrna_" style="display: none; ">
+        <input type="text" value="{{ ncrna_type }}" id="ncrna_type_" style="display: none;">
+        <input type="text" value="{{ ef }}" id="ef" style="display: none;">
+        <input type="text" value="{{ pheno }}" id="pheno" style="display: none;">
+        <input type="text" value="{{ species }}" id="species" style="display: none;">
+    </form>
+</div>
+<script src="{% static "public/jquery/jquery-1.12.4.min.js" %}"></script>
+<script src="{% static "public/bootstrap/js/bootstrap.min.js" %}"></script>
+{#<script src="{% static "ncren/js/main.js" %}"></script>#}
+<script>
+    $(function () {
+        let now_page = 1;
+        page_click();
+        $('.first_page button').removeClass('btn-primary').addClass('disabled');
+        $('.now_page button').first().removeClass('btn-primary').addClass('page_this');
+        $(document).on('click','.first_page',function () {
+            now_page -= 1;
+            if(now_page < 1){
+                now_page = 1;
+                return false
+            } else{
+                $('.page_this').parent().prev().click();
+            }
+        });
+
+        $(document).on('click','.last_page',function () {
+            let num_pages = $('.now_page button').last().text();
+            now_page += 1;
+            if(now_page > parseInt(num_pages)){
+                now_page -= 1;
+                return false
+            } else{
+                $('.page_this').parent().next().click();
+            }
+        });
+
+        $(document).on('click','.now_page',function () {
+            now_page = parseInt($(this).children('button').text());
+            page_click()
+        });
+
+        function page_click() {
+            let page_form = $('#page');
+            $.ajax({
+                type: 'get',
+                url: page_form.attr('action'),
+                data: {
+                    page: now_page,
+                    ncrna: $('#ncrna_').val(),
+                    ncrna_type: $('#ncrna_type_').val(),
+                    ef: $('#ef').val(),
+                    pheno: $('#pheno').val(),
+                    species: $('#species').val(),
+                },
+                success: function (data) {
+                    {#console.log(data);#}
+                    let now_page = '';
+                    let pre = '<a class=\"now_page\"><button type=\"button\" class=\"btn btn-primary btn-sm\">';
+                    let last = '</button></a>';
+                    for(var i=0;i<data.page_range.length;i++){
+                        now_page += pre+data.page_range[i]+last
+                    }
+                    $('#now').html(now_page);
+                    $(".now_page button").eq(data.offset-1).addClass('page_this').removeClass('btn-primary');
+                    $(".now_page a").eq(data.offset-1).addClass('page_this');
+                    $('#tbody tr').remove();
+                    {#$('#num_pages').html('Total: ' + data.num_pages + 'pages');#}
+                    if(data.has_previous == true){
+                        $('.first_page button').removeClass('disabled').addClass('btn-primary');
+                    } else{
+                        $('.first_page button').removeClass('btn-primary').addClass('disabled');
+                    }
+                    if(data.has_next == true){
+                        $('.last_page button').removeClass('disabled').addClass('btn-primary');
+                    } else{
+                        $('.last_page button').removeClass('btn-primary').addClass('disabled');
+                    }
+                    let table_str = "";
+                    let a = "<tr><td align=\"center\"><a href=\"javascript:void(0)\" class=\"plus\"><span class=\"glyphicon glyphicon-plus\"></span></a></td>";
+                    let tr = "<tr>";
+                    let td = "<td>";
+                    let tdd = "</td>";
+                    let trr = "</tr>";
+                    let aa = "<tr style=\"display:none;\"><td colspan=\"4\"><div class=\"panel panel-success\"><div class=\"panel-heading\">Detailed information</div><div class=\"panel-body\"><table class=\"table table-bordered\"><tr><td width=\"20%\">Pubmed ID</td><td><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/";
+                    $.each(data.page_li, function (index, page) {
+                        {#let body = a + page.ncrna+b+a+page.species+b+a+page.phenotype+b+a+page.ef+b+a+page.ef_condition+b+a+page.sample+b+a+page.evidence+b+a+"<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/"+page.pmid+"\" target=\"_blank\">"+page.pmid+"</a>"+b;#}
+                        table_str = a+td+"<a href=\"http://www.noncode.org/gene_trans_search.php?keyword="+page.ncrna+"\" target=\"_blank\">"+page.ncrna+"</a>"+tdd+td+page.ef+tdd+td+"<a href=\"https://www.ncbi.nlm.nih.gov/omim/?term="+page.phenotype+"\" target=\"_blank\">"+page.phenotype+"</a>"+tdd+trr+aa+page.pmid+"\" target=\"_blank\">"+page.pmid+"</a>"+tdd+trr+tr+td+"Species"+tdd+td+page.species+tdd+trr+tr+td+"Sample"+tdd+td+page.sample+tdd+trr+tr+td+"Condition of EF"+tdd+td+"<a href=\"https://go.drugbank.com/unearth/q?searcher=drugs&query="+page.ef_condition+"\" target=\"_blank\">"+page.ef_condition+"</a>"+tdd+trr+tr+td+"Evidence"+tdd+td+page.evidence+tdd+trr+"</table></div></div></td></tr>";
+                        $('#tbody').append(table_str);
+                    });
+                    let div = document.querySelector('#search_table');
+                    div.scrollIntoView({behavior: "smooth"});
+                }
+            })
+        }
+        $(document).on('click','.plus',function(){
+            if($(this).find('span').hasClass('glyphicon-plus')){
+                $(this).find('span').removeClass("glyphicon-plus").addClass("glyphicon-minus");
+                $(this).parent().parent().next().toggle(500);
+            }else{
+                $(this).find('span').removeClass("glyphicon-minus").addClass("glyphicon-plus");
+                $(this).parent().parent().next().toggle(500);
+            }
+        })
+    })
+</script>
+</body>
+</html>

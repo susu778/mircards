@@ -1,0 +1,933 @@
+ID	Species	ncRNA	ncRNA type	Environmental factor (EF)	Phenotype	Sample	Condition of EF	Evidence	PubMed ID
+1	Aedes aegypti mosquitoe	aae-miR-286b	miRNA	zika virus (ZIKV)	Zika virus (ZIKV) infection	Aedes aegypti	infect with ZIKV treatment	dysregulated	28715413
+2	Aedes aegypti mosquitoe	aae-miR-2940	miRNA	wolbachia	wolbachia infection	aedes aegypti mosquitoes	wolbachia-infected treatment	upregulated	25158106
+3	Aedes aegypti mosquitoe	aae-miR-2941	miRNA	zika virus (ZIKV)	Zika virus (ZIKV) infection	Aedes aegypti	infect with ZIKV treatment	dysregulated	28715413
+4	Aedes aegypti mosquitoe	aae-miR-308	miRNA	zika virus (ZIKV)	Zika virus (ZIKV) infection	Aedes aegypti	infect with ZIKV treatment	dysregulated	28715413
+5	Aedes aegypti mosquitoe	aae-miR-309a	miRNA	zika virus (ZIKV)	Zika virus (ZIKV) infection	Aedes aegypti	infect with ZIKV treatment	dysregulated	28715413
+6	Aedes aegypti mosquitoe	aae-miR-989	miRNA	zika virus (ZIKV)	Zika virus (ZIKV) infection	Aedes aegypti	infect with ZIKV treatment	dysregulated	28715413
+7	Anopheles anthropophagus	aan-miR-275	miRNA	plasmodium	plasmodium infection	anopheles anthropophagus midgut	plasmodium treatment	downregulated in midgut	28209211
+8	Anopheles anthropophagus	aan-miR-92a	miRNA	plasmodium	plasmodium infection	anopheles anthropophagus midgut	plasmodium treatment	upregulated in midgut	28209211
+9	Anopheles gambiae	aga-miR-133	miRNA	rodent malaria parasite Plasmodium berghei	expression regulation	de novo A. gambiae	infect with rodent malaria parasite Plasmodium berghei treatment	upregulated	24997592
+10	Anopheles gambiae	aga-miR-1891	miRNA	rodent malaria parasite Plasmodium berghei	expression regulation	de novo A. gambiae	infect with rodent malaria parasite Plasmodium berghei treatment	upregulated	24997592
+11	Anopheles gambiae	aga-miR-278	miRNA	rodent malaria parasite Plasmodium berghei	expression regulation	de novo A. gambiae	infect with rodent malaria parasite Plasmodium berghei treatment	upregulated	24997592
+12	Anopheles gambiae	aga-miR-281	miRNA	rodent malaria parasite Plasmodium berghei	expression regulation	de novo A. gambiae	infect with rodent malaria parasite Plasmodium berghei treatment	upregulated	24997592
+13	Anopheles gambiae	aga-miR-305	miRNA	P. falciparum	anti-Plasmodium response	mosquito	P. falciparum infected treatment	upregulated	25445902
+14	Anopheles gambiae	aga-miR-929	miRNA	rodent malaria parasite Plasmodium berghei	expression regulation	de novo A. gambiae	infect with rodent malaria parasite Plasmodium berghei treatment	upregulated	24997592
+15	Anopheles gambiae	aga-miR-965	miRNA	rodent malaria parasite Plasmodium berghei	expression regulation	de novo A. gambiae	infect with rodent malaria parasite Plasmodium berghei treatment	upregulated	24997592
+16	Anopheles gambiae	aga-miR-989	miRNA	P. falciparum	anti-Plasmodium response	mosquito	P. falciparum infected treatment	upregulated	25445902
+17	Apostichopus japonicus	spu-miR-137	miRNA	lipopolysaccharide (LPS)	apoptosis	sea cucumber primary cell	1 mg mL-1 of LPS from Escherichia coli	downregulated	27832949
+18	Apostichopus japonicus	spu-miR-138	miRNA	vibrio splendidus	apoptosis	healthy adult sea cucumber Apostichopus japonicus	infect with Vibrio splendiduss treatment	downregulated	27832949
+19	Apple	mdm-miR156a	miRNA	light	anthocyanin biosynthetic	apple peels from the 'Red Fuji' cultivar	light treatment	dysregulated	31344284
+20	Arabidopsis thaliana	ath-miR156	miRNA	salt and drought stress	adaptation to the environment	Arabidopsis	under stress conditions treatment	upregulated	25345491
+21	Arabidopsis thaliana	ath-miR156	miRNA	recurring heat stress (HS memory)	heat stress	arabidopsis thaliana	HS treatment	upregulated	24769482
+22	Arabidopsis thaliana	ath-miR156a	miRNA	glucose	extended juvenile development	Arabidopsis seedlings	MS medium containing 10 mM Glucose	downregulated	28108181
+23	Arabidopsis thaliana	ath-miR156a	miRNA	sugar	vegetative phase change	Arabidopsis thaliana	Sugar?treatment treatment	downregulated	23538384
+24	Arabidopsis thaliana	ath-miR156c	miRNA	glucose	extended juvenile development	Arabidopsis seedlings	MS medium containing 10 mM Glucose	downregulated	28108181
+25	Arabidopsis thaliana	ath-miR156c	miRNA	sugar	vegetative phase change	Arabidopsis thaliana	Sugar?treatment treatment	downregulated	23538384
+26	Arabidopsis thaliana	ath-miR156h	miRNA	root knot nematodes (RKN)	root-knot nematodes (RKNs) infection	Arabidopsis root	RKN treatment	strong activity within galls	28906559
+27	Arabidopsis thaliana	ath-miR160	miRNA	sulfur dioxide (SO2)	botrytis cinerea (B. cinerea) infection	arabidopsis plants	sulfur dioxide (SO2) treatment	upregulated	28917191
+28	Arabidopsis thaliana	ath-miR163	miRNA	root knot nematodes (RKN)	root-knot nematodes (RKNs) infection	Arabidopsis root	RKN treatment	strong activity within galls	28906559
+29	Arabidopsis thaliana	ath-MIR165a	miRNA	abscisic acid (ABA)	xylem patterning and maturation	Arabidopsis protoxylem (PX)	abscisic acid (ABA) treatment	upregulated	31399468
+30	Arabidopsis thaliana	ath-MIR166b	miRNA	abscisic acid (ABA)	xylem patterning and maturation	Arabidopsis protoxylem (PX)	abscisic acid (ABA) treatment	upregulated	31399468
+31	Arabidopsis thaliana	ath-miR167	miRNA	sulfur dioxide (SO2)	botrytis cinerea (B. cinerea) infection	arabidopsis plants	sulfur dioxide (SO2) treatment	upregulated	28917191
+32	Arabidopsis thaliana	ath-miR2111a-3p	miRNA	root knot nematodes (RKN)	root-knot nematodes (RKNs) infection	Arabidopsis root	RKN treatment	strong activity within galls	28906559
+33	Arabidopsis thaliana	ath-miR393	miRNA	salt	acclimation to salinity	arabidopsis thaliana seeds	culture at salt (ATS) medium treatment	upregulated	25222737
+34	Arabidopsis thaliana	ath-miR393	miRNA	sulfur dioxide (SO2)	botrytis cinerea (B. cinerea) infection	arabidopsis plants	sulfur dioxide (SO2) treatment	upregulated	28917191
+35	Arabidopsis thaliana	ath-miR395	miRNA	sulfur dioxide (SO2)	sulfur dioxide (SO2) stress and oxidative stress	Arabidopsis shoots	SO2 treatment	downregulated(miR-398) and upregulated (miR-395)	28819808
+36	Arabidopsis thaliana	ath-miR396	miRNA	ultraviolet (UV) irradiation	cell proliferation	proliferating tissues	UV-B radiation treatment	upregulated	24076976
+37	Arabidopsis thaliana	ath-MIR398	miRNA	boron	boron toxicity	Arabidopsis thaliana seedlings	boron treatment	upregulated	27794275
+38	Arabidopsis thaliana	ath-miR398	miRNA	sulfur dioxide (SO2)	sulfur dioxide (SO2) stress and oxidative stress	Arabidopsis shoots	SO2 treatment	downregulated(miR-398) and upregulated (miR-395)	28819808
+39	Arabidopsis thaliana	ath-miR414c	miRNA	Salinity	plant salinity tolerance	Arabidopsis	Salinity stress induce treatment	downregulated	30676211
+40	Arabidopsis thaliana	ath-miR5090	miRNA	duplication of AOP2	nitrogen starvation	Arabidopsis thaliana	duplication of AOP2 treatment	upregulated	24367020
+41	Arabidopsis thaliana	ath-miR826	miRNA	duplication of AOP2	nitrogen starvation	Arabidopsis thaliana	duplication of AOP2 treatment	upregulated	24367020
+42	Arabidopsis thaliana	ath-miR831	miRNA	root knot nematodes (RKN)	root-knot nematodes (RKNs) infection	Arabidopsis root	RKN treatment	strong activity within galls	28906559
+43	Arabidopsis thaliana	ath-miR861-5p	miRNA	root knot nematodes (RKN)	root-knot nematodes (RKNs) infection	Arabidopsis root	RKN treatment	strong activity within galls	28906559
+44	Asian tiger mosquito	aal-miR-252	miRNA	dengue virus serotype 2 (DENV-2)	dengue virus (DENV) infection	Ae. albopictus C6/36 cellline	wih dengue virus serotype 2 (DENV-2) infection treatment	upregulated	25025105
+45	Atlantic cod	gmo-miR-128-3-5p	miRNA	polyinosinic-polycytidilic acid (Poly(I:C))	antiviral immune response	Atlantic cod (Gadus morhua) macrophages	poly (I:C) treatment	upregulated	29190475
+46	Atlantic cod	gmo-miR-199-1-3p	miRNA	polyinosinic-polycytidilic acid (Poly(I:C))	antiviral immune response	Atlantic cod (Gadus morhua) macrophages	poly (I:C) treatment	downregulated	29190475
+47	Atlantic cod	gmo-miR-214-1-5p	miRNA	polyinosinic-polycytidilic acid (Poly(I:C))	antiviral immune response	Atlantic cod (Gadus morhua) macrophages	poly (I:C) treatment	upregulated	29190475
+48	Atlantic cod	gmo-miR-30b-3p	miRNA	polyinosinic-polycytidilic acid (Poly(I:C))	antiviral immune response	Atlantic cod (Gadus morhua) macrophages	poly (I:C) treatment	downregulated	29190475
+49	Atlantic cod	gmo-miR-451-3p	miRNA	polyinosinic-polycytidilic acid (Poly(I:C))	antiviral immune response	Atlantic cod (Gadus morhua) macrophages	poly (I:C) treatment	upregulated	29190475
+50	Baboon	pan-miR-124	miRNA	¦Ã-rays	hematological acute radiation syndrome (HARS)	baboons peripheral blood on day 1 after exposure	irradiated with 2.5 or 5 Gy	upregulated in the peripheral blood on day 1 after exposure	28236054
+51	Baboon	pan-miR-150-5p	miRNA	simvastatin	endometriosis	serum	simvastatin treatment	downregulated	29587611
+52	Baboon	pan-miR-29c	miRNA	¦Ã-rays	hematological acute radiation syndrome (HARS)	baboons peripheral blood on day 1 after exposure	irradiated with 2.5 or 5 Gy	upregulated in the peripheral blood on day 1 after exposure	28236054
+53	Baboon	pan-miR-3613-5p	miRNA	simvastatin	endometriosis	serum	simvastatin treatment	upregulated	29587611
+54	Baboon	pan-miR-378	miRNA	¦Ã-rays	hematological acute radiation syndrome (HARS)	baboons peripheral blood on day 1 after exposure	irradiated with 2.5 or 5 Gy	upregulated in the peripheral blood on day 1 after exposure	28236054
+55	Baboon	pan-miR-451a	miRNA	simvastatin	endometriosis	serum	simvastatin treatment	downregulated	29587611
+56	Baboon	pan-miR-574-3p	miRNA	¦Ã-rays	hematological acute radiation syndrome (HARS)	baboons peripheral blood on day 1 after exposure	irradiated with 2.5 or 5 Gy	upregulated in the peripheral blood on day 1 after exposure	28236054
+57	Baboon	pan-miR-7	miRNA	¦Ã-rays	hematological acute radiation syndrome (HARS)	baboons peripheral blood on day 1 after exposure	irradiated with 2.5 or 5 Gy	upregulated in the peripheral blood on day 1 after exposure	28236054
+58	Barley	Hv-miR1432	miRNA	drought	abiotic stress response	barley	drought treatments	dysregulated	27155357
+59	Barley	Hv-mir160a	miRNA	heat stress	heat-responsive	barley	high temperature treatment	upregulated	25183744
+60	Barley	Hv-mir166a	miRNA	heat stress	heat-responsive	barley	high temperature treatment	upregulated	25183744
+61	Barley	Hv-miR166b	miRNA	drought	abiotic stress response	barley	drought treatments	dysregulated	27155357
+62	Barley	Hv-miR166b	miRNA	aluminum (Al)	aluminum (Al) toxicity	barley	Al treatment	downregulated	32588054
+63	Barley	Hv-miR166c	miRNA	drought	abiotic stress response	barley	drought treatments	dysregulated	27155357
+64	Barley	Hv-mir167h	miRNA	heat stress	heat-responsive	barley	high temperature treatment	upregulated	25183744
+65	Barley	Hv-miR169b	miRNA	drought	abiotic stress response	barley	drought treatments	dysregulated	27155357
+66	Barley	Hv-mir5175a	miRNA	heat stress	heat-responsive	barley	high temperature treatment	upregulated	25183744
+67	Barley	Hv-miRx5	miRNA	drought	abiotic stress response	barley	drought treatments	dysregulated	27155357
+68	Bombus terrestris	bte-miR-100	miRNA	"slow bee paralysis virus (SBPV), Israeli acute paralysis virus (IAPV)"	bee-virus interaction	bumblebee	"SBPV,IAPV treatment"	dysregulated	28374846
+69	Bombus terrestris	bte-miR-281	miRNA	"slow bee paralysis virus (SBPV), Israeli acute paralysis virus (IAPV)"	bee-virus interaction	bumblebee	"SBPV,IAPV treatment"	dysregulated	28374846
+70	Bombus terrestris	bte-miR-34	miRNA	"slow bee paralysis virus (SBPV), Israeli acute paralysis virus (IAPV)"	bee-virus interaction	bumblebee	"SBPV,IAPV treatment"	dysregulated	28374846
+71	Bombus terrestris	bte-miR-87	miRNA	"slow bee paralysis virus (SBPV), Israeli acute paralysis virus (IAPV)"	bee-virus interaction	bumblebee	"SBPV,IAPV treatment"	dysregulated	28374846
+72	Branchiostoma belcheri	bbe-miR-10b-5p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+73	Branchiostoma belcheri	bbe-miR-10c-5p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	downregulated	28069432
+74	Branchiostoma belcheri	bbe-miR-125a-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+75	Branchiostoma belcheri	bbe-miR-190-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	downregulated	28069432
+76	Branchiostoma belcheri	bbe-miR-2063-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	downregulated	28069432
+77	Branchiostoma belcheri	bbe-miR-29a-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+78	Branchiostoma belcheri	bbe-miR-31-5p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+79	Branchiostoma belcheri	bbe-miR-33-5p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	downregulated	28069432
+80	Branchiostoma belcheri	bbe-miR-34a-5p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	downregulated	28069432
+81	Branchiostoma belcheri	bbe-miR-34b-5p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+82	Branchiostoma belcheri	bbe-miR-4866-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+83	Branchiostoma belcheri	bbe-miR-4874-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+84	Branchiostoma belcheri	bbe-miR-4877-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	downregulated	28069432
+85	Branchiostoma belcheri	bbe-miR-92a-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+86	Branchiostoma belcheri	bbe-miR-92b-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+87	Branchiostoma belcheri	bbe-miR-92c-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	upregulated	28069432
+88	Branchiostoma belcheri	bbe-miR-92d-3p	miRNA	lipopolysaccharide (LPS)	innate immune response	gills of amphioxus Branchiostoma belcheri	lipopolysaccharide (LPS) treatment	downregulated	28069432
+89	Bread wheat	tae-miR10004	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+90	Bread wheat	tae-miR10008	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+91	Bread wheat	tae-miR10009	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+92	Bread wheat	tae-miR1130c	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+93	Bread wheat	tae-miR156	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	downregulated	28241738
+94	Bread wheat	tae-miR159	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+95	Bread wheat	tae-miR159a	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+96	Bread wheat	tae-miR160	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+97	Bread wheat	tae-miR160b	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+98	Bread wheat	tae-miR165a	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+99	Bread wheat	tae-miR166	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+100	Bread wheat	tae-miR167	miRNA	angiostrongylus cantonensis (A. cantonensis)	rhizobium infection	wheat between shoots and roots	angiostrongylus cantonensis (A. cantonensis) infection	upregulated	27858182
+101	Bread wheat	tae-miR169	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	downregulated	28241738
+102	Bread wheat	tae-miR169	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+103	Bread wheat	tae-miR171	miRNA	angiostrongylus cantonensis (A. cantonensis)	rhizobium infection	wheat between shoots and roots	angiostrongylus cantonensis (A. cantonensis) infection	upregulated	27858182
+104	Bread wheat	tae-miR171a	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	downregulated	28241738
+105	Bread wheat	tae-miR171c	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+106	Bread wheat	tae-miR172	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+107	Bread wheat	tae-miR1858	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+108	Bread wheat	tae-miR2118	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+109	Bread wheat	tae-miR2118a	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+110	Bread wheat	tae-miR319a	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	upregulated	28241738
+111	Bread wheat	tae-miR393	miRNA	angiostrongylus cantonensis (A. cantonensis)	rhizobium infection	wheat between shoots and roots	angiostrongylus cantonensis (A. cantonensis) infection	upregulated	27858182
+112	Bread wheat	tae-miR395	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+113	Bread wheat	tae-miR396	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+114	Bread wheat	tae-miR408	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+115	Bread wheat	tae-miR444c	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	downregulated	28241738
+116	Bread wheat	tae-miR472	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+117	Bread wheat	tae-miR477	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+118	Bread wheat	tae-miR482	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+119	Bread wheat	tae-miR5048a	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	downregulated	28241738
+120	Bread wheat	tae-miR5049	miRNA	drought	crop growth	leaf and root	drought treatments	dysregulated	26141043
+121	Bread wheat	tae-miR827	miRNA	low temperature	cold stress	seeds of common wheat cultivar JM22	germinated and grown in a 4 ¡ãC chamber for vernalization	downregulated	28241738
+122	Caenorhabditis elegans	cel-miR-124	miRNA	polysaccharide (APS)	longevity	Caenorhabditis elegans	polysaccharide (APS) treatment	upregulated	25186652
+123	Caenorhabditis elegans	cel-miR-228	miRNA	dietary restriction (DR)	prolong longevity	OP50 E. coli	Dietary restriction (DR) induce	upregulated	25242029
+124	Caenorhabditis elegans	cel-miR-235	miRNA	dietary restriction (DR)	dietary restriction (DR)-induced longevity in Caenorhabditis elegans	Caenorhabditis elegans	Dietary restriction (DR) induce	upregulated	30872315
+125	Caenorhabditis elegans	cel-mir-237	miRNA	¦Ã-rays	enhance radiation sensitivity	Caenorhabditis elegans	¦Ã-irradiation treatment	downregulated	27321180
+126	Caenorhabditis elegans	cel-mir-237	miRNA	ionizing radiation (IR)	ionizing radiation (IR) injury	vulval cell	ionizing radiation (IR) treatment	downregulated	27321180
+127	Caenorhabditis elegans	cel-miR-34-5p	miRNA	enoxacin	aging	Caenorhabditis elegans	enoxacin treatment	Enoxacin treatment downregulated miR-34-5p.	29986212
+128	Caenorhabditis elegans	cel-miR-35	miRNA	multiwalled carbon nanotubes (MWCNT)	multi-walled carbon nanotubes (MWCNTs) toxicity	intestine	multi-walled carbon nanotubes (MWCNTs) exposure	upregulated	31434956
+129	Caenorhabditis elegans	cel-miR-67	miRNA	P. aeruginosa PA14	P. aeruginosa PA14 infection	worms	Exposure to P. aeruginosa PA14 treatment	upregulated	29050943
+130	Caenorhabditis elegans	cel-miR-71	miRNA	dietary restriction (DR)	prolong longevity	OP50 E. coli	Dietary restriction (DR) induce	upregulated	25242029
+131	Cat	fca-miR-101	miRNA	feline herpesvirus 1 (FHV-1)	feline herpesvirus 1 (FHV-1) infection	F81 cells	feline herpesvirus 1 (FHV-1) infection	FHV-1 infection upregulated the expression level of miR-101 in a cGAS-dependent manner.	32456815
+132	Cattle	bta-miR-106a	miRNA	TGF-¦Â1	cell proliferation	bovine granulosa cells	TGF-¦Â1 treatment	upregulated	29665451
+133	Cattle	bta-miR-106a	miRNA	interferon tau (IFNT)	IFNT effect on endometrium	bovine endometrial cells	interferon tau (IFNT) treatment	upregulated	27091464
+134	Cattle	bta-miR-125b	miRNA	escherichia coli lipopolysaccharides and staphylococcus aureus enterotoxin B	inflammatory response	CD14(+) bovine monocytes	Escherichia coli lipopolysaccharides and Staphylococcus aureus enterotoxin B treatment	downregulated	22033210
+135	Cattle	bta-miR-1434-5p	miRNA	TGF-¦Â1	cell proliferation	bovine granulosa cells	TGF-¦Â1 treatment	upregulated	29665451
+136	Cattle	bta-miR-146a	miRNA	quercetin	bovine mastitis	bovine neutrophil	quercetin treatment	downregulated	28507412
+137	Cattle	bta-miR-146a	miRNA	escherichia coli lipopolysaccharides and staphylococcus aureus enterotoxin B	inflammatory response	CD14(+) bovine monocytes	Escherichia coli lipopolysaccharides and Staphylococcus aureus enterotoxin B treatment	downregulated	22033210
+138	Cattle	bta-miR-146a	miRNA	lipopolysaccharide (LPS)	smooth muscle cell differentiation	CD14(+) bovine monocytes	lipopolysaccharide (LPS) treatment	upregulated	22033210
+139	Cattle	bta-miR-148a	miRNA	lipopolysaccharide (LPS)	endometriosis	primary bovine endometrial epithelial cells (bEECs)	lipopolysaccharide (LPS) treatment	upregulated	31756048
+140	Cattle	bta-miR-148b	miRNA	IFN-¦Ó	innate immune response	primary bovine endometrial epithelial cells (bEECs) and an endometrial epithelial cell line (BEND)	IFN-¦Ó treatment	downregulated	29456541
+141	Cattle	bta-miR-152	miRNA	IFN-¦Ó	innate immune response	primary bovine endometrial epithelial cells (bEECs) and an endometrial epithelial cell line (BEND)	IFN-¦Ó treatment	downregulated	29456541
+142	Cattle	bta-miR-155	miRNA	escherichia coli lipopolysaccharides and staphylococcus aureus enterotoxin B	inflammatory response	CD14(+) bovine monocytes	Escherichia coli lipopolysaccharides and Staphylococcus aureus enterotoxin B treatment	downregulated	22033210
+143	Cattle	bta-miR-155	miRNA	lipopolysaccharide (LPS)	smooth muscle cell differentiation	CD14(+) bovine monocytes	LPS treatment	upregulated	22033210
+144	Cattle	bta-miR-15a	miRNA	trichostatin A (TSA)	cell cycle arrest	Bovine donor cells	50 nM TSA-ed cells were synchronized at G0/G1 stage treatment	upregulated	25151601
+145	Cattle	bta-miR-16	miRNA	trichostatin A (TSA)	cell cycle arrest	Bovine donor cells	50 nM TSA-ed cells were synchronized at G0/G1 stage treatment	upregulated	25151601
+146	Cattle	bta-miR-181c	miRNA	quercetin	bovine mastitis	bovine neutrophil	quercetin treatment	downregulated	28507412
+147	Cattle	bta-miR-183	miRNA	lipopolysaccharide (LPS)	inflammation	bovine endometrial cells	treated with 1 ¦Ìg/mL LPS for 24 h	upregulated	29191705
+148	Cattle	bta-miR-19a	miRNA	lipopolysaccharide (LPS)	endometriosis	bovine endometrial epithelial cells (bEECs)	lipopolysaccharide (LPS) treatment	downregulated	30673803
+149	Cattle	bta-miR-20a	miRNA	lipopolysaccharide (LPS)	inflammation	bovine endometrial cells	treated with 1 ¦Ìg/mL LPS for 24 h	downregulated	29191705
+150	Cattle	bta-miR-221	miRNA	TGF-¦Â1	corpus luteum regression	bovine luteal endothelial cells (LECs)	transforming growth factor (TGF)¦Â1 treatment	downregulated	29228113
+151	Cattle	bta-miR-221	miRNA	fibroblast growth factor 2 (FGF2)	corpus luteum regression	bovine luteal endothelial cells (LECs)	fibroblast growth factor-2 (FGF2) treatment	upregulated	29228113
+152	Cattle	bta-miR-223	miRNA	Staphylococcus aureus	bovine mastitis	mastitic udder tissues	(Staphylococcus aureus) S. aureus infection treatment	upregulated	33195489
+153	Cattle	bta-miR-223	miRNA	escherichia coli lipopolysaccharides and staphylococcus aureus enterotoxin B	inflammatory response	CD14(+) bovine monocytes	Escherichia coli lipopolysaccharides and Staphylococcus aureus enterotoxin B treatment	downregulated	22033210
+154	Cattle	bta-miR-24-2	miRNA	quercetin	bovine mastitis	bovine neutrophil	quercetin treatment	downregulated	28507412
+155	Cattle	bta-miR-26b	miRNA	lipopolysaccharide (LPS)	inflammatory response	bovine alveolar macrophages (bAMs)	lipopolysaccharide (LPS) treatment	upregulated	26503952
+156	Cattle	bta-miR-34a	miRNA	trichostatin A (TSA)	cell cycle arrest	Bovine donor cells	50 nM TSA-ed cells were synchronized at G0/G1 stage treatment	upregulated	25151601
+157	Cattle	bta-miR-365-3p	miRNA	lipopolysaccharide (LPS)	inflammation	bovine endometrial cells	treated with 1 ¦Ìg/mL LPS for 24 h	downregulated	29191705
+158	Cattle	bta-miR-375	miRNA	lipopolysaccharide (LPS)	inflammation	bovine endometrial cells	treated with 1 ¦Ìg/mL LPS for 24 h	upregulated	29191705
+159	Cattle	bta-miR-448	miRNA	lipopolysaccharide (LPS)	endometriosis	"Bovine endometrial epithelial cell line (bEECs, BEND cells)"	lipopolysaccharides (LPS) treatment	downregulated	31674024
+160	Cattle	bta-miR-449b	miRNA	doxycycline	apoptosis	bovine fetal fibroblasts	doxycycline (DXC) treatment	upregulated	29042680
+161	Cattle	bta-miR-9	miRNA	escherichia coli lipopolysaccharides and staphylococcus aureus enterotoxin B	inflammatory response	CD14(+) bovine monocytes	Escherichia coli lipopolysaccharides and Staphylococcus aureus enterotoxin B treatment	downregulated	22033210
+162	Cattle	bta-miR-98	miRNA	caprine parainfluenza virus type 3 (CPIV3)	viral replication	Madin-Darby bovine kidney (MDBK) cells	caprine parainfluenza virus type 3 (CPIV3) infection	Bta-miR-98 Suppresses Replication of Caprine Parainfluenza Virus Type 3 Through Inhibiting Apoptosis by Targeting Caspase-3	32983081
+163	Cattle	bta-miR-35a	miRNA	either toxic or non-toxic fescue seed diets	fescue toxicosis	Angus bulls sperm	s of either toxic or non-toxic fescue seed diets treatment	upregulated	25462855
+164	Cattle	bta-miR-36a	miRNA	either toxic or non-toxic fescue seed diets	fescue toxicosis	Angus bulls sperm	s of either toxic or non-toxic fescue seed diets treatment	upregulated	25462855
+165	Cattle	bta-miR-37a	miRNA	either toxic or non-toxic fescue seed diets	fescue toxicosis	Angus bulls sperm	s of either toxic or non-toxic fescue seed diets treatment	upregulated	25462855
+166	Cattle	bta-miR-38a	miRNA	either toxic or non-toxic fescue seed diets	fescue toxicosis	Angus bulls sperm	s of either toxic or non-toxic fescue seed diets treatment	upregulated	25462855
+167	Cattle	bta-miR-132	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	upregulated	31722768
+168	Cattle	bta-miR-143	miRNA	metabolizable energy (ME)	adipogenesis	low body condition score (BCS) cows subcutaneous adipose tissue	overfed ME	upregulated in subcutaneous adipose tissue	28088407
+169	Cattle	bta-miR-145	miRNA	Staphylococcus aureus	dairy cow mastitis	dairy cows mammary gland tissue	Staphylococcus aureus infection treatment	downregulated	30974481
+170	Cattle	bta-miR-145	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	downregulated	31722768
+171	Cattle	bta-miR-15a	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	"Differential expression of miR-15a and interleukin-1 receptor-associated kinase-like 2 (IRAK2), were evaluated by western blot and luciferase reporter assays"	31722768
+172	Cattle	bta-miR-184	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	upregulated	31722768
+173	Cattle	bta-miR-196a	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	downregulated	31722768
+174	Cattle	bta-miR-200b	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	downregulated	31722768
+175	Cattle	bta-miR-205	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	downregulated	31722768
+176	Cattle	bta-miR-223	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	upregulated	31722768
+177	Cattle	bta-miR-31	miRNA	Staphylococcus aureus	mastitis	Chinese Holstein cows	Staphylococcus aureus infection treatment	downregulated	31722768
+178	Cattle	bta-miR-378	miRNA	metabolizable energy (ME)	adipogenesis	low body condition score (BCS) cows subcutaneous adipose tissue	overfed ME	upregulated in subcutaneous adipose tissue	28088407
+179	Chicken	gga-miR-128-1-5p	miRNA	selenium (Se)	selenium (Se) deficiency symptoms	Vein endothelial cells (VECs)	Se deficiency treatment	upregulated	29904913
+180	Chicken	gga-miR-33-3p	miRNA	selenium (Se)	apoptosis	vein tissues	Selenium (Se) deficiency treatment	upregulated	31249647
+181	Chicken	gga-miR-429	miRNA	avian pathogenic escherichia coli (APEC)	avian pathogenic Escherichia coli (APEC) infection	broilers spleen of three groups of broilers	APEC-challenge	upregulated in spleen of three groups of broilers	27795362
+182	Chicken	gga-let-7b	miRNA	subgroup J avian leukosis virus (ALV-J)	subgroup J avian leukosis virus (ALV-J) infection	liver and bone marrow tissues	subgroup J avian leukosis virus (ALV-J) infection	upregulated	28190219
+183	Chicken	gga-let-7d	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	chicken skin	infect with MDV	upregulated in the skin	28410454
+184	Chicken	gga-let-7i	miRNA	subgroup J avian leukosis virus (ALV-J)	subgroup J avian leukosis virus (ALV-J) infection	liver and bone marrow tissues	subgroup J avian leukosis virus (ALV-J) infection	upregulated	28190219
+185	Chicken	gga-miR-122	miRNA	arsenite	arseniasis	chicken liver tissues and primary chicken liver cells (PCLCs)	arsenic (As) exposure	upregulated	31546213
+186	Chicken	gga-miR-1306-5p	miRNA	lipopolysaccharide (LPS)	immune response	HD11 cells	lipopolysaccharide (LPS) treatment	upregulated	31338187
+187	Chicken	gga-miR-1306-5p	miRNA	Salmonella enteritidis (SE)	immune response	"spleen, caecum, cecal tonsil, and bursa fabricius tissues"	Salmonella enteritidis (SE) infection treatment	upregulated	31338187
+188	Chicken	gga-miR-130b-3p	miRNA	infectious bursal disease virus (IBDV)	infectious bursal disease virus (IBDV) infection	DF-1 cells	infect with IBDV	upregulated	29046449
+189	Chicken	gga-mir-133	miRNA	brain-derived neurotrophic factor (BDNF)	retinocollicular/tectal map formation	retinal ganglion cell (RGC)	brain-derived neurotrophic factor (BDNF) treatment	upregulated	24431456
+190	Chicken	gga-miR-138	miRNA	high temperature	high-temperature stress	chicks	heat challenge of 10-day-old previously high-temperature-conditioned chicks treatment	downregulated	25086319
+191	Chicken	gga-miR-140*	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen and lymphocytes	Marek's disease virus (MDV) infection	downregulated	23226446
+192	Chicken	gga-miR-146a	miRNA	lipid associated membrane proteins (LAMP)	inflammation	chicken tracheal epithelial cells (TEC)	LAMP treatment	upregulated	25401327
+193	Chicken	gga-miR-146c	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen and lymphocytes	Marek's disease virus (MDV) infection	upregulated	23226446
+194	Chicken	gga-miR-148a-3p	miRNA	ammonia (NH3)	necroptosis	Broiler chicken trachea tissues	ammonia (NH3) treatment	upregulated	31791863
+195	Chicken	gga-miR-148a-3p	miRNA	ammonia (NH3)	respiratory system injury	chicken trachea	ammonia (NH3) treatment	lncRNA-107053293 regulated necroptosis by acting as a competing endogenous RNA of miR-148a-3p.	31791863
+196	Chicken	gga-miR-15	miRNA	NaHS	respiratory toxicity	LMH cells; tracheal tissues	NaHS stimulation	LncRNA3037 is downregulated and miR-15a is upregulated in tracheal tissue and LMH cells under H 2S exposure.	31683218
+197	Chicken	gga-miR-155	miRNA	reticuloendotheliosis virus (REV)	hepatocellular carcinoma (HCC)	chicken B-cell lymphomas	reticuloendotheliosis virus strain T (REV-T) infection treatment	reticuloendotheliosis virus strain T (REV-T) upregulates miR-155 in chicken embryo fibroblasts	19759154
+198	Chicken	gga-miR-155	miRNA	lipopolysaccharide (LPS)	liver necroptosis	liver tissues	lipopolysaccharide (LPS) treatment	"Compared with the C group and Se group, the expression level of miR-155 and TRAF3 in the LPS group was upregulated."	33151563
+199	Chicken	gga-miR-155	miRNA	polychlorinated biphenyls (PCBs)	polychlorinated biphenyls (PCBs) toxicity	primary chicken fibroblasts	PCBs (Arochlor-1250) treatment	"A significant downregulated of miR-155 and NF-kB was found in both groups exposed to A1250, regardless of being stimulated with Poly I:C or not, when compared to the virus stimulated group only"	29380441
+200	Chicken	gga-miR-155	miRNA	reticuloendotheliosis virus (REV)	reticuloendotheliosis virus (REV) infection	chicken embryo fibroblasts (CEFs)	Reticuloendotheliosis virus (REV) treatment	miR-155 in CEFs after REV infection was upregulated in a time- and dose-dependent manner	32122614
+201	Chicken	gga-miR-155	miRNA	reticuloendotheliosis virus (REV)	rev-T infection	primary chicken spleen and bone marrow cells	infect with Rev-T treatment	upregulated	28113043
+202	Chicken	gga-mir-1551	miRNA	high temperature	heat stress	embryonic hearts	32 ¡ãC high temperatures treated maternal	upregulated	31466753
+203	Chicken	gga-miR-1551	miRNA	manganese (Mn)	heat stress	embryonic hearts	manganese (Mn) feed	downregulated	31466753
+204	Chicken	gga-miR-1586	miRNA	IFN-¦Ã	macrophage differentiation and activation	peripheral blood derived monocytes	IFN¦Ã treatment	dysregulated	27897122
+205	Chicken	gga-miR-1594	miRNA	selenium (Se)	selenium (Se)-deficient cardiomyocytes injury	?chicken heart tissues	Selenium deficiency treatment	"TNNT2 suppression induced cardiac calcium overload in vivo and in vitro miR-1594 activates cardiac calcium overload by targeting TNNT2 Moreover, lnc-3215 regulates miR-1594, and thus influences the TNNT2 expression in vivo and in vitro"	31479920
+206	Chicken	gga-miR-1594	miRNA	selenium (Se)	selenium (Se)-deficient cardiomyocytes injury	cardiomyocytes cells	Selenium deficiency treatment	"TNNT2 suppression induced cardiac calcium overload in vivo and in vitro miR-1594 activates cardiac calcium overload by targeting TNNT2 Moreover, lnc-3215 regulates miR-1594, and thus influences the TNNT2 expression in vivo and in vitro"	31479920
+207	Chicken	gga-miR-15a	miRNA	hypoxia	adaptation to hypoxia	chicks embryonic lung tissue	were incubated in low oxygen (hypoxia) treatment	upregulated	24887070
+208	Chicken	gga-miR-15a	miRNA	hydrogen sulfide (H2S)	respiratory toxicity	tracheal tissue	H2S?exposure	H2S exposure mediates apoptosis and necroptosis through lncRNA3037/miR-15/A20-BCL2.	31683218
+209	Chicken	gga-miR-15b	miRNA	Marek's disease virus (MDV)	lymphoma	splenic tumor cells	Marek's disease virus infection	downregulated	22178800
+210	Chicken	gga-miR-1610	miRNA	IFN-¦Ã	macrophage differentiation and activation	peripheral blood derived monocytes	IFN¦Ã treatment	dysregulated	27897122
+211	Chicken	gga-miR-1618	miRNA	IFN-¦Ã	macrophage differentiation and activation	peripheral blood derived monocytes	IFN¦Ã treatment	dysregulated	27897122
+212	Chicken	gga-miR-1627	miRNA	IFN-¦Ã	macrophage differentiation and activation	peripheral blood derived monocytes	IFN¦Ã treatment	dysregulated	27897122
+213	Chicken	gga-miR-1633	miRNA	IFN-¦Ã	macrophage differentiation and activation	peripheral blood derived monocytes	IFN¦Ã treatment	dysregulated	27897122
+214	Chicken	gga-miR-1646	miRNA	IFN-¦Ã	macrophage differentiation and activation	peripheral blood derived monocytes	IFN¦Ã treatment	dysregulated	27897122
+215	Chicken	gga-miR-1647	miRNA	IFN-¦Ã	macrophage differentiation and activation	peripheral blood derived monocytes	IFN¦Ã treatment	dysregulated	27897122
+216	Chicken	gga-miR-1649	miRNA	IFN-¦Ã	macrophage differentiation and activation	peripheral blood derived monocytes	IFN¦Ã treatment	dysregulated	27897122
+217	Chicken	gga-miR-16-5p	miRNA	lead (Pb)	lead (Pb) toxicity	neutrophils	lead (Pb) treatment	Pb up-regulates miR-16-5p and leads to the subsequent downregulated of the target genes phosphoinositide-3-kinase regulatory subunit 1 (PiK3R1).	31918102
+218	Chicken	gga-miR-16-5p	miRNA	hydrogen sulfide (H2S)	neutrophil extracellular traps (NETs) generation	neutrophil	hydrogen sulfide (H2S) treatment	H2S upregulated miR-16-5p.	32155482
+219	Chicken	gga-miR-16-5p	miRNA	lipopolysaccharide (LPS)	tracheal injury	tracheal	lipopolysaccharide (LPS) treatment	upregulated	32125337
+220	Chicken	gga-miR181a	miRNA	forskolin (FSK)	endothelial cell migration and angiogenesis	chicken auditory epithelium	Forskolin treatment	upregulated	20634979
+221	Chicken	gga-miR-181a	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen and lymphocytes	Marek's disease virus (MDV) infection	downregulated	23226446
+222	Chicken	gga-miR-181a	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	"MD lymphoma cell line, MSB1"	Marek's disease virus (MDV) treatment	downregulated	26500265
+223	Chicken	gga-miR-194	miRNA	¦Á-melanocyte-stimulating hormone (¦Á-MSH)	blinding ischemic retinopathies	retina	¦Á-melanocyte-stimulating hormone (¦Á-MSH) treatment	downregulated	26507936
+224	Chicken	gga-miR-199*	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen and lymphocytes	Marek's disease virus (MDV) infection	downregulated	23226446
+225	Chicken	gga-miR-205a	miRNA	ammonia (NH3)	intestinal toxicity	jejunum	ammonia (NH3) treatment	Cooperative application of transcriptomics and ceRNA hypothesis: LncRNA-107052630/miR-205a/G0S2 crosstalk is involved in ammonia-induced intestinal apoptotic injury in chicken	32334290
+226	Chicken	gga-miR-215-5p	miRNA	selenium (Se)	myocardial differentiation and development	myocardial tissues and primary cardiomyocyte cultures	Selenium (Se) deficiency treatment	upregulated	30565618
+227	Chicken	gga-miR-216	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen and intestinal intraepithelial lymphocytes (IEL) from 2 inbred chicken lines	host response to pathogen challenge treatment	upregulated	24879688
+228	Chicken	gga-miR-221	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen and lymphocytes	Marek's disease virus (MDV) infection	downregulated	23226446
+229	Chicken	gga-miR-222	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen and lymphocytes	Marek's disease virus (MDV) infection	downregulated	23226446
+230	Chicken	gga-miR-26a	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleen and lymphocytes	Marek's disease virus (MDV) infection	downregulated	23226446
+231	Chicken	gga-miR-26a	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	spleens of chickens MDV-infected spleens at cytolytic infection	MDV-infected treatment	downregulated	24795301
+232	Chicken	gga-miR-29a-3p	miRNA	selenium (Se)	hepatocellular carcinoma (HCC)	chicken hepatocellular carcinoma cell line (LMH)	Selenium (Se) treatment	miR-29a-3p in LMH cells was decreased by Se supplementation	32039426
+233	Chicken	gga-mir-33	miRNA	cadmium (Cd)	ion homeostasis	chickens chicken spleen	"cadmium chloride (CdCl2, 10 mg/kg) was administered in the diet of chickens for 90 days"	downregulated in	29223809
+234	Chicken	gga-mir-33-5q	miRNA	cadmium (Cd)	cadmium-induced toxicity	spleen tissues	cadmium (Cd) treatment	Cd exposure suppressed miR-33-5q.	29223809
+235	Chicken	gga-miR-34b-5p	miRNA	avian leukosis virus (ALV-J)	avian leukosis virus subgroup J (ALV-J) infection	chicken spleens	avian leukosis virus subgroup J (ALV-J) infection	upregulated	28194372
+236	Chicken	gga-mir-34c	miRNA	high temperature	heat stress	embryonic hearts	32 ¡ãC high temperatures treated maternal	upregulated	31466753
+237	Chicken	gga-miR-34c	miRNA	manganese (Mn)	heat stress	embryonic hearts	manganese (Mn) feed	downregulated	31466753
+238	Chicken	gga-miR-375	miRNA	avian leukosis virus (ALV-J)	avian leukosis virus subgroup J (ALV-J) infection	DF-1 cell line	avian leukosis virus subgroup J (ALV-J) infection	downregulated	24694742
+239	Chicken	gga-miR-375	miRNA	avian leukosis virus (ALV-J)	avian leukosis virus subgroup J (ALV-J) infection	DF-1 cells	avian leukosis virus (ALV-J) inhection	gga-miR-375 was downregulated by ALV-J infection.	32537011
+240	Chicken	gga-miR-375	miRNA	avian leukosis virus (ALV-J)	hepatocellular carcinoma (HCC)	liver tumors of chickens	avian leukosis virus subgroup J (ALV-J) infection	gga-miR-375 was downregulated in the liver tumors of chickens infected with avian leukosis virus subgroup J (ALV-J).	30608205
+241	Chicken	gga-miR-451	miRNA	mycoplasma gallisepticum (MG)	chronic respiratory disease (CRD)	chicken type II pneumocytes (CP-II)	Mycoplasma gallisepticum (MG) treatment	"exosomes from MG-infected CP-II cells alter the dynamics of the DF-1 cells, and may contribute to pathology of the MG infection via exosomal gga-miR-451 targeting YWHAZ involving in inflammation."	32307881
+242	Chicken	gga-mir-548s	miRNA	daidzein (DA)	immune response	chicken liver tissues	daidzein (DA) treatment	downregulated	31057556
+243	Chicken	gga-miR-6615-5p	miRNA	ammonia (NH3)	ammonia (NH3) toxicity	broiler	ammonia (NH3) treatment	"After NH3 exposure, miR-6615-5p expression was elevated."	33142454
+244	Chicken	gga-miR-M11-5p	miRNA	gallid alphaherpesvirus 2 (GaHV2)	Marek's disease (MD)	chickens	infect with GaHV2	downregulated	28510513
+245	Chicken	gga-miR-M4-5p	miRNA	Marek's disease virus (MDV)	Marek's disease (MD)	chicken embryo fibroblast (CEF)	marek's disease virus serotype 1 (MDV-1) treatment	"In lymphoblastoid cell lines derived from MDV-induced T-cell lymphomas, miR-M4-5p has been shown to be highly expressed."	33191002
+246	Chicken	gga-miR-155	miRNA	methionine selenium	necroptosis	chicken liver tissues	methionine selenium treatment	"The current results suggested that methionine selenium antagonizes oxidative stress, inflammation, and the MAPK pathway, thereby antagonizing the occurrence of necroptosis through multiple mechanisms. At the same time, methionine selenium affects miR-155/TRAF3/MAPK signaling, reduces miR-155 expression, and upregulates TRAF3 expression to inhibit necroptosis."	33151563
+247	Citrus	cj-miR152	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	upregulated	28165059
+248	Citrus	cj-miR156b	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	upregulated	28165059
+249	Citrus	cj-miR197	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	downregulated	28165059
+250	Citrus	cj-miR203	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	upregulated	28165059
+251	Citrus	cj-miR219	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	upregulated	28165059
+252	Citrus	cj-miR3946	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	downregulated	28165059
+253	Citrus	cj-miR3951	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	downregulated	28165059
+254	Citrus	cj-miR395a	miRNA	boron	boron toxicity	11-week-old citrus seedlings	boron treatment	upregulated	26962011
+255	Citrus	cj-miR397a	miRNA	boron	boron toxicity	11-week-old citrus seedlings	boron treatment	upregulated	26962011
+256	Citrus	cj-miR408	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	upregulated	28165059
+257	Citrus	cj-miR472	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	upregulated	28165059
+258	Citrus	cj-miR482b	miRNA	dehydration and salt	drought and salinity stresses	citrus roots	subjected to dehydration and salt treatment	upregulated	28165059
+259	Common carp	ccr-miR-155	miRNA	lead (Pb)	inflammation	head kidney tissues	Lead (Pb) poisoning	upregulated	32781208
+260	Common carp	ccr-miR-122	miRNA	cadmium (Cd)	toxicity of cadmium (Cd)	head kidney	cadmium (Cd) treatment	downregulated	31951951
+261	Common carp	ccr-miR-144	miRNA	vibrio harveyi and lipopolysaccharide (LPS)	teleost inflammatory responses	miiuy croaker macrophages	vibrio harveyi and lipopolysaccharide (LPS) treatment	upregulated	32815068
+262	Common carp	ccr-miR-146a	miRNA	selenium (Se)	inflammation	head kidney of carp	Selenium (Se) deficiency treatment	downregulated	31125664
+263	Common carp	ccr-miR-148a	miRNA	simvastatin	detoxification-related metabolism	Mugilogobius abei	Simvastatin treatment	upregulated	30240922
+264	Common carp	ccr-miR-155	miRNA	cadmium (Cd)	immunotoxicity	Cyprinus carpio (C. carpio) kidneys	cadmium (Cd) treatment	upregulated	31693945
+265	Common carp	ccr-miR-181-5p	miRNA	atrazine (2-chloro-4-ethylamino-6-isopropylamino-s-triazine; ATR)	inflammation	carp lymphocytes	atrazine (ATR)?exposure	downregulated	31580934
+266	Common carp	ccr-miR-181a	miRNA	cadmium (Cd)	immunotoxicity	Cyprinus carpio (C. carpio) kidneys	cadmium (Cd) treatment	upregulated	31693945
+267	Common carp	ccr-miR-193a-3p	miRNA	cadmium (Cd)	toxicity of cadmium (Cd)	head kidney	cadmium (Cd) treatment	downregulated	31951951
+268	Common carp	ccr-miR-21	miRNA	lipopolysaccharide (LPS)	bacterial infection	"miiuy croaker liver, spleen, macrophage"	lipopolysaccharide (LPS) treatment	upregulated	31379828
+269	Common carp	ccr-miR-216a	miRNA	cadmium (Cd)	cadmium-induced toxicity	splenic lymphocytes	cadmium (Cd) treatment	upregulated	32563067
+270	Common carp	ccr-miR-217	miRNA	vibrio harveyi and lipopolysaccharide (LPS)	teleost inflammatory responses	miiuy croaker macrophages	vibrio harveyi and lipopolysaccharide (LPS) treatment	upregulated	32815068
+271	Common carp	ccr-miR-2188-3p	miRNA	chlorpyrifos (CPF)	head kidney injury in common carp	head kidney of common carp	chlorpyrifos (CPF) exposure	downregulated	31479757
+272	Common carp	ccr-miR-27a-5p	miRNA	cadmium (Cd)	toxicity of cadmium (Cd)	head kidney	cadmium (Cd) treatment	upregulated	31951951
+273	Common carp	ccr-miR-27b-3p	miRNA	bisphenol A (BPA)	Bisphenol A (BPA) toxicity	spleen lymphocytes	bisphenol A (BPA) treatment	"BPA exposure can target up regulate CYP1B1 expression by down regulating miR-27b-3p expression, thus causing oxidative stress and inducing apoptosis of carp spleen lymphocytes through mitochondrial pathway."	32430284
+274	Common carp	ccr-miR-31-12-5p	miRNA	cadmium (Cd)	cadmium-induced toxicity	spleens	cadmium (Cd) treatment	downregulated	32070891
+275	Common carp	ccr-miR-375-4-3p	miRNA	cadmium (Cd)	cadmium-induced toxicity	spleens	cadmium (Cd) treatment	upregulated	32070891
+276	Common carp	ccr-miR-6	miRNA	cadmium (Cd)	toxicity of cadmium (Cd)	head kidney	cadmium (Cd) treatment	downregulated	31951951
+277	Common carp	ccr-miR-731	miRNA	chlorpyrifos (CPF)	head kidney injury in common carp	head kidney of common carp	chlorpyrifos (CPF) exposure	downregulated	31479757
+278	Common carp	ccr-miR-9-6-5p	miRNA	cadmium (Cd)	cadmium-induced toxicity	spleens	cadmium (Cd) treatment	downregulated	32070891
+279	Coregonus lavaretus	cla-miR-122-5p	miRNA	microcystin-leucine arginine (MC-LR)	liver damage	liver tissues	microcystin-LR treatment	upregulated	26345281
+280	Coregonus lavaretus	cla-let-7c	miRNA	microcystin-leucine arginine (MC-LR)	cyanobacterial hepatotoxin microcystin-LR (MC-LR) toxicity	liver tissues	microcystin-LR (MC-LR) treatment	upregulated	22819808
+281	Coregonus lavaretus	cla-miR-122	miRNA	microcystin-leucine arginine (MC-LR)	cyanobacterial hepatotoxin microcystin-LR (MC-LR) toxicity	liver tissues	microcystin-LR (MC-LR) treatment	upregulated	22819808
+282	Coregonus lavaretus	cla-miR-16a	miRNA	microcystin-leucine arginine (MC-LR)	cyanobacterial hepatotoxin microcystin-LR (MC-LR) toxicity	liver tissues	microcystin-LR (MC-LR) treatment	upregulated	22819808
+283	Coregonus lavaretus	cla-miR-21a	miRNA	microcystin-leucine arginine (MC-LR)	cyanobacterial hepatotoxin microcystin-LR (MC-LR) toxicity	liver tissues	microcystin-LR (MC-LR) treatment	upregulated	22819808
+284	Coregonus lavaretus	cla-miR-34a	miRNA	microcystin-leucine arginine (MC-LR)	cyanobacterial hepatotoxin microcystin-LR (MC-LR) toxicity	liver tissues	microcystin-LR (MC-LR) treatment	upregulated	22819808
+285	Coregonus lavaretus	cla-miR-9b	miRNA	microcystin-leucine arginine (MC-LR)	cyanobacterial hepatotoxin microcystin-LR (MC-LR) toxicity	liver tissues	microcystin-LR (MC-LR) treatment	upregulated	22819808
+286	Cotton	ghr-miR-156	miRNA	high-temperature (HT)	male sterility	anthers of HT-insensitive (84021)	HT stress	downregulated	28635129
+287	Cotton	ghr-miR-156	miRNA	high-temperature (HT)	male sterility	anthers of HT-sensitive (H05) cotton cultivars	HT stress	dysregulated	28635129
+288	Cotton	ghr-miR-160	miRNA	high-temperature (HT)	male sterility	anthers of HT-insensitive (84021)	HT stress	downregulated	28635129
+289	Cotton	ghr-miR-160	miRNA	high-temperature (HT)	male sterility	anthers of HT-sensitive (H05) cotton cultivars	HT stress	dysregulated	28635129
+290	Cotton	ghr-miR414c	miRNA	Salinity	plant salinity tolerance	cotton cv. SF06 plants	Salinity stress induce treatment	downregulated	30676211
+291	Crab-eating macaque	cad-miR-125b	miRNA	formaldehyde	apoptosis	nasal epithelium	Formaldehyde treatment	upregulated	23322811
+292	Crab-eating macaque	cad-miR-142-3p	miRNA	formaldehyde	apoptosis	nasal epithelium	Formaldehyde treatment	downregulated	23322811
+293	Crab-eating macaque	cad-miR-1228	miRNA	ethylene glycol monomethyl ether (EGME)	testicular toxicity	testis	ethylene glycol monomethyl ether (EGME) treatment	upregulated	25972197
+294	Crab-eating macaque	cad-miR-2861	miRNA	ethylene glycol monomethyl ether (EGME)	testicular toxicity	testis	ethylene glycol monomethyl ether (EGME) treatment	upregulated	25972197
+295	Crassostrea gigas	cgi-miR-365	miRNA	norepinephrine (NE)	against intertidal stress	Oyster Crassostrea gigas during desiccation	norepinephrine treatment	upregulated	28286314
+296	Crassostrea gigas	cgi-miR-92d	miRNA	lipopolysaccharide (LPS)	inflammation	oyster Crassostrea gigas	lipopolysaccharide (LPS) treatment	upregulated	27346152
+297	Creeping bentgrass	ast-miR396	miRNA	long-day (LD) photoperiod and vernalization	flower development	creeping bentgrass (Agrostis stolonifera L.)	long-day (LD) photoperiod and vernalization	Gene expression analysis reveals that miR396 is induced by long-day (LD) photoperiod and vernalization.	33328434
+298	Cucumber	csa-miR172c	miRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	upregulated	31125116
+299	Cucumber	csa-miR261	miRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	downregulated	31125116
+300	Cucumber	csa-miR6196	miRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	upregulated	31125116
+301	Cucumber	csa-miR8597	miRNA	high temperature	effects of high-temperature on Cucumis sativus L.	cucumber	high-temperature	downregulated	31125116
+302	Dog	cfa-miR-122	miRNA	NP260	hepatotoxicity	dogs	NP260 treatment	upregulated	24699182
+303	Dog	cfa-miR-107	miRNA	calorie restriction (CR)	obesity	overweight pet dogs	calorie restriction (CR) treatment	"downregulated (miR-23 , miR-107) and upregulation (miR-21) in muscle biopsies"	26701817
+304	Dog	cfa-miR-143	miRNA	canine influenza virus (CIV) H3N2	apoptosis	canine kidney (MDCK) cells	infect with CIV H3N2	upregulated	29186842
+305	Dog	cfa-miR-15b	miRNA	gentamicin	acute kidney injury (AKI)	Urine	gentamicin treatment	downregulated	33290828
+306	Dog	cfa-miR-15b-3p	miRNA	gentamicin	acute kidney injury (AKI)	Urine	gentamicin treatment	downregulated	33290828
+307	Dog	cfa-miR-16	miRNA	gentamicin	acute kidney injury (AKI)	Urine	gentamicin treatment	downregulated	33290828
+308	Dog	cfa-miR-21	miRNA	calorie restriction (CR)	obesity	overweight pet dogs	calorie restriction (CR) treatment	"downregulated (miR-23 , miR-107) and upregulation (miR-21) in muscle biopsies"	26701817
+309	Dog	cfa-miR-23	miRNA	calorie restriction (CR)	obesity	overweight pet dogs	calorie restriction (CR) treatment	"downregulated (miR-23 , miR-107) and upregulation (miR-21) in muscle biopsies"	26701817
+310	Dog	cfa-miR-26a	miRNA	influenza A virus (IAV)	influenza A virus (IAV) infection	Madin-Darby canine kidney cell line MDCK	influenza A virus(IAV) infection	downregulated	28674773
+311	Dog	cfa-miR-30a	miRNA	gentamicin	acute kidney injury (AKI)	Urine	gentamicin treatment	upregulated	33290828
+312	Dog	cfa-miR-30a-3p	miRNA	gentamicin	acute kidney injury (AKI)	Urine	gentamicin treatment	upregulated	33290828
+313	Dog	cfa-miR-30c-2-3p	miRNA	gentamicin	acute kidney injury (AKI)	Urine	gentamicin treatment	upregulated	33290828
+314	Dog	cfa-miR-192	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	upregulated	26081562
+315	Dog	cfa-miR-21	miRNA	matrix metalloproteinases inhibitor (MMPi)	fibrodysplasia (FD)	cervical subcutaneous tissue	MMP-inhibitor (MMPi) treatment	miR-21 expression in the cervical subcutaneous tissue was a sensitive and specific biomarker of FD incidence	23688202
+316	Dog	cfa-miR-210	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	downregulated	26081562
+317	Dog	cfa-miR-212	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	downregulated	26081562
+318	Dog	cfa-miR-216a	miRNA	cerulein	acute pancreatic injury	pancreas	cerulein treatment	upregulated	30301227
+319	Dog	cfa-miR-219-5p	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	downregulated	26081562
+320	Dog	cfa-miR-22	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	upregulated	26081562
+321	Dog	cfa-miR-338	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	downregulated	26081562
+322	Dog	cfa-miR-34a	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	upregulated	26081562
+323	Dog	cfa-miR-34a*	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	upregulated	26081562
+324	Dog	cfa-miR-34c	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	upregulated	26081562
+325	Dog	cfa-miR-375	miRNA	cerulein	acute pancreatic injury	pancreas	cerulein treatment	upregulated	30301227
+326	Dog	cfa-miR-503	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	downregulated	26081562
+327	Dog	cfa-miR-505*	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	downregulated	26081562
+328	Dog	cfa-miR-877	miRNA	X-rays	injury in retinal ganglion	retinal ganglion cell line (RGC-5 cells)	X-rays treatment	upregulated	26081562
+329	Domestic guinea pig	ssc-miR-1	miRNA	arsenic trioxide (ATO)	acute promyelocytic leukemia (APL)	the heart of guinea pig	arsenic trioxide (As2O3) treatment	upregulated	22889704
+330	Domestic guinea pig	ssc-miR-103-2	miRNA	uterine artery ablation	low birth weight (LBW)	guinea pig	uterine artery ablation and fed a control diet from weaning to 145 days treatment	upregulated	24926663
+331	Domestic guinea pig	ssc-miR-133	miRNA	arsenic trioxide (ATO)	acute promyelocytic leukemia (APL)	the heart of guinea pig	arsenic trioxide (As2O3) treatment	upregulated	22889704
+332	Domestic guinea pig	ssc-miR-24	miRNA	uterine artery ablation	low birth weight (LBW)	guinea pig	uterine artery ablation and fed a control diet from weaning to 145 days treatment	upregulated	24926663
+333	Domestic silkworm	bmo-miR-275	miRNA	20-hydroxyecdysone (20-HE)	insects development	BmE cells	20-Hydroxyecdysone (20-HE) treatment	upregulated	32482109
+334	Domestic silkworm	bmo-miR-305	miRNA	20-hydroxyecdysone (20-HE)	insects development	BmE cells	20-Hydroxyecdysone (20-HE) treatment	upregulated	32482109
+335	Eutrema salsugineum	esa-miR165	miRNA	red light (RL)	effects of red light (RL) on plants	eutrema salsugineum	red light (RL) treatment	downregulated	33301852
+336	Eutrema salsugineum	esa-miR395	miRNA	red light (RL)	effects of red light (RL) on plants	eutrema salsugineum	red light (RL) treatment	downregulated	33301852
+337	Eutrema salsugineum	esa-miR408	miRNA	red light (RL)	effects of red light (RL) on plants	eutrema salsugineum	red light (RL) treatment	downregulated	33301852
+338	Fruit fly	dme-miR-12	miRNA	wolbachia	wolbachia infection	testes tissues	Wolbachia infection treatment	upregulated	31491378
+339	Fruit fly	dme-miR-8-5p	miRNA	drosophila C virus (DCV)	drosophila C virus (DCV) infection	drosophila S2 cells	Drosophila C virus (DCV) treatment	downregulated	28691661
+340	Fruit fly	dme-miR-956-3p	miRNA	drosophila C virus (DCV)	drosophila C virus (DCV) infection	Fly	Drosophila C virus (DCV) treatment	upregulated	27960110
+341	Fruit fly	dme-miR-956-3p	miRNA	drosophila C virus (DCV)	drosophila C virus (DCV) infection	Drosophila S2 cells	Drosophila C virus (DCV) treatment	"Comparison of the miRNA expression profiles in DCV-infected and uninfected Fly showed altered miRNA levels due to DCV infection, with the largest change in abundance observed for miR-956-3p."	27960110
+342	Fruit fly	dme-miR-1008-5p	miRNA	¦Á-synuclein (¦Á-Syn)	parkinson's disease (PD)	fly heads	¦Á-synuclein treatment	upregulated	26361355
+343	Fruit fly	dme-miR-133-3p	miRNA	¦Á-synuclein (¦Á-Syn)	parkinson's disease (PD)	fly heads	¦Á-synuclein treatment	upregulated	26361355
+344	Fruit fly	dme-miR-137-3p	miRNA	¦Á-synuclein (¦Á-Syn)	parkinson's disease (PD)	fly heads	¦Á-synuclein treatment	upregulated	26361355
+345	Fruit fly	dme-miR-13b-3p	miRNA	¦Á-synuclein (¦Á-Syn)	parkinson's disease (PD)	fly heads	¦Á-synuclein treatment	upregulated	26361355
+346	Fruit fly	dme-miR-932-5p	miRNA	¦Á-synuclein (¦Á-Syn)	parkinson's disease (PD)	fly heads	¦Á-synuclein treatment	upregulated	26361355
+347	Goat	chi-miR-1	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	NK cells	peste des petits ruminants virus (PPRV) infection treatment	PPRV infection induced TWEAK expression in goat NK cells involving post-transcription by suppressing miR-1	32038620
+348	Goat	chi-miR-1246	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	goats lung and spleen	infect with PPR treatment	dysregulated inin lung and spleen	28694795
+349	Goat	chi-miR-135b	miRNA	prolactin (PRL)	lactogenesis	goat mammary epithelial cells	Prolactin treatment	downregulated	28332185
+350	Goat	chi-miR-135b	miRNA	"prolactin,IGF-1"	lactogenesis	goat mammary gland	2.5 ¦Ìg/ml prolactin and 2.5 ¦Ìg/ml IGF-1 treatment	upregulated in the goat mammary gland	28332185
+351	Goat	chi-miR-21-3p	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	goats lung and spleen	infect with PPR treatment	dysregulated inin lung and spleen	28694795
+352	Goat	chi-miR-218	miRNA	petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	goat peripheral blood mononuclear cells (PBMCs)	petits ruminants virus (PPRV) infection treatment	downregulated	31616415
+353	Goat	chi-miR-27a-5p	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	goats lung and spleen	infect with PPR treatment	dysregulated inin lung and spleen	28694795
+354	Goat	chi-miR-3	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants virus (PPRV) infection	peripheral blood mononuclear cells (PBMCs)	peste des petits ruminants virus (PPRV) infection treatment	"We report that a novel microRNA in goat PBMCs, novel miR-3, was upregulated by PPRV to facilitate virus infection"	33504605
+355	Goat	chi-miR-320a	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	goats lung and spleen	infect with PPR treatment	dysregulated inin lung and spleen	28694795
+356	Goat	chi-miR-363	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	goats lung and spleen	infect with PPR treatment	dysregulated inin lung and spleen	28694795
+357	Goat	chi-miR-760-3p	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	goats lung and spleen	infect with PPR treatment	dysregulated inin lung and spleen	28694795
+358	Green monkey	mml-miR-30c-5p	miRNA	porcine epidemic diarrhea virus (PEDV)	porcine epidemic diarrhea virus (PEDV) infection	Vero E6 cells	Porcine epidemic diarrhea virus (PEDV) treatment	PEDV infection increased SOCS1 expression by decreasing host miR-30c-5p expression	32574254
+359	Green monkey	mml-miR-127	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	MARC145 cells	infect with PRRSV treatment	different regulation	25077995
+360	Green monkey	mml-miR-145	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	MARC145 cells	infect with PRRSV treatment	different regulation	25077995
+361	Green monkey	mml-miR-181a	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	MARC145 cells	infect with PRRSV treatment	different regulation	25077995
+362	Green monkey	mml-miR-204	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	MARC145 cells	infect with PRRSV treatment	different regulation	25077995
+363	Green monkey	mml-miR-21	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	MARC145 cells	infect with PRRSV treatment	different regulation	25077995
+364	Green monkey	mml-miR-29	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	MARC145 cells	infect with PRRSV treatment	different regulation	25077995
+365	Green monkey	mml-miR-373	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	MARC-145	infect with PRRSV treatment	upregulated	27881653
+366	Horse	eca-miR-140-3p	miRNA	metformin (Met)	horses equine metabolic syndrome	adipose-derived stromal cells isolated from equine metabolic syndrome horses (EqASCEMS)	metformin (MF) treatment	downregulated	30678275
+367	Horse	eca-miR-145-5p	miRNA	cladophora glomerata methanolic extract	chondrogenesis	equine metabolic syndrome adipose-derived mesenchymal stromal stem cells (ASCsEMS)	Cladophora glomerata methanolic extract treatment	downregulated	31847882
+368	Horse	eca-miR-145-5p	miRNA	metformin (Met)	horses equine metabolic syndrome	adipose-derived stromal cells isolated from equine metabolic syndrome horses (EqASCEMS)	metformin (MF) treatment	downregulated	30678275
+369	Horse	eca-miR-146-3p	miRNA	cladophora glomerata methanolic extract	chondrogenesis	equine metabolic syndrome adipose-derived mesenchymal stromal stem cells (ASCsEMS)	Cladophora glomerata methanolic extract treatment	downregulated	31847882
+370	Horse	eca-miR-155	miRNA	lipopolysaccharide (LPS)	endotoxemia	equine peripheral blood mononuclear cells	lipopolysaccharide (LPS) treatment	upregulated	28552958
+371	Horse	eca-miR-16-5p	miRNA	metformin (Met)	horses equine metabolic syndrome	adipose-derived stromal cells isolated from equine metabolic syndrome horses (EqASCEMS)	metformin (MF) treatment	downregulated	30678275
+372	Horse	eca-miR-21-5p	miRNA	metformin (Met)	horses equine metabolic syndrome	adipose-derived stromal cells isolated from equine metabolic syndrome horses (EqASCEMS)	metformin (MF) treatment	downregulated	30678275
+373	Horse	eca-miR-29a-3p	miRNA	metformin (Met)	horses equine metabolic syndrome	adipose-derived stromal cells isolated from equine metabolic syndrome horses (EqASCEMS)	metformin (MF) treatment	downregulated	30678275
+374	Horse	eca-miR-34a	miRNA	cladophora glomerata methanolic extract	chondrogenesis	equine metabolic syndrome adipose-derived mesenchymal stromal stem cells (ASCsEMS)	Cladophora glomerata methanolic extract treatment	downregulated	31847882
+375	Horse	eca-miR-449a	miRNA	cladophora glomerata methanolic extract	chondrogenesis	equine metabolic syndrome adipose-derived mesenchymal stromal stem cells (ASCsEMS)	Cladophora glomerata methanolic extract treatment	downregulated	31847882
+376	Horse	eca-let-7d-3p	miRNA	sprint training	training responses	thoroughbred racehorses skeletal muscle samples	sprint training treatment	dysregulated	29166903
+377	Horse	eca-let-7d-5p	miRNA	sprint training	training responses	thoroughbred racehorses skeletal muscle samples	sprint training treatment	dysregulated	29166903
+378	Horse	eca-miR-21-5p	miRNA	sprint training	training responses	thoroughbred racehorses skeletal muscle samples	sprint training treatment	dysregulated	29166903
+379	Horse	eca-miR-30b-5p	miRNA	sprint training	training responses	thoroughbred racehorses skeletal muscle samples	sprint training treatment	dysregulated	29166903
+380	Horse	eca-miR-30e-5p	miRNA	sprint training	training responses	thoroughbred racehorses skeletal muscle samples	sprint training treatment	dysregulated	29166903
+381	Human cytomegalovirus	hcmv-miR-UL112-1	miRNA	human cytomegalovirus (HCMV)	human cytomegalovirus (HCMV) infection	"human embryonic lung fibroblast cell line, MRC-5"	HCMV infection	upregulated	23402302
+382	Maize	zma-miR156f	miRNA	phosphorus (Pi)	phosphorus (Pi) starvation	maize seeds	phosphorus (P) treatment	"downregulated (miR156f, miR169h , miR396a); upregulation(miR396c, miR408) in roots and leaves"	26572939
+383	Maize	zma-miR169h	miRNA	phosphorus (Pi)	phosphorus (Pi) starvation	maize seeds	phosphorus (P) treatment	"downregulated (miR156f, miR169h , miR396a); upregulation(miR396c, miR408) in roots and leaves"	26572939
+384	Maize	zma-miR396a	miRNA	phosphorus (Pi)	phosphorus (Pi) starvation	maize seeds	phosphorus (P) treatment	"downregulated (miR156f, miR169h , miR396a); upregulation(miR396c, miR408) in roots and leaves"	26572939
+385	Maize	zma-miR396c	miRNA	phosphorus (Pi)	phosphorus (Pi) starvation	maize seeds	phosphorus (P) treatment	"downregulated (miR156f, miR169h , miR396a); upregulation(miR396c, miR408) in roots and leaves"	26572939
+386	Maize	zma-miR408	miRNA	phosphorus (Pi)	phosphorus (Pi) starvation	maize seeds	phosphorus (P) treatment	"downregulated (miR156f, miR169h , miR396a); upregulation(miR396c, miR408) in roots and leaves"	26572939
+387	Malus hupehensis	Mh-miR168a	miRNA	botryosphaeria dothidea	botryosphaeria dothidea Infection	malus hupehensis	botryosphaeria dothidea infection	upregulated	28633325
+388	Malus hupehensis	Mh-miR397	miRNA	botryosphaeria dothidea	resistance of plants to pathogens	Malus hupehensis	bothrops moojeni snake venom (BmooLAAO-I) treatment	MicroRNA397b negatively regulates resistance of Malus hupehensis to Botryosphaeria dothidea by modulating MhLAC7 involved in lignin biosynthesis.	32005395
+389	Manduca sexta	mse-miR-281*	miRNA	"E. coli, M. luteus, and curdlan"	insect immunity	tobacco hornworm Manduca sexta	"E. coli, M. luteus, and curdlan was injected into day 2, 5th instar larvae treatment"	"Mse-miR-281-star, mse-miR-965-star, mse-miR-31-star, and mse-miR-9b-star were present at higher levels than their respective mature strands."	24508515
+390	Manduca sexta	mse-miR-31*	miRNA	"E. coli, M. luteus, and curdlan"	insect immunity	tobacco hornworm Manduca sexta	"E. coli, M. luteus, and curdlan was injected into day 2, 5th instar larvae treatment"	"Mse-miR-281-star, mse-miR-965-star, mse-miR-31-star, and mse-miR-9b-star were present at higher levels than their respective mature strands."	24508515
+391	Manduca sexta	mse-miR-965*	miRNA	"E. coli, M. luteus, and curdlan"	insect immunity	tobacco hornworm Manduca sexta	"E. coli, M. luteus, and curdlan was injected into day 2, 5th instar larvae treatment"	"Mse-miR-281-star, mse-miR-965-star, mse-miR-31-star, and mse-miR-9b-star were present at higher levels than their respective mature strands."	24508515
+392	Manduca sexta	mse-miR-9b*	miRNA	"E. coli, M. luteus, and curdlan"	insect immunity	tobacco hornworm Manduca sexta	"E. coli, M. luteus, and curdlan was injected into day 2, 5th instar larvae treatment"	"Mse-miR-281-star, mse-miR-965-star, mse-miR-31-star, and mse-miR-9b-star were present at higher levels than their respective mature strands."	24508515
+393	Marsupenaeus japonicus	gja-miR-100	miRNA	Vibrio alginolyticus	Vibrio alginolyticus infection	shrimp hemocytes	Vibrio alginolyticus infection for 24 h treatment	upregulated	28181552
+394	Marsupenaeus japonicus	gja-miR-100	miRNA	white spot syndrome virus (WSSV)	white spot syndrome virus (WSSV) infection	shrimp hemocytes	WSSV infection for 24 h treatment	upregulated	28181552
+395	Marsupenaeus japonicus	gja-miR-S5	miRNA	Vibrio alginolyticus	Vibrio alginolyticus infection	shrimp hemocytes	Vibrio alginolyticus infection	upregulated	28986214
+396	Marsupenaeus japonicus	gja-miR-S5	miRNA	white spot syndrome virus (WSSV)	white spot syndrome virus (WSSV) infection	shrimp hemocytes	WSSV infection	upregulated	28986214
+397	Megalobrama amblycephala	mam-miR-145	miRNA	high fat diet (HFD)	hepatic steatosis	fish	high fat diet (HFD) feed	downregulated	24788396
+398	Megalobrama amblycephala	mam-miR-15a-5p	miRNA	high fat diet (HFD)	hepatic steatosis	fish	high fat diet (HFD) feed	downregulated	24788396
+399	Megalobrama amblycephala	mam-miR-30c	miRNA	high fat diet (HFD)	hepatic steatosis	fish	high fat diet (HFD) feed	upregulated	24788396
+400	Megalobrama amblycephala	mam-miR-30e-3p	miRNA	high fat diet (HFD)	hepatic steatosis	fish	high fat diet (HFD) feed	upregulated	24788396
+401	Mi-iuy croaker	mmi-miR-3570	miRNA	rhabdovirus	host antiviral defense	miiuy croaker macrophages	rhabdovirus treatment	rhabdovirus infection significantly upregulated host miR-3570 expression in miiuy croaker macrophages.	29093090
+402	Mi-iuy croaker	mmi-miR-148	miRNA	lipopolysaccharide (LPS)	inflammation	miiuy croaker liver and spleen	LPS treatment	upregulated	28646187
+403	Mi-iuy croaker	mmi-miR-216a	miRNA	vibrio anguillarum	inflammation	spleen; kidney	Vibrio anguillarum infection	upregulated	29632247
+404	Mi-iuy croaker	mmi-miR-3570	miRNA	vibrio anguillarum	Vibrio anguillarum infection	miiuy croakers liver samples	challenged i.p. with 1 ml of V. anguillarum (1.5 3 108 CFU/ml) treatment	upregulated in liver samples	28250156
+405	Mi-iuy croaker	mmi-miR-21	miRNA	vibrio anguillarum	bacterial infection	"miiuy croaker liver, spleen"	Vibrio anguillarum infection treatment	upregulated	31379828
+406	Mi-iuy croaker	mmi-miR-216a	miRNA	lipopolysaccharide (LPS)	inflammation	spleen; kidney; macrophages	lipopolysaccharide (LPS) treatment	upregulated	29632247
+407	Mi-iuy croaker	mmi-mir-217-5p	miRNA	lipopolysaccharide (LPS)	inflammation	macrophage isolated from the head kidneys of juvenile miiuy croakers	lipopolysaccharide (LPS) treatment	upregulated	27832948
+408	Mi-iuy croaker	mmi-miR-217-5p	miRNA	lipopolysaccharide (LPS)	innate immune response	macrophage	lipopolysaccharide (LPS) treatment	upregulated	27832948
+409	Mi-iuy croaker	mmi-mir-8159-5p	miRNA	lipopolysaccharide (LPS)	inflammation	macrophage isolated from the head kidneys of juvenile miiuy croakers	lipopolysaccharide (LPS) treatment	upregulated	27832948
+410	Mi-iuy croaker	mmi-miR-8159-5p	miRNA	lipopolysaccharide (LPS)	innate immune response	macrophage	lipopolysaccharide (LPS) treatment	upregulated	27832948
+411	Mongolian gerbil	mun-miR-155	miRNA	CTB-UE	H. pylori infection	CTB-UE	CTB-UE treatment	downregulated	25093281
+412	Murine cytomegalovirus	mcmv-miR-m01-4-3p	miRNA	diosbuibin B (DB)	liver damage	mouse serum	diosbuibin B (DB) treatment	upregulated	30844585
+413	Murine cytomegalovirus	mcmv-miR-m01-4-3p	miRNA	monocrotaline (MCT)	liver damage	mouse serum	monocrotaline (MCT) treatment	upregulated	30844585
+414	Murine cytomegalovirus	mcmv-miR-m01-4-3p	miRNA	toosendanin (TSN)	liver damage	mouse serum	toosendanin (TSN) treatment	upregulated	30844585
+415	Murine cytomegalovirus	mcmv-miR-m01-4-5p	miRNA	murine cytomegalovirus (MCMV)	murine cytomegalovirus (MCMV) infection	peripheral blood monocytes	murine cytomegalovirus (MCMV) infection	upregulated	33245094
+416	Murine cytomegalovirus	mcmv-miR-m01-4-5p	miRNA	murine cytomegalovirus (MCMV)	murine cytomegalovirus (MCMV) infection	thoracic aorta	murine cytomegalovirus (MCMV) infection	upregulated	33245094
+417	Murine cytomegalovirus	mcmv-miR-m01-4-5p	miRNA	murine cytomegalovirus (MCMV)	murine cytomegalovirus (MCMV) infection	cardiac tissue	murine cytomegalovirus (MCMV) infection	upregulated	33245094
+418	Murine cytomegalovirus	mcmv-miR-m88-1-3p	miRNA	murine cytomegalovirus (MCMV)	murine cytomegalovirus (MCMV) infection	cardiac tissue	murine cytomegalovirus (MCMV) infection	downregulated	33245094
+419	Nicotiana benthamiana	nbe-miR-168	miRNA	beet necrotic yellow vein virus (BNYVV)	beet necrotic yellow vein virus (BNYVV) infection	N. benthamiana	beet necrotic yellow vein virus (BNYVV) infection	upregulated	32178444
+420	Nicotiana benthamiana	nbe-miR-398	miRNA	beet necrotic yellow vein virus (BNYVV)	beet necrotic yellow vein virus (BNYVV) infection	N. benthamiana	beet necrotic yellow vein virus (BNYVV) infection	upregulated	32178444
+421	Oreochromis niloticus	oni-miR-122	miRNA	high fat diet (HFD)	fatty liver disease	liver tissues	high fat diet (HFD) feed	upregulated	30344495
+422	Oreochromis niloticus	oni-miR-127	miRNA	streptococcus iniae	streptococcus infection	peritoneal exudate macrophages (PEMs)	infect with Streptococcus iniae treatment	upregulated	28219342
+423	Oreochromis niloticus	oni-miR-145-5p	miRNA	high fat diet (HFD)	fatty liver disease	farmed tilapia liver	high fat diet (HFD) feed	dysregulated	28838655
+424	Oreochromis niloticus	oni-miR-146-3p	miRNA	streptococcus iniae	streptococcus infection	peritoneal exudate macrophages (PEMs)	infect with Streptococcus iniae treatment	downregulated	28219342
+425	Oreochromis niloticus	oni-miR-205-5p	miRNA	high fat diet (HFD)	fatty liver disease	farmed tilapia liver	high fat diet (HFD) feed	dysregulated	28838655
+426	Oreochromis niloticus	oni-miR-23a-3p	miRNA	high fat diet (HFD)	fatty liver disease	farmed tilapia liver	high fat diet (HFD) feed	dysregulated	28838655
+427	Oreochromis niloticus	oni-miR-29a	miRNA	high fat diet (HFD)	fatty liver disease	farmed tilapia liver	high fat diet (HFD) feed	dysregulated	28838655
+428	Oreochromis niloticus	oni-miR-30a-5p	miRNA	high fat diet (HFD)	fatty liver disease	farmed tilapia liver	high fat diet (HFD) feed	dysregulated	28838655
+429	Oreochromis niloticus	oni-miR-310-3p	miRNA	streptococcus iniae	streptococcus infection	peritoneal exudate macrophages (PEMs)	infect with Streptococcus iniae treatment	upregulated	28219342
+430	Oreochromis niloticus	oni-miR-34a	miRNA	high fat diet (HFD)	fatty liver disease	farmed tilapia liver	high fat diet (HFD) feed	dysregulated	28838655
+431	Oreochromis niloticus	oni-miR-375-5p	miRNA	streptococcus iniae	streptococcus infection	peritoneal exudate macrophages (PEMs)	infect with Streptococcus iniae treatment	downregulated	28219342
+432	Oreochromis niloticus	oni-miR-694	miRNA	streptococcus iniae	streptococcus infection	peritoneal exudate macrophages (PEMs)	infect with Streptococcus iniae treatment	downregulated	28219342
+433	Oreochromis niloticus	oni-miR-92	miRNA	streptococcus iniae	streptococcus infection	peritoneal exudate macrophages (PEMs)	infect with Streptococcus iniae treatment	upregulated	28219342
+434	Oreochromis niloticus	oni-miR-92d-3p	miRNA	streptococcus iniae	streptococcus infection	peritoneal exudate macrophages (PEMs)	infect with Streptococcus iniae treatment	downregulated	28219342
+435	Paralichthys olivaceus	pol-miR-3p-2	miRNA	Edwardsiella tarda	edwardsiella tarda infection	spleen tissues; liver tissues; gill tissues	Edwardsiella tarda infection	upregulated	31668931
+436	Pea	psa-miR398a	miRNA	dehydration	water deficit	pea roots and shoots	dehydration treatment	downregulated	25064597
+437	Pea	psa-miR398b	miRNA	dehydration	water deficit	pea roots and shoots	dehydration treatment	downregulated	25064597
+438	Pea	psa-miR408	miRNA	dehydration	water deficit	pea roots and shoots	dehydration treatment	downregulated	25064597
+439	Peach	ppe-miR156	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+440	Peach	ppe-miR160	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+441	Peach	ppe-miR166	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+442	Peach	ppe-miR167	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+443	Peach	ppe-miR2118	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+444	Peach	ppe-miR390	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+445	Peach	ppe-miR393	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+446	Peach	ppe-miR398	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	upregulated	29236054
+447	Peach	ppe-miR408b	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	upregulated	29236054
+448	Peach	ppe-miR482	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+449	Peach	ppe-miR535	miRNA	synthetic auxin ¦Á-naphthylacetic acid (NAA)	fruit development	mesocarp at the hard core stage following treatment of the peach (Prunus persica L.) fruit	NAA treatment	downregulated	29236054
+450	Phaseolus vulgaris	gma-miR1157	miRNA	salt	salt stress	drought-tolerant bean cv. Yakutiye and drought-sensitive bean cv. Zulbiye	"surface sterilization in a solution containing 5% (v/v) hypochlorite for 5 min, and were grown hydroponically in pots containing 0.2L of 1/10 Hoagland¡¯s solution"	dysregulated	28955602
+451	Phaseolus vulgaris	gma-miR159f-3p	miRNA	drought	drought resistance	common bean (Phaseolus vulgaris L.)	drought treatments	dysregulated	28711666
+452	Phaseolus vulgaris	gma-miR169u	miRNA	drought	drought resistance	common bean (Phaseolus vulgaris L.)	drought treatments	dysregulated	28711666
+453	Phaseolus vulgaris	gma-miR396f	miRNA	drought	drought resistance	common bean (Phaseolus vulgaris L.)	drought treatments	dysregulated	28711666
+454	Phaseolus vulgaris	gma-miR4415a-3p	miRNA	drought	drought resistance	common bean (Phaseolus vulgaris L.)	drought treatments	dysregulated	28711666
+455	Phaseolus vulgaris	gma-miR5286	miRNA	salt	salt stress	drought-tolerant bean cv. Yakutiye and drought-sensitive bean cv. Zulbiye	"surface sterilization in a solution containing 5% (v/v) hypochlorite for 5 min, and were grown hydroponically in pots containing 0.2L of 1/10 Hoagland¡¯s solution"	dysregulated	28955602
+456	Phaseolus vulgaris	gma-miR5660	miRNA	salt	salt stress	drought-tolerant bean cv. Yakutiye and drought-sensitive bean cv. Zulbiye	"surface sterilization in a solution containing 5% (v/v) hypochlorite for 5 min, and were grown hydroponically in pots containing 0.2L of 1/10 Hoagland¡¯s solution"	dysregulated	28955602
+457	Phaseolus vulgaris	gma-miR5769	miRNA	salt	salt stress	drought-tolerant bean cv. Yakutiye and drought-sensitive bean cv. Zulbiye	"surface sterilization in a solution containing 5% (v/v) hypochlorite for 5 min, and were grown hydroponically in pots containing 0.2L of 1/10 Hoagland¡¯s solution"	dysregulated	28955602
+458	Phaseolus vulgaris	gma-miR5770b	miRNA	drought	drought resistance	common bean (Phaseolus vulgaris L.)	drought treatments	dysregulated	28711666
+459	Phaseolus vulgaris	gma-miR8120	miRNA	salt	salt stress	drought-tolerant bean cv. Yakutiye and drought-sensitive bean cv. Zulbiye	"surface sterilization in a solution containing 5% (v/v) hypochlorite for 5 min, and were grown hydroponically in pots containing 0.2L of 1/10 Hoagland¡¯s solution"	dysregulated	28955602
+460	Pig	ssc-let-7b	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	innate immunity	porcine alveolar macrophages	infect with PRRSV treatment	upregulated	29387185
+461	Pig	ssc-let-7b	miRNA	respiratory syndrome virus (PRRSV)	respiratory syndrome virus (PRRSV) infection	primary porcine alveolar macrophages (PAMs)	respiratory syndrome virus (PRRSV) treatment	upregulated	29387185
+462	Pig	ssc-let-7f-5p	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	indigenous Chinese Tongcheng pigs alveolar macrophages	infect with PRRSV treatment	dysregulatedin alveolar macrophages	28971377
+463	Pig	ssc-miR-1	miRNA	conjugated linoleic acid (CLA)	lipogenesis	pigs fat tissues	1.5% CLA to the pig diet	dysregulatedin fat tissues	29027986
+464	Pig	ssc-miR-1	miRNA	sildenafil	ventricular fibrillation	cardiac	sildenafil treatment	"sildenafil treatment inhibited the increases in the microRNA-1 levels, but alleviated the decreases in the microRNA-133a levels"	26040988
+465	Pig	ssc-miR-10a-5p	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	indigenous Chinese Tongcheng pigs alveolar macrophages	infect with PRRSV treatment	dysregulatedin alveolar macrophages	28971377
+466	Pig	ssc-miR-122	miRNA	lipopolysaccharide (LPS)	gastrocnemius muscle inflammation	gastrocnemius muscle	lipopolysaccharide (LPS) treatment	downregulated	33232194
+467	Pig	ssc-miR-124	miRNA	herpes simplex virus 2 (HSV-2)	genital herpes	epithelial tissues from guinea pigs	infect with HSV2	upregulated	28962197
+468	Pig	ssc-miR-1245b-3p	miRNA	herpes simplex virus 2 (HSV-2)	genital herpes	epithelial tissues from guinea pigs	infect with HSV2	upregulated	28962197
+469	Pig	ssc-miR-1245b-5p	miRNA	herpes simplex virus 2 (HSV-2)	genital herpes	epithelial tissues from guinea pigs	infect with HSV2	upregulated	28962197
+470	Pig	ssc-miR-125b	miRNA	hyaluronan (HA)	acute cartilage injury	acute cartilage injury porcine	acute cartilage injury porcine treatment	upregulated	29986604
+471	Pig	ssc-miR-125b-5p	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	indigenous Chinese Tongcheng pigs alveolar macrophages	infect with PRRSV treatment	dysregulatedin alveolar macrophages	28971377
+472	Pig	ssc-miR-127	miRNA	3-isobutyl-1-methylxanthine (IBMX)-dexamethasone-insulin cocktail	adipogenesis	Porcine preadipocyte	3©\isobutyl©\1©\methylxanthine (IBMX)©\dexamethasone©\insulin cocktail treatment	miR-127 expression levels decreased during cell proliferation.	31206669
+473	Pig	ssc-miR-127	miRNA	insulin	adipogenesis	Porcine preadipocyte	insulin treatment	"miR©\127 levels increased in the early period (days 0¨C2) of cell differentiation, before dropping dramatically."	31206669
+474	Pig	ssc-miR-127	miRNA	cardio-pulmonary bypass (CPB)	lung injury	lung	cardiopulmonary bypass (CPB) treatment	dysregulated	25347932
+475	Pig	ssc-miR-128	miRNA	dexamethasone (DEX)	abnormal lipid accumulation	pig preadipocytes	dexamethasone (Dex) treatment	upregulated	30394333
+476	Pig	ssc-miR-128	miRNA	dexamethasone (DEX)	lipid accumulation	pig preadipocytes	dexamethasone (DEX) treatment	upregulated	30394333
+477	Pig	ssc-miR-1307	miRNA	foot-and-mouth disease virus (FMDV)	foot-and-mouth disease (FMD)	porcine kidney cell line PK-15	foot-and-mouth disease virus (FMDV) infection	upregulated	31306911
+478	Pig	ssc-miR-130a-3p	miRNA	brucella.suis	innate immune response	porcine alveolar macrophages (PAMs)	brucella.suis infection	upregulated	29387067
+479	Pig	ssc-miR-130b	miRNA	dexamethasone (DEX)	lipid accumulation	porcine preadipocytes	dexamethasone (DEX) treatment	upregulated	29152131
+480	Pig	ssc-miR-132	miRNA	lipopolysaccharide (LPS)	gastrocnemius muscle inflammation	gastrocnemius muscle	lipopolysaccharide (LPS) treatment	upregulated	33232194
+481	Pig	ssc-miR-132	miRNA	ochratoxin A (OTA)	toxic effects in renal proximal tubular epithelial cells	porcine renal proximal tubular cells	Ochratoxin A (OTA) treatment	upregulated	23281030
+482	Pig	ssc-miR-133a	miRNA	sildenafil	ventricular fibrillation	cardiac	sildenafil treatment	"sildenafil treatment inhibited the increases in the microRNA-1 levels, but alleviated the decreases in the microRNA-133a levels"	26040988
+483	Pig	ssc-miR-135a	miRNA	lipopolysaccharide (LPS)	gastrocnemius muscle inflammation	gastrocnemius muscle	lipopolysaccharide (LPS) treatment	downregulated	33232194
+484	Pig	ssc-miR-136	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	downregulated	28968594
+485	Pig	ssc-miR-140	miRNA	hyaluronan (HA)	acute cartilage injury	acute cartilage injury porcine	acute cartilage injury porcine treatment	upregulated	29986604
+486	Pig	ssc-miR-140-5p	miRNA	clostridium perfringens (C. perfringens) type C	piglet diarrhea	IPEC-J2 cells	Clostridium perfringens (C. perfringens) type C infection	ssc-miR-140-5p was significantly increased in piglets with diarrhea.	32905904
+487	Pig	ssc-miR-142-3p	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	downregulated	28968594
+488	Pig	ssc-miR-142-5p	miRNA	actinobacillus pleuropneumoniae	actinobacillus pleuropneumoniae infection	lung tissue	Actinobacillus pleuropneumoniae infection	downregulated	22953717
+489	Pig	ssc-miR-143-3p	miRNA	actinobacillus pleuropneumoniae	actinobacillus pleuropneumoniae infection	lung tissue	Actinobacillus pleuropneumoniae infection	downregulated	22953717
+490	Pig	ssc-miR-145	miRNA	lipopolysaccharide (LPS)	gastrocnemius muscle inflammation	gastrocnemius muscle	lipopolysaccharide (LPS) treatment	upregulated	33232194
+491	Pig	ssc-miR-145	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	innate immunity	porcine alveolar macrophages	infect with PRRSV treatment	upregulated	29387185
+492	Pig	ssc-miR-145	miRNA	cardio-pulmonary bypass (CPB)	lung injury	lung	cardiopulmonary bypass (CPB) treatment	dysregulated	25347932
+493	Pig	ssc-miR-145	miRNA	respiratory syndrome virus (PRRSV)	respiratory syndrome virus (PRRSV) infection	primary porcine alveolar macrophages (PAMs)	respiratory syndrome virus (PRRSV) treatment	upregulated	29387185
+494	Pig	ssc-miR-145-5p	miRNA	conjugated linoleic acid (CLA)	lipogenesis	pigs fat tissues	1.5% CLA to the pig diet	dysregulatedin fat tissues	29027986
+495	Pig	ssc-miR-146a	miRNA	hyaluronan (HA)	acute cartilage injury	acute cartilage injury porcine	acute cartilage injury porcine treatment	upregulated	29986604
+496	Pig	ssc-miR-146a	miRNA	IL-1¦Â	osteoarthritis (OA)	chondrocytes	IL-1¦Â treatment	upregulated	26505891
+497	Pig	ssc-miR-146a	miRNA	brucella.suis	innate immune response	chondrocytes	brucella.suis infection	upregulated	29387067
+498	Pig	ssc-miR-146a	miRNA	inflammatory cytokines	osteoarthritis (OA)	bone tissues	Inflammatory cytokines treatment	upregulated	26505891
+499	Pig	ssc-miR-146a-5p	miRNA	conjugated linoleic acid (CLA)	lipogenesis	pigs fat tissues	1.5% CLA to the pig diet	dysregulatedin fat tissues	29027986
+500	Pig	ssc-miR-146a-5p	miRNA	lipopolysaccharide (LPS)	skeletal muscle development and disease	weaned pig skeletal muscle	lipopolysaccharide (LPS) treatment	upregulated	26389897
+501	Pig	ssc-miR-146b	miRNA	conjugated linoleic acid (CLA)	lipogenesis	pigs fat tissues	1.5% CLA to the pig diet	dysregulatedin fat tissues	29027986
+502	Pig	ssc-miR-147	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	porcine alveolar macrophages (PAMs)	Porcine Reproductive and Respiratory Syndrome Virus (PRRSV) infection treatment	downregulated	24339989
+503	Pig	ssc-miR-148a	miRNA	actinobacillus pleuropneumoniae	actinobacillus pleuropneumoniae infection	lung tissue	Actinobacillus pleuropneumoniae infection	downregulated	22953717
+504	Pig	ssc-miR-150	miRNA	herpes simplex virus 2 (HSV-2)	genital herpes	epithelial tissues from guinea pigs	infect with HSV2	upregulated	28962197
+505	Pig	ssc-miR-150	miRNA	2-hydroxy-(4-methylthio)butanoic acid (HMB)	hyperhomocysteinemia (HHcy)	liver	2-hydroxy-(4-methylthio)butanoic acid (HMB) treatment	downregulated	27648945
+506	Pig	ssc-miR-155-5p	miRNA	"1,25-dihydroxyvitamin D 3 (calcitriol)"	innate immune response	rotavirus (RV)-infected DLY pig jejunum tissues and IPEC-J2 cells	"1,25-dihydroxyvitamin D 3 (calcitriol) treatment"	downregulated	31330869
+507	Pig	ssc-miR-155-5p	miRNA	rotavirus (RV)	innate immune response	DLY pig jejunum tissues and IPEC-J2 cells	rotavirus (RV) infection treatment	upregulated	31330869
+508	Pig	ssc-miR-17-5pi	miRNA	vacuum sealing drainage (VSD)	seawater-immersed blast-injury wounds (SIBIW)	seawater-immersed blast-injury wounds (SIBIW) pigs SIBIW granulation tissues	VSD treatment	upregulated in SIBIW granulation tissues	28450946
+509	Pig	ssc-miR-181	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	indigenous Chinese Tongcheng pigs alveolar macrophages	infect with PRRSV treatment	dysregulatedin alveolar macrophages	28971377
+510	Pig	ssc-miR-181a	miRNA	TGF-¦Â3	chondrogenesis	peripheral blood mesenchymal stem cell (PBMSCs)	TGF-¦Â3 treatment	upregulated	31938188
+511	Pig	ssc-miR-181a	miRNA	brucella.suis	innate immune response	porcine alveolar macrophages (PAMs)	brucella.suis infection	upregulated	29387067
+512	Pig	ssc-miR-181b	miRNA	brucella.suis	innate immune response	porcine alveolar macrophages (PAMs)	brucella.suis infection	upregulated	29387067
+513	Pig	ssc-miR-181d-5p	miRNA	2-hydroxy-(4-methylthio)butanoic acid (HMB)	hyperhomocysteinemia (HHcy)	liver	2-hydroxy-(4-methylthio)butanoic acid (HMB) treatment	downregulated	27648945
+514	Pig	ssc-miR-183	miRNA	lipopolysaccharide (LPS)	oxidative stress	hippocampus	lipopolysaccharide (LPS) treatment	LPS-treated piglets had lower expression of miR-183.	32165261
+515	Pig	ssc-miR-200c	miRNA	ochratoxin A (OTA)	toxic effects in renal proximal tubular epithelial cells	porcine renal proximal tubular cells	Ochratoxin A (OTA) treatment	upregulated	23281030
+516	Pig	ssc-miR-204	miRNA	cardio-pulmonary bypass (CPB)	lung injury	lung	cardiopulmonary bypass (CPB) treatment	dysregulated	25347932
+517	Pig	ssc-miR-205	miRNA	brain-derived neurotrophic factor (BDNF)	maturation of oocytes	oocytes	brain-derived neurotrophic factor (BDNF) treatment	downregulated	26838466
+518	Pig	ssc-miR-206	miRNA	conjugated linoleic acid (CLA)	lipogenesis	pigs fat tissues	1.5% CLA to the pig diet	dysregulatedin fat tissues	29027986
+519	Pig	ssc-miR-20a	miRNA	growth hormone releasing hormone (GHRH)	growth hormone (GH)?secretion regulation	Primary porcine anterior pituitary cells	were 10 nmol/L GHRH or 100 nmol/L CST treatment	downregulated	25613666
+520	Pig	ssc-miR-21	miRNA	conjugated linoleic acid (CLA)	lipogenesis	pigs fat tissues	1.5% CLA to the pig diet	dysregulatedin fat tissues	29027986
+521	Pig	ssc-miR-21	miRNA	cardio-pulmonary bypass (CPB)	lung injury	lung	cardiopulmonary bypass (CPB) treatment	dysregulated	25347932
+522	Pig	ssc-miR-21	miRNA	ochratoxin A (OTA)	ochratoxin A (OTA) nephrotoxicity	LLC-PK1 cell line2	OTA treatment	upregulated	28089712
+523	Pig	ssc-miR-22	miRNA	hyaluronan (HA)	acute cartilage injury	acute cartilage injury porcine	acute cartilage injury porcine treatment	upregulated	29986604
+524	Pig	ssc-miR-22	miRNA	transmissible gastroenteritis virus (TGEV)	transmissible gastroenteritis (TGE)	porcine intestinal epithelial cell line (IPEC-J2)	TGEV infection treatment	mPTP opening of IPEC-J2 was occured during TGEV infection and suppressed by circEZH2 via attaching miR-22	31592229
+525	Pig	ssc-miR-221-3p	miRNA	avian leukosis virus (ALV-J)	avian influenza virus (AIV) infection	porcine alveolar macrophage (PAM)	avian leukosis virus (ALV-J) inhection	downregulated	32907982
+526	Pig	ssc-miR-221-5p	miRNA	lipopolysaccharide (LPS)	skeletal muscle development and disease	weaned pig skeletal muscle	lipopolysaccharide (LPS) treatment	upregulated	26389897
+527	Pig	ssc-miR-222	miRNA	avian leukosis virus (ALV-J)	avian influenza virus (AIV) infection	porcine alveolar macrophage (PAM)	avian leukosis virus (ALV-J) inhection	downregulated	32907982
+528	Pig	ssc-miR-222	miRNA	transmissible gastroenteritis virus (TGEV)	transmissible gastroenteritis virus (TGEV) infection	PK-15 cells	Transmissible gastroenteritis virus (TGEV) infection treatment	upregulated	30257878
+529	Pig	ssc-miR-223	miRNA	selenium (Se)	vascular disease	aorta	Selenium (Se) treatment	Se deficiency in porcine arteries can induce inflammation through miR-223/NLRP3	33241567
+530	Pig	ssc-miR-224	miRNA	lipopolysaccharide (LPS)	gastrocnemius muscle inflammation	gastrocnemius muscle	lipopolysaccharide (LPS) treatment	upregulated	33232194
+531	Pig	ssc-miR-23-3p	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	indigenous Chinese Tongcheng pigs alveolar macrophages	infect with PRRSV treatment	dysregulatedin alveolar macrophages	28971377
+532	Pig	ssc-miR-24-3p	miRNA	growth hormone releasing hormone (GHRH)	growth hormone (GH)?secretion regulation	Primary porcine anterior pituitary cells	were 10 nmol/L GHRH or 100 nmol/L CST treatment	downregulated	25613666
+533	Pig	ssc-miR-26a	miRNA	growth hormone releasing hormone (GHRH)	growth hormone (GH)?secretion regulation	Primary porcine anterior pituitary cells	were 10 nmol/L GHRH or 100 nmol/L CST treatment	downregulated	25613666
+534	Pig	ssc-miR-26a	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	innate immunity	porcine alveolar macrophages	infect with PRRSV treatment	upregulated	29387185
+535	Pig	ssc-miR-26a	miRNA	respiratory syndrome virus (PRRSV)	respiratory syndrome virus (PRRSV) infection	primary porcine alveolar macrophages (PAMs)	respiratory syndrome virus (PRRSV) treatment	upregulated	29387185
+536	Pig	ssc-miR-26a-5p	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	indigenous Chinese Tongcheng pigs alveolar macrophages	infect with PRRSV treatment	dysregulatedin alveolar macrophages	28971377
+537	Pig	ssc-miR-27a	miRNA	leucine	skeletal muscle development	Porcine myoblasts	leucine treatment	downregulated	30449288
+538	Pig	ssc-miR-27b	miRNA	hyaluronan (HA)	acute cartilage injury	acute cartilage injury porcine	acute cartilage injury porcine treatment	upregulated	29986604
+539	Pig	ssc-miR-27b	miRNA	IL-1¦Â	osteoarthritis (OA)	chondrocytes	IL-1¦Â treatment	downregulated	26505891
+540	Pig	ssc-miR-27b	miRNA	inflammatory cytokines	osteoarthritis (OA)	chondrocytes	Inflammatory cytokines treatment	upregulated	26505891
+541	Pig	ssc-miR-296-3p	miRNA	2-hydroxy-(4-methylthio)butanoic acid (HMB)	hyperhomocysteinemia (HHcy)	liver	2-hydroxy-(4-methylthio)butanoic acid (HMB) treatment	downregulated	27648945
+542	Pig	ssc-miR-29c	miRNA	ochratoxin A (OTA)	ochratoxin A (OTA) nephrotoxicity	LLC-PK1 cell line2	OTA treatment	downregulated	28089712
+543	Pig	ssc-miR-301a-3p	miRNA	brucella.suis	innate immune response	porcine alveolar macrophages (PAMs)	brucella.suis infection	upregulated	29387067
+544	Pig	ssc-miR-30c	miRNA	iohexol	contrast-induced acute kidney injury (CIAKI)	kidney tissues	iohexol treatment	upregulated	32682254
+545	Pig	ssc-miR-30c-3p	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+546	Pig	ssc-miR-323	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+547	Pig	ssc-miR-338	miRNA	lipopolysaccharide (LPS)	porcine adrenal gland inflammation	adrenal gland tissues	lipopolysaccharide (LPS) treatment	Treatment with LPS alone extremely significantly decreased ssc-miR-338 levels.	32671106
+548	Pig	ssc-miR-342-5p	miRNA	herpes simplex virus 2 (HSV-2)	genital herpes	epithelial tissues from guinea pigs	infect with HSV2	upregulated	28962197
+549	Pig	ssc-miR-34a	miRNA	hyaluronan (HA)	acute cartilage injury	acute cartilage injury porcine	acute cartilage injury porcine treatment	upregulated	29986604
+550	Pig	ssc-miR-34a	miRNA	lipopolysaccharide (LPS)	gastrocnemius muscle inflammation	gastrocnemius muscle	lipopolysaccharide (LPS) treatment	upregulated	33232194
+551	Pig	ssc-miR-34a	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	innate immunity	porcine alveolar macrophages	infect with PRRSV treatment	upregulated	29387185
+552	Pig	ssc-miR-34a	miRNA	respiratory syndrome virus (PRRSV)	respiratory syndrome virus (PRRSV) infection	primary porcine alveolar macrophages (PAMs)	respiratory syndrome virus (PRRSV) treatment	upregulated	29387185
+553	Pig	ssc-miR-361-3p	miRNA	hypothalamic gonadotropin-releasing hormone (GnRH)	pituitary gonadotrope FSH secretion	pituitary cells	Hypothalamic gonadotropin-releasing hormone (GnRH)?treatment	downregulated	23451171
+554	Pig	ssc-miR-370	miRNA	lipopolysaccharide (LPS)	gastrocnemius muscle inflammation	gastrocnemius muscle	lipopolysaccharide (LPS) treatment	downregulated	33232194
+555	Pig	ssc-miR-370	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+556	Pig	ssc-miR-374	miRNA	dexamethasone (DEX)	primary cultures of porcine adipocytes	primary porcine preadipocytes	dexamethasone (DEX) treatment	upregulated	23468252
+557	Pig	ssc-miR-376a-5p	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+558	Pig	ssc-miR-378-3p	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	indigenous Chinese Tongcheng pigs alveolar macrophages	infect with PRRSV treatment	dysregulatedin alveolar macrophages	28971377
+559	Pig	ssc-miR-425-3p	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+560	Pig	ssc-miR-4331	miRNA	transmissible gastroenteritis virus (TGEV)	transmissible gastroenteritis virus (TGEV) infection	porcine kidney (PK-15) cells	infect with TGEV treatment	upregulated	29217619
+561	Pig	ssc-miR-4331-5p	miRNA	foot-and-mouth disease virus (FMDV)	foot-and-mouth disease (FMD)	PK-15 cells	foot and mouth virus (FMDV) treatment	FMDV infection directly upregulates miR-4331-5p expression.	32574680
+562	Pig	ssc-miR-491	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+563	Pig	ssc-miR-493-5p	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+564	Pig	ssc-miR-592	miRNA	herpes simplex virus 2 (HSV-2)	genital herpes	epithelial tissues from guinea pigs	infect with HSV2	upregulated	28962197
+565	Pig	ssc-miR-874	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+566	Pig	ssc-miR-92b-5p	miRNA	coronary microembolization (CME)	"proliferation, apoptosis, coronary microembolization"	Bama mini-pigs	CME treatment	upregulated	28968594
+567	Pig	ssc-miR-c89	miRNA	porcine reproductive and respiratory syndrome virus (PRRSV)	porcine reproductive and respiratory syndrome virus (PRRSV) infection	porcine alveolar macrophages (PAMs)	porcine reproductive and respiratory syndrome virus (PRRSV) infection treatment	upregulated	31478827
+568	Pig	ssc-miR-106-5p	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+569	Pig	ssc-miR-1249	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	upregulated	31242957
+570	Pig	ssc-miR-127	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+571	Pig	ssc-miR-199a-3p	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+572	Pig	ssc-miR-199a-5p	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+573	Pig	ssc-miR-199b-3p	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+574	Pig	ssc-miR-199b-5p	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+575	Pig	ssc-miR-370	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+576	Pig	ssc-miR-493-5p	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+577	Pig	ssc-miR-758	miRNA	lipopolysaccharide (LPS)	bacterial-induced endometritis	sow endometrial epithelial cells (EECs)	lipopolysaccharide (LPS) treatment	downregulated	31242957
+578	Pig	ssc-miR-140	miRNA	classical swine fever virus (CSFV)	classical swine fever virus (CSFV) infection	swine umbilical vein endothelial cells (SUVEC)	Classical swine fever virus (CSFV) infection	downregulated	32114898
+579	Podophyllum	she-miR1438	miRNA	methyl jasmonate (MeJA)	oxygen species (ROS)	podophyllum hexandrum	methyl jasmonate (MeJA) treatment	downregulated	28261233
+580	Podophyllum	she-miR172i	miRNA	methyl jasmonate (MeJA)	oxygen species (ROS)	podophyllum hexandrum	methyl jasmonate (MeJA) treatment	downregulated	28261233
+581	Podophyllum	she-miR2275	miRNA	methyl jasmonate (MeJA)	oxygen species (ROS)	podophyllum hexandrum	methyl jasmonate (MeJA) treatment	downregulated	28261233
+582	Podophyllum	she-miR35	miRNA	methyl jasmonate (MeJA)	oxygen species (ROS)	podophyllum hexandrum	methyl jasmonate (MeJA) treatment	downregulated	28261233
+583	Podophyllum	she-miR8291	miRNA	methyl jasmonate (MeJA)	oxygen species (ROS)	podophyllum hexandrum	methyl jasmonate (MeJA) treatment	downregulated	28261233
+584	Populus	pto-miR156k	miRNA	cold	populus under cold stress	Populus plantlets	Populus plantlets grown in vitro were treated with cold (4 ¡ãC for 8 h)	downregulated	30912003
+585	Populus	pto-miR167a-d	miRNA	cold	populus under cold stress	Populus plantlets	Populus plantlets grown in vitro were treated with cold (4 ¡ãC for 8 h)	upregulated	30912003
+586	Populus	pto-miR167f/g	miRNA	cold	populus under cold stress	Populus plantlets	Populus plantlets grown in vitro were treated with cold (4 ¡ãC for 8 h)	upregulated	30912003
+587	Populus	pto-miR169i-m	miRNA	cold	populus under cold stress	Populus plantlets	Populus plantlets grown in vitro were treated with cold (4 ¡ãC for 8 h)	downregulated	30912003
+588	Populus	pto-miR394a-5p/b-5p	miRNA	cold	populus under cold stress	Populus plantlets	Populus plantlets grown in vitro were treated with cold (4 ¡ãC for 8 h)	downregulated	30912003
+589	Populus tomentosa	ptc-miR6437a	miRNA	indole-3-acetic acid (IAA)	growth of P. tomentosa	1-year-old poplar clones	indole-3-acetic acid (IAA) treatment	upregulated	31324970
+590	Pyrus?pyrifolia	pyr-miR156a	miRNA	bagging treatments	red peel coloration and anthocyanin accumulation	Red Chinese sand pear (Pyrus pyrifolia) fruits	bagging treatments	downregulated	28824447
+591	Pyrus?pyrifolia	pyr-miR156ba	miRNA	bagging treatments	red peel coloration and anthocyanin accumulation	Red Chinese sand pear (Pyrus pyrifolia) fruits	bagging treatments	downregulated	28824447
+592	Pyrus?pyrifolia	pyr-miR156g	miRNA	bagging treatments	red peel coloration and anthocyanin accumulation	Red Chinese sand pear (Pyrus pyrifolia) fruits	bagging treatments	downregulated	28824447
+593	Pyrus?pyrifolia	pyr-miR156s	miRNA	bagging treatments	red peel coloration and anthocyanin accumulation	Red Chinese sand pear (Pyrus pyrifolia) fruits	bagging treatments	downregulated	28824447
+594	Pyrus?pyrifolia	pyr-miR156sa	miRNA	bagging treatments	red peel coloration and anthocyanin accumulation	Red Chinese sand pear (Pyrus pyrifolia) fruits	bagging treatments	downregulated	28824447
+595	Rabbit	ocu-miR-133	miRNA	Krebs-Henseleit solution with 1 ?mol L(-1) atrial natriuretic peptide	myocardial reperfusion injury	rabbit heart tissues	Krebs-Henseleit solution with 1 ?mol L(-1) atrial natriuretic peptide treatment	upregulated	24585906
+596	Rabbit	ocu-miR-133b-3p	miRNA	glucocorticoid (GC)	non-traumatic osteonecrosis of femoral head (ONFH)	bone marrow mesenchymal stem cells (BMMSCs)	glucocorticoid treatment	downregulated	33176873
+597	Rabbit	ocu-miR-182	miRNA	N-methyl-D-aspartate (NMDA)	inner retinal injury	plasma	N-methyl-D-aspartate (NMDA) treatment	"Compared to pre-dosing values, the plasma levels at 4 hr after dosing with NMDA were significantly higher both for miR-182 (P < 0.05) and miR-183."	32404558
+598	Rabbit	ocu-miR-183	miRNA	N-methyl-D-aspartate (NMDA)	inner retinal injury	plasma	N-methyl-D-aspartate (NMDA) treatment	"Compared to pre-dosing values, the plasma levels at 4 hr after dosing with NMDA were significantly higher both for miR-182 (P < 0.05) and miR-183."	32404558
+599	Rabbit	ocu-miR-20a	miRNA	naringin	osteoblastic differentiation and inhibition of adipocyte formation	bone marrow stem cells	Naringin treatment	upregulated	26126997
+600	Rabbit	ocu-miR-26b	miRNA	leptin	Alzheimer's disease (AD)	Frontal Cortex tissues	cholesterol fed rabbit model for AD treatment	upregulated	24754001
+601	Rabbit	ocu-miR-451-5p	miRNA	glucocorticoid (GC)	non-traumatic osteonecrosis of femoral head (ONFH)	bone marrow mesenchymal stem cells (BMMSCs)	glucocorticoid treatment	upregulated	33176873
+602	Rainbow trout	omy-miR-122b	miRNA	insulin	postprandial lipogenesis	rainbow trout liver cells	insulin treatment	upregulated	24333236
+603	Rainbow trout	omy-miR-133	miRNA	estradiol-17¦Â (E2)	apoptosis	juvenile rainbow trout	estradiol-17¦Â (E2) treatment	upregulated	28011237
+604	Rainbow trout	omy-miR-145	miRNA	estradiol-17¦Â (E2)	apoptosis	juvenile rainbow trout	estradiol-17¦Â (E2) treatment	downregulated	28011237
+605	Rainbow trout	omy-miR-206	miRNA	estradiol-17¦Â (E2)	apoptosis	juvenile rainbow trout	estradiol-17¦Â (E2) treatment	upregulated	28011237
+606	Rainbow trout	omy-miR-499	miRNA	estradiol-17¦Â (E2)	apoptosis	juvenile rainbow trout	estradiol-17¦Â (E2) treatment	downregulated	28011237
+607	rainbow trout	omy-mir-122	miRNA	insulin	hepatic lipogenesis	rainbow trout hepatocytes	Insulin treatment	upregulation	24333236
+608	Rhesus monkey	mml-miR-10a	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	Proximal duodenal	¦¤9-tetrahydrocannabinol (¦¤9-THC) treatment	upregulated	25378491
+609	Rhesus monkey	mml-miR-145	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	Proximal duodenal	¦¤9-tetrahydrocannabinol (¦¤9-THC) treatment	upregulated	25378491
+610	Rhesus monkey	mml-miR-149	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	Proximal duodenal	¦¤9-tetrahydrocannabinol (¦¤9-THC) treatment	upregulated	25378491
+611	Rhesus monkey	mml-miR-187	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	Proximal duodenal	¦¤9-tetrahydrocannabinol (¦¤9-THC) treatment	upregulated	25378491
+612	Rhesus monkey	mml-miR-24	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	Proximal duodenal	¦¤9-tetrahydrocannabinol (¦¤9-THC) treatment	upregulated	25378491
+613	Rhesus monkey	mml-miR-99b	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	Proximal duodenal	¦¤9-tetrahydrocannabinol (¦¤9-THC) treatment	upregulated	25378491
+614	Rhesus monkey	mml-miR-126	miRNA	¦Ã-rays	tissue toxicity of radiation	male and female rhesus macaques (Macaca mulatta) NHPs	¦Ã-rays treatment	"downregulated (miR-126, miR-144, miR-21) and upregulation( miR-1-3p , miR-206 )"	27907140
+615	Rhesus monkey	mml-miR-1-3p	miRNA	¦Ã-rays	tissue toxicity of radiation	male and female rhesus macaques (Macaca mulatta) NHPs	¦Ã-rays treatment	"downregulated (miR-126, miR-144, miR-21) and upregulation( miR-1-3p , miR-206 )"	27907140
+616	Rhesus monkey	mml-miR-144	miRNA	¦Ã-rays	tissue toxicity of radiation	male and female rhesus macaques (Macaca mulatta) NHPs	¦Ã-rays treatment	"downregulated (miR-126, miR-144, miR-21) and upregulation( miR-1-3p , miR-206 )"	27907140
+617	Rhesus monkey	mml-miR-206	miRNA	¦Ã-rays	tissue toxicity of radiation	male and female rhesus macaques (Macaca mulatta) NHPs	¦Ã-rays treatment	"downregulated (miR-126, miR-144, miR-21) and upregulation( miR-1-3p , miR-206 )"	27907140
+618	Rhesus monkey	mml-miR-21	miRNA	¦Ã-rays	tissue toxicity of radiation	male and female rhesus macaques (Macaca mulatta) NHPs	¦Ã-rays treatment	"downregulated (miR-126, miR-144, miR-21) and upregulation( miR-1-3p , miR-206 )"	27907140
+619	Rhesus monkey	mml-miR-574-5p	miRNA	¦Ã-rays	tissue toxicity of radiation	male and female rhesus macaques (Macaca mulatta) NHPs	¦Ã-rays treatment	upregulated	27907140
+620	Rhesus monkey	mml-let-7f	miRNA	simian immunodeficiency virus (SIV)	acquired Immune Deficiency Syndrome (AIDS)	Adult male rhesus macaques	infect with SIV treatment	downregulated	24672033
+621	Rhesus monkey	mml-miR-143	miRNA	simian immunodeficiency virus (SIV)	acquired Immune Deficiency Syndrome (AIDS)	Adult male rhesus macaques	infect with SIV treatment	downregulated	24672033
+622	Rhesus monkey	mml-miR-145	miRNA	simian immunodeficiency virus (SIV)	acquired Immune Deficiency Syndrome (AIDS)	Adult male rhesus macaques	infect with SIV treatment	downregulated	24672033
+623	Rhesus monkey	mml-miR-194	miRNA	simian immunodeficiency virus (SIV)	acquired Immune Deficiency Syndrome (AIDS)	Adult male rhesus macaques	infect with SIV treatment	downregulated	24672033
+624	Rhesus monkey	mml-miR-21	miRNA	simian immunodeficiency virus (SIV)	acquired Immune Deficiency Syndrome (AIDS)	Adult male rhesus macaques	infect with SIV treatment	downregulated	24672033
+625	Rhesus monkey	mml-miR-10a	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	acute simian immunodeficiency virus infection of rhesus macaques	¦¤9-THC treatment	upregulated	25378491
+626	Rhesus monkey	mml-miR-125a-5p	miRNA	calorie restriction (CR)	delayed aging	rhesus monkeys	calorie restriction (CR) treatment	downregulated	28677323
+627	Rhesus monkey	mml-miR-130a	miRNA	simian immunodeficiency virus (SIV)	intestinal barrier dysfunction	colonic epithelium (CE)	Simian Immunodeficiency Virus (SIV) infection treatment	upregulated	29514950
+628	Rhesus monkey	mml-miR-145	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	acute simian immunodeficiency virus infection of rhesus macaques	¦¤9-THC treatment	upregulated	25378491
+629	Rhesus monkey	mml-miR-149	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	acute simian immunodeficiency virus infection of rhesus macaques	¦¤9-THC treatment	upregulated	25378491
+630	Rhesus monkey	mml-miR-155	miRNA	alcohol	hyperglycemia-induced beta-cell dysfunction	colon tissues	chronic alcohol administration	upregulated	24329418
+631	Rhesus monkey	mml-miR-155	miRNA	alcohol	systemic and mucosal infections	"rhesus macaques colon,PBMC"	chronic alcohol administration	upregulated	24329418
+632	Rhesus monkey	mml-miR-181a	miRNA	alcohol	both systemic and mucosal infections	PBMC	chronic alcohol administration	upregulated	24329418
+633	Rhesus monkey	mml-miR-181a	miRNA	alcohol	systemic and mucosal infections	"rhesus macaques colon,PBMC"	chronic alcohol administration	upregulated	24329418
+634	Rhesus monkey	mml-miR-187	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	acute simian immunodeficiency virus infection of rhesus macaques	¦¤9-THC treatment	upregulated	25378491
+635	Rhesus monkey	mml-miR-206	miRNA	simian immunodeficiency virus (SIV)	simian immunodeficiency virus (SIV) infection	Indian-derived male rhesus macaques myoblasts	infect with SIV treatment	downregulated in myoblasts	28637658
+636	Rhesus monkey	mml-miR-206	miRNA	simian immunodeficiency virus (SIV)	simian immunodeficiency virus (SIV) infection	Indian-derived male rhesus macaques plasma and muscle	daily 30-min intragastric infusions of alcohol and infect with SIV treatment	downregulated in plasma and muscle	28637658
+637	Rhesus monkey	mml-miR-212	miRNA	simian immunodeficiency virus (SIV)	intestinal barrier dysfunction	colonic epithelium (CE)	Simian Immunodeficiency Virus (SIV) infection treatment	upregulated	29514950
+638	Rhesus monkey	mml-miR-221	miRNA	alcohol	both systemic and mucosal infections	PBMC	chronic alcohol administration	upregulated	24329418
+639	Rhesus monkey	mml-miR-221	miRNA	alcohol	systemic and mucosal infections	"rhesus macaques colon,PBMC"	chronic alcohol administration	upregulated	24329418
+640	Rhesus monkey	mml-miR-24	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	acute simian immunodeficiency virus infection of rhesus macaques	¦¤9-THC treatment	upregulated	25378491
+641	Rhesus monkey	mml-miR-6790	miRNA	environmental tobacco smoke (ETS)	age-related macular degeneration (AMD)	plasma	environmental tobacco smoke (ETS) treatment	downregulated	30294202
+642	Rhesus monkey	mml-miR-6794	miRNA	environmental tobacco smoke (ETS)	age-related macular degeneration (AMD)	plasma	environmental tobacco smoke (ETS) treatment	downregulated	30294202
+643	Rhesus monkey	mml-miR-7	miRNA	rotavirus (RV)	rotavirus (RV) infection	MA104 cells	Rotavirus (RV) infection treatment	miR-7 is upregulated during Rotavirus (RV) replication	32069901
+644	Rhesus monkey	mml-miR-99b	miRNA	¦¤9-tetrahydrocannabinol (THC)	intestinal inflammation	acute simian immunodeficiency virus infection of rhesus macaques	¦¤9-THC treatment	upregulated	25378491
+645	Rice	osa-miR1425	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) and susceptible (Vandana) rice cultivars	short and prolonged heat stress and recovery	upregulated	28407080
+646	Rice	osa-miR1439	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+647	Rice	osa-miR159a	miRNA	hydrogen gas (H2)	aluminum (Al) toxicity	germinating rice seeds treated with aluminum (Al)	H2	"compared with Al alone, transcripts of miR-398a and miR-159a were downregulated by H2"	28756251
+648	Rice	osa-miR159f	miRNA	drought	cultivar-specific drought responsive (CSDR)	rice	drought treatments	upregulated	29133823
+649	Rice	osa-miR162	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) and susceptible (Vandana) rice cultivars	short and prolonged heat stress and recovery	upregulated	28407080
+650	Rice	osa-miR164a	miRNA	magnaporthe oryzae strain Guy11	magnaporthe oryzae (M. oryzae) infection	rice	magnaporthe oryzae strain Guy11 infection	osa-miR164a expression reduced upon Guy11 infection at both early and late stages.	29775494
+651	Rice	osa-miR166	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) and susceptible (Vandana) rice cultivars	short and prolonged heat stress and recovery	upregulated	28407080
+652	Rice	osa-miR167d	miRNA	magnaporthe oryzae (M. oryzae)	magnaporthe oryzae (M. oryzae) infection	rice	M. oryzae infection	"The expression of Osa-miR167d was significantly suppressed in a resistant accession at and after 24?h post inoculation (hpi), however, its expression was significantly increased at 24 hpi in the susceptible accession upon M. oryzae infection."	31001874
+653	Rice	osa-miR168	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) and susceptible (Vandana) rice cultivars	short and prolonged heat stress and recovery	upregulated	28407080
+654	Rice	osa-miR171	miRNA	chromium (Cr)	signalling pathway in rice during Cr stress	rice	chromium (Cr) treatment	"miR171 was downregulated after 7h treatment by chromium (Cr), while it was upregulated after prolonged Cr exposure (7 days)."	31792790
+655	Rice	osa-miR1848	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+656	Rice	osa-miR1862	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) and susceptible (Vandana) rice cultivars	short and prolonged heat stress and recovery	upregulated	28407080
+657	Rice	osa-miR1871	miRNA	drought	cultivar-specific drought responsive (CSDR)	rice	drought treatments	upregulated	29133823
+658	Rice	osa-miR1876	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) and susceptible (Vandana) rice cultivars	short and prolonged heat stress and recovery	upregulated	28407080
+659	Rice	osa-miR1883	miRNA	chromium (Cr)	signalling pathway in rice during Cr stress	rice	chromium (Cr) treatment	osa-miR1883 was was significantly decreased immediately after Cr exposure (24 h).	31792790
+660	Rice	osa-miR2096	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+661	Rice	osa-miR2106	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+662	Rice	osa-MIR268	miRNA	cadmium (Cd)	cadmium stress	seedlings	cadmium (Cd) treatment	upregulated	28657742
+663	Rice	osa-miR2875	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+664	Rice	osa-miR2878-5p	miRNA	drought	cultivar-specific drought responsive (CSDR)	rice	drought treatments	upregulated	29133823
+665	Rice	osa-miR396	miRNA	chromium (Cr)	signalling pathway in rice during Cr stress	rice	chromium (Cr) treatment	osa-miR396 was was significantly increased immediately after Cr exposure (24 h) and significantly reduced after prolonged Cr exposure (7 days).	31792790
+666	Rice	osa-miR397a	miRNA	drought	cultivar-specific drought responsive (CSDR)	rice	drought treatments	upregulated	29133823
+667	Rice	osa-miR3981	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+668	Rice	osa-miR398a	miRNA	hydrogen gas (H2)	aluminum (Al) toxicity	germinating rice seeds treated with aluminum (Al)	H2	"compared with Al alone, transcripts of miR-398a and miR-159a were downregulated by H2"	28756251
+669	Rice	osa-miR398b	miRNA	drought	cultivar-specific drought responsive (CSDR)	rice	drought treatments	upregulated	29133823
+670	Rice	osa-miR408-3p	miRNA	drought	cultivar-specific drought responsive (CSDR)	rice	drought treatments	upregulated	29133823
+671	Rice	osa-miR5072	miRNA	chromium (Cr)	signalling pathway in rice during Cr stress	rice	chromium (Cr) treatment	osa-miR5072 was was significantly increased immediately after Cr exposure (24 h) and significantly reduced after prolonged Cr exposure (7 days).	31792790
+672	Rice	osa-miR5079	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+673	Rice	osa-miR5151	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+674	Rice	osa-miR528-5p	miRNA	drought	cultivar-specific drought responsive (CSDR)	rice	drought treatments	upregulated	29133823
+675	Rice	osa-miR529	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) and susceptible (Vandana) rice cultivars	short and prolonged heat stress and recovery	upregulated	28407080
+676	Rice	osa-miR5484	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+677	Rice	osa-miR5485	miRNA	drought	drought resistance	"rice lines with contrasting levels of drought tolerance: IR77298-14-1-2-10, IR87705-7-15-B , IR64"	plants at booting stage by discontinuing watering	dysregulated	29045473
+678	Rice	osa-miR5487	miRNA	drought	drought resistance	"rice lines with contrasting levels of drought tolerance: IR77298-14-1-2-10, IR87705-7-15-B , IR64"	plants at booting stage by discontinuing watering	dysregulated	29045473
+679	Rice	osa-miR5492	miRNA	drought	drought resistance	"rice lines with contrasting levels of drought tolerance: IR77298-14-1-2-10, IR87705-7-15-B , IR64"	plants at booting stage by discontinuing watering	dysregulated	29045473
+680	Rice	osa-miR5517	miRNA	drought	drought resistance	"rice lines with contrasting levels of drought tolerance: IR77298-14-1-2-10, IR87705-7-15-B , IR64"	plants at booting stage by discontinuing watering	dysregulated	29045473
+681	Rice	osa-miR5792	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+682	Rice	osa-miR5812	miRNA	heat stress	oxidative stress	tolerant (Nagina 22) rice cultivars	short and prolonged heat stress and recovery	dysregulated	28407080
+683	Rubber tree	hbr-miR159	miRNA	ethylene	bark dryness syndrome	bark of rubber tree	ethylene treatment	downregulated	25289520
+684	Rubber tree	hbr-miR166	miRNA	ethylene	bark dryness syndrome	bark of rubber tree	ethylene treatment	downregulated	25289520
+685	Schistosoma japonicum	sja-miR-2162	miRNA	schistosoma japonicum	liver fibrosis	hepatic stellate cells (HSCs)	Schistosoma japonicum (S. japonicum) infection treatment	upregulated	31738999
+686	Schistosoma japonicum	sja-miR-2162	miRNA	schistosoma japonicum	liver fibrosis	hepatic stellate cells 52 (HSCs)	schistosoma japonicum (S. japonicum) infection treatment	upregulated	31738999
+687	Sheep	oar-miR-1246	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	sheep lung and spleen	infect with PPR treatment	dysregulated in lung and spleen	28694795
+688	Sheep	oar-miR-125a-5p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+689	Sheep	oar-miR-125b-5p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+690	Sheep	oar-miR-126-3p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+691	Sheep	oar-miR-133b-3p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+692	Sheep	oar-miR-208b-3p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+693	Sheep	oar-miR-210	miRNA	hypoxia	preeclampsia (PE)	pregnant sheep uterine arteries	maintain at low altitude or exposed to high altitude hypoxia for 110 days	upregulated	28739977
+694	Sheep	oar-miR-210-3p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+695	Sheep	oar-miR-21-3p	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	sheep lung and spleen	infect with PPR treatment	dysregulated in lung and spleen	28694795
+696	Sheep	oar-miR-21-5p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+697	Sheep	oar-miR-27a-5p	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	sheep lung and spleen	infect with PPR treatment	dysregulated in lung and spleen	28694795
+698	Sheep	oar-miR-29a-3p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+699	Sheep	oar-miR-320a	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+700	Sheep	oar-miR-320a	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	sheep lung and spleen	infect with PPR treatment	dysregulated in lung and spleen	28694795
+701	Sheep	oar-miR-363	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	sheep lung and spleen	infect with PPR treatment	dysregulated in lung and spleen	28694795
+702	Sheep	oar-miR-494-3p	miRNA	heart failure (HF) surgery	heart failure (HF)	ovine left ventricular (LV) tissue	7 French His-bundle electrode was implanted subepicardially in the LV wall for subsequent pacing	upregulated in left ventricular (LV) tissue	28811555
+703	Sheep	oar-miR-760-3p	miRNA	peste des petits ruminants virus (PPRV)	peste des petits ruminants (PPR) virus infection	sheep lung and spleen	infect with PPR treatment	dysregulated in lung and spleen	28694795
+704	Soybean	gma-miR169c	miRNA	high N	soybean nodulation	soybean	high N treatment	miR169c expression was induced by high N treatment.	33245793
+705	Soybean	gso-miR156hk-3p	miRNA	salt	salt stress	soybean	salt stress treatment	upregulated	32947244
+706	Soybean	gso-miR156hk-3p	miRNA	polyethylene glycol	salt stress	soybean	Polyethylene glycol treatment	downregulated	32947244
+707	Soybean	gso-miR166i-5p	miRNA	polyethylene glycol	salt stress	soybean	Polyethylene glycol treatment	downregulated	32947244
+708	Soybean	gso-miR319b-5p	miRNA	salt	salt stress	soybean	salt stress treatment	upregulated	32947244
+709	Soybean	gso-miR4414a-5p	miRNA	salt	salt stress	soybean	salt stress treatment	downregulated	32947244
+710	Soybean	gso-miR482bd-5p	miRNA	salt	salt stress	soybean	salt stress treatment	downregulated	32947244
+711	Soybean	gso-miR482bd-5p	miRNA	polyethylene glycol	salt stress	soybean	Polyethylene glycol treatment	downregulated	32947244
+712	Soybean	gso-miR6300-3p	miRNA	salt	salt stress	soybean	salt stress treatment	upregulated	32947244
+713	Soybean	gso-miR9726-3p	miRNA	salt	salt stress	soybean	salt stress treatment	upregulated	32947244
+714	Spartina alterniflora	sal-miR164	miRNA	Salt	plant growth and development	Spartina alterniflora (S. alterniflora)	Salt stress treatment	downregulated	26353690
+715	Spartina alterniflora	sal-miR168	miRNA	Salt	plant growth and development	Spartina alterniflora (S. alterniflora)	Salt stress treatment	downregulated	26353690
+716	Spartina alterniflora	sal-miR169	miRNA	Salt	plant growth and development	Spartina alterniflora (S. alterniflora)	Salt stress treatment	downregulated	26353690
+717	Spartina alterniflora	sal-miR171	miRNA	Salt	plant growth and development	Spartina alterniflora (S. alterniflora)	Salt stress treatment	downregulated	26353690
+718	Spartina alterniflora	sal-miR393	miRNA	Salt	plant growth and development	Spartina alterniflora (S. alterniflora)	Salt stress treatment	downregulated	26353690
+719	Spartina alterniflora	sal-miR395	miRNA	Salt	plant growth and development	Spartina alterniflora (S. alterniflora)	Salt stress treatment	downregulated	26353690
+720	Spartina alterniflora	sal-miR396	miRNA	Salt	plant growth and development	Spartina alterniflora (S. alterniflora)	Salt stress treatment	downregulated	26353690
+721	Spartina alterniflora	sal-miR399	miRNA	Salt	plant growth and development	Spartina alterniflora (S. alterniflora)	Salt stress treatment	downregulated	26353690
+722	Spodoptera frugiperda	Sf-miR-31	miRNA	¦Ã-rays	cell death	Sf9 cell line	¦Ã-radiation treatment	upregulated	26514984
+723	Strawberry	fan-miR73	miRNA	abscisic acid (ABA)	fruit ripening and adaptive stress responses	"Roots, stems, leaves and flowers"	abscisic acid (ABA) treatment	downregulated	27325048
+724	Sugarcane	sof-miR408	miRNA	acidovorax avenae	acidovorax avenae infection	sugarcane	acidovorax avenae infection	downregulated	29657296
+725	Sweet orange	csi-miR156	miRNA	citrus psorosis virus (CPsV)	citrus psorosis virus (CPsV) infection	sweet orange plants	Citrus psorosis virus (CPsV) treatment	downregulated	26033697
+726	Sweet orange	csi-miR167	miRNA	citrus psorosis virus (CPsV)	citrus psorosis virus (CPsV) infection	sweet orange plants	Citrus psorosis virus (CPsV) treatment	downregulated	26033697
+727	Sweet orange	csi-miR171	miRNA	citrus psorosis virus (CPsV)	citrus psorosis virus (CPsV) infection	sweet orange plants	Citrus psorosis virus (CPsV) treatment	downregulated	26033697
+728	Switchgrass	pvi-miR393a	miRNA	cold	cold stress	switchgrass (Panicum virgatum L.)	old treatment at 4¡æ for twenty days	upregulated	29069481
+729	Switchgrass	pvi-miR393a	miRNA	1-naphthaleneacetic acid (NAA)	tillering	switchgrass (Panicum virgatum L.)	1-naphthaleneacetic acid (NAA) treatment	downregulated	29069481
+730	Syrian hamster	mau-miR-3470b	miRNA	bovine ephemeral fever virus (BEFV)	bovine ephemeral fever virus (BEFV) infection	Baby Hamster Syrian Kidney cells (BHK-21)	bovine ephemeral fever virus (BEFV) infection	upregulated	30587113
+731	Syrian hamster	mau-miR-486	miRNA	hyperlipidemic (HL) diet	hyperlipidemia	liver and plasma	"hyperlipidemic (HL) diet (standard chow plus 3% cholesterol and 15% butter, 10 weeks) feed"	upregulated	29725814
+732	Syrian hamster	mau-miR-92a	miRNA	hyperlipidemic (HL) diet	hyperlipidemia	liver and plasma	"hyperlipidemic (HL) diet (standard chow plus 3% cholesterol and 15% butter, 10 weeks) feed"	upregulated	29725814
+733	Syrian hamster	mau-miR-133a	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	downregulated	28265775
+734	Syrian hamster	mau-miR-141	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	upregulated	28265775
+735	Syrian hamster	mau-miR-181a	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	downregulated	28265775
+736	Syrian hamster	mau-miR-200a	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	upregulated	28265775
+737	Syrian hamster	mau-miR-200b	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	upregulated	28265775
+738	Syrian hamster	mau-miR-200c	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	upregulated	28265775
+739	Syrian hamster	mau-miR-21	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	upregulated	28265775
+740	Syrian hamster	mau-miR-29a	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	upregulated	28265775
+741	Syrian hamster	mau-miR-29b	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	upregulated	28265775
+742	Syrian hamster	mau-miR-429	miRNA	diethylstilbestrol (DES)	dysplasia/neoplasia phenomenon	neonatal Syrian golden hamsters	diethylstilbestrol (DES) treatment	upregulated	28265775
+743	Syrian hamster	mau-miR-455-5p	miRNA	pentagalloylglucose (PGG)	viral replication	rabies virus (RABV)-infected BHK-21 cells	pentagalloylglucose (PGG) treatment	downregulated	31243136
+744	Syrian hamster	mau-miR-455-5p	miRNA	rabies virus (RABV)	viral replication	BHK-21 cells	rabies virus (RABV) infection treatment	upregulated	31243136
+745	Taenia crassiceps	tcr-miR7b	miRNA	praziquantel (PZQ)	cysticercosis	T. crassiceps cysticerci	praziquantel treatment	upregulated	28526608
+746	Taxus?chinensis	tch-miR1310	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ)treatment	downregulated	19393185
+747	Taxus?chinensis	tch-miR156	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ)treatment	downregulated	19393185
+748	Taxus?chinensis	tch-miR164	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ) treatment	upregulated	19393185
+749	Taxus?chinensis	tch-miR168	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ)treatment	downregulated	19393185
+750	Taxus?chinensis	tch-miR169	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ)treatment	downregulated	19393185
+751	Taxus?chinensis	tch-miR172	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ)treatment	downregulated	19393185
+752	Taxus?chinensis	tch-miR390	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ) treatment	upregulated	19393185
+753	Taxus?chinensis	tch-miR396	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ)treatment	downregulated	19393185
+754	Taxus?chinensis	tch-miR480	miRNA	methyl jasmonate (MeJA)	taxus chinensis development	Taxus chinensis (T. chinensis) cells	methyl jasmonate (MJ)treatment	downregulated	19393185
+755	Tegillarca granosa	tgr-miR-184b	miRNA	cadmium (Cd)	toxic effects of cadmium	blood clam Tegillarca granosa	cadmium (Cd) treatment	dysregulated	24690903
+756	Tegillarca granosa	tgr-miR-21	miRNA	cadmium (Cd)	toxic effects of cadmium	blood clam Tegillarca granosa	cadmium (Cd) treatment	dysregulated	24690903
+757	Tegillarca granosa	tgr-miR-2a	miRNA	cadmium (Cd)	toxic effects of cadmium	blood clam Tegillarca granosa	cadmium (Cd) treatment	dysregulated	24690903
+758	Tegillarca granosa	tgr-miR-33-5p	miRNA	cadmium (Cd)	toxic effects of cadmium	blood clam Tegillarca granosa	cadmium (Cd) treatment	dysregulated	24690903
+759	Tegillarca granosa	tgr-miR-8	miRNA	cadmium (Cd)	toxic effects of cadmium	blood clam Tegillarca granosa	cadmium (Cd) treatment	dysregulated	24690903
+760	Tibetan schizothoracine fish	tst-miR-124c-3p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+761	Tibetan schizothoracine fish	tst-miR-125c-3p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+762	Tibetan schizothoracine fish	tst-miR-130c-5p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+763	Tibetan schizothoracine fish	tst-miR-139-3p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+764	Tibetan schizothoracine fish	tst-miR-145	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+765	Tibetan schizothoracine fish	tst-miR-145-3p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+766	Tibetan schizothoracine fish	tst-miR-25-5p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+767	Tibetan schizothoracine fish	tst-miR-3-3p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+768	Tibetan schizothoracine fish	tst-miR-738	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+769	Tibetan schizothoracine fish	tst-miR-7a-2-3p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+770	Tibetan schizothoracine fish	tst-miR-7c-1-3p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+771	Tibetan schizothoracine fish	tst-miR-7d-3p	miRNA	thermal acclimation	thermal acclimation	Tibetan Schizothoracine fish	exposed to 24¡ãC of 12 hours with heating rate of ~ 0.8¡ãC/h treatment	dysregulated	29045433
+772	Tobacco	nta-miR156	miRNA	3-acetonyl-3-hydroxyoxindole (AHO)	systemic acquired resistance (SAR)	Nicotiana	3-acetonyl-3-hydroxyoxindole (AHO) treatment	upregulated	28970509
+773	Tobacco	nta-miR172f	miRNA	3-acetonyl-3-hydroxyoxindole (AHO)	systemic acquired resistance (SAR)	Nicotiana	3-acetonyl-3-hydroxyoxindole (AHO) treatment	upregulated	28970509
+774	Tobacco	nta-miR172g	miRNA	3-acetonyl-3-hydroxyoxindole (AHO)	systemic acquired resistance (SAR)	Nicotiana	3-acetonyl-3-hydroxyoxindole (AHO) treatment	upregulated	28970509
+775	Tobacco	nta-miR408a	miRNA	3-acetonyl-3-hydroxyoxindole (AHO)	systemic acquired resistance (SAR)	Nicotiana	3-acetonyl-3-hydroxyoxindole (AHO) treatment	downregulated	28970509
+776	Tobacco	nta-miR156i	miRNA	mock- grown (CK) and 20 % polyethylene glycol	pEG resistance of tobacco	tobacco roots	PEG treatment	upregulated	24664280
+777	Tobacco	nta-miR160a	miRNA	mock- grown (CK) and 20 % polyethylene glycol	pEG resistance of tobacco	tobacco roots	PEG treatment	upregulated	24664280
+778	Tobacco	nta-miR162	miRNA	drought	drought stress	tobacco	drought treatments	dysregulated	28068898
+779	Tobacco	nta-miR166	miRNA	drought	drought stress	tobacco	drought treatments	dysregulated	28068898
+780	Tobacco	nta-miR168	miRNA	drought	drought stress	tobacco	drought treatments	dysregulated	28068898
+781	Tobacco	nta-miR172b	miRNA	mock- grown (CK) and 20 % polyethylene glycol	pEG resistance of tobacco	tobacco roots	PEG treatment	upregulated	24664280
+782	Tobacco	nta-miR390	miRNA	drought	drought stress	tobacco	drought treatments	dysregulated	28068898
+783	Tobacco	nta-miR395	miRNA	titanium dioxide (TiO(2))	tobacco growth and development	tobacco	low concentrations (0.1 and 1 %) of TiO(2) nanoparticles treatment	upregulated	24132512
+784	Tobacco	nta-miR398	miRNA	drought	drought stress	tobacco	drought treatments	dysregulated	28068898
+785	Tobacco	nta-miR399	miRNA	titanium dioxide (TiO(2))	tobacco growth and development	tobacco	low concentrations (0.1 and 1 %) of TiO(2) nanoparticles treatment	upregulated	24132512
+786	Tomato	sly-miR1127-3p	miRNA	botrytis cinerea (B. cinerea)	botrytis cinerea (B. cinerea) infection	tomato	botryosphaeria dothidea infection	downregulated	29079899
+787	Tomato	sly-miR156e-5p	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	upregulated	29096602
+788	Tomato	sly-mir159	miRNA	Tomato leaf curl virus (ToLCV)	leaf curl disease	the leaves of tomato	Tomato leaf curl virus (ToLCV) infection treatment	upregulated	20973960
+789	Tomato	sly-miR160	miRNA	hydrogen sulfide (H2S) and H2O2	lateral root formation	tomato lateral root	hydrogen sulfide (H2S) and hydrogen peroxide (H2O2)	upregulated	29029623
+790	Tomato	sly-miR160a	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	upregulated	29096602
+791	Tomato	sly-miR164a-5p	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	upregulated	29096602
+792	Tomato	sly-miR168a	miRNA	Phytophthora infestans (P. infestans)	resistance to P. infestans	tomato plants	Phytophthora infestans infection treatment	"lncRNA39026 might function to decoy miR168a and affect the expression of PR genes in tomato plants, increasing resistance to disease"	31876247
+793	Tomato	sly-mir172	miRNA	Tomato leaf curl virus (ToLCV)	leaf curl disease	the leaves of tomato	Tomato leaf curl virus (ToLCV) infection treatment	upregulated	20973960
+794	Tomato	sly-miR27	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	downregulated	29096602
+795	Tomato	sly-mir319	miRNA	Tomato leaf curl virus (ToLCV)	leaf curl disease	the leaves of tomato	Tomato leaf curl virus (ToLCV) infection treatment	upregulated	20973960
+796	Tomato	sly-miR390a	miRNA	hydrogen sulfide (H2S) and H2O2	lateral root formation	tomato lateral root	hydrogen sulfide (H2S) and hydrogen peroxide (H2O2)	upregulated	29029623
+797	Tomato	sly-miR393-5p	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	upregulated	29096602
+798	Tomato	sly-miR395a	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	downregulated	29096602
+799	Tomato	sly-miR397-5p	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	downregulated	29096602
+800	Tomato	sly-miR397¨C5p	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	upregulated	29096602
+801	Tomato	sly-miR398b-3p	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	upregulated	29096602
+802	Tomato	sly-miR398b-3p	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	downregulated	29096602
+803	Tomato	sly-miR477-3p	miRNA	Phytophthora infestans (P. infestans)	tomato resistance	tomato	Phytophthora infestans (P. infestans) infection treatment	downregulated	32259631
+804	Tomato	sly-miR7b	miRNA	high temperature	heat stress	tomato cultivar ¡°Micro-Tom¡±	plants were exposed to 35 ¡À 1 ¡ãC/30 ¡À 1 ¡ãC (16 h day/ 8 h night) for 12 d	upregulated	29096602
+805	Vigna mungo	vmu-miR1511	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+806	Vigna mungo	vmu-miR1514	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+807	Vigna mungo	vmu-miR156	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+808	Vigna mungo	vmu-miR159	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+809	Vigna mungo	vmu-miR160	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+810	Vigna mungo	vmu-miR166	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+811	Vigna mungo	vmu-miR2118	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+812	Vigna mungo	vmu-miR398	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+813	Vigna mungo	vmu-miRn13	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+814	Vigna mungo	vmu-miRn14	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+815	Vigna mungo	vmu-miRn7	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+816	Vigna mungo	vmu-miRn8	miRNA	Mungbean Yellow Mosaic India Virus (MYMIV)	Mungbean Yellow Mosaic India Virus (MYMIV) infection	blackgram (Vigna mungo)	infect with MYMIV	dysregulated	28224923
+817	Water buffalo	bbu-miR-106a	miRNA	"glial cell line-derived neurotrophic factor (GDNF), fibroblast growth factor (FGF) 2, and epidermal growth factor (EGF)"	self-renewal and maintenance of spermatogonial stem cells	spermatogonial stem cells (SSCs)	(20?ng mL-1 GDNF +10?ng mL-1 FGF2?+?10?ng mL-1 EGF) treatment	upregulated	30589561
+818	Water buffalo	bbu-miR-106a	miRNA	"glial cell line-derived neurotrophic factor (GDNF), fibroblast growth factor (FGF) 2, and epidermal growth factor (EGF)"	self-renewal and maintenance of spermatogonial stem cells	spermatogonial stem cells (SSCs)	"Glial Cell Line-Derived Neurotrophic Factor, Fibroblast Growth Factor 2, and Epidermal Growth Factor (GDNF+FGF2+EGF) treatment"	upregulated	30589561
+819	Water buffalo	bbu-miR-20b	miRNA	"glial cell line-derived neurotrophic factor (GDNF), fibroblast growth factor (FGF) 2, and epidermal growth factor (EGF)"	self-renewal and maintenance of spermatogonial stem cells	spermatogonial stem cells (SSCs)	(20?ng mL-1 GDNF +10?ng mL-1 FGF2?+?10?ng mL-1 EGF) treatment	upregulated	30589561
+820	Water buffalo	bbu-miR-20b	miRNA	"glial cell line-derived neurotrophic factor (GDNF), fibroblast growth factor (FGF) 2, and epidermal growth factor (EGF)"	self-renewal and maintenance of spermatogonial stem cells	spermatogonial stem cells (SSCs)	"Glial Cell Line-Derived Neurotrophic Factor, Fibroblast Growth Factor 2, and Epidermal Growth Factor (GDNF+FGF2+EGF) treatment"	upregulated	30589561
+821	Water buffalo	bbu-miR-21	miRNA	"glial cell line-derived neurotrophic factor (GDNF), fibroblast growth factor (FGF) 2, and epidermal growth factor (EGF)"	self-renewal and maintenance of spermatogonial stem cells	spermatogonial stem cells (SSCs)	(20?ng mL-1 GDNF +10?ng mL-1 FGF2?+?10?ng mL-1 EGF) treatment	upregulated	30589561
+822	Water buffalo	bbu-miR-21	miRNA	"glial cell line-derived neurotrophic factor (GDNF), fibroblast growth factor (FGF) 2, and epidermal growth factor (EGF)"	self-renewal and maintenance of spermatogonial stem cells	spermatogonial stem cells (SSCs)	"Glial Cell Line-Derived Neurotrophic Factor, Fibroblast Growth Factor 2, and Epidermal Growth Factor (GDNF+FGF2+EGF) treatment"	upregulated	30589561
+823	Yellow catfish	pfu-miR-141-3p	miRNA	17¦Á-ethinylestradiol (EE2)	testis development and spermatogenesis	one-year-old male yellow catfish	intraperitoneal inject 17¦Á-ethinylestradiol (EE2) at a dose of 10 ?g/g body weight treatment	upregulated	25229553
+824	Yellow catfish	pfu-miR-200a-3p	miRNA	17¦Á-ethinylestradiol (EE2)	testis development and spermatogenesis	one-year-old male yellow catfish	intraperitoneal inject 17¦Á-ethinylestradiol (EE2) at a dose of 10 ?g/g body weight treatment	upregulated	25229553
+825	Yellow catfish	pfu-miR200b-3p	miRNA	17¦Á-ethinylestradiol (EE2)	testis development and spermatogenesis	one-year-old male yellow catfish	intraperitoneal inject 17¦Á-ethinylestradiol (EE2) at a dose of 10 ?g/g body weight treatment	upregulated	25229553
+826	Yellow catfish	pfu-miR-200c-3p	miRNA	17¦Á-ethinylestradiol (EE2)	testis development and spermatogenesis	one-year-old male yellow catfish	intraperitoneal inject 17¦Á-ethinylestradiol (EE2) at a dose of 10 ?g/g body weight treatment	upregulated	25229553
+827	Yellow catfish	pfu-miR-429b-3p	miRNA	17¦Á-ethinylestradiol (EE2)	testis development and spermatogenesis	one-year-old male yellow catfish	intraperitoneal inject 17¦Á-ethinylestradiol (EE2) at a dose of 10 ?g/g body weight treatment	upregulated	25229553
+828	Zebrafish	dre-let-7	miRNA	copper (Cu)	olfactory injury	zebrafish tissue	copper (Cu) treatment	"the epigenetic regulatory mechanisms of metal-induced neurotoxicity of the fish olfactory system, and identify novel miRNA biomarkers of metal exposures."	23745839
+829	Zebrafish	dre-let-7b	miRNA	particulate matter (PM2.5)	"hypertension, atherosclerosis and myocardial infarction"	zebrafish (Danio rerio)	fertilized embryos (50 per replicate) were exposed to PM2.5 for 6¨C120 h post-fertilization treatment	upregulated	28215799
+830	Zebrafish	dre-let-7d	miRNA	fasted and fluoxetine (FLX)	fluoxetine exposure	zebrafish	FLX treatment	upregulated	24751937
+831	Zebrafish	dre-let-7d	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+832	Zebrafish	dre-let-7i	miRNA	particulate matter (PM2.5)	"hypertension, atherosclerosis and myocardial infarction"	zebrafish (Danio rerio)	fertilized embryos (50 per replicate) were exposed to PM2.5 for 6¨C120 h post-fertilization treatment	downregulated	28215799
+833	Zebrafish	dre-miR-1	miRNA	phenylephrine (PE)	myocardium hypertrophy	zebrafish hearts	phenylephrine (PE) treatment	downregulated	32681863
+834	Zebrafish	dre-miR-101b	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+835	Zebrafish	dre-miR-107	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+836	Zebrafish	dre-miR-122	miRNA	AgNO3	detoxification pathway of heavy metal ions	zebrafish fibroblasts (ZF4) cells	AgNO3 exposure	downregulated	31617658
+837	Zebrafish	dre-miR-122	miRNA	lead (Pb)	detoxification pathway of heavy metal ions	zebrafish fibroblasts (ZF4) cells	Pb(NO3 )2 exposure	downregulated	31617658
+838	Zebrafish	dre-miR-122	miRNA	ochratoxin A (OTA)	hepatocyte proliferation	embryonic zebrafish liver tissues	OTA treatment	downregulated in liver	29274910
+839	Zebrafish	dre-miR-122	miRNA	crude microcystins	hepatosis	the liver tissues	crude microcystins treatment	downregulated	23851223
+840	Zebrafish	dre-miR-122	miRNA	triptolide (TPL)	hepatotoxicity	zebrafish larvae	triptolide (TPL) treatment	downregulated	28962522
+841	Zebrafish	dre-miR-122	miRNA	particulate matter (PM2.5)	"hypertension, atherosclerosis and myocardial infarction"	zebrafish (Danio rerio)	fertilized embryos (50 per replicate) were exposed to PM2.5 for 6¨C120 h post-fertilization treatment	upregulated	28215799
+842	Zebrafish	dre-miR-122	miRNA	paracetamol	liver disease	zebrafish liver	17b-estradiol (E18) treatment	miRNA was substantially upregulated by paracetamol 24 h after exposure	24625211
+843	Zebrafish	dre-miR-122	miRNA	valproic acid (VPA)	teratogenesis	zebrafish embryos	valproic acid treatment	exposure to teratogens such as valproic acid alters microRNA expression profiles in developing embryos	24126255
+844	Zebrafish	dre-miR-123	miRNA	acetylcysteine	liver disease	zebrafish(3 h poststart of paracetamol exposure)	3 h poststart of paracetamol exposure treatment	upregulated	24625211
+845	Zebrafish	dre-mir-125	miRNA	triclosan (TCS)	toxicity of Triclosan (TCS)	zebrafish larvae	Triclosan (TCS) treatment	upregulated	31627110
+846	Zebrafish	dre-miR-125a	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+847	Zebrafish	dre-miR-125b	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+848	Zebrafish	dre-miR-125b	miRNA	¦Â-diketone antibiotic (DKAs)	liver disease	zebrafish	¦Â-Diketone antibiotics (DKAs) treatment	DKA-exposure at 125 and 25?mg/L significantly increased the expressions of miR-144 and miR-125b	30121499
+849	Zebrafish	dre-miR-125b	miRNA	triclosan (TCS)	triclosan (TCS) exposure	zebrafish (Danio rerio)	TCS treatment	dysregulated	29121543
+850	Zebrafish	dre-miR-125b	miRNA	"1,25-dihydroxyvitamin D 3 (calcitriol)"	vitamin D-sensitive mRNA concentrations	zebrafish	"1,25-dihydroxyvitamin D 3 (calcitriol) treatment"	upregulated	24650217
+851	Zebrafish	dre-miR-126	miRNA	AgNO3	detoxification pathway of heavy metal ions	zebrafish fibroblasts (ZF4) cells	AgNO3 exposure	downregulated	31617658
+852	Zebrafish	dre-miR-126	miRNA	lead (Pb)	detoxification pathway of heavy metal ions	zebrafish fibroblasts (ZF4) cells	Pb(NO3 )2 exposure	downregulated	31617658
+853	Zebrafish	dre-miR-126	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+854	Zebrafish	dre-miR-126*	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+855	Zebrafish	dre-miR-128	miRNA	copper (Cu)	olfactory injury	zebrafish tissue	copper (Cu) treatment	"the epigenetic regulatory mechanisms of metal-induced neurotoxicity of the fish olfactory system, and identify novel miRNA biomarkers of metal exposures."	23745839
+856	Zebrafish	dre-miR-132	miRNA	morphine	morphine addiction	embryos of wild-type AB zebrafish line	morphine treatment	"decreases miR-212 , upregulates miR-132"	26947007
+857	Zebrafish	dre-miR-132	miRNA	valproic acid (VPA)	teratogenesis	zebrafish embryos	valproic acid treatment	exposure to teratogens such as valproic acid alters microRNA expression profiles in developing embryos	24126255
+858	Zebrafish	dre-miR-133a	miRNA	phenylephrine (PE)	myocardium hypertrophy	zebrafish hearts	phenylephrine (PE) treatment	downregulated	32681863
+859	Zebrafish	dre-miR-135a	miRNA	ethanol (EtOH)	ethanol-induced apoptosis	zebrafish embryos; neural crest cells (NCCs)	ethanol treatment	downregulated	33134300
+860	Zebrafish	dre-miR-137	miRNA	triclosan (TCS)	neurotoxicity	brain tissues	Triclosan (TCS) exposure treatment	upregulated	30496951
+861	Zebrafish	dre-miR-138	miRNA	copper (Cu)	olfactory injury	zebrafish tissue	copper (Cu) treatment	"the epigenetic regulatory mechanisms of metal-induced neurotoxicity of the fish olfactory system, and identify novel miRNA biomarkers of metal exposures."	23745839
+862	Zebrafish	dre-miR-140	miRNA	ethanol (EtOH)	alcohol-related tissue damage	muscle	ethanol treatment	downregulated	27671199
+863	Zebrafish	dre-miR-140-5p	miRNA	fasted and fluoxetine (FLX)	fluoxetine exposure	zebrafish	FLX treatment	upregulated	24751937
+864	Zebrafish	dre-miR-142a	miRNA	triclosan (TCS)	triclosan (TCS) exposure	zebrafish (Danio rerio)	TCS treatment	dysregulated	29121543
+865	Zebrafish	dre-miR-142a-5p	miRNA	RPS24 morpholino	diamond-Blackfan anemia (DBA)	zebrafish	RPS24 morpholino treatment	upregulated	25189322
+866	Zebrafish	dre-miR-142b-5p	miRNA	"2,2',4,4'-tetrabromodiphenyl ether (BDE47)"	neurotoxicity	zebrafish larvae	"2,2',4,4'-tetrabromodiphenyl ether (BDE47) treatment"	downregulated	280728662
+867	Zebrafish	dre-miR-143	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+868	Zebrafish	dre-miR-144	miRNA	¦Â-diketone antibiotic (DKAs)	liver disease	zebrafish	¦Â-Diketone antibiotics (DKAs) treatment	DKA-exposure at 125 and 25?mg/L significantly increased the expressions of miR-144 and miR-125b	30121499
+869	Zebrafish	dre-miR-145	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+870	Zebrafish	dre-miR-146a	miRNA	aeromonas hydrophila and edwardsiella piscicida	edwardsiella piscicida infections	zebrafish	aeromonas hydrophila and edwardsiella piscicida infections	Intraperitoneally (i.p.) injected A. hydrophila and E. piscicida into adult zebrafish showed significant upregulation of miR-146a in gills.	32067211
+871	Zebrafish	dre-miR-146a	miRNA	E. piscicida	edwardsiella piscicida infections	zebrafish larvae	E. piscicida infection	The expression of miR-146a was significantly increased in larvae when exposed to E. piscicida infection at 24 and 48 h post exposure (hpe).	32067211
+872	Zebrafish	dre-miR-148	miRNA	crude microcystins	hepatosis	the liver tissues	crude microcystins treatment	downregulated	23851223
+873	Zebrafish	dre-miR-153b-3p	miRNA	particulate matter (PM2.5)	"hypertension, atherosclerosis and myocardial infarction"	zebrafish (Danio rerio)	fertilized embryos (50 per replicate) were exposed to PM2.5 for 6¨C120 h post-fertilization treatment	upregulated	28215799
+874	Zebrafish	dre-miR-155	miRNA	RPS24 morpholino	diamond-Blackfan anemia (DBA)	zebrafish	RPS24 morpholino treatment	upregulated	25189322
+875	Zebrafish	dre-miR-15b	miRNA	Korean Red ginseng extract (KRGE)	angiogenesis	Zebrafish embryos	korean red ginseng extract (KRGE)? treatment	downregulated	29021694
+876	Zebrafish	dre-miR-16a	miRNA	valproic acid (VPA)	teratogenesis	zebrafish embryos	valproic acid treatment	exposure to teratogens such as valproic acid alters microRNA expression profiles in developing embryos	24126255
+877	Zebrafish	dre-miR-17a	miRNA	human chorionic gonadotrophin (hCG)	lung cancer	follicular cells	human chorionic gonadotropin treatment	downregulated	23453964
+878	Zebrafish	dre-miR-182	miRNA	light	circadian clockwork	zebrafish pineal gland	light- and dark-ed fish at six circadian times treatment	upregulated	24423866
+879	Zebrafish	dre-miR-182	miRNA	neomycin	neomycin-induced ototoxicity	hair cells	neomycin treatment	upregulated	29214789
+880	Zebrafish	dre-miR-183	miRNA	light	circadian clockwork	zebrafish pineal gland	light- and dark-ed fish at six circadian times treatment	upregulated	24423866
+881	Zebrafish	dre-miR-183	miRNA	neomycin	neomycin-induced ototoxicity	hair cells	neomycin treatment	upregulated	29214789
+882	Zebrafish	dre-miR-184	miRNA	¦Â-diketone antibiotic (DKAs)	chronic ototoxicity	otoliths during embryonic-larval development	¦Â-diketone antibiotics (DKAs) exposure treatment	downregulated	30265930
+883	Zebrafish	dre-miR-18c	miRNA	valproic acid (VPA)	teratogenesis	zebrafish embryos	valproic acid treatment	exposure to teratogens such as valproic acid alters microRNA expression profiles in developing embryos	24126255
+884	Zebrafish	dre-mir-193b	miRNA	bisphenol S (BPS)	Bisphenol S (BPS) toxicity	male zebrafish gonad	bisphenol S (BPS) treatment	upregulated	29180064
+885	Zebrafish	dre-mir-193b	miRNA	bisphenol S (BPS)	BPS-induced toxicity	male zebrafish	bisphenol S (BPS) treatment	dysregulated	29180064
+886	Zebrafish	dre-miR-199	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+887	Zebrafish	dre-miR-19a-3p	miRNA	particulate matter (PM2.5)	"hypertension, atherosclerosis and myocardial infarction"	zebrafish (Danio rerio)	fertilized embryos (50 per replicate) were exposed to PM2.5 for 6¨C120 h post-fertilization treatment	downregulated	28215799
+888	Zebrafish	dre-miR-19b-3p	miRNA	particulate matter (PM2.5)	"hypertension, atherosclerosis and myocardial infarction"	zebrafish (Danio rerio)	fertilized embryos (50 per replicate) were exposed to PM2.5 for 6¨C120 h post-fertilization treatment	downregulated	28215799
+889	Zebrafish	dre-miR-203a	miRNA	triclosan (TCS)	triclosan (TCS) exposure	zebrafish (Danio rerio)	TCS treatment	dysregulated	29121543
+890	Zebrafish	dre-miR-205	miRNA	triclosan (TCS)	triclosan (TCS) exposure	zebrafish (Danio rerio)	TCS treatment	dysregulated	29121543
+891	Zebrafish	dre-miR-21	miRNA	crude microcystins	hepatosis	the liver tissues	crude microcystins treatment	upregulated	23851223
+892	Zebrafish	dre-miR-21	miRNA	polychlorinated biphenyls (PCBs)	skeletal deficiencies	zebrafish embryos	PCB1254 treatment	upregulated	27761858
+893	Zebrafish	dre-miR-212	miRNA	MAPK inhibition (U0126)	drug addiction	Zebrafish embryos	MAPK inhibition (U0126) treatment	downregulated	30251655
+894	Zebrafish	dre-miR-212	miRNA	morphine	drug addiction	Zebrafish embryos	morphine treatment	downregulated	30251655
+895	Zebrafish	dre-miR-212	miRNA	"N-[N-(3,5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butylester (DAPT)"	drug addiction	Zebrafish embryos	"N-[N-(3,5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butylester (DAPT) treatment"	upregulated	30251655
+896	Zebrafish	dre-miR-212	miRNA	morphine	morphine addiction	embryos of wild-type AB zebrafish line	morphine treatment	"decreases miR-212 , upregulates miR-132"	26947007
+897	Zebrafish	dre-miR-214	miRNA	Korean Red ginseng extract (KRGE)	angiogenesis	Zebrafish embryos	korean red ginseng extract (KRGE)? treatment	downregulated	29021694
+898	Zebrafish	dre-miR-217	miRNA	"triazophos (phenyl-1,2,4-triazolyl-3-(o,o-diethyl thionophosphate))"	toluene-induced toxicity	adult zebrafish (Danio rerio)	"triazophos (phenyl-1,2,4-triazolyl-3-(o,o-diethyl thionophosphate)) exposure treatment"	upregulated	30310668
+899	Zebrafish	dre-mir-223	miRNA	bisphenol S (BPS)	Bisphenol S (BPS) toxicity	male zebrafish gonad	bisphenol S (BPS) treatment	downregulated	29180064
+900	Zebrafish	dre-mir-223	miRNA	bisphenol S (BPS)	BPS-induced toxicity	male zebrafish	bisphenol S (BPS) treatment	dysregulated	29180064
+901	Zebrafish	dre-miR-223	miRNA	RPS24 morpholino	diamond-Blackfan anemia (DBA)	zebrafish	RPS24 morpholino treatment	upregulated	25189322
+902	Zebrafish	dre-miR-23a	miRNA	Korean Red ginseng extract (KRGE)	angiogenesis	Zebrafish embryos	korean red ginseng extract (KRGE)? treatment	downregulated	29021694
+903	Zebrafish	dre-miR-24	miRNA	particulate matter (PM2.5)	"hypertension, atherosclerosis and myocardial infarction"	zebrafish (Danio rerio)	fertilized embryos (50 per replicate) were exposed to PM2.5 for 6¨C120 h post-fertilization treatment	upregulated	28215799
+904	Zebrafish	dre-miR-26a	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+905	Zebrafish	dre-miR-26b	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+906	Zebrafish	dre-miR-27b	miRNA	crude microcystins	hepatosis	the liver tissues	crude microcystins treatment	upregulated	23851223
+907	Zebrafish	dre-miR-29a	miRNA	RPS24 morpholino	diamond-Blackfan anemia (DBA)	zebrafish	RPS24 morpholino treatment	upregulated	25189322
+908	Zebrafish	dre-miR-301b-3p	miRNA	"2,2',4,4'-tetrabromodiphenyl ether (BDE47)"	neurotoxicity	zebrafish larvae	"2,2',4,4'-tetrabromodiphenyl ether (BDE47) treatment"	downregulated	280728662
+909	Zebrafish	dre-mir-33	miRNA	"2,2',4,4'-tetrabromodiphenyl ether (BDE47)"	neurotoxicity	zebrafish larvae	"2,2',4,4'-tetrabromodiphenyl ether (BDE47) treatment"	downregulated	280728662
+910	Zebrafish	dre-miR-33-5p	miRNA	"2,2',4,4'-tetrabromodiphenyl ether (BDE47)"	neurotoxicity	zebrafish larvae	"2,2',4,4'-tetrabromodiphenyl ether (BDE47) treatment"	downregulated	280728662
+911	Zebrafish	dre-miR-338	miRNA	RPS24 morpholino	diamond-Blackfan anemia (DBA)	zebrafish	RPS24 morpholino treatment	upregulated	25189322
+912	Zebrafish	dre-miR-338	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+913	Zebrafish	dre-mir-363	miRNA	bisphenol S (BPS)	Bisphenol S (BPS) toxicity	male zebrafish gonad	bisphenol S (BPS) treatment	downregulated	29180064
+914	Zebrafish	dre-mir-363	miRNA	bisphenol S (BPS)	BPS-induced toxicity	male zebrafish	bisphenol S (BPS) treatment	dysregulated	29180064
+915	Zebrafish	dre-miR-377	miRNA	Korean Red ginseng extract (KRGE)	angiogenesis	Zebrafish embryos	korean red ginseng extract (KRGE)? treatment	downregulated	29021694
+916	Zebrafish	dre-miR-430b	miRNA	human chorionic gonadotrophin (hCG)	lung cancer	follicular cells	human chorionic gonadotropin treatment	downregulated	23453964
+917	Zebrafish	dre-miR-457a	miRNA	RPS24 morpholino	diamond-Blackfan anemia (DBA)	zebrafish	RPS24 morpholino treatment	upregulated	25189322
+918	Zebrafish	dre-miR-459-5p	miRNA	"2,2',4,4'-tetrabromodiphenyl ether (BDE47)"	neurotoxicity	zebrafish larvae	"2,2',4,4'-tetrabromodiphenyl ether (BDE47) treatment"	downregulated	280728662
+919	Zebrafish	dre-miR-462	miRNA	hypoxia	embryonic development	"notochord, pharyngeal arch, liver, and gut regions"	Hypoxia treatment	upregulated	26265472
+920	Zebrafish	dre-mir-499	miRNA	bisphenol S (BPS)	Bisphenol S (BPS) toxicity	male zebrafish gonad	bisphenol S (BPS) treatment	downregulated	29180064
+921	Zebrafish	dre-mir-499	miRNA	bisphenol S (BPS)	BPS-induced toxicity	male zebrafish	bisphenol S (BPS) treatment	dysregulated	29180064
+922	Zebrafish	dre-miR-57b	miRNA	valproic acid (VPA)	teratogenesis	zebrafish embryos	valproic acid treatment	exposure to teratogens such as valproic acid alters microRNA expression profiles in developing embryos	24126255
+923	Zebrafish	dre-miR-731	miRNA	hypoxia	embryonic development	"notochord, pharyngeal arch, liver, and gut regions"	Hypoxia treatment	upregulated	26265472
+924	Zebrafish	dre-miR-731	miRNA	ochratoxin A (OTA)	intracerebral haemorrhage (ICH)	zebrafish embryos	Ochratoxin A (OTA) treatment	upregulated	31675585
+925	Zebrafish	dre-miR-731	miRNA	mycotoxin ochratoxin A (OTA)	renal development	embryos	Mycotoxin ochratoxin A (OTA) treatment	upregulated	30090366
+926	Zebrafish	dre-miR-733	miRNA	estradiol-17¦Â (E2)	liver disease	zebrafish liver	estradiol-17¦Â (E2) treatment	downregulated	23767875
+927	Zebrafish	dre-miR-735-3p	miRNA	"2,2',4,4'-tetrabromodiphenyl ether (BDE47)"	neurotoxicity	zebrafish larvae	"2,2',4,4'-tetrabromodiphenyl ether (BDE47) treatment"	upregulated	280728662
+928	Zebrafish	dre-miR-7a	miRNA	particulate matter (PM2.5)	"hypertension, atherosclerosis and myocardial infarction"	zebrafish (Danio rerio)	fertilized embryos (50 per replicate) were exposed to PM2.5 for 6¨C120 h post-fertilization treatment	downregulated	28215799
+929	Zebrafish	dre-miR-7a	miRNA	copper (Cu)	olfactory injury	zebrafish tissue	copper (Cu) treatment	"the epigenetic regulatory mechanisms of metal-induced neurotoxicity of the fish olfactory system, and identify novel miRNA biomarkers of metal exposures."	23745839
+930	Zebrafish	dre-miR-96	miRNA	¦Â-diketone antibiotic (DKAs)	chronic ototoxicity	otoliths during embryonic-larval development	¦Â-diketone antibiotics (DKAs) exposure treatment	downregulated	30265930
+931	Zebrafish	dre-miR-96	miRNA	neomycin	neomycin-induced ototoxicity	hair cells	neomycin treatment	upregulated	29214789
+932	Zebrafish	dre-miR-965	miRNA	light	circadian clockwork	zebrafish pineal gland	light- and dark-ed fish at six circadian times treatment	upregulated	24423866

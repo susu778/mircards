@@ -1,0 +1,3159 @@
+Environmental factor (EF)
+(-)-epigallocatechin gallate (EGCG)
+(+)-cholesten-3-one (CN)
+"(1,2-epoxy-3(3-(3,4-dimethoxyphenyl)-4H-1-benzopyran-4-on) propane (EPI)"
+"(2E,6E)-2,6-bis(2-(trifluoromethyl)benzylidene)cyclohexanone (C66)"
+"(2E,6E)-2,6-bis-(4-hydroxy-3-methoxybenzylidene)-cyclohexanone (BHMC)"
+"(2R,4R)-4-aminopyrrolidine-2,4-dicarboxylate (2R,4R-APDC)"
+(6)-gingerol (6G)
+(E)-1-(4'-aminophenyl)-3-phenylprop-2-en-1-one (APE)
+"(R)-2-isobutyl 3-methyl 3,4-dihydro-1H-pyrido[3,4-b]indole-2,3(9H)-dicarboxylate"
+[6]-gingerol-fractions (GF)
+0.05% NaI
+"1,1-trichloro-2,2-di(4-chlorophenyl)ethane (DDT)"
+"1,24-dihydroxyvitamin D 3 (tacalcitol)"
+"1,25-dihydroxyvitamin D (1,25(OH)2D)"
+"1,25-dihydroxyvitamin D 3 (calcitriol)"
+"1,25-dihydroxyvitamin D 3 (calcitriol) analogue EB1089"
+"1,2-dichloroethane (1,2-DCE)"
+"1,3,5-tris-4-propyl-1H-pyrazole"
+"1,4-benzoquinone (1,4-BQ)"
+"1,4-bis[2-(3,5-dichloropyridyloxy)]benzene (TCPOBOP)"
+"1,6,7-trihydroxyxanthone (THA)"
+10-hydroxycamptothecin (HCPT)
+12-O-tetradecanoylphorbol-13-acetate (TPA)
+"13-cis retinoic acid (13-cis RA) and 1,25-dihydroxyvitamin D3 (1,25-VD3)"
+"15-deoxy-¦¤12, 14-prostaglandin J2 (15d-PGJ2)"
+16¦Á-hydroxyestrone (16¦ÁOHE)
+177lu-octreotate
+17-AAG (tanespimycin)
+17¦Á-ethinylestradiol (EE2)
+18¦Â-glycyrrhetinic acid (GA)
+1'-acetoxychavicol acetate
+"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"
+1-methyl-4-phenylpyridinium (MPP+)
+1-naphthaleneacetic acid (NAA)
+"2, 3, 3', 4, 4', 5 - hexachlorobiphenyl (PCB 156)"
+"2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD)"
+"2,2',4,4'-tetrabromodiphenyl ether (BDE47)"
+"2,3,5,4'-tetrahydroxystilbene-2-O-¦Â-D-glucoside (TSG)"
+"2,3,5,6-tetramethylpyrazine (TMP)"
+"2,3-dihydro-5-methyl-3-([morpholinyl]methyl)pyrollo(1,2,3-de)-1,4-benzoxazinyl]-[1-naphthaleny]methanone [WIN 55,212-2, (WIN)]"
+"2,4,5-trihydroxybenzaldehyde (TDB)"
+"2,4,6-trinitrobenzene sulfonic acid (TNBS)"
+"2,5-hexanedione (HD)"
+2/3 partial hepatectomy (PH)
+20-hydroxyecdysone (20-HE)
+20-hydroxyeicosatetraeonic acid (20-HETE)
+25-hydroxycholesterol (25-HC)
+27-hydroxycholesterol (27-OHC)
+2-acetyl-5-tetrahydroxybutyl imidazole (THI)
+2-acetylaminofluorene
+"2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP)"
+2-deoxy glucose (2-DG) and thapsigargin (TG)
+2-deoxy-d-glucose (2-DG)
+2-hydroxy-(4-methylthio)butanoic acid (HMB)
+2-imidazolidinethione
+2-methoxyestradiol (2-Me)
+2-octynoic acid
+2-o-methylmagnolol (MM1)
+"3,3'5-tri-iodo-L-thyronine (T3)"
+"3,3'-diindolylmethane (DIM)"
+"3,3'-iminodipropionitrile (IDPN)"
+"3,4-benzopyrene/angiotensin II"
+"3,4-dihydroxyphenylethanol (DOPET)"
+"3,5-diethoxycarbonyl-1,4-dihydrocollidine (DDC)"
+"3,5-diiodo-L-thyronine (T2)"
+"3,6-dihydroxyflavone (3,6-DHF)"
+"3-[2-[2-chloro-4-[[3-(2,6-dichlorophenyl)-5-(1-methylethyl)-4-isoxazolyl]methoxy]phenyl]ethenyl]benzoic acid (GW4064)"
+3-acetonyl-3-hydroxyoxindole (AHO)
+3-acetyl-11-keto-¦Â-boswellic acid (AKBA)
+3-acetyl-11-keto-¦Â-boswellic acid (AKBA) and dexamethasone (DEX)
+3-benzyl-5-([2-nitrophenoxy] methyl)-dihydrofuran-2(3H)-one (3BDO)
+"3-Isobutyl_x0002_l-methylxanthine (MIX), dexamethasone (DEX)"
+3-isobutyl-1-methylxanthine (IBMX)-dexamethasone-insulin cocktail
+3-methyladenine (3-MA)
+3-nitropropionic acid
+"3¦Â,16¦Â,17¦Á-trihydroxycholest-5-en-22-one 16-O-(2-O-4-methoxybenzoyl-¦Â-D-xylopyranosyl)-(1¡ú3)- (2-O-acetyl-¦Á-L-arabinopyranoside) (OSW-1)"
+3¦Â-hydroxycholest-5-en-7-one
+4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK)
+4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK) and lipopolysaccharide (LPS)
+"4', 5, 7-trihydroxy-3', 5'-dimethoxyflavone (Tricin)"
+"4,4'-methylene diphenyl diisocyanate (MDI)"
+"4,4'-methylenedianiline (MDA)"
+4-aminobiphenyl (4-ABP)
+4-hydroxynonenal (4-HNE)
+4-nitroquinoline 1-oxide (4NQO)
+"4-phenylbutyric acid (PBA, endoplasmic reticulum stress inhibitor)"
+4-phenylbutyric acid and 5-aza-2-deoxycytidine
+4?-12-O-tetradecanoylphorbol-13-acetate (TPA)
+4-tert-octylphenol (OP)
+4-vinylcyclohexene diepoxide (VCD)
+"5(S), 6(R),7-trihydroxyheptanoic acid methyl ester (BML-111)"
+"5,7,3',4'-tetramethoxyflavone (TMF)"
+5-aminolevulinic acid photodynamic therapy(ALA-PDT)
+"5-Aza-2'-deoxycytidine (5-Aza-dC, decitabine)"
+"5-Aza-2'-deoxycytidine (5-Aza-dC, decitabine) and 4-phenylbutyric acid (PBA)"
+"5-Aza-2'-deoxycytidine (5-Aza-dC, decitabine) and suberoylanilide hydroxamic acid"
+5-aza-2'-deoxycytidine and trichostatin A
+5-chloro-N-[4-chloro-3-(trifluoromethyl)phenyl]thiophene-2-sulfonamide (FX5)
+5-fluorouracil (5-Fu)
+5-fluorouracil (5-Fu) and oxaliplatin
+5-fluorouracil and ixabepilone
+5-fluorouracil/cisplatin (CDDP-CRTX)
+5-fluorouracil/mitomycin C (MMC-CRTX)
+5¦Á©\dihydrotestosterone (DHT)
+60 mmHg of pressure
+6-bromoindirubin-3'-oxime (BIO)
+6-Gingerol (6-G)
+6-hydroxydopamine (6-OHDA)
+6-mer HA oligosaccharides as sodium salt
+6'-O-galloylpaeoniflorin (GPF)
+6-thioguanine (6-TG)
+"7,12-dimethylbenz(¦Á)anthracene (DMBA)"
+7.5% hypertonic saline (HS)
+7-chlorokynurenic acid (7-CTKA)
+8-bromo-cyclic adenosine monophosphate (8-bromo-cAMP) and medroxyprogesterone acetate (MPA)
+a moderate-carbohydrate and high glycemic index diet
+a moderate-carbohydrate and low glycemic index diet
+A23187
+A2B5+ cell transplantation
+abatacept
+abdominal aortic coarctation
+abscisic acid (ABA)
+a?a¨ª (Ac) and red muscadine grape (Gp)
+acarbose
+acetaminophen (APAP)
+acetaminophen (APAP) and methapyrilene (MP)
+"acetaminophen, carbon tetrachloride, D-galactosamine and thioacetamide"
+acetyl-11-keto-¦Â-boswellic acid (AKBA)
+acetylated Low density lipoprotein (Ac-LDL)
+acetylated Low density lipoprotein (Ac-LDL) and high glucose (HG)
+acetylcholine (ACh)
+acetylcholine-CaCl2 solution
+acetylcysteine
+acidic bile
+acidic bile salt
+acidic microenvironment
+acidity
+acidosis
+acidovorax avenae
+acrolein
+actinobacillus pleuropneumoniae
+actinomycetemcomitans (Aa)
+actinomycin D (actD)
+actinomycin X2 (AX2)
+activated protein C(APC)
+active fraction of polyrhachis vicina rogers (AFPR)
+active pterocarpanquinone LQB-118 
+activin A
+acupuncture
+acupuncture with low-frequency electrical stimulation (Acu/LFES)
+acute and long-term aerobic exercise
+acute bout of resistance exercise
+acute eccentric exercise
+acute exercise
+acute stress
+acute stress (AS) and chronic stress (CS)
+acute stressor modulates
+acyclovir
+adalimumab(ADA)
+adenine
+adeno-associated virus (AAV)
+adenosine
+adenoviral and lentiviral
+adenovirus (ADV)
+adherent-invasive escherichia coli (AIEC)
+adipogenesis medium
+adipokine apelin (APLN)
+adipokines
+adiponectin
+adjuvant
+administering adenine and allantoxanic acid potassium salt
+adoMet
+adrenaline
+adreno-cortico-tropic-hormone (ACTH)
+adriamycin (ADR)
+adriamycin (ADR) and vincristine (VCR)
+advanced glycation end product (AGE)
+advanced glycation end product modified bovine serum albumin (AGE-BSA)
+advanced glycation end products (AGEs) and oxidized low-density lipoprotein (ox-LDL)
+aerobic exercise
+aerobic training
+aeromonas hydrophila and edwardsiella piscicida
+afatinib
+aflatoxin B1 (AFB1)
+aflatoxin M1?(AFM1)
+agmatine (AGM)
+AgNO3
+AgNPs
+agrimonia pilos polysaccharide (APP-AW) and its sulphated derivatives (S2)
+Ag¨CTiO2 photocatalyst particles
+"AhR agonists benzo[a]pyrene (B[a]P) and FICZ, AhR antagonist CH-223191"
+AICAR
+aidi injection (ADI)
+ailanthone (AIL)
+Akt inhibitor and the EGFR inhibitor (Gefitinib)
+alagebrium chloride (ALT711)
+albizia julibrissin (AJSAF)
+albumin
+alcohol
+alcohol extract of coreopsis tinctoria Nutt (AC)
+aldara
+aldose reductase
+aldosterone
+alendronate
+alginate oligosaccharide (AOS)
+alkannin
+allen's weight-drop method
+allopurinol
+alloxan
+all-trans retinoic acid (ATRA)
+allylamine (AAM)
+aloe-emodin (AE)
+alogliptin
+aloin
+aloperine
+alpha-1 antitrypsin (AAT)
+alpinetin (ALP)
+alpinia oxyphylla extract (AOE)
+alpinumisoflavone (AIF)
+alprostadil
+alternariol (AOH)
+altertoxin II (ATX II)
+aluminum (Al)
+aluminum maltolate (Al-malt)
+aluminum oxide nanoparticles (Al2O3 NPs)
+aluminum-sulfate
+amadori-glycated albumin (AGA)
+amB with copper (II) ions (AmB-Cu2+)
+amentoflavone (AF)
+american ginseng root's
+amikacin
+aminosulfonylarylisoxazole
+amlodipine
+ammonia (NH3)
+amniotic fluid mesenchymal stem cells (AFMSCs)
+amoxicillin or clavulanate
+amoxicillin/clavulanate-induced liver injury (AC-DILI)
+amphetamine regimen
+amphiregulin
+amygdalin
+amyloid-¦Â (A¦Â)
+amyloid-¦Â (A¦Â) 1-40
+amyloid-¦Â (A¦Â) 1-42
+amyloid-¦Â (A¦Â) 25-35
+amyloid-¦Â (A¦Â) 42
+anabolic-androgenic ateroids (AASs)
+anacardic acid (AnAc)
+anandamide (AEA)
+anandamide and norgestimate
+andes hantavirus (ANDV)
+androgen
+androgen deprivation therapies (ADT)
+"androgen receptor (AR) agonist, CI-4AS-1"
+androgen receptor (ASC-J9 ?)
+andrographolide
+angelica polysaccharide (AP)
+angiopoietin-1 (Ang-1)
+angiopoietin-2 (Ang-2)
+angiostrongylus cantonensis (A. cantonensis)
+angiotensin II (Ang II)
+angiotensin II type I receptor agonistic autoantibodies (AT1-AA)
+angiotensin-(1-7)
+angiotensin-converting enzyme 2 (ACE2)
+angiotensin-converting enzyme 2 (ACE2) inhibitor
+anisakis complete extract (CE)
+anisomycin
+"annexin A7 inhibitor, ABO (6-amino-2,3-dihydro-3-hydroxymethyl-1,4-benzoxazine)"
+anoxia/reoxygenation (A/R)
+antcin A (ATA)
+anthracycline (AC)
+anthracycline glycoside aloin
+"anthranilamide-pyrazolo[1,5-a]pyrimidine"
+anthraquinone-chalcone hybrids containing amide function compounds 6e
+anthraquinone-chalcone hybrids containing amide function compounds 6g
+anthraquinone-chalcone hybrids containing amide function compounds 6u
+anthraquinone-chalcone hybrids containing amide function compounds 6v
+"anti-benzo[a]pyrene-trans-7,8-diol-9,10-epoxide (anti-BPDE)"
+antibiotics
+"anticancer agents£¨sorafenib, camptothecin, and doxorubicin£©"
+anticancer bioactive peptide-3 (ACBP-3)
+"anti-CD3, anti-CD28, IL-12, , IL-18"
+anti-citrullinated protein antibodies (ACPAs)
+antidepressant
+antidiabetic
+anti-EGFR therapy
+anti-fas receptor antibodies
+antifibrotic peptide N-acetyl-seryl-aspartyl-lysyl-proline (AcSDKP)
+antigen
+anti-microbial peptide LL-37
+antimicrobial peptides (AMPs)
+antimycin A (AA)
+antioxidant of bamboo leaves (AOB)
+anti-programmed cell death protein 1 (anti-PD-1) antibody
+"antipsychotic(olanzapine, quetiapine, ziprasidone and risperidone)"
+antrodia cinnamomea
+aorta-caval shunt
+aortic valve replacement (AVR)
+apatinib
+apicidin
+apigenin
+aplysin
+apocynin
+apolipoprotein A-I mimetic peptide 4F
+apomorphine (APO)
+AR-42
+arachidonic acid (AA)
+arbutin (ARB)
+arctigenin
+arctiin
+arecoline
+arginine vasopressin
+argon-helium cryoablation treatment
+aristolochic acid
+aromatase inhibitors (AIs)
+ARS labeled titanium dioxide nanoparticles (nano-TiO 2-ARS)
+"arsenic (As), cadmium (Cd), and lead (Pb) (As-Cd-Pb)"
+arsenic resistance protein 2 (Ars2)
+arsenic sulfide
+arsenic trioxide (ATO)
+arsenite
+artemisinin (ART)
+artemisinin and artesunate
+arterial mechanical stretch
+artesunate (ART)
+artesunate (ART) and bromocriptine (BRC)
+AS1411
+asbestos
+asbestos fibers
+ascorbic acid
+ASH1
+asiatic acid (AA)
+asiaticoside
+asparagus extract (AE)
+aspergillus fumigatus (A. fumigatus)
+aspirin
+aspirin-triggered resolvin D1 (AT-RvD1)
+astaxanthin
+astilbin
+astragaloside IV (AS-IV)
+astragalus polysaccharide (APS)
+astragalus Root dry extract (ARDE)
+astragalus saponin IV
+asymmetrical dimethylarginine
+atorvastatin
+atractylon (Atr)
+atrasentan
+atrazine (2-chloro-4-ethylamino-6-isopropylamino-s-triazine; ATR)
+atropine
+atropine sulfate
+aucubin
+augmenter of liver regeneration (ALR)
+aurora kinase inhibitor (CCT137690)
+autologous hematopoietic SCT(AHSCT)
+avenanthramide A (AVN A)
+averrhoa carambola free phenolic extract (ACF)
+avian leukosis virus (ALV-J)
+avian pathogenic escherichia coli (APEC)
+AVM-derived brain endothelial cells Conditioned media (AVM-BEC-CM)
+axotomy
+azacitidine (AZA)
+AZD6244
+AZD8055
+azilsartan medoxomil (AZL-M)
+azoxymethane (AOM)
+azoxymethane (AOM) and dextran sulfate sodium (DSS)
+azoxymethane (AOM) and dextran sulfate sodium (DSS) AOM/DSS
+B cell lymphoma/lewkmia-2 (Bcl2)
+baccharin and drupanin
+bacillus calmette-guerin (BCG)
+bafilomycin A1
+bagging treatments
+baicalin (BAI)
+bakkenolide-IIIa (Bak-IIIa)
+BAM8-22
+baohuoside-I
+barium chloride
+basic fibroblast growth factor (bFGF)
+basic fibroblast growth factor (bFGF) and epidermal growth factor (EGF)
+BAY11-7082
+beclin-1
+beet necrotic yellow vein virus (BNYVV)
+benzene
+benzimidazotriazin
+"benzo(a)pyren-7,8-dihydrodiol-9,10-epoxide (BPDE)"
+benzo(a)pyrene (BaP)
+benzophenone-3 (BP-3)
+benzyl butyl phthalate (BBP)
+benzyl isothiocyanate (BITC)
+beraprost sodium
+berberine (BBR)
+berberine coated mannosylated liposomes (ML-BBR)
+"berberis aristata, elaeis guineensis?and?coffea canephora"
+beryllium sulfate (BeSO4 )
+BET inhibitors (JQ1)
+betanin (BET)
+beta-phenethyl isothiocyanate (PEITC)
+betulinic acid (BA)
+bevacizumab
+bevacizumab and FOLFOX
+bharangin
+bicalutamide
+bicotine
+bicyclol
+Bie Jia Jian Pill (BJJP)
+bilateral common carotid artery occlusion (2-VO)
+bilateral surgical destabilization of the medial meniscus (DMM)
+bile acids
+bile duct ligation (BDL)
+bilobalide (BB)
+binase
+binge drinking
+biochanin A
+bis-enoxacin
+bisphenol A (BPA)
+bisphenol S (BPS)
+bisphenol-A (BPA) and diethylstilbestrol (DES)
+bisphosphonates (BPs)
+bitter melon seed water extract (BMSW)
+BIX01294
+BL-8040
+black raspberry (BRB) anthocyanins
+blast
+bleomycin (BLM)
+bleomycin and engeletin
+bleomycin and IgG IC
+bleomycin and silica
+"bleomycin, cigarette smoke, silica, or sepsis"
+blueberry
+bone marrow mesenchymal stem cells (BMSCs)
+bone marrow transplantation (BMT)
+bone matrix gelatin
+"bone matrix gelatin ,collagen,and pristane"
+Bone morphogenetic protein 1 (BMP1)
+bone morphogenetic protein 2 (BMP2)
+"bone morphogenetic protein 2 (BMP2), Osteocalcin, and Runx2"
+bone morphogenetic protein 4 (BMP4)
+bone morphogenetic protein 4 (BMP4) and TGF-¦Â2
+bone morphogenetic protein 7 (BMP7)
+bone morphogenetic protein 9 (BMP9)
+bone morphogenetic proteins (BMPs)
+boric acid
+borna disease virus (BDV)
+borneol
+boron
+borrelia burgdorferi
+bortezomib
+bosentan
+bostrycin
+bothrops moojeni snake venom (BmooLAAO-I)
+botryosphaeria dothidea
+botrytis cinerea (B. cinerea)
+botulinum neurotoxin (BoNT)
+botulinum toxin A (BTXA)
+bovine ephemeral fever virus (BEFV)
+bovine lactoferrin (bLf) and iron saturated lactoferrin (Fe-bLf)
+bovine serum albumin (BSA)
+bovine type II collagen
+bovine type II collagen containing Freund's adjuvant
+brachial plexus avulsion
+BRAF
+BRAF and MEK inhibitor
+brahma (BRM)
+brain-derived neurotrophic factor (BDNF)
+brain-derived neurotrophic factor (BDNF) and retinoic acid (RA)
+brazilein
+bromocriptine
+bromodichloromethane (BDCM)
+bromopyruvate (3-BrPA)
+brown rice
+brown seaweed fucoidan
+brucea javanica oil (BJO)
+bruceine D (BD)
+brucella abortus
+brucella Omp25
+brucella.suis
+brusatol
+Bt2cAMP
+B-type-natriuretic peptide (BNP)
+budesonide
+bufalin
+bufothionine
+bupivacaine
+burn injury
+bushen huoxue decoction (BHD)
+bushen yijing decoction (BSYJ)
+Bu-Shen-Huo-Xue-Fang (BSHXF)
+busulfan
+busulphan
+butorphanol
+butyl benzyl phthalate (BBP)
+butylcycloheptyl prodiginine (bPGN)
+butyrate
+butyrate and inulin
+butyric acid (BA)
+butyrylated high-amylose maize starch (HAMSB)
+Buyang Huanwu decoction (BYHWD)
+BxPC-3-conditioned medium (BxCM)
+C8 fluoride derivative of cheliensisin A (ChlA-F)
+cabazitaxel
+cadmium (Cd)
+caerulein (Cae)
+caerulein and aurolithocholic acid 3-sulfate (TLC-S)
+cafeteria diet
+caffeic acid
+caffeic acid phenethyl ester (CAPE)
+caffeine
+calcitonin (CT)
+calcitonin gene-related peptide (CGRP)
+calcitriol
+calcium chloride or osteogenic medium
+calcium glucarate (CAG)
+calcium oxalate (CaOx)
+calcium oxalate monohydrate (COM)
+Calhex-231 (Cal)
+calophyllum inophyllum Linn. (Guttiferae)
+calorie restriction (CR)
+calycosin
+cAMP-response element binding protein (CREB)
+camptothecin
+cancer-associated fibroblasts (CAFs)
+candida albicans (C. albicans)
+candida albicans (C. albicans) and aspergillus fumigatus (A. fumigatus)
+canine influenza virus (CIV) H3N2
+cannabinoid receptor 1 (CB1) antagonists SR141716A
+cannabinoid receptor type II (CB2R)
+cannabinoids
+cantharidin (CTD)
+capecitabine
+capecitabine-oxaliplatin and radiotherapy
+caprine parainfluenza virus type 3 (CPIV3)
+capsaicin
+captopril
+carbamate
+carbamylated albumin
+carbon black (CB) particles
+carbon black nanoparticle (CBNP)
+carbon disulfide (CS2)
+carbon monoxide (CO)
+carbon monoxide-releasing compound CORM-2
+carbon tetrachloride (CCl4)
+"carbon-tetrachloride- and 3,5-di-diethoxycarbonyl-1,4-dihydrocollidine"
+carboplatin (CBP)
+carboplatin-docetaxel
+carboxymethyllysine (CML)
+carcinogenic nephrotoxin ochratoxin A
+cardamonin
+cardenolide analog 3¦Â-[2-(1-amantadine)- 1-on-ethylamine]-digitoxigenin (AMANTADIG)
+cardiac ischemia reperfusion (CIR)
+cardiac resynchronization therapy
+cardiac shock wave therapy (SWT)
+cardiac ¦Á-myosin heavy chain peptides (MyHC-¦Á)
+cardio-pulmonary bypass (CPB)
+cardiotoxin (CTX)
+carfilzomib
+carnosic acid (CA)
+carvedilol
+casiopeina II-gly (Cas-II-gly)
+castrated
+castration
+catalpol
+catechin
+catheter injury
+cationic bovine serum albumin (C-BSA)
+caudatin
+caveolin-1 scaffolding domain peptide (CSP)
+"CB1 antagonist, AM251"
+C-BaP-Cr-Pb-As
+CC2238/¦ÁANP
+CCAAT/enhancer binding protein delta (CEBPD)
+CCL2
+CCL20 and CXCL8
+ccrriizottiiniib
+CdSe/ZnS-GSH
+CdSe/ZnS-MPA
+cecal ligation and puncture (CLP)
+celastrol
+celecoxib
+centrin gene deleted Leishmania donovani parasites (LdCen?/?)
+cerasus humilis polyphenol (CHP)
+cerivastatin
+cerulean
+cerulein
+cerulein or cyanohydroxybutene (CHB)
+cetuximab
+CH12
+chaenomeles speciosa (CSTT)
+chaihuang Yishen granule (CHYS)
+chemokine CCL5
+chemoradiation therapy (CRT)
+chemotherapeutic agents£¨rapamycin; temsirolimus and everolimus; BEZ235 and AZD8055; and imatinib £©
+chemotherapy
+"chenodeoxycholic acid, GW4064"
+chidamide
+chikungunya virus
+chikusetsusaponin IVa (CsIVa)
+chitin
+chitosan
+chlamydia muridarum variants (C. muridarum Var001 [CmVar001] and CmVar004)
+"chlamydia, haemophilus influenzae, influenza, and respiratory syncytial virus"
+chlormethiazole (CMZ)
+chlorogenic acid (CGA)
+chloroquine
+chlorpromazine (CHLO)
+"chlorpromazine, haloperidol and clozapine"
+"chlorpromazine, procainamide, manganese"
+chlorpyrifos (CPF)
+cholecalciferol
+cholesterol
+cholesterol-enriched diet
+cholic acid (CA)
+choline- and folate-deficient (CFD) diet
+choline deficient diet (MCDD)
+chondrogenic medium
+chromium (Cr)
+chronic brain hypoperfusion (CBH)
+chronic constriction injury (CCI)
+chronic exogenous corticosterone (CORT)
+chronic heart failure (CHF)
+chronic hypoxia-hypercapnia (CHH)
+chronic intermittent hypoxia (CIH)
+chronic mild unpredictable mild stimulation (CUMS)
+chronic normobaric hypoxia (CNH)
+chronic sleep fragmentation (SF)
+chronic social defeat stress (CSDS)
+chronic social instability stress
+chronic stress
+chronic ultra-mild stress
+chronic unpredictable mild stress (CUMS)
+chronic unpredictable stress (CUMS) and lipopolysaccharide (LPS)
+chrysin
+chuyou yuyang granule (CYYY)
+cigarette smoke (CS)
+cigarette smoke condensate (CSC)
+cigarette smoke extract (CSE)
+cigarette smoke extract (CSE) and particulate matter (PM2.5)
+cigarette smoke or nontypeable Haemophilus influenzae (NTHi)
+cigarette/nicotine
+cilostazol
+cinnamaldehyde (CA)
+cinnamic acid (CNA)
+cinobufacini
+circadian disruption (CD)
+cisplatin (DDP)
+cisplatin (DDP) and?thiosemicarbazone compound 4
+cisplatin (DDP) and?thiosemicarbazone compound 5
+cisplatin and docetaxel
+cisplatin and doxorubicin
+cisplatin and gemcitabine
+cisplatin and gentamicin
+cisplatin and paclitaxel
+cisplatin and pemetrexed
+"cisplatin, N-ethyl-N-nitrosourea, etoposide, mitomycin C, methyl methanesulphonate, taxol, and X-ray radiation"
+cisplatinum
+citalopram
+citrate
+citrulline
+citrus aurantium L. dry extracts (CAde)
+citrus peel flavonoid extracts (CPFE)
+citrus psorosis virus (CPsV)
+"CK2 inhibitor TBB (4,5,6,7-tetrabromobenzotriazole)"
+CL 316243 disodium salt
+cladophora glomerata methanolic extract
+Cl-amidine
+clamping both renal arteries
+clamping the renal pedicle
+classical swine fever virus (CSFV)
+clopidogrel
+Clostridium butyricum (C. butyricum)
+clostridium difficile
+clostridium perfringens (C. perfringens) type C
+clozapine (CLZ)
+coal tar pitch (CTP)
+coal tar pitch extracts (CTPE)
+coal-burning type fluoride
+cocaine
+cocaine and amphetamines
+cocaine hydrochloride
+cockroach extract (CRE)
+CoCl2
+Co-Cr-Mo alloy particles
+Co-Cr-Mo metal particles (CoPs)
+"codelivery of paclitaxel and 2'-hydroxy-2,4,4',5,6'-pentamethoxychalcone"
+codonopsis pilosula
+coenzyme Q10 (CoQ10)
+coffee
+coix seed Oil (CSO)
+colchicine
+cold
+cold atmospheric plasma (CAP)
+colesevelam
+colistin
+collagen
+collagen IV and vascular endothelial growth factor (VEGF)
+collagenase
+collagenase VII
+collagenase VII-S
+collagenase-2
+combination of rapamycin plus MP
+combined resistance-endurance (RE) training
+comfrey
+common aeroallergens
+complement C3a
+complete freund's adjuvant (CFA)
+compound 21 (C21)
+compound 331
+compound astragalus and salvia miltiorrhiza extract (CASE)
+compound C
+compression force (CF)
+co-nanoencapsulated curcumin (Cur) and chrysin (Chr)
+concanamycin A (Con A)
+conditioned media (CM)
+conjugated linoleic acid (CLA)
+conjugated linoleic acid (cLA) and nitrite
+connective tissue growth factor (CTGF)
+contextual fear conditioning
+contrast medium (CM)
+controlled cortical impact (CCI)
+copper (Cu)
+Copper(II) complex of quercetin Cu+Q
+coptidis rhizoma aqueous extract
+coptisine (COP)
+cordycepin
+corilagin
+coronary artery bypass graft (CABG)
+coronary artery ligation
+coronary microembolization (CME)
+cortical impact
+corticosteroid
+"corticosteroid, dexamethasone, and fetal calf serum (FCS)."
+corticosterone
+corticotrophin releasing factor (CRF) receptor I antagonist (BMS-764459)
+cortisol
+cortisone
+corylin
+COTI-2
+covalent inhibitor of CDK7 (THZ1)
+COX-2 inhibitor NS398
+coxsackievirus A16 (CA16)
+coxsackievirus A16 (CVA16) and enterovirus 71(EV71)
+coxsackievirus B3 (CVB3)
+CP (cyclophosphamide)
+CpG
+C-phycocyanin (CPC)
+crataegus special extract WS 1442
+c-reactive protein (CRP)
+CREB activator forskolin
+CREB-inhibitor 666-15
+crizotinib
+crocin
+cronobacter sakazakii
+crude microcystins
+cryptococcosis
+cryptosporidium parvum
+cryptotanshinone
+CTB-UE
+CTCE-0214 (CTCE)
+C-terminal Hsp90 inhibitor KU758
+CTLA4-Ig
+cucurbitacin B (CuB)
+CuO nanowire fabricated with folic acid (CuO-Nw-FA)
+cuprizone (CPZ)
+curcumin (Cur)
+curcumin analog EF24
+curcumin and 3 acetyl-11-keto-¦Â-boswellic acid (AKBA)
+curcumin with emodin
+curcumin-derived analogue CDF
+curcuminoids
+curcumol
+cutibacterium acnes (C. acnes)
+CXCR4
+CXCR4 agonist AMD3100
+CXCR4 antagonist TN14003
+cyanidin-3-glucoside (C3G)
+cyanobacterial lipopolysaccharide antagonist (CyP)
+cycle-dependent kinase (CDK) inhibitor SNS-032
+cyclic adenosine monophosphate (cAMP)
+cyclic hydroxamic acid-containing peptide 31 (CHAP31)
+cyclic mechanical stretch (CMS)
+cyclin-dependent kinase 1 (CDK1)
+cyclooxygenase-2 (COX-2)
+cyclopamine
+cyclophosphamide
+cyclophosphamide (CP)
+"cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP)"
+cyclosporine A (CsA)
+cypermethrin (CYM)
+cysteine-rich 61 (CCN1)
+cytarabine (Ara-C)
+cytomegalovirus (CMV)
+cytoreductive surgery (CRS) + hyperthermic intraperitoneal chemotherapy (HIPEC)
+D-4F
+dabrafenib
+dacarbazine (DTIC)
+dacarbazine and interferon-alfa-2b
+daidzein (DA)
+danazol
+dandelion
+danggui buxue tang (DBT)
+danhong injection (DHI)
+dantonic
+dapagliflozin
+daphnane diterpenoid genkwanine M (GENK)
+"DAPT (N-[(3,5-Difluorophenyl)-acetyl]-L-al- anyl-2-phenyl]-glycine-1,1-dimethylethylester)"
+dasatinib
+dasatinib and 5-Aza-2'-deoxycytidine
+dasatinib and quercetin
+daunorubicin
+dauricine (Dau)
+"DDT (2,2-dichlorodiphenyl-1,1,1-trichloroethane)"
+"DDT (2,2-dichlorodiphenyl-1,1,1-trichloroethane), benzo[a]pyrene (BP), and 3-methylcholanthrene (MC)"
+DDT and BPA
+deacetylase inhibitors (DACi)
+decabromodiphenyl ether (BDE-209)
+decitabine
+deep hypothermic circulatory arrest
+deflazacort
+dehydration
+dehydration and salt
+dehydroepiandrosterone (DHEA)
+dehydroepiandrosterone (DHEA) and DHEA sulfate (DHEA-S)
+dehydro-isoandrosterone
+delayed ischemic preconditioning
+delphinidin
+Delta-tocotrienol
+delvestidine (DLTD)
+demethoxycurcumin
+dendrobine
+dendrosomal curcumin (DNC)
+dengue virus (DENV)
+dengue virus serotype 2 (DENV-2)
+denovirus type 36 (Ad36)
+deoxycholic acid (DCA)
+deoxycorticosterone acetate (DOCA)
+deoxycorticosterone acetate (DOCA) -salt (sodium chloride)
+deoxycorticosterone acetate-salt hypertension
+deoxyelephantopin (DOE)
+dermatophagoides farinae protein 1(Der f1)
+dermatophagoides pteronyssinus peptidase 1 (Der p1)
+desferrioxamine (DFOM)
+desflurane
+destabilization of medial meniscus (DMM)
+deubiquitinases inhibitor (WP1130)
+dexamethasone (DEX)
+"dexamethasone (DEX), ascorbic acid, and ¦Â-glycerol phosphate"
+dexmedetomidine (DEX)
+dextran sodium sulfate (DSS)
+dextran-capped nanosized europium(III) hydroxides [Eu(OH)3] nanoclusters (NCs)
+dextran-iron
+DF3016A
+D-galactosamine (D-GalN)
+D-galactosamine (D-GalN) and TNF-¦Á
+d-galactosamine and lipopolysaccharide (LPS)
+D-galactosamine/lipopolysaccharide (D-GalN/LPS)
+D-galactose (D-Gal)
+D-glucose
+di(2-ethylhexyl) phthalate (DEHP)
+diabetes mellitus macrophage-conditioned media (DM-MCM)
+diallyl disulfide (DADS)
+"dibenz[a,h]anthracene"
+dibutyl phthalate (DBP)
+dicalcium silicate microparticle (C2S)
+dichloroacetate (DCA)
+dichloroacetate (DCA) and oxaliplatin (L-OHP)
+dichlorodiphenyltrichloroethane (DDT)
+dichlorvos (DDVP)
+diclofenac (Diclo)
+diesel exhaust particle (DEP)
+diet
+"diet control and exercise in IGT/IFG subjects, insulin plus diet control and exercise"
+"dietary 3,3'-diindolylmethane (DIM)"
+dietary methionine restriction (MR)
+dietary methyl deficiency
+dietary restriction (DR)
+dietary saturated fatty acids (SFA)
+dietary zinc restriction
+"diethyl 1,4-dihydro-2,4,6,-trimethyl-3,5-pyridinedicarboxylate (DDC)"
+diethylnitrosamine (DEN)
+diethylnitrosamine and 2-acetylaminofluorene
+diethylstilbestrol (DES)
+differentiation medium (DM)
+dihydroartemisinin (DHA)
+dihydroartemisinin (DHA) and curcumin (Cur)
+dihydromyricetin (DHM)
+dihydrotestosterone (DHT)
+"diisocyanate, 4,4'-methylene diphenyl diisocyanate (MDI)"
+"dimethyl fumarate (DMF) ,metabolite monomethyl fumarate (MMF)"
+dimethylnitrosamine (DMN)
+dimethyloxalylglycine (DMOG)
+di-n-butyl phthalate (DBP)
+dingzhi Xiaowan (DZ)
+diosbuibin B (DB)
+dioscin
+dioscorea bulbifera (DB)
+diosgenin (DIO)
+diosgenin glucoside (DG)
+diosmetin (DIOS)
+diosmin (Dios)
+dioxin
+dipeptidyl peptidase-4 (DPP-4)
+dipeptidyl vinyl sulfone (VS)
+dipogenic differentiation mixture (MDI)
+diquat
+direct-acting antivirals (DAAs)
+disulfiram (DSF)
+D-mannose
+DNA methyltransferase 1
+"DNA-damaging compound, 0404"
+dNK/IFN-¦Á
+dNK/IFN-¦Ã
+docetaxel (DTX)
+docosahexaenoic acid (DHA)
+donepezil
+dopamine
+dopamine agonist (DA)
+dopamine cocktail and retinoic acid
+dopaminergic (DA) neuron differentiation medium
+double hydrogen testosterone (DHT)
+doxorubicin (DOX)
+doxorubicin- and 5-fluorouracil
+doxycycline
+drosophila C virus (DCV)
+drought
+dual MEK/Aurora kinase inhibitor BI-847325
+duloxetine
+duplication of AOP2
+"E. coli, M. luteus, and curdlan"
+E. faecalis
+E. multilocularis metacestodes
+E. piscicida
+E. senticosus extract (ESE)
+E26 transformation-specific variant 2 (ETV2; also known as ER71)
+E2F transcription factor 1 (E2F1)
+E2F transcription factor 3 (E2F3)
+earle's balanced salt solution (EBSS)
+early growth response protein 1 (EGR1)
+ebola virus (EBOV)
+ecal ligation and puncture (CLP)
+echinacea purpurea (EP)
+echinococcus multilocularis metacestodes
+edaravone (ED)
+Edwardsiella tarda
+EGFR tyrosine kinase inhibitors (TKIs)
+eicosapentaenoic acid (EPA)
+eimeria papillata
+either toxic or non-toxic fescue seed diets
+either yeasts or hyphal forms of Candida albicans
+elastase
+electrical stimulation (EleS)
+electroacupuncture (EA)
+electroconvulsive stimulation (ECS)
+electrode
+electron beam (EB) irradiation
+elevated CO(2) concentrations (hypercapnia)
+elevated fluid shear stress (FSS)
+ellagic acid (EA)
+embryo
+emodin
+emulsion (proteoglycan)
+endosulfan
+endothelial growth medium©\2 (EGM©\2) plus VEGF
+endothelial-monocyte-activating polypeptide-II (EMAP-II)
+endothelin-1 (ET-1)
+endotoxin
+engrafting E6.5 embryos (wildtype or Gtl2((-/+)))
+enoxacin
+enriched environment (EE)
+entamoeba histolytica
+enterococcus faecalis supernatants
+enterotoxigenic bacteroides fragilis (ETBF)
+enterovirus 71 (EV71)
+enterovirus 71 (EV71) and coxsackievirus A16 (CA16)
+entinostat
+environmental tobacco smoke (ETS)
+environmental toxin bisphenol A (BPA)
+enzalutamide (Enz)
+epidermal growth factor (EGF)
+epidermal growth factor receptor (EGFR)
+epidermal growth factor receptor tyrosine kinase inhibitor (EGFR TKI)
+epigallocatechin-3-gallate (EGCG)
+epigallocatechin-3-gallate (EGCG) and metformin
+"epigallocatechin-3-gallate (EGCG), resveratrol (RES) and ¦Á-mangostin (¦Á-M)"
+epirubicin
+epstein-barr virus (EBV)
+epstein-barr virus EBNA1 protein
+erastin
+ERK1/2 inhibitor
+erlotinib
+erythrocyte lysates
+erythropoietin (EPO)
+ER¦Á-neutralizing antibody
+escherichia coli (E.coli)
+escherichia coli lipopolysaccharides and staphylococcus aureus enterotoxin B
+escitalopram
+esicular stomatitis virus (VSV)
+esomeprazole
+estradiol
+estradiol benzoate (EB)
+estradiol benzoate (EB) and testosterone (T)/E
+estradiol-17¦Â (E2)
+estramustine phosphate
+estrogen (ES)
+estrogen receptor
+estrogen receptor ¦Â
+estrogen receptor-¦Á
+etanercept
+ethanol (EtOH)
+ethanol (EtOH) and burn injury
+ethanol (EtOH) and lipopolysaccharide (LPS)
+ethanol (EtOH) and nicotine
+ethanol extract of antrodia cinnamomea (AC)
+ethanol extract of Salviamiltiorrhiza (SM)
+ethanol extract of Spica Prunellae (EESP)
+ethanolic extract of an herbal formula comprising Sophorae Flos and Lonicerae Japonicae Flos (SLE)
+"ethyl 2-((2,3-bis(nitrooxy)propyl)disulfanyl)benzoate (GT-094)"
+ethyl acetate extract isolated from rhizoma dioscoreae bulbifera
+ethyl acetate fraction of airpotato yam
+ethylene
+ethylene glycol monomethyl ether (EGME)
+ethylenethiourea (ETU)
+eticlopride
+etoposide (VP-16)
+etoposide (VP16) and cisplatin (DDP)
+etoricoxib
+eupatilin
+everolimus
+excessive mechanical tension
+exenatide (EXA)
+exendin-4 (Ex-4)
+exendin-4 and high glucose (Ex-HG)
+exercise (Ex)
+exercise and diet
+exercise intervention
+exercise training (ET)
+exogenous ghrelin
+extracellular cold-inducible RNA-binding protein (eCIRP)
+extracellular superoxide dismutase (SOD3)
+extract of Celastrus orbiculatus (COE)
+extract of Stellerachamaejasme L(ESC)
+extracts from wild bitter gourd fruit (WBGE)
+extra-virgin olive oil rich in phenols (H-EVOO)
+extremely low-frequency magnetic fields (ELF-MFs)
+ezetimibe
+F. novicida
+fagellin (FLA)
+farnesoid X receptor (FXR)
+fas ligand (FasL)
+fasciola gigantica excretory/secretory products (ESP)
+fasted and fluoxetine (FLX)
+fastigial nucleus stimulation (FNS)
+fasting
+fasting with HIF-1¦Á inhibitor (BAY)
+"fasting, denervation, diabetes, and cancer cachexia"
+fatty acid
+fatty acid amide hydrolase (FAAH) blockade
+fatty acid amide hydrolase inhibitor (FAAH-II)
+"fatty acid esters of 3-chloro-1, 2-propanediol (3-MCPD)"
+Fc
+"FC-99 (N1-[(4-methoxy)methyl]-4-methyl-1,2-Benzenediamine)"
+feeney's freefall impact
+feline herpesvirus 1 (FHV-1)
+fenofibrate
+"fenoldopam, dopamine and midodrine"
+fenretinide
+fentanyl
+ferric ammonium citrate (FAC)
+"ferrylhemoglobin (ferrylHb, Fe4+)"
+ferulic acid (FA)
+FeSO4
+fetal bovine serum (FBS)
+fibrinogen
+fibroblast growth factor ( FGF)19
+fibroblast growth factor (FGF) and the insulin-like growth factor receptor (IGF-1R)
+fibroblast growth factor 18 (FGF18)
+fibroblast growth factor 19 ( FGF19)
+fibroblast growth factor 2 (FGF2)
+Fibroblast growth factor 21 (FGF21)
+fibroblast growth factor 23 (FGF23)
+fibroblast growth factor 4 (FGF4)
+fibroblast growth factor receptor (FGFR) 1
+ficus carica
+fingolimod
+first-generation EGFR tyrosine kinase inhibitors (TKIs)
+fish oil
+fish oil (FO) and olive oil (OO)
+fish oil and pectin
+FK506
+flagellin
+flavonoid derivative (Fla-CN)
+flavonoids (TFs)
+flavonol icariin
+flaxseed (FS)
+fludarabine
+fludioxonil andfenhexamid
+fludrocortisone
+fluid shear stress (FSS)
+fluid-percussion injury (FPI)
+fluke Fasciola gigantica (FgESPs)
+fluoride
+fluorine combined with aluminum (FA)
+fluoropyrimidine
+fluoxetine (Prozac)
+flurothyl
+fluticasone
+focal brain irradiation
+folate
+folic acid
+folic-acid-adorned PEGylated graphene oxide (FA-PEG-GO)
+follicle stimulating hormone (FSH)
+food restriction
+foot-and-mouth disease virus (FMDV)
+forced swim stress (FSS)
+formaldehyde
+formononetin
+forskolin (FSK)
+forskolin and dexamethasone (FSK/DEX)
+forsythoside A (FA)
+fortunellin
+FOXO3a
+fractional CO(2) laser
+fractionated radiation
+francisella tularensis
+free fatty acids (FFA)
+free fatty acids (FFAs) and TNF-¦Á and IL-6
+free fatty acids (FFAs) inducer CL316243
+free fatty acids (FFAs; 2:1 oleate:palmitate)
+freeze-dried mouse spinal cord homogenate
+freund¡¯s complete adjuvant (FCA)
+fructo-oligosaccharides (FOS)
+fructose
+fructus meliae toosendan (FMT)
+FTY-720
+FTY720-C2
+FTY720-mitoxy
+fucoidan
+fulvestrant
+fumaric acid esters
+fumonisin B?
+fundus photocoagulation with a krypton red laser
+furan
+fusaric acid (FA)
+fusarium oxysporum
+fusobacterium nucleatum (F. nucleatum)
+fuzheng huayu recipe (FZHY)
+gabapentin
+galacto-oligosaccharides (GOS)
+galangin
+galantamine
+galla chinensis ointment
+gallic acid (GA)
+gallid alphaherpesvirus 2 (GaHV2)
+gambogic acid (GA)
+gambogic acid (GA) and methyl jasmonate (MJ)
+gamma-linolenic acid (GLA)
+gan-jiang-ling-zhu decoction (GJLZ)
+ganoderic acid A (GAA)
+ganoderma lucidum extract (GLE)
+ganoderma lucidum polysaccharides (GLPs)
+GANT61
+garcinol
+garlic
+gastrin
+gastrodin (GAS)
+gastrodin and rhynchophylline
+gE/TK deficient (gE-TK-PRV) PRV-II
+gefitinib
+gemcitabine (GEM)
+gemcitabine and cisplatin
+gemcitabinepoly and ADP-ribose polymerase-1 (PARP1) inhibitor
+genetically attenuated parasites (GAP) that arrest in the liver
+genipin (GNP)
+geniposide (GEN)
+geniposide and ginsenoside Rg1
+geniposide and ginsenoside Rg2
+geniposide and ginsenoside Rg3
+genistein
+gentamicin
+geraniol
+ghrelin
+ginkgo biloba extract (GBE)
+ginkgo biloba extract EGb 761
+ginkgolide A (GA)
+ginkgolide B (GB)
+ginsenoside 20(S)-Rg3
+ginsenoside Rb1
+ginsenoside Rb2
+ginsenoside Rg1
+ginsenoside Rg1 (GRg1) and acori graminei Rhizoma (AGR)
+ginsenoside Rg3
+ginsenoside Rh2
+ginsenoside Rh3
+glabridin (GLA)
+glargine
+gleditsia sinensis extract (GSE)
+gliadinN
+"glial cell line-derived neurotrophic factor (GDNF), fibroblast growth factor (FGF) 2, and epidermal growth factor (EGF)"
+glial cell-derived neurotrophic factor (GDNF)
+globular adiponectin
+glucagon
+glucagon-like peptide-1 (GLP-1)
+glucagon-like peptide-2 (GLP-2)
+glucocorticoid (GC)
+glucocorticoid-inducible kinase-1 (SGK1)
+glucosamine
+glucose
+glucose and TGF¦Â1
+glucose deprivation (GD)
+"glucose deprived, galactose enriched (GAL)"
+glucose fluctuations (GF)
+glucose plus advanced glycation end product-BSA
+glucose starvation
+"glucose,hydrogen peroxide"
+glutamate
+glutamine starvation
+glycine
+glycochenodeoxycholate (GCDC)
+glycolaldehyde-modified advanced glycation end product (AGE)
+glycyrrhiza glabra
+glyoxylate
+glyphosate
+gold nanoparticles (AuNPs)
+gonadotropin-releasing hormone agonist (GnRHa; Buserelin)
+granulocyte colony-stimulating factor (CSF3)
+granulocyte-colony stimulating factor (G-CSF)
+granulocyte-macrophage colony stimulating factor (GM-CSF)
+granulocyte-macrophage colony stimulating factor (GM-CSF) and IL-6
+grape pomace extract (GPE)
+grape seed proanthocyandin extract (GSPE)
+grape seed proanthocyanidins (GSPs)
+grape seed procyanidin B2 (GSP)
+grape seed procyanidin extract (GSPE)
+graphene oxide (GO)
+graphene quantum dots (GQDs)
+gravitational mechanical unloading
+green tea (GT)
+green tea polyphenols (GTP)
+green tea polysaccharide (GTP)
+group A streptococci
+group A streptococci and complete Freund's adjuvant
+growth factor-1 receptor
+growth hormone (GH)
+growth hormone releasing hormone (GHRH)
+GSK1059615
+gualou guizhi decoction (GLGZD)
+guanidinoacetic acid (GAA)
+guarana
+gut bacterial metabolite Urolithin A (UA)
+GW0742
+GW501516
+GYKI-52466 and MK-801
+gypenoside A (GP)
+gypenoside LI
+GYY4137
+H1N1 influenza virus
+H2O2
+H2O2 and hypoxia/reoxygenation (H/R)
+H2O2 and Lycium barbarum polysaccharides (LBPs)
+"H2O2, angiotensin II (AngII) and oxidized low-density lipoprotein (ox-LDL)"
+halofuginone (HF)
+haloperidol
+"haloperidol, clozapine and olanzapine"
+hank's balanced salt solution containing 10 ?M antimycin A
+hantaan virus (HTNV)
+HDL isolated from CHF patients in NYHA-IIIb (HDLNYHA)
+head-down tilt (HDT) bed rest
+heart failure (HF) surgery
+heartmate II left ventricular assist device (LVAD) implantation
+hearts pressure-overloaded
+heat shock factor 1 (HSF1)
+heat stress
+hedyotis diffusa plus scutellaria barbata
+helicobacter pylori (H. pylori)
+Helicobacter pylori (H. pylori) extract (HPE)
+hematoporphyrin
+heme
+heme oxygenase-1 (HMOX1)
+hemin
+hemodialysis
+hemoglobin (Hb)
+heparin
+heparin-binding EGF-like growth factor (HB-EGF)
+hepatectomy
+hepatic antigen S100
+hepatitis A virus (HAV)
+hepatitis B virus (HBV)
+hepatitis B virus (HBV) and TGF-¦Â1
+hepatitis B virus X protein (HBx)
+hepatitis B X-interacting protein (HBXIP)
+hepatitis C virus (HCV)
+hepatitis C virus (HCV) core protein
+hepatitis C virus (HCV) direct-acting antiviral agents (DAAs)
+hepatitis C virus E2 envelope glycoprotein (HCV-E2)
+hepatitis E virus (HEV)
+hepatocarcinogen diethylnitrosamine (DEN)
+hepatocyte growth factor (HGF)
+hepatocyte nuclear factor-1 ¦Á
+HepG2-CORE cells conditioned media (CM)
+heptapeptide angiotensin-(1-7) [ang-(1-7)]
+herapy with transarterial chemoembolisation (TACE)
+herbal formula HQT
+herb-partitioned moxibustion
+heroin
+herpes simplex virus 1 (HSV-1)
+herpes simplex virus 2 (HSV-2)
+hesperetin
+hesperidin
+hexabromocyclododecane (HBCD)
+"hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX)"
+hexavalent chromium [Cr(VI)]
+high amplitude mechanical stretching
+high carbon dioxide (CO2)
+high concentration of free fatty acids
+"high concentrations of lipid and glucose, and cytokines"
+high doses of acetaminophen (APAP)
+high fat diet (HFD)
+high fat diet (HFD) and injection of pituitrin
+high fat diet (HFD) and sodium taurocholic
+high fat diet (HFD) and streptozotocin (STZ)
+high fatty acid
+high fructose
+high glucagon
+high glucose (HG)
+high glucose (HG) and cholesterol-lowering drugs atorvastatin and pitavastatin
+high glucose (HG) and high fat diet (HFD)
+high glucose (HG) and hypoxia/reoxygenation (H/R)
+high glucose (HG) and IL-1¦Â
+high glucose (HG) and lipid diet
+high glucose (HG) and lipopolysaccharide (LPS)
+high glucose (HG) and palmitate (HG/PA)
+high glucose (HG) and TGF-¦Â1
+high glucose and free fatty acids (HG-FFA)
+high glucose and palmitate (HG/PA)
+high glucose-induced endothelial microparticles (EMPs)
+high inorganic phosphate (Pi)
+high intensity focused ultrasound (HIFU)
+high iodine
+high iodine blocked BRAF(V600E)
+high methionine diet
+high mobility group box-1 protein (HMGB1)
+high N
+high NaCl
+high protein diet
+high salt (HS)
+high salt diet
+high sodium/low potassium (Japanese-style) diet (JD)
+high temperature
+high tidal volume ventilation (HVTV)
+high-amylose potato starch (HAPS)
+high-cholesterol diet
+high-content hydrogen water (HHW)
+high-copper diet
+high-density lipoproteins (HDL)
+high-dose ascorbate bears cytotoxic
+high-dose steroid
+high-fat high-fructose diet (HFHFD)
+high-fat/high-cholesterol diet or a high-protein diet
+"high-fluence light-emitting diode-generated red light (HF-LED-RL, 633?¡À?15?nm)"
+high-intensity focused ultrasound (HIFU)
+high-intensity interval training (HIIT)
+high-risk human papillomavirus (hrHPV)
+high-salt/low-potassium diet
+high-temperature (HT)
+hindlimb unloading (HLU)
+histone deacetylase (HDAC)
+histone deacetylase 4 (HDAC4)
+histone deacetylase inhibitor (HDACi)
+histone deacetylase inhibitor chidamide
+histone deacetylase inhibitor SAHA
+histone deacetylase inhibitor trichostatin A (TSA)
+histone deacetylase inhibitors (HDIs) short-chain fatty acid (SCFA) butyrate
+HIV-1 transactivator of transcription (Tat) protein
+HO-1 inducers
+holo-transferrin (holo-Tf)
+homocysteine (Hcy)
+homoharringtonine (HHT)
+honeysuckle (HS)
+honeysuckle aqueous extract
+honokiol
+hormone
+house dust mite (HDM)
+house dust mite (HDM) extract
+hpoxia
+hronic unpredictable mild stressed (CUMS)
+HSA-bound P-cresol
+HspB1
+HT-3O sulfate (HT-3Os)
+HTNV strain 76-118
+huagan tongluo Fang (HGTLF)
+huaier
+huaier extract
+human chorionic gonadotrophin (hCG)
+human cytomegalovirus (HCMV)
+human cytomegalovirus (HCMV; human herpesvirus 5)
+human genotoxic carcinogens aflatoxin B1 (AFB1) and benzo[a]pyrene (B[a]P)
+human growth hormone (hGH)
+human herpesvirus 6A (HHV-6A)
+human herpesvirus 6B (HHV-6B)
+human immunodeficiency virus (HIV)-1
+human immunodeficiency virus (HIV)-1 and cocaine
+human immunodeficiency virus (HIV)-1 and methamphetamine
+human immunodeficiency virus (HIV)-1 gp120 V3 Loop peptide
+human immunodeficiency virus (HIV)-1 Nef
+human immunodeficiency virus (HIV)-1 Tat
+human islet grafts of adoptive lymphocyte transfer (ALT)
+human mesenchymal stem cell conditioned medium (MSC-CM)
+human metapneumovirus (HMPV)
+human MSC Growth Medium
+human papilloma virus (HPV)
+human papilloma viruses (HPVs) 16
+human papilloma viruses 16 (HPV16) E6
+human papillomavirus E6 and E7
+human serum albumin (HSA)
+human T-cell leukemia virus type 1 (HTLV-1)
+huo xue tong luo capsule (HXTL capsule)
+huoxue jiedu formula (HXJDF)
+hyaluronan (HA)
+hyaluronan-CD44
+hyaluronic acid (HA)
+hyaluronic acid 35 (HA35)
+hydatid cyst fluid (HCF)
+hydrated aluminum chloride (AlCl3.6H2O)
+hydrocarbons (PAHs)
+hydrochloric acid
+hydrocinnamoyl-L-valyl pyrrolidine (AS-1)
+hydrogen gas (H2)
+hydrogen sulfide (H2S)
+hydrogen sulfide (H2S) and H2O2
+hydroquinone (HQ)
+hydrostatic pressure (HP)
+hydroxychloroquine
+hydroxychloroquine plus prednisone
+hydroxygenkwanin (HGK)
+hydroxytyrosol (HT)
+hydroxyurea
+hyperbaric oxygen (HBO)
+hyperglycemia
+hyperglycemia and advanced glycation end products (AGE)
+"hyperglycemia, insulin and lipopolysaccharide (LPS)"
+hyperlipidemic (HL) diet
+hypermethylation
+hyperoside
+hyperoside and quercetin in combination (QH; 1:1)
+hyperoxia
+hyperthermia
+hypertonic saline (HS)
+hypertonicity
+hypobaric hypoxia (HH)
+hypofractionated radiotherapy
+hypoglossal nerve injury
+hypoglycemic
+hypothalamic gonadotropin-releasing hormone (GnRH)
+hypothermia
+hypothermia oxygen glucose deprivation
+hypoxanthine (HX)
+hypoxia
+hypoxia and load
+hypoxia- and serum deprivation
+hypoxia and TGF¦Â1
+hypoxia inducible factor (HIF)-1
+hypoxia/reoxygenation (H/R)
+hypoxia-inducible factor 1¦Á (HIF-1¦Á)
+hypoxia-inducible factor 2¦Á (HIF-2¦Á)
+hypoxic/ischemic
+ibrutinib
+ibuprofen
+icariin (ICA)
+icariside II (ICA II)
+ICAT (inhibitor of ¦Â-catenin and T cell factor)
+IFN
+IFN and ribavirin
+IFN-I
+IFNs
+IFN-¦Á
+"IFN-¦Á, IFN-¦Â, IFN-¦Ã, IFN-¦Ë1"
+"IFN-¦Á, IFN-¦Ã"
+IFN-¦Â
+IFN-¦Ã
+IFN-¦Ã and lipopolysaccharide (LPS)
+IFN-¦Ã and TNF-¦Á
+"IFN-¦Ã, IL-1¦Â and TNF-¦Á"
+"IFN-¦Ã, lipopolysaccharide (LPS) and IL-4"
+IFN-¦Ó
+IgE
+Ig-like transcript 3 (ILT3)
+iguratimod
+IL-1
+IL-10
+IL-11
+"IL-12, IFN-¦Á and IFN-¦Â"
+IL-13
+IL-15
+IL-17
+IL-17A
+IL-17C
+IL-1B
+IL-1¦Á
+IL-1¦Â
+IL-1¦Â and forskolin (Fsk)
+IL-1¦Â and IFN-¦Ã
+IL-1¦Â and TNF-¦Á
+IL-1¦Â and/or TNF-¦Á
+"IL-1¦Â, IFN-¦Ã and TNF-¦Á"
+IL-2
+IL-2 and IL-4
+IL-21
+IL-22
+IL-23
+IL-27
+IL-2¦Â
+IL-32
+IL-33
+"IL-33, TSLP, and IL-7"
+IL-34
+IL-36¦Â
+IL-3¦Â
+IL-4
+IL-4 and IL-13
+"IL-4, IL-13 and IL-33"
+IL-4¦Â
+IL-6
+IL-6 and granulocyte-macrophage colony stimulating factor (GM-CSF)
+IL-6 and lipopolysaccharide (LPS)
+IL-6 and signal transducers and activators of transcription 3 (STAT3)
+IL-6 and TNF-¦Á
+IL-8
+IL-9
+imatinib
+imatinib and lapatinib
+imatinib mesylate
+imiquimod (IMQ)
+immobilization (IMO) stress
+immunoglobulin
+immunoglobulin E (IgE)
+immunoregulatory molecule soluble HLA-G (sHLA-G)
+indole-3-acetic acid (IAA)
+indole-3-carbinol (I3C)
+"indole-3-carbinol (I3C) and 3,3'-diindolylmethane (DIM)"
+Indolo-pyrido-isoquinolin based?alkaloid
+indoxyl sulfate (IS)
+infarct the LV free wall
+infectious bursal disease virus (IBDV)
+inflammatory cytokines
+infliximab
+influenza A virus (IAV)
+influenza A virus (IAV) 
+influenza virus
+infrasound
+infusion of oleic acid (OA)
+ingenol-mebutate
+inhaled corticosteroids
+inorganic arsenic (iAs)
+inorganic nitrite
+inorganic phosphate (Pi)
+inositol hexaphosphate (IP6)
+inositol-requiring enzyme 1 (IRE1) inhibitor (4u8C)
+insect cell-derived anionic septapeptide
+insert a cannula connected with a saline container into the anterior chamber
+insulin
+insulin and high glucose (HG)
+"insulin, dexamethasone, isobutylmethyxanthine (IBMX)"
+insulin-like growth factor 1 (IGF-1)
+insulin-like growth factor 2 (IGF-2)
+insulin-like growth factor binding protein-related protein 1 (IGFBPrP1)
+insulin-transferrin-selenite (ITS)
+integrin CD11b
+integrin ¦Á5
+integrin-linked kinase (ILK)
+intense light
+intercept (amotosalen+ ultraviolet-A [UVA] light)
+interferon regulatory factor 3 (IRF3)
+interferon tau (IFNT)
+interleukin-1 receptor antagonist protein (IRAP)
+intermediate-sized hyaluronan (INT-HA)
+intermittent cyclic mechanical tension (ICMT)
+intermittent hypoxia (IH)
+interval exercise training with tamoxifen
+Intestinal Salmonella typhimurium
+intra-amygdala kainic acid
+intracerebral hemorrhage (ICH)
+intranasal instillation
+Iodine-125 (125I)
+iodine-131 (131I)
+iodixanol
+iohexol
+ionic liquids (ILs)
+ionic liquids (ILs) 1-decyl-3-methylimidazolium bromide
+ionizing radiation (IR)
+ioversol
+"irbesartan, fenofibrate, omeprazole"
+"IRE1¦Á, an ER bifunctional kinase/endoribonuclease (RNase)"
+irisin
+iron
+irradiation and lipopolysaccharide (LPS)
+ischemia
+ischemia/hypoxia (IH)
+ischemia/reperfusion (I/R) 
+ischemic brain extract (IBE)
+isoalantolactone
+isochlorogenic acid B (ICAB)
+isoflavone
+isoflavone formononetin
+isoflurane
+isoflurane and sevoflurane
+isoimperatorin (ISO)
+isoliquiritigenin
+isoliquiritin
+isoniazid (INH)
+"isoniazid, pyrazinamide and ethambutol"
+isoprenaline
+isoproterenol
+isoproterenol and aldosterone
+isoproterenol and doxorubicin
+isoproterenol hydrochloride
+isorhapontigenin (ISO)
+isorhynchophylline (IRN)
+isosteviol Sodium (STV-Na)
+itraconazole (ITR)
+ivabradine
+Japanese encephalitis virus (JEV)
+jasmonate
+Jiang Tang Xiao Ke Granule
+Jianpi Xiaoke (JPXK)
+Jixuepaidu Tang-1
+"JQ-1, Bromodoamin and extraterminal (BET) protein inhibitor"
+jun N-terminal kinase inhibitor
+JWH-133
+K. pneumoniae reference strains (K. pneumoniae ATCC 10031)
+kaempferol
+kaempferol-3-O-glycoside
+kainic acid (KA)
+kallistatin
+kanamycin
+kanamycin-furosemide
+kanglaite
+"kangxianling (KXL, anti-fibrin)"
+kaolin
+Kaposi¡¯s sarcoma-associated herpesvirus (KSHV)
+kartogenin
+keratinocyte-derived exosomes (Ker-Exo)
+ketamine
+ketogenic
+KHCO3
+kidney transplantation
+klebsiella pneumoniae
+klotho
+Korean Red ginseng extract (KRGE)
+Krebs-Henseleit solution with 1 ?mol L(-1) atrial natriuretic peptide
+Kr¨¹ppel-like factor 4 (KLF4)
+Kr¨¹ppel-like factor 8 (KLF8)
+KSHV-encoded viral interferon regulatory factor 1 (vIRF1)
+Kv channel blocker 4-aminopyridine (4-AP)
+kynurenine
+L5 spinal nerve ligation (SNL)
+laboratory-attenuated vesicular stomatitis virus
+lactic acid (LA)
+lactobacillus acidophilus and bifidobacterium bifidum probiotics
+lactobacillus casei (L. casei LC01)
+Lactobacillus fermentum (L. fermentum)
+lactobacillus plantarum dy-1 (LFBE)
+lactoferrin (LF)
+lambertianic acid (LA)
+laminar shear stress
+laminectomy at the Th9 spinal vertebra
+laminectomy plus contusion
+lanthionine
+laparotomy and exposure of the junc_x0002_tion between the large and small intestines
+lapatinib
+lapatinib and 5-fluorouracil (5-Fu)
+laquinimod
+L©\arginine
+laser
+laser photocoagulation
+latent membrane protein 1 (LMP1)
+lauric acid
+l-carnitine
+L-dopa
+lead (Pb)
+lead acetate (PbAc)
+learning
+lectin
+LEFTY2
+Legionella pneumophila (L. pneumophila)
+leishmania
+leishmania major (MRHO/IR/75/ER)
+leishmania RNA virus 1 (LRV1)
+lenalidomide
+lentinan (LNT)
+lentivirus
+leonurine (LE)
+leptin
+"leptin, resistin, TNF-¦Á, and IL-6"
+letrozole
+leucine
+leucoselect phytosome (LP)
+leukemia inhibitory factor(LIF)
+leukemia microvesicles
+leuprolide
+levodopa
+levonorgestrel (LNG)
+Liang-Ge-San (LGS)
+LiCl
+licochalcone A (LA)
+lidocaine
+light
+ligustrazine (Lig)
+limonin
+"limonin, (12S,12aS,Z)-8-((2-(diethylamino)ethoxy)imino)-12-(furan-3-yl)-6,6,8a,12a-tetramethyldodecahydro-1H,3H-oxireno[2,3-d]pyrano[4',3':3,3a]isobenzofuro[5,4-f]isochromene-3,10(9aH)-dione (V-A-4)"
+lingguizhugan decoction (LGZG)
+linifanib
+lipid associated membrane proteins (LAMP)
+"lipid reduced, cholesterol deficient (RL)"
+lipopolysaccharide (LPS)
+lipopolysaccharide (LPS) and paclitaxel
+lipopolysaccharide (LPS) and TGF-¦Â
+lipopolysaccharide + ATP
+lipopolysaccharide- and MSU
+liposomal bupivacaine (BUP)
+liposomal spherical nucleic acid (LSNA)
+lipoteichoic acid (LTA)
+lipoxin A4 (LXA4)
+lipoxins
+liquiritigenin (LQ)
+liraglutide
+listeria
+listeria monocytogenes (L. monocytogenes)
+lithium (Li)
+lithium (Li) and valproic acid (VPA)
+lithium chloride (LiCl)
+lithium chloride and pilocarpine
+lithocholic acid (LCA)
+live L. acidophilus
+L-kynurenine (L-Kyn)
+l-lysine
+L-mimosine
+L-nitro-arginine methylester
+long-chain fatty acid
+long-chain polyunsaturated fatty acids (LCPUFAs)
+long-day (LD) photoperiod and vernalization
+long-term bed rest
+long-term potentiation(LTP)
+lonicera caerulea berry polyphenols (LCBP)
+loperamide
+lopinavir
+lopinavir/ritonavir (LPV/RTV)
+losartan
+loureirin A
+loureirin B
+lovastatin
+low choline (LC)
+low chromium (Cr)
+low fat diet (LFD)
+low frequency magnetic fields (LF-MF)
+low glucose (LG)
+low intensity pulsed ultrasound (LIPUS)
+low molecular weight heparin (LWMH) and concurrent chemoradiotherapy (CCRT)
+low pH
+low salt (LS)
+low selenium
+low temperature
+low-dose ionizing radiation (LDIR)
+low-frequency electromagnetic fields (LF-EMF)
+low-glycaemic load dietary
+low-intensity pulsed ultrasound (LIPUS)
+low-intensity training
+low-intensity ultrasound (LIUS)
+low-protein diet (LP0.5)
+L-tetrahydropalmatine (L-THP)
+lucidum
+LukS-PV
+luteinising hormone (LH)
+luteolin
+luteolin and gefitinib
+luteolin exerts
+LXR-623 (WAY-252623)
+lychee pulp phenolics (LPPs)
+lycium barbarum polysaccharide (LBP)
+lycopene
+lycorine
+lymphocytic choriomeningitis virus (LCMV)
+M2000 (¦Â-d-mannuronic acid)
+"M5 (IL-17A, TNF-¦Á, IL-1¦Á, IL-22, and Oncostatin-M)"
+macrocalyxin C
+macrophage colony stimulating factor (M-CSF)
+macrophage colony-stimulating factor (M-CSF) and receptor activator of NF-¦ÊB ligand (RANKL)
+macrophage migration inhibitory factor (MIF)
+maggot debridement therapy (MDT)
+magnaporthe oryzae (M. oryzae)
+magnaporthe oryzae strain Guy11
+magnesium (Mg2+ )
+Magnesium isoglycyrrhizinate (MgIG)
+magnesium-free extracellular fluid
+magnoflorine
+magnolol
+maimendong and qianjinweijing tang (Jin formula)
+malathion
+Malva sylvestris L. (MS)
+mammosphere culture
+manganese (Mn)
+manganese chloride (MnCl2 )
+mangiferin
+mango extract
+MAPK inhibition (U0126)
+marathon
+Marek's disease virus (MDV)
+maritoclax
+massive small bowel resection
+mastectomy
+maternal diet
+maternal H. bakeri
+matrine
+matrix metalloproteinases inhibitor (MMPi)
+mcyclic mechanical stretch
+mechanical asphyxia
+mechanical compression
+mechanical force (MF)
+mechanical loading and hydrostatic pressure (HP)
+mechanical pressure of 10 MPa
+mechanical stimulation
+mechanical stress
+mechanical stretch
+"mechanical tension (10%, 0.5Hz)"
+mechanical unloading
+mechanical ventilation (MV)
+mechanotransduction and pressure
+medium deficient in methionine and choline (MDMC)
+medium prepared with pIgA from patients with glomerular endothelial proliferation
+medroxyprogesterone acetate (MPA)
+MEK inhibitor U0126 or PD98059
+melamine and cyanuric acid (MEL&CYA)
+melanin
+melatonin
+melittin
+memantine
+mepolizumab
+mercury
+mercury II chloride
+mesalamine
+mesalazine (MSLZ)
+metabolites of intestinal microflora (MIM)
+metabolizable energy (ME)
+metal
+metformin (Met)
+metformin and 5-fluorouracil and oxaliplatin (FuOx)
+metformin and sitagliptin
+methadone
+methamphetamine (METH)
+methamphetamine (METH) and MK801
+methane
+"methemoglobin (metHb, Fe3+)"
+methimazole (MTZ)
+methionine choline-deficient diet (MCD)
+methionine selenium
+methionine-choline-deficient and high-fat diet (MCDHF)
+methotrexate (MTX)
+methyl 2-(5-fluoro-2-hydroxyphenyl)-1H- benzo[d]imidazole-5-carboxylate (MBIC)
+methyl 2-(5-fluoro-2-hydroxyphenyl)-1H- benzo[d]imidazole-5-carboxylate (MBIC) and doxorubicin
+methyl donor S-Adenosylmethionine (AdoMet)
+methyl helicterate (MH)
+methyl jasmonate (MeJA)
+methyl-3-O-methyl gallate (M3OMG)
+methylated urolithin A
+methyl-deficient diet
+methylene blue (MB)
+methylglyoxal (MGO)
+methylmercury (MeHg)
+methylprednisolone
+methyltransferase G9a
+metoprolol
+mevastatin (MEV)
+mGlu5 receptor agonist CHPG
+MgSO4
+microcystin (MC)
+microcystin-leucine arginine (MC-LR)
+microgravity
+microsciadia
+microwave
+microwave ablation (MWA)
+midazolam (MDZ)
+mifepristone (MIF)
+mild hypothermia
+mineral oil
+mineral pitch (MP)
+mineralizing solution
+minocycline (MNC)
+miravirsen?(SPC3649)
+mithramycin A and decitabine
+mitochondrial ATP-dependent K+ channel (mitoKATP) channel-opener Dzx
+mitochondrial dysfunction
+mitogen activated-protein kinase pathway inhibitors (MAPKis)
+mitomycin C (MMC)
+mitomycin C-polylactic acid ( MMC-PLA) film
+Mito-TEMPO
+mixture of oleate and palmitate
+ML-7 (an inhibitor of myosin light chain kinase)
+MLN4924/Pevonedistat
+MLN9708/2238
+MnCl2
+mocetinostat
+mock- grown (CK) and 20 % polyethylene glycol
+MOG 35-55 peptide
+MOG 35-55 peptide emulsified and pertussis toxin
+molecular hydrogen
+molecular hydrogen-rich water (HRW)
+molidustat
+monastrol
+mongolian medicine warm acupuncture
+mono-(2-ethylhexyl) phthalate (MEHP)
+monoclonal antibody CH12
+monocrotaline (MCT)
+monocyte chemoattractant protein-1 (MCP-1)
+monomethyl fumarate (MF)
+mono-n-butyl phthalate (MBP)
+monosodium glutamate (MSG)
+monosodium iodoacetate
+monosodium luminol
+monosodium urate (MSU)
+montelukast sodium
+mood stabilizers
+morin
+morphine
+morphine and fentanyl
+mouse growth differentiation factor-9 (GDF-9) or in pig oocyte-conditioned medium (POCM)
+mouse mammary tumor virus (MMTV)
+moxibustion
+"MS-275, a histone deacetylase inhibitor"
+mud-bath therapy (MBT)
+mulberrin (Mul)
+multiwalled carbon nanotubes (MWCNT)
+Mungbean Yellow Mosaic India Virus (MYMIV)
+muramyl dipeptide
+murine cytomegalovirus (MCMV)
+murine norovirus (MNV)
+muscle contraction
+"muscle toxicant 2,3,5,6-tetramethyl-p-phenylenediamine (TMPD)"
+"myclobutanil, propiconazole, and triadimefon"
+mycobacteria
+mycobacterium avium subspecies paratuberculosis (MAP)
+mycobacterium bovis bacille Calmette-Gu¨¦rin (BCG)
+mycobacterium leprae
+mycobacterium tuberculosis (Mtb)
+mycolactone
+mycophenolic acid (MPA)
+mycoplasma gallisepticum (MG)
+mycoplasma pneumoniae (M. pneumoniae)
+mycotoxin ochratoxin A (OTA)
+myelin oligodendrocyte glycoprotein
+myeloperoxidase oxidized LDL (Mox-LDL)
+myocardin
+myo-inositol
+myostatin
+myricetin
+myricetin-loaded mixed micelles (MYR-MCs)
+myrothecine A
+M¦ÂCD-cholesterol
+N-(4-hydoxyphenyl)-retinamide (4HPR)
+"N,N-dimethylformamide (DMF)"
+"N,N'-dinitrosopiperazine (DNP)"
+"N-[N-(3,5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butylester (DAPT)"
+"N1-[(4-methoxy)methyl]-4-methyl-1,2-Benzenediamine (FC-99)"
+N-3 polyunsaturated fatty acids (PUFA)
+Na/K-ATPase
+NaAsO2
+N-acetyl-L-cysteine (NAC)
+N-acetyl-p-aminophenol (APAP)
+N-acetyl-seryl-aspartyl-lysyl-proline (AcSDKP)
+NaF
+NaHS
+NaHS and l-cysteine
+NaI
+nanocurcumin
+nanoparticle (NP)
+nanopolystyrene
+nanosized SiO2
+nano-titanium dioxide (nano-TiO2)
+NaOH
+naringenin
+naringin
+narrow band noise
+NaSH
+natalizumab
+natural compound 1'S-1'-acetoxychavicol acetate (ACA)
+NB-UVB
+necrosis factor related apoptosis-inducing ligand (TRAIL)
+necrostatin-1 (Nec-1)
+neferine (NEF)
+negative pressure wound therapy
+Nel-like molecule type 1 (NELL-1)
+neoadjuvant chemoradiotherapy (CRT)
+neoadjuvant multimodality ment
+neobavaisoflavone (NBIF)
+neodymium oxide (Nd2O3)
+neodymium oxide nanoparticles (NPs-Nd2O3)
+neomycin
+neonatal colonic inflammation (NCI)
+nephrotoxicants
+nerve growth factor (NGF)
+N-ethyl-N-nitrosourea (ENU)
+neuraminidase (NA)
+neuregulin-1£¨NRG1£©
+neurofibromatosis type 1 (NF1)
+neuromuscular electrical stimulation (NMES)
+neuron-glial antigen 2 (NG2) protein
+Neuropeptide Y (NPY)
+neurotensin (NT)
+neurotoxic metal
+neurotoxicant cuprizone (CPZ)
+neurotoxicant sodium valproate (VPA)
+neutral bile mixture
+neutrophil elastase (NE)
+niacin
+nickel
+nickel nanoparticles (nano-Ni)
+nickel oxide nanoparticles (NiO NPs)
+nickel sulfide (NiS)
+niclosamide
+nicotinamide
+nicotine
+nifedipine
+nigericin
+nilotinib
+nimodipine
+nine hepatotoxic non-genotoxins (NGTXs)
+nintedanib
+NiSO4
+nitidine chloride (NC)
+nitrate
+nitric oxide (NO)
+nitric oxide donors
+nitric oxide synthase (NOS2)
+nitric oxide synthase inhibitor L-NAME
+nitrofen
+nitrogen dioxide (NO2)
+"nitrone spin trap 5,5 dimethyl-1- pyrroline N-oxide (DMPO)"
+N-methyl-D-aspartate (NMDA)
+N-methyl-D-aspartate receptor
+N-methyl-N'-nitro-N-nitrosoguanidine (MNNG)
+N-methyl-N-nitrosourea (MNU)
+N-nitroso carcinogen N-methyl-N-nitro-N'-nitrosoguanidine (MNNG)
+NNK
+nobiletin
+NOD2-agonist muramyl dipeptide
+Nogo-66
+noise
+noncanonical polymerase Gld2
+nonivamide
+nonylphenol (NP)
+noradrenaline (NA)
+norcantharidin (NCTD)
+NO-releasing S-nitroso-N-acetylpenicillamine
+norepinephrine (NE)
+normoxia
+notexin
+notoginsenoside R1 (NGR1)
+NOX inhibitor VAS2870
+NP260
+NPV-LDE-225 (Erismodegib)
+NQDI1 (apoptosis signal-regulating kinase 1 (ASK1) inhibitor)
+N-retinylidene-N-retinylethanolamine (A2E)
+N-succinimidyl N-methylcarbamate
+NT21MP2
+nuclear factor 90 (NF90)-NF45 complex
+nuclear factor kappa-B (NF-¦ÊB)
+nuclear factor kappa-B (NF-¦ÊB) inhibitor Bay11-708211
+nuclear factor kappa-¦¢ ligand (RANKL)
+nucleolin
+nutlin-3a
+nutritional stress
+N¦Å-carboxymethyl-lysine (CML)-BSA
+oA42i (oligomeric amyloid ¦Â1-42 plus ibotenic acid)
+obeticholic acid
+occlusion of the bilateral common carotid artery (2VO)
+occupational noise
+ochratoxin A (OTA)
+octreotide (OCT)
+oestrogen (E2)
+oil
+olanzapine (OLP)
+olaparib
+olea europaea leaf extract (OLE)
+oleacein (OA)
+oleanolic acid (OLA)
+oleic acid (OA)
+oleocanthal (OC)
+oleuropein (OL)
+olfactory discrimination training
+oligo-fucoidan
+oligosaccharide nanomedicine of alginate sodium (ONAS)
+olive leaf extract (OLE)
+olive oil polyphenol hydroxytyrosol (HT)
+olmesartan (OMST)
+omega-3 polyunsaturated fatty acids (¦Ø-3 PUFA)
+omentin-1
+omeprazole
+opiate
+opisthorchis viverrini
+orafenib
+oral gavage
+oral zinc gluconate
+orchiectomy
+organophosphorus(OP)
+organosulfur garlic compounds
+oridonin
+oridonin and the antileukemia drugs Ara-C and VP-16
+ormeloxifene
+oroxin B (OB)
+orthodontic mechanical loading
+ortho-silicic acid
+oscillating glucose
+oscillatory shear stress (OS)
+OSI-027
+osimertinib
+ossotide
+osteoactivin (OA)
+osteogenic differentiation medium
+osteogenic inductive cocktail
+osteopontin (OPN)
+osthole
+"OTX015 (MK-8628, birabresib)"
+outer membrane vesicles (OMVs)
+ovalbumin (OVA)
+ovalbumin (OVA) and lipopolysaccharide (LPS)
+ovalbumin (OVA) and urban particulate matter (PM)
+ovatodiolide (OV)
+overfeeding
+oxalate and calcium
+oxalic acid poisoning
+oxaliplatin
+"oxaliplatin, 5-fluorouracil and pirarubicin (THP)"
+oxibendazole (OBZ)
+oxidized 1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphocholine (oxPAPC)
+oxidized glycerophospholipids (oxGPs) and IL-1¦Â
+oxidized low density lipoprotein (ox-LDL)
+"oxidized low-density lipoprotein (ox-LDL), IL-6 and TNF-¦Á)"
+oxLDL and pitavastatin
+oxyELITE pro-new formula (OEP-NF)
+oxygen
+oxygen glucose deprivation (OGD)
+oxygen-glucose deprivation and reoxygenation (OGD/R)
+oxyhemoglobin (OxyHb)
+oxymatrine
+oxysophocarpine (OSC)
+oxysterol 27-hydroxycholesterol (27-OHC)
+oxytocin (OT)
+ozone (O3)
+P body protein LSm1
+P. aeruginosa
+P. aeruginosa GroEL
+P. aeruginosa PA14
+P. aeruginosa strain PAO1
+P. falciparum
+P. gingivalis
+P. longifolia leaf extract
+P. macrocarpa ethyl acetate fraction (PMEAF)
+p16 INK4A
+P2X3 receptor
+p53
+p53 activator mithramycin A
+paclitaxel (PTX)
+paeoniflorin
+paeonol (PAE)
+palbociclib
+paliperidone
+palliative chemotherapy
+palmitate
+palmitate and glucose
+palmitate and palmitate plus oleate.
+palmitic acid (PA)
+Pam3Cys-Ser-(Lys)4 [PAM toll-like receptor (TLR)1/2 agonist]
+panax notoginseng saponins (PNS)
+panax notoginseng saponins (SLPN)
+pan-HDAC inhibitor ITF2357
+"pan-JAK inhibitor, INC424"
+pantoprazole
+papain
+paracetamol
+paradoxical sleep deprivation (PSD)
+paraquat (PQ)
+"paraquat (PQ) and 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)"
+paraquat poisoning
+parathyroid hormone (PTH)
+Paris forrestii (PCT3)
+paroxetine
+"paroxetine hydrochloride and corticotropin-releasing factor antagonist (CP-154,526)"
+partial hepatectomy (PH)
+partial pancreatectomy (PPx)
+particle
+particulate matter (PM)
+particulate matter (PM) and diesel exhaust particles (DEP)
+particulate matter (PM1)
+particulate matter (PM10)
+particulate matter (PM2.5)
+pathological hypertensive cyclic strain
+patrinia herba aqueous extract
+patulin (PAT)
+PAX8/PPAR¦Ã fusion protein (PPFP)
+p-Coumaric acid (p-CA)
+p-cresol (PcEMV)
+p-Cresyl sulfate (pCS)
+PD fluid (PDF)
+PD98059
+"PD98059, TPCA-1 and LY294002"
+PD-L1 inhibitor
+pectin (fermented to butyrate in the colon) (FPA)
+pedunculoside
+peginterferon alfa-2a (PEG-IFN)
+PEG-interferon plus ribavirin therapy
+pegylated interferon-¦Á (PEG-IFN)
+pegylated interferon-¦Á and ribavirin (IFN/RBV)
+PEGylated PLGA thymoquinone nanoparticles with transferrin (TF-TQ-Np)
+pegylated rat leptin antagonist (pRLA)
+peiminine
+pemetrexed
+penetrating ballistic-like brain injury
+penetrating keratoplasty (PKP)
+Penetratin-tagged STAT3-NTD inhibitor (S3-NTDi)
+penicillin-binding protein?1A (PBP1A) mutation-positive H.?pylori (H.?pyloriCagA+/P+)
+pentachlorophenol (PCP)
+pentagalloylglucose (PGG)
+pentoxifylline (PTX)
+pentraxin 3 (PTX3)
+pentylenetetrazol (PTZ)
+perfluoroalkyl chemicals (PFASs)
+perfluorooctane sulfonic acid (PFOS)
+perfluorooctanoic acid
+perillyle alcohol (PA)
+perinatal nicotine
+perioglas (PG) and P-15
+perioglas(PG)
+periostin
+peritoneal dialysis fluid (PDF)
+permanent bilateral common carotid artery occlusion (2VO)
+peroxisome proliferator activated receptor gamma (PPAR¦Ã)
+peroxisome proliferator-activated receptor delta (PPARdelta)
+peroxisome proliferator-activated receptor ¦Ã coactivator-1¦Á (PGC-1¦Á)
+persimmon tannin
+peste des petits ruminants virus (PPRV)
+petits ruminants virus (PPRV)
+pginterferon (PEG IFN)
+p-glycoprotein
+phenanthrene (Phe)
+phencyclidine (PCP)
+phenethyl isothiocyanate
+phenformin
+phenobarbital (PB)
+phenylephrine (PE)
+phenytoin
+PhIP and 17-¦Â-estradiol
+phorbol 12-myristate 13-acetate (PMA) and calcium ionophore A23187 or ovalbumin (OVA)
+phorbol ester
+"phorbol-12-myristate-13-acetate (PMA), macrophage colony-stimulating factor (M-CSF) and receptor activator of nuclear factor-¦ÊB ligand RANKL"
+phorbol-12-myristate-13-acetate(PMA)
+phosgene
+phosphatase of regenerating liver-3 (PRL-3)
+phosphodiesterase 5 (PDE5) inhibitor
+phosphorus (Pi)
+photobiomodulation therapy (PBMT)
+photochemotherapy with psoralens and ultraviolet A (PUVA)
+photodynamic therapy (PDT)
+photodynamic therapy using 5©\aminolevulinic acid (ALA-PDT)
+photo-oxidative damage (PD)
+phthalate mixture
+"phthalic acid mono-2-ethylhexyl ester (MEHP, bio-metabolite of DEHP)"
+phyllanthus emblica L (PEL) extract
+physcion 8-O-¦Â-glucopyranoside (PG)
+physical activity
+physical EE
+physical exercise
+phytoestrogens
+Phytophthora infestans (P. infestans)
+PI3K/mTOR dual inhibitor BEZ235
+piceatannol (PIC)
+Piceatannol (Pice)
+Pien Tze Huang (PZH)
+pifithrin-¦Á (PFT-¦Á)
+pilocarpine
+pinostilbene hydrate (PSH)
+pioglitazone
+"pioglitazone and L-buthionine-S,R-sulfoximine"
+piperine
+piplartine
+pirarubicin (THP)
+pitavastatin (Pit)
+pks+ E. coli
+placenta growth factor (PlGF)
+plasminogen activator (tPA)
+plasminogen activator inhibitor-1 (PAI-1)
+plasmodium
+plasmodium chabaudi malaria
+plasmodium falciparum
+plastrum testudinis extracts (PTE)
+platelet activating factor (PAF)
+platelet derived growth factor-BB (PDGF-BB)
+platelet derived growth factor-BB (PDGF-BB) and insulin-like growth factor (IGF)-1
+platelet lysate (PL)
+platelet-derived growth factor (PDGF)
+platelet-derived growth factor-D (PDGF-D)
+platinum
+platinum-based chemotherapy
+platycodin D (PD)
+plum polyphenols
+PLX4032 (vemurafenib)
+poly(ethylenimine) (PEI)
+polyalthia longifolia
+polyalthia longifolia leaf extract
+polychlorinated biphenyls (PCBs)
+"polycistronic viral vector expressing Sox2, Klf4, c-Myc, and Oct4"
+polycyclic aromatic hydrocarbons (PAHs)
+polydatin (PD)
+polyethylene glycol
+polygonatum odoratum lectin (POL)
+polyinosinic-polycytidilic acid (Poly(I:C))
+poly-lactic acid nanoparticles (PLA-NP)
+polymethylmethacrylate (PMMA)
+polyomavirus BK (BKV)
+polyphenolics extracted from mango (var. Keitt)
+polyphenols
+polyphyllin I (PPI)
+polyphyllin VI (PP-VI)
+polysaccharide (APS)
+polysaccharide from the roots of Actinidia eriantha (AEPS)
+polysaccharides (PRP1£©
+polystyrene (PSNPs)
+polyunsaturated fatty acids (PUFAs)
+pomegranate beverage (PG)
+pomegranate fruit aqueous extract (PGE)
+Pomegranate juice (PJ)
+pomegranate polyphenolics
+porcine cardiac myosin (PCM)
+porcine epidemic diarrhea virus (PEDV)
+porcine hemagglutinating encephalomyelitis virus (PHEV)
+porcine reproductive and respiratory syndrome virus (PRRSV)
+porcine serum
+porphyromonas endodontalis lipopolysaccharide ( P. endodontalis LPS)
+porphyromonas gingivalis
+Porphyromonas gingivalis?lipopolysaccharide (Pg-LPS)
+portland cement (PC)
+portulaca oleracea extract (POE)
+post-bariatric surgery
+postnatal overfeeding
+potassium oxonate (PO)
+potentiates inorganic phosphate (Pi)
+PP242
+PPAR-¦Ãagonist
+pramipexole (PPX)
+"pramipexole,piribedil, L-dopa, amantadine"
+prasugrel
+prasugrel/ticagrelor
+pravastatin
+praziquantel (PZQ)
+prednisolone
+prednisone
+preformed fibrils (PFFs) of human wild-type ¦ÁSyn
+pregnant mare serum gonadotropin
+prenatal alcohol exposure (PAE)
+prenatal nicotine exposure (PNE)
+prenatal stress (PNS)
+preoperative radiotherapy
+pressure overload
+PRIMA-1
+prion
+pristane (PS)
+pristimerin
+proanthocyanidin
+proanthocyanidin extract (GSPE)
+proanthocyanidins or docosahexaenoic acid
+probiotic Escherichia coli Nissle 1917 (EcN)
+probiotics (VSL#3)
+probucol
+procaine (PCA)
+progesterone (P4)
+programmed death-1 (PD-1) inhibitor
+proinflammatory cytokines
+pro-inflammatory growth factors
+prolactin (PRL)
+prolactin and estradiol
+"prolactin,IGF-1"
+proline-rich polypeptide 1 (PRP-1)
+prolonged aerobic exercise
+promoted in platelet-derived growth factor (PDGF)-BB
+"promoter (7,12-dimethylbenz[a]anthracene (DMBA) and 12-O-tetradecanoylphorbol-13-acetate (TPA)"
+prophylactic cranial irradiation (PCI)
+propionate
+propofol (PPF)
+propranolol (PRO)
+Propylthiouracil
+proresolution lipid mediator lipoxin (LX)A4
+prostaglandin E1 (PGE1)
+prostaglandin E2 (PGE2)
+Protein Arginine Deiminases (PADs)
+protein kinase C (PKC) ¦Á
+protein kinase C inhibitor GF109203X
+proteinase activated receptor 2 (PAR2)
+protocatechualdehyde (PCA)
+protocatechuic acid (PCA)
+pseudomonas aeruginosa (PA)
+Pseudomonas putida Sneb821
+pseudorabies virus type II (PRV-II)
+pSG5-HBx plasmid
+psoralen
+pSTAT3-specific inhibitor AG-490
+Psychosocial stress
+pterostilbene
+puerarin
+pulsatile shear (PS) flow
+pulsatile shear stress
+pulsed electromagnetic field (PEMF)
+pure total flavonoids from Smilax glabra Roxb (PTFS)
+purified lipooligosaccharides (LOS)
+puromycin
+puromycin aminonucleoside (PAN)
+PXR ligand rifampicin
+pyrogallol
+pyrrolidinedithiocarbamic acid (PDTC)
+pyruvate kinase M2(PKM2)
+qiliqiangxin (QL)
+qingda granule (QDG)
+quercetin
+quercetin and hyperoside (QH)
+quercetin-3-glucuronide (Q3G)
+quinacrine
+"quinacrine, erythromycin and tetracycline"
+quinidine
+quinone compounds P3H4
+quinpirole
+R-2-hydroxyglutarate (R-2HG)
+R715 (B1R antagonist)
+rabies virus (RABV)
+racemate
+radiation
+radiation and etoposide
+radiation and microgravity
+radioactivity iodine (RAI)
+radiochemotherapy
+radiofrequency ablation (RFA)
+radiotherapy
+radix angelica sinensis and radix hedysari ultrafiltration extract (RAS-RH)
+radix tetrastigma hemsleyani (RTH)
+radon
+radon radiation
+ragweed (SRW)
+RANKL (receptor activator of nuclear factor ¦ÊB ligand)
+rapamycin
+rapamycin and methylprednisolone (MP)
+rapamycin complex (mTOR)
+rapamycin complex 1 (mTORC1)
+"rapamycin, doxorubicin , cisplatin"
+"rapamycin,2-deoxyglucose (2-DG)"
+rapid ventricular pacing
+rare ginsenoside from ginseng(Rg6)
+Rb3
+reactive oxygen species (ROS)
+rebamipide
+receptor activator of nuclear factor-¦ÊB ligand (RANKL)
+receptor activator of nuclear factor-¦ÊB ligand (RANKL) and macrophage colony-stimulating factor (CSF1)
+receptor inhibitor (SB431542)
+recombinant Adeno-Cre viruses (AdV-Cre)
+recombinant early secreted antigenic target 6 (rESAT-6)
+recombinant human brain natriuretic peptide (rhBNP)
+recombinant Human immunodeficiency virus (HIV) viral protein gp120
+recombinant Human immunodeficiency virus (HIV) viral protein Tat
+recombinant human thymic stromal lymphopoietin (rhTSLP)
+recombinant lentivirus
+recombinant Schistosoma japonicum egg antigen P40 (rSjP40)
+recombinant Schistosoma japonicum protein P40 (rSjP40)
+recombinant tissue plasminogen activator (rt-PA)
+recombinant-specific gram-negative pathogen Escherichia coli (Xen14) and gram-positive pathogen Staphylococcus aureus (Xen29)
+reconstituted high-density lipoproteins (rHDL)
+recurrent insulin-induced hypoglycemia (RH)
+recurring heat stress (HS memory)
+red light (RL)
+red mud
+red wine polyphenolics
+regorafenib
+regular physical activity
+remnant-like lipoproteins (RLPs)
+repair of exercise
+repeated binge-EtOH exposure
+repeated social defeat (RSD)
+repeatedly passed
+repetitive transcranial magnetic stimulation (rTMS)
+repetitive traumatic brain injury (rTBI) mouse model brain extracts
+replicative senescence and stress
+Resibufogenin (RES)
+resistance exercise training
+resistanceor endurance training
+resistin
+reslizumab
+"RESMENA (reduction of metabolic syndrome in Navarra, Spain)"
+resolvin D1 (RvD1)
+respected serum exosomes
+respiratory syncytial virus (RSV)
+respiratory syndrome virus (PRRSV)
+resveratrol
+resveratrol and epigallocatechin
+resveratrol and hydroxytyrosol
+resveratrol and quercetin
+reticuloendotheliosis virus (REV)
+retinal toxicant pan-CDK inhibitors
+retinoic acid (RA)
+"retinoic acid (RA), leukemia inhibitory factor (LIF) and basic fibroblast growth factor (bFGF)"
+retinoic acid ; brain-derived neurotrophic factor (RA+BDNF)
+retinoic acid receptor-¦Á (RAR¦Á)- and retinoid X receptor-¦Á (RXR¦Á)-specific agonists
+retinoid binding protein peptide 161-180
+reversine
+Rg3-enhanced red ginseng extract (Rg3E)
+rhabdovirus
+rhamnetin
+Rhamnetin and cirsiliol
+Rhein
+Rhein-8-O-¦Â-D-glucopyranoside (Rg)
+Rh-endostatin
+Rhesus Rotavirus (RRV)
+rhinoviruses (RVs)
+Rhodiola crenulata aqueous extract (RCAE)
+Rhynchophylline
+ribavirin
+ribavirin and interferon ¦Â
+riboflavin (RF)
+Rice black-streaked dwarf virus (RBSDV)
+rice bran phenolic extract (RBPE)
+ricolinostat (ACY-1215)
+rifampicin
+ripasudil
+ritonavir
+rituximab (RTX)
+"rituximab, cyclophosphamide, doxorubicin, vincristine, prednisone (R-CHOP)"
+RM (Root methanol)
+RNA-directed DNA methylation
+rodent malaria parasite Plasmodium berghei
+root knot nematodes (RKN)
+ropivacaine
+rosemary
+rosiglitazone
+rosmarinic acid (RA)
+rosuvastatin
+rotavirus (RV)
+rotenone (ROT)
+Roux-en-Y gastric bypass (RYGB)
+royal jelly
+RPS24 morpholino
+R-pulegone (PUL)
+r-rays
+running
+runt-related transcription factor-2 (Runx2)
+rutin (RUT)
+ruxolitinib
+RV (human Wa RV or Rhesus RV) strains
+S-1/oxaliplatin
+S100A12
+sacubitril/valsartan (LCZ696)
+S-adenosylhomocysteine hydrolase (AHCY)
+S-adenosyl-L-methionine (AdoMet)
+Safflor yellow B (SYB)
+SAHA
+Saikosaponin a (Ssa)
+saikosaponin d (SSd)
+salidroside (SAL)
+saline
+Salinity
+salinomycin
+Salmonella
+Salmonella enteritidis (SE)
+Salmonella Typhimurium
+salt
+salt and drought stress
+Salt inducible kinase inhibitor MRT67307
+salvia-Nelumbinis naturalis (SNN)
+salvianolate
+salvianolic acid A (Sal A)
+salvianolic acid B (Sal B)
+S-amlodipine
+samul-tang (SM)
+sanguinarine
+saponin extract
+sappanone A
+sarpogrelate and telmisartan
+Satb2
+saturated fatty acid (SFA) and high fat diet (HFD)
+saturated fatty acids (SFA) palmitate (PA)
+SB431542
+sc-514 (a selective IKK¦Â inhibitor)
+scald
+schisandrin B (Sch B)
+Schistosoma
+schistosoma japonicum
+schistosomiasis
+schistosomiasis japonica
+schizandrin A (SchA)
+sciatic nerve partial ligation
+scopolamine
+scratch
+Scutellaria barbata D. Don (SB)
+SD or MF radiation
+SDF-1
+SDF-1¦Á analog CTCE-0214 (CTCE)
+second-hand smoke (SHS)
+secretin
+Se-deficient diet
+sedum sarmentosum extract
+sEHI t-AUCB (trans-4-[4-(3-adamantan-1-yl-ureido)-cyclohexyloxy]-benzoic acid)
+selective S-adenosyl-methionine-competitive small-molecule (GSK126) or 5-Aza-2'-deoxycytidine
+selenium (Se)
+selenium nanoparticles (SeNPs)
+Sendai virus (SeV)
+Seneca Valley virus (SVV)
+sepsis
+S-equol
+sera from acute KD patients
+Sera from patients with septic shock
+serotonin
+serum
+serum amyloid A (SAA)
+serum deprivation
+serum samples from patients with T2DM
+serum-free MSCM
+sevelamer
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+severe fever with thrombocytopenia syndrome virus (SFTSV)
+sevoflurane (SEV)
+SGI-1027
+SGI-110 and/or trichostatin A
+SGLT-2 inhibitors
+Shear stress
+Shenfu Injection (SFI)
+Sheng-ji Hua-yu (SJHY) formula
+Shenling Baizhu San (SLBZS)
+SHENMAI
+Shenmai injection (SMI)
+Shenqi pollen capsules (SPCs)
+Shexiang Tongxin dropping pill (STDP)
+Shikimic acid (SA)
+shikonin
+shock wave therapy (SWT)
+short form augmenter of liver regeneration (sfALR)
+short ragweed pollen
+Short-chain fatty acid sodium butyrate (NaB)
+short-term vagus nerve stimulation (VNS)
+si wei xiao xiu yin
+signal transducers and activators of transcription 1 (STAT1)
+si-jun-zi-tang (SJZT)
+sildenafil
+silibinin (SB)
+silica
+silica dust
+Silica nanoparticles (SiNPs)
+silica nanoparticles (SiNPs) mycin
+silica particle
+silica suspension
+silicon dioxide (SiO2)
+silk ascending aorta proximal
+silver ions Ag+
+silver nanoparticles (AgNPs)
+silybin
+silymarin (Sm)
+simian immunodeficiency virus (SIV)
+simulated microgravity (SMG)
+simulated tension strain
+simvastatin
+sinapic acid (SA)
+single dose irradiation
+single-walled carbon nanotubes (SWCNTs)
+Sinomenine (SIN)
+sinomenine hydrochloride (SH)
+SiO2
+Sipi soup (SPS)
+sirolimus
+SIRT1 activators (SRT1720)
+sitagliptin
+SK228
+Skullcapflavone I (SF I)
+sleep deprivation
+"slow bee paralysis virus (SBPV), Israeli acute paralysis virus (IAPV)"
+Smad3 inhibitor (SIS3)
+Smilax glabra Roxb (PTFS)
+smoking
+smoky coal
+SMPD3 inhibitor GW4869
+SN50 (a selective cell permeable peptide inhibitor of NF- ¦Ê B)
+social defeat stress
+sodium arsenite (NaAsO2)
+sodium butyrate (NaB)
+sodium fluoride (NaF)
+sodium hydrosulfide (NaHS)
+Sodium iodate (NaIO3)
+sodium new houttuyfonate (SNH)
+sodium nitrate
+sodium oxalate
+sodium selenite
+sodium selenite and Se-methylselenocysteine (MSC)
+sodium sulfide (Na2S)
+Sodium Tanshinone IIA Sulfonate (STS)
+sodium taurocholate
+sodium valproate (VPA)
+soft-shelled turtle peptide
+Solamargine
+solar particle event (SPE)
+solar-simulated UV (ssUV)
+solasonine (SS)
+soluble A¦Â oligomers
+soluble egg antigen (SEA)of Schistosoma japonicum
+Soluble epoxide hydrolase inhibitors (sEHIs)
+soluble ¦Â-amyloid (sA¦Â) oligomers
+Somatostatin (SRIF)
+sonic hedgehog(SHH)
+sophocarpine (SC)
+sophorae Fructus
+sorafenib (SOR)
+sorafenib or doxorubicin
+Spatholobus suberectus Dunn (SSD)
+spatial learning
+Specificity protein 1 (Sp1)
+Sphingosine-1-phosphate (S1P)
+spinal cord segment-derived conditioned medium (CM) of SCI (CM-SCI)
+spironolactone
+spirulina diet
+split radiation
+spontaneous recurrent epileptiform discharges (SREDs)
+sprint interval training (SIT)
+sprint training
+Src tyrosine kinase (Src)
+Src-TKIs (saracatinib or dasatinib)
+?-glucan
+staphylococcal enterotoxin B (SEB)
+staphylococcal protein A (SpA)
+Staphylococcus aureus
+Staphylococcus aureus enterotoxins (SE)
+staphylococcus aureus pneumonia
+starvation
+static water pressure
+statins
+staurosporine
+stearic acid
+steroids
+steviol
+stiff (50 kPa) hydrogel substrates
+stimulation electrode
+streptococcus iniae
+Streptococcus pneumoniae (Sp)
+streptococcus pneumoniae Endopeptidase O (PepO)
+streptozocin (STZ)
+streptozotocin injection and a high-glucose/high-fat diet
+stress
+stretch
+Su5416
+subarachnoid hemorrhage (SAH)
+subchronic deoxynivalenol (DON)
+suberoylanilide hydroxamic acid (SAHA)
+suberoylanilide hydroxamic acid (SAHA) and 3-deazaneplanocin A (DZNep)
+Suberoylanilide hydroxamic acid (SAHA)/epigallocatechin-3-gallate (EGCG)
+subgroup J avian leukosis virus (ALV-J)
+sub-lethal heat
+sublytic complement C5b-9 (sC5b-9)
+substance P (SP)
+sucrose
+Sufentanil
+sugar
+sulfasalazine
+sulfated polysaccharide that inhibits angiogenesis(WSS25)
+sulforaphane (SFN)
+"sulforaphane, quercetin and GTC"
+sulfur dioxide (SO2)
+sulfur mustard (SM)
+sunitinib (SU)
+supercritical-carbon dioxide fluid of C. indicum (CISCFE)
+supernatants from silica-treated macrophages
+surgery and chemotherapy
+SV40 small T antigen
+swainsonine (SW)
+swimming
+synthetic auxin ¦Á-naphthylacetic acid (NAA)
+synthetic preimplantation factor (sPIF)
+synthetic RNA duplexes
+synthetic Sulfonyl-Hydrazone-1
+SZ-685C
+T cell
+T. gondii
+T. mentagrophytes
+T-2 toxin
+T3
+tacrolimus (FK506)
+tacrolimus or high glucose
+talcum powder
+"tamarix articulata, quercetin , epigallocatechin gallate (EGCG)"
+tamoxifen (TAM)
+tamoxifen and metformin
+Tangeretin
+tankyrase inhibitor JW74
+tanshinol (TAN)
+tanshinone I and TRAIL
+tanshinone IIA (Tan IIA)
+taurocholate
+taurolithocholic acid-3 sulfate
+tauroursodeoxycholate (TUDC)
+taxol
+t-butylhydroperoxide (t-BHP)
+"TCDD (2,3,7,8-tetrachlorodibenzo-p-dioxin)"
+"TCDD and 6-methyl-1,3,-trichlorodibenzofuran (MCDF)"
+tea polyphenols (TP)
+tear fluid
+Tectorigenin
+telbivudine
+telbivudine or peg-IFN-¦Á-2a
+telmisartan
+temozolomide (TMZ)
+temozolomide and irradiation
+teniposide
+tensile
+tension
+teriparatide (TP)
+tert-butyl hydroperoxide (TBHP)
+testosterone
+tetra-arsenic tetra-sulfide (As4S4)
+tetrabromobisphenol-A (TBBPA)
+tetrachloromethane (CCl4)
+tetracycline (TTC)
+tetrahydroxy stilbene glucoside (TSG)
+tetramethylpyrazine (TMP)
+tetrandrine
+tetrodotoxin and AP5
+TGF-¦Â
+TGF-¦Â and bleomycin A5
+TGF-¦Â and EGF
+TGF-¦Â inhibitor SB525334
+TGF-¦Â1
+TGF-¦Â1 inhibitor LY364947
+TGF-¦Â1 or bone morphogenetic protein 2 (BMP-2)
+TGF-¦Â1 or bone morphogenetic protein-4 (BMP4)
+"TGF-¦Â1 plus cytomix (a mixture of IL-1beta, IFN-gamma and TNF-alpha)"
+TGF-¦Â2
+TGF-¦Â3
+thalidomide
+thapsigargin (Tg)
+thapsigargin (TG) and tunicamycin (TM)
+the fraction of Hedyotis diffusa and Scutellaria barbata herb couple(YDW11)
+theaflavin (TF)
+T-helper type 2 (Th2)-biased cytokine environment 
+thermal acclimation
+thermal stress
+thermo-chemotherapy
+thioacetamide (TAA)
+thioacetamide or carbon tetrachloride
+thioredoxin-interacting protein (TXNIP)
+thoracic epidural anesthesia (TEA)
+three apoptosis
+thrombin
+thrombospondin-1 (TSP-1)
+thymic stromal lymphopoietin (TSLP)
+Thymoquinone (TQ)
+thymosin ¦Á1 (T¦Á1)
+thymosin ¦Â4 (T¦Â4)
+thyroglobulin (Tg)
+thyroid hormone
+thyroid stimulating hormone
+thyroxine
+thyroxine T4
+TianMai Xiaoke tablet(TM)
+tiaoxin recipe
+ticagrelor
+tigecycline (TGC)
+tin protoporphyrin
+tissue factor pathway inhibitor TFPI-2
+titanium (Ti)
+titanium (Ti) particle
+titanium dioxide (TiO(2))
+titanium dioxide nanoparticles (TiO2 NPs)
+titanium surface
+TLR2 agonist pam3CSK4
+"TLR2 ligand zymosan, the TLR3 ligand poly(I:C) or the TLR5 ligand flagellin"
+TLR9 and RIG-I
+TLR9 ligand CpG-oligodeoxynucleotides (CpG-ODN)
+TmPyP4 (Porphyrin)
+TNF
+TNF-a and MMP13
+"TNF¦Á , IFN¦Ã"
+Tnf¦Á and Gm-csf
+TNF-¦Á and IL-1¦Â
+TNF-¦Á and IL-6
+TNF-¦Á and lipopolysaccharide (LPS)
+"TNF-¦Á, IL-6, leptin, resistin , free fatty acids (FFAs)"
+"TNF-¦Á, TGF¦Â1 and IL-1¦Â in combination"
+TNF-¦Á£¬IGF-1
+"TNF-¦Á,PDGF-BB"
+tobacco carcinogens
+tobacco smoke
+tobacco-specific nitrosamine 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK)
+tocotrienol-rich fraction (TRF)
+tocotrienols (¦Ã and ¦ÄT3)
+Toll-like receptor (TLR)
+Toll-like receptor3-p38 pathway-triggered poly I:C
+toluene
+"toluene 2,4-diisocyanate (TDI)"
+tolvaptan
+Tomato leaf curl virus (ToLCV)
+Tongbi formula (HQT)
+tongxinluo (TXL)
+toosendanin (TSN)
+torasemide
+torpedo acetylcholine receptor (T-AChR)
+total abdominal irradiation (TAI)
+total flavonoids (TFs)
+Total glucosides of paeony (TGP)
+total saponins of Panax japonicas(TPSJ)
+total-body irradiation (TBI)
+tough decoys (TuDs)
+tougu xiaotong capsule (TXC)
+toxic acetaminophen (APAP)
+toxoplasma gondii (T. gondii)
+TP-1
+TPA (12-O-tetradecanoylphorbol 13-acetate)
+TPCA-1
+traditional Chinese medicine Changqin NO. 1
+traffic-originated PM2.5 organic component (tPo)
+training
+trametenolic acid B (TAB)
+tranilast
+"tranilast (N-3,4-dimethoxycinnamoyl anthranilic acid)"
+"Trans10,cis12 conjugated linoleic acid (t10,c12 CLA)"
+"trans-3,5,4-trimethoxystilbene (TMS)"
+transarterial chemoembolization (TACE)
+Trans-chalcone
+transcription factor CCAAT/enhancer binding protein ¦Á (C/EBP¦Á)
+transcription factor NRF2
+transcriptional co-activator with PDZ-binding motif (TAZ)
+transglutaminase 2 (TG2)
+transient cerebral ischemia
+transmissible gastroenteritis virus (TGEV)
+trans-nonachlor (TNC)
+trans-pellitorine
+transretinoic acid/hydrocortisone (tRA/H)
+trastuzumab
+trastuzumab or lapatinib
+Traumatic brain injury (TBI)
+tremella fuciformis polysaccharides (TFPS)
+treponema pallidum (T. pallidum) infection
+Treponema pallidum (Tp)
+Treponema pallidum subsp pallidum (T pallidum)
+triacetyl resveratrol (TCRV)
+triamcinolone
+"triazophos (phenyl-1,2,4-triazolyl-3-(o,o-diethyl thionophosphate))"
+trichloroethylene (TCE)
+trichosanthes kirilowii extract (TKE)
+trichostatin A (TSA)
+tricin
+triclosan (TCS)
+Tri-DAP
+Triggering receptors expressed on myeloid cell-1 (TREM-1)
+triiodo-l-thyronine (T3)
+trimetazidine (TMZ)
+Trimethylamine N-oxide (TMAO)
+trimethyltin (TMT)
+trinitrobenzene sulfonic acid (TNBS)
+"triple cytokines (TGF-¦Â2, interleukin-1¦Â, tumor necrosis factor-¦Á)"
+tripterine
+Tripterygium glycosides (TGs)
+tripterygium wilfordii Hook F (TwHF)
+Tripterysium Glycosides Tablets (TGT)
+triptolide (TPL)
+triptolide and quercetin
+troglitazone
+Trovafloxacin
+troxerutin
+Trypanosoma cruzi (T. cruzi)
+tubastatin A
+Tubeimoside-1 (TBMS1)
+tubercidin
+tuberculosis (MTB)
+tubulointerstitial spaces
+tumor necrosis factor alpha (TNF-¦Á) 
+tumor necrosis factor alpha-induced protein 3 (TNFAIP3)
+Tumor necrosis factor-related apoptosis-inducing ligand (TRAIL)
+tumor resection
+tumour-derived TGF-¦Â
+Tungsten carbide-cobalt (WC-Co) nanoparticle composites
+tunicamycin (TM)
+tunicamycin (TM) or thapsigargin (TG)
+type I collagen (Col-1)
+type I interferon (IFN)
+type II collagen
+type II collagen and freund's adjuvant
+type III interferon (IFN¦Ë)
+Type VII collagenase
+typhae pollen polysaccharides (TPP)
+tyrosine kinase inhibitors (TKI)
+ulinastatin
+Ultra-high molecular weight polyethylene (UHMWPE)
+ultrasound (US)
+ultraviolet (UV) irradiation
+unmethylated cytosine followed by guanine (CpG ODN)
+unpredictable chronic mild stress (UCMS)
+urethane
+urocortin 1 (Ucn-1)
+urolithin A (UA)
+ursodeoxycholic acid (UDCA)
+ursolic acid (UA)
+uterine artery ablation
+uterine perfusion pressure (RUPP)
+vaccarin (VAC)
+Vaccination during Crisis of Plasmodium chabaudi Blood-Stage Malaria
+vaccinium bracteatum Thunb.(VBT)
+vacuum sealing drainage (VSD)
+vagus nerve stimulation (VNS)
+valerate
+valproic acid (VPA)
+valsartan (VAL)
+vamorolone
+vancomycin (VAN)
+varicella zoster virus (VZV)
+vascular endothelial growth factor (VEGF)
+VEGF or basic fibroblast growth factor (bFGF)
+VEGF-A
+VEGF-immobilized microparticles (VEGF-MPs)
+vehicle and bicyclol
+vein graft model
+vemurafenib
+vemurafenib/PLX4032
+ventilator
+verapamil
+verbascoside (VB)
+vesicular stomatitis virus (VSV)
+Vibrio alginolyticus
+vibrio anguillarum
+vibrio cholerae O1
+vibrio harveyi and lipopolysaccharide (LPS)
+vibrio parahaemolyticus flagellin
+vibrio splendidus
+vildagliptin (Vilda)
+vincristine (VCR)
+"vincristine, dactinomycin, cyclophosphamide (VAC)"
+vinyl chloride monomer (VCM)
+visfatin
+vitamin A
+vitamin C
+vitamin C loaded human serum albumin (HSA) nanoparticles
+vitamin D
+Vitamin D and phorbol 12-myristate 13-acetate
+vitamin D receptor activators (VDRAs)
+vitamin D3
+vitamin D3 (Vit D) and erythropoietin (EPO)
+vitamin D3 and ¦Â-glycerophosphate
+Vitamin E ¦Ä-tocotrienol
+Vitamin K2
+Vitamins A and D
+VitB12
+vmycobacterium tuberculosis (M.tb)
+voluntary exercise
+vorinostat (SAHA)
+walnut
+waltonitone
+warfarin
+warfarin plus vitamin K
+water avoidance stress (WAS)
+water extract of I. rotunda (WIR)
+water particulate matter 2.5 (PM2.5 )
+water-extracted PM10 (WE-PM10)
+wear particles
+Weipixiao (WPX) decoction
+western diet
+white spot syndrome virus (WSSV)
+whole grain diets
+whole grain highland barley (WGH)
+"WIN55,212-2 (WIN)"
+wire-induced injury to carotid arteries
+WNT family of secreted lipoglycoproteins(Wnt-5a)
+Wnt3a ligand
+wogonin
+wolbachia
+wound back skin
+wound fluids (WFs) from breast cancer patients
+WY14643
+X rays
+xanthohumol (XN)
+xanthomicrol
+XAV939
+xenon (Xe)
+xenotropic murine leukemia virus-related retrovirus (XMRV)
+xian-Ling-Gu-Bao (XLGB)
+xianyu decoction (XD)
+xiaoai Jiedu recipe (XJR)
+xiaoji decoction (XJD)
+xiaoxianggou
+Xie-Zhuo-Chu-Bi-Fang (XZCBF)
+xinfeng capsules (XFC)
+X-irradiated
+XMD8-92
+X-rays
+X-rays and heavy ions
+xuebijing (XBJ)
+Xuesaitong (XST)
+xuezhikang (XZK)
+yangonin (Yan)
+Yangzheng Sanjie decoction (YZSJD)
+Yes-associated protein (YAP)
+yhexamethylene guanidine phosphate (PHMG-phosphate)
+yin yang 1 (YY1)
+Yiqi-Bushen-Tiaozhi (YBT)
+yiqichutan
+Yiqifumai Injection (YQFM)
+Yishen Huoxue prescription
+YKL-40
+yttrium aluminium garnet (YAG) laser
+yunpiheluo (YPHL) decoction
+zaragozic acid (ZGA)
+ZCL-082
+zeaxanthin dipalmitate (ZD)
+ZEB1
+zerumbone
+zhenbao pill
+zhen-wu-tang (ZWT)
+zika virus (ZIKV)
+zinc
+zinc deficiency
+zinc oxide nanoparticles (ZnONPs) and DPP-IV inhibitor (Vildagliptin)
+zinc sulfate (ZnSO4)
+zinc(II) ions
+zingerone
+zirconia and titanium
+zoledronate
+zoledronic acid (ZA)
+¦Á-linolenic acid (ALA)
+¦Á-Lipoic acid (LA)
+¦Á-Mangostin
+¦Á-mangostin (¦ÁM) and ¦Ã-mangostin (¦ÃM)
+¦Á-melanocyte-stimulating hormone (¦Á-MSH)
+¦Á-MEM medium
+¦Á-myosin H-chain peptide
+¦Á-naphthylisothiocyanate (ANIT)
+¦Á-pinene
+¦Á-solanine
+¦Á-synuclein (¦Á-Syn)
+¦Á-Tocotrienol (TCT)
+¦Â 2-Adrenergic receptors (¦Â 2ARs)
+¦Â2 adrenergic agonist
+"¦Â3 -adrenergic agonist ,cAMP"
+"¦Â3-adrenergic receptor agonist CL316,243 (CL)"
+¦Â3-adrenoceptors(¦Â3-AR) inhibitor SR 59230A
+¦Â-adrenergic
+¦Â-adrenergic agonist and Epac activator
+¦Â-arrestin1-biased ¦Â1-adrenergic receptor
+¦Â-Asarone
+¦Â-cypermethrin (¦Â-CYP)
+¦Â-diketone antibiotic (DKAs)
+¦Â-Elemene
+¦Â-glycerophosphate (¦Â-GP)
+¦Â-glycerophosphate (¦Â-GP) and pyruvic acid
+¦Â-glycerophosphate + ascorbic acid + dexamethasone
+¦Â-hydroxybutyrate
+¦Â-hydroxy-¦Â-methylbutyrate (HMB)
+¦Â-ionone (¦ÂI)
+¦Â-lapachone (BLC)
+¦Â-mercaptoethanol (BME)
+¦Â-Patchoulene (¦Â-PAE)
+¦Ã- Mangostin (¦Ã-MS)
+¦Ã-d-glutamyl-meso-diaminopimelic acid (iE-DAP)
+¦Ã-rays
+¦Ã-tocotrienol
+¦¤9-tetrahydrocannabinol (THC)
+¦¤9-tetrahydrocannabinol (THC) and Cannabidiol (CBD)
+¦¤Np63¦Á
+¦Ä-opioid receptor (DOR)

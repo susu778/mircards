@@ -1,0 +1,124 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>获奖管理系统</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="{% static 'ams/bootstrap5/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'ams/bootstrap5/font/bootstrap-icons.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'ams/css/style.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="container">
+    <nav class="navbar mybar">
+        <div class="container-fluid">
+            <span class="navbar-brand" style="color:white;">
+                <img src="{% static 'ams/image/logo.png' %}" alt="学院logo" width="35" height="35" class="d-inline-block"> 师生获奖管理系统
+            </span>
+            <div class="dropdown">
+                <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle" id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
+                    <img src="{% static 'ams/image/photo.png' %}" width="30" height="30" class="rounded-circle">
+                    <span class="d-none d-sm-inline mx-1">欢迎 {{ result.user_name }}</span>
+                </a>
+                <ul class="dropdown-menu text-small shadow" aria-labelledby="dropdownUser1">
+                    <li><a class="dropdown-item" href="#">编辑资料</a></li>
+                    <li><a class="dropdown-item" href="#">修改密码</a></li>
+                    <li>
+                        <hr class="dropdown-divider">
+                    </li>
+                    <li><a class="dropdown-item" href="#">退出登录</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <div class="col-auto col-md-3 col-xl-2 px-sm-2 px-0" style="background-color: #71246B;">
+                <div class="d-flex flex-column align-items-center align-items-sm-start px-3 text-white" style="min-height: 600px;">
+                    <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link align-middle px-0 text-white">
+                                <i class="fs-4 bi-house"></i> <span class="ms-1 d-none d-sm-inline">欢迎页</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#submenu1" data-bs-toggle="collapse" class="nav-link px-0 align-middle text-white">
+                                <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline">奖项一览</span>
+                            </a>
+                            <ul class="collapse nav flex-column ms-1" id="submenu1" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">浏览查询</span></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">我的奖项</span></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#submenu2" data-bs-toggle="collapse" class="nav-link px-0 align-middle text-white">
+                                <i class="fs-4 bi-table"></i> <span class="ms-1 d-none d-sm-inline">奖项录入</span>
+                            </a>
+                            <ul class="collapse nav flex-column ms-1" id="submenu2" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">奖项1</span></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">奖项2</span></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#submenu3" data-bs-toggle="collapse" class="nav-link px-0 align-middle text-white">
+                                <i class="fs-4 bi-bootstrap"></i> <span class="ms-1 d-none d-sm-inline">个人信息</span>
+                            </a>
+                            <ul class="collapse nav flex-column ms-1" id="submenu3" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">编辑资料</span></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">修改密码</span></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#submenu4" data-bs-toggle="collapse" class="nav-link px-0 align-middle text-white">
+                                <i class="fs-4 bi-grid"></i> <span class="ms-1 d-none d-sm-inline">奖项管理</span>
+                            </a>
+                            <ul class="collapse nav flex-column ms-1" id="submenu4" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">数据统计</span></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">报表导出</span></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#submenu5" data-bs-toggle="collapse" class="nav-link px-0 align-middle text-white">
+                                <i class="fs-4 bi-people"></i> <span class="ms-1 d-none d-sm-inline">用户管理</span>
+                            </a>
+                            <ul class="collapse nav flex-column ms-1" id="submenu5" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">用户列表</span></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline myspan">添加用户</span></a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <hr>
+                </div>
+            </div>
+            <div class="col py-3">
+                <h3>This is content part.</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="{% static 'ams/bootstrap5/js/bootstrap.bundle.min.js' %}"></script>
+<script src="{% static 'ams/js/main.js' %}"></script>
+</body>
+</html>
