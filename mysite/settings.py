@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "kgad",
     "ncren",
     "mirset",
+    "mircards",
 ]
 
 MIDDLEWARE = [
