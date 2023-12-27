@@ -3,46 +3,76 @@
 <head>
     {% load static %}
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>miRCards</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="{% static 'mircards/bootstrap5/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
 <!--    <link href="{% static 'mircards/bootstrap5/css/bootstrap.min.css'%}" rel="stylesheet" type="text/css">-->
+    <style>
+        .tabs{
+            min-width: 100%;
+            min-height: 1200px;
+            background-color: lightgray;
+        }
+        .ui-tabs {
+            padding: .2em;
+            padding-top: 0.2em;
+            padding-right: 0.2em;
+            padding-bottom: 0.2em;
+            padding-left: 0.2em;
+            zoom: 1;
+        }
+
+        .sub-header{
+        height:50px;
+        background: #5c9ccc;
+    }
+
+    .sub-header .menu-list{
+        float: left;
+        margin-bottom: 50%;
+        line-height: 50px;
+        height: 50px;
+    }
+    .sub-header .menu-list a{
+        padding: 5px 40px;
+        color: #333;
+        font-size: 26px;
+        text-decoration: none;
+
+    }
+    .sub-header .menu-list a:hover {
+        color: #ff6700;
+    }
+    .bk{
+    border:5px solid #4297d7;
+	padding:40px 40px;
+	background:#dddddd;
+	width:300px;
+	border-radius:12px;
+    }
+
+    </style>
 </head>
 <body>
 <div class="container mt-3">
   <img src="/static/mircards/image/Title.jpg" class="mx-auto d-block" style="width:100%">
 </div>
+<div class="tabs ui-tabs" >
+  <div class="sub-header">
+    <div class="container">
+        <div class="menu-list">
 
-<div class="container mt-7">
-  <div class="btn-group btn-group-lg">
-    <button type="button" >
-        <a href="#" class="btn btn-info" role="button">Home</a>
-    </button>
-      <button type="button" >
-        <a href="#" class="btn btn-info" role="button">Search</a>
-    </button>
-      <button type="button" >
-        <a href="#" class="btn btn-info" role="button">miRSet</a>
-    </button>
-      <button type="button" >
-        <a href="#" class="btn btn-info" role="button">Analysis</a>
-    </button>
-      <button type="button" >
-        <a href="#" class="btn btn-info" role="button">Download</a>
-    </button>
-      <button type="button" >
-        <a href="#" class="btn btn-info" role="button">help</a>
-    </button>
-      <button type="button" >
-        <a href="#" class="btn btn-info" role="button">About</a>
-    </button>
-
-  </div>
-</div>
-
-
-
-
+            <a href="/mircards/home" class="bk">Home</a>
+            <a href="/mircards/search" class="bk">Search</a>
+            <a href="/mircards/mirset" class="bk">miRSet</a>
+            <a href="/mircards/analysis" class="bk">Analysis</a>
+            <a href="/mircards/download" class="bk">Download</a>
+            <a href="/mircards/help" class="bk">Help</a>
+            <a href="/mircards/about" class="bk">About</a>
+        </div>
+        <div class="clear:both;"></div>
+    </div>
+ </div>
 
 <script src="{% static 'mircards/bootstrap5/js/bootstrap.bundle.min.js' %}"></script>
 </body>
