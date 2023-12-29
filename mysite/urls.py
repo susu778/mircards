@@ -23,4 +23,5 @@ urlpatterns = [
     path("ncren/", include('ncren.ncren_urls')),
     path("mirset/",include('mirset.urls')),
     path("mircards/",include('mircards.urls')),
+    path("bishe/",include('bishe.urls')),
 ]
