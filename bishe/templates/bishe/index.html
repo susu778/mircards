@@ -4,10 +4,47 @@
 <head>
     <meta charset="UTF-8">
     <title>Bishe</title>
-  <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css'%}" type="text/css">
+    <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css'%}" type="text/css">
+    <link rel="stylesheet" href="{% static 'bishe/css/style.css' %}" type="text/css"/>
 </head>
 <body>
-    <div class=""><h2>Hello world!!</h2></div>
-    <button class="btn btn-primary">haha</button>
+    <div class="container">
+        <div class="" id="logo">这是LOGO</div>
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a class="nav-link active" data-bs-toggle="pill" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#search">Search</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#mirset">miRSet</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#analysis">Analysis</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#download">Download</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#help">Help</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#about">About</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="tab_content">
+            <div class="tab-pane active container" id="home">这是网站首页</div>
+            <div class="tab-pane container" id="search">这是miRNA信息检索页面，开发者：苏金昊</div>
+            <div class="tab-pane container" id="mirset">这是miRNA集合注释平台，开发者：杨俊毅</div>
+            <div class="tab-pane container" id="analysis">这是miRNA集合富集分析平台，开发者：韩睿智</div>
+            <div class="tab-pane container" id="download">这是网站下载页面</div>
+            <div class="tab-pane container" id="help">这是网站帮助页面</div>
+            <div class="tab-pane container" id="about">这是网站关于我们页面</div>
+        </div>
+        <div class="footer" id="foot">这是页脚</div>
+    </div>
+
+<script src="{% static 'bishe/bootstrap5/js/bootstrap.min.js' %}"></script>
 </body>
 </html>
