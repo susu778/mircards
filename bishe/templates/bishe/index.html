@@ -41,64 +41,7 @@
                 </div>
             </div>
             <div class="tab-pane container" id="search">这是miRNA信息检索页面，开发者：苏金昊</div>
-            <div class="tab-pane container" id="mirset">
-                <script src="{% static 'bishe/js/jquery-3.6.0.min.js' %}"></script>
-                <script src="{% static 'bishe/js/echarts.common.min.js' %}"></script>
-                 <script src="{% static 'bishe/js/echarts.js' %}"></script>
-                 <script src="{% static 'bishe/js/footable.min.js' %}"></script>
-                 <script src="{% static 'bishe/js/gdp-data.js' %}"></script>
-                 <script src="{% static 'bishe/js/jquery.customSelect.min.js' %}"></script>
-                 <script src="{% static 'bishe/js/jquery.knob.js' %}"></script>
-                 <script src="{% static 'bishe/js/jquery-jvectormap-1.2.2.min.js' %}"></script>
-                <script src="{% static 'bishe/js/owl.carousel.js' %}"></script>
-                <script src="{% static 'bishe/js/tagcloud.min.js' %}"></script>
-
-                <div class = "col-md-12">
-                <div class = "panel panel-default" style="text-align: center;">
-                <header class="panel-heading" style="font-weight: bold; color: #333;">
-                查询条件(可直接点击Search按钮查看部分关系)：
-                </header>
-                <div class = "panel-body">
-                    <form  id ="searchRelationForm" class="form-inline" style="padding-left: 10% ; padding-right: 10%" method="get">
-
-                        <div id = "entity1" class="form-group" style="padding: 2%">
-                            <input type="text" id = "entity1_text" name = "entity1_text" class ="form-control" placeholder="mirna或集合名称 例如：hsa-mir-33a" aria-describedby="basic-addon1">
-                        </div>
-                        <div class="btn-group" style="padding: 2%">
-                            <button type="button" id="btnSearch" class="btn btn-primary" onclick = "document.getElementById('searchRelationForm').submit();">Search</button>
-                        </div>
-                        </form>
-                </div>
-                </div>
-                </div>
-                    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
-                <div class = "col-md-12">
-                    <div class="panel panel-default ">
-                        <header class="panel-heading">
-                            关系图 :
-                        </header>
-                        <div class = "panel-body ">
-                            <div id="graph" style="width: 1200px;height:900px;"></div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Footable -->
-                <div class = "col-md-12">
-                    <div class="panel panel-default">
-                        <header class="panel-heading">
-                         关系列表 :
-                        </header>
-                        <div class = "panel-body">
-                            <table class = "table" data-paging =  "true" data-sorting="true"></table>
-                        </div>
-                    </div>
-                </div>
-                 {% csrf_token %}
-                 <script type="text/javascript">
-                     var str1 = {{ searchResult|safe }}
-                 </script>
-                 <script src="{% static 'bishe/js/mirset.js' %}"></script>
-            </div>
+            <div class="tab-pane container" id="mirset">这是miset页面，开发者：杨俊毅</div>
             <div class="tab-pane container" id="analysis">这是miRNA集合富集分析平台，开发者：韩睿智</div>
             <div class="tab-pane container" id="download">这是网站下载页面</div>
             <div class="tab-pane container" id="help">这是网站帮助页面</div>
@@ -108,21 +51,5 @@
     </div>
 
 <script src="{% static 'bishe/bootstrap5/js/bootstrap.min.js' %}"></script>
-<script>
-$(document).ready(function() {
-    // 当tab改变时，保存当前的tab到localStorage
-    $('a[data-bs-toggle="pill"]').on('shown.bs.tab', function (e) {
-        localStorage.setItem('lastTab', $(this).attr('href'));
-    });
-
-    // 获取localStorage中的lastTab
-    var lastTab = localStorage.getItem('lastTab');
-
-    // 如果存在lastTab，那么显示这个tab
-    if (lastTab) {
-        $('[href="' + lastTab + '"]').tab('show');
-    }
-});
-</script>
 </body>
 </html>

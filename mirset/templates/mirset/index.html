@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bishe</title>
+    <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css' %}" type="text/css">
+    <link rel="stylesheet" href="{% static 'bishe/css/style.css' %}" type="text/css"/>
+     <link rel="stylesheet" href="{% static 'bishe/css/footable.bootstrap.min.css' %}" type="text/css"/>
+{#     <link rel="stylesheet" href="{% static 'bishe/css/tagcloud.css' %}" type="text/css"/>#}
+</head>
+<body>
+    <div class="container">
+        <div class="" id="logo">这是LOGO</div>
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a class="nav-link active" data-bs-toggle="pill" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#search">Search</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#mirset">miRSet</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#analysis">Analysis</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#download">Download</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#help">Help</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#about">About</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="tab_content">
+            <div class="tab-pane active container" id="home">
+                <div class="row">
+                    <div class="col-6">这是1</div>
+                    <div class="col-5">2</div>
+                </div>
+            </div>
+            <div class="tab-pane container" id="search">这是miRNA信息检索页面，开发者：苏金昊</div>
+            <div class="tab-pane container" id="mirset">
+                <script src="{% static 'bishe/js/jquery-3.6.0.min.js' %}"></script>
+                <script src="{% static 'bishe/js/echarts.common.min.js' %}"></script>
+                 <script src="{% static 'bishe/js/echarts.js' %}"></script>
+                 <script src="{% static 'bishe/js/footable.min.js' %}"></script>
+                <script src="{% static 'bishe/js/jquery-ui-1.10.4.min.js' %}"></script>
+
+                <div class = "col-md-12">
+                <div class = "panel panel-default" style="text-align: center;">
+                <header class="panel-heading" style="font-weight: bold; color: #333;">
+                查询条件(可直接点击Search按钮查看部分关系)：
+                </header>
+                <div class = "panel-body">
+                    <form  id ="searchRelationForm" class="form-inline" style="padding-left: 10% ; padding-right: 10%" method="get">
+
+                        <div id = "entity1" class="form-group" style="padding: 2%">
+                            <input type="text" id = "entity1_text" name = "entity1_text" class ="form-control" placeholder="mirna或集合名称 例如：hsa-mir-33a" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="btn-group" style="padding: 2%">
+                            <button type="button" id="btnSearch" class="btn btn-primary" onclick = "document.getElementById('searchRelationForm').submit();">Search</button>
+                        </div>
+                        </form>
+                </div>
+                </div>
+                </div>
+                    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+                <div class = "col-md-12">
+                    <div class="panel panel-default ">
+                        <div class = "panel-body ">
+                            <div id="graph" style="width: 1200px ;height:600px;"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footable -->
+                <div class = "col-md-12">
+                    <div class="panel panel-default">
+                        <div class = "panel-body">
+                            <table class = "table" data-paging =  "true" data-sorting="true"></table>
+                        </div>
+                    </div>
+                </div>
+                 {% csrf_token %}
+                 <script type="text/javascript">
+                     var str1 = {{ searchResult|safe }}
+                 </script>
+                 <script src="{% static 'bishe/js/mirset.js' %}"></script>
+            </div>
+            <div class="tab-pane container" id="analysis">这是miRNA集合富集分析平台，开发者：韩睿智</div>
+            <div class="tab-pane container" id="download">这是网站下载页面</div>
+            <div class="tab-pane container" id="help">这是网站帮助页面</div>
+            <div class="tab-pane container" id="about">这是网站关于我们页面</div>
+        </div>
+        <div class="footer" id="foot">这是页脚</div>
+    </div>
+
+<script src="{% static 'bishe/bootstrap5/js/bootstrap.min.js' %}"></script>
+<script>
+$(document).ready(function() {
+    // 当tab改变时，保存当前的tab到localStorage
+    $('a[data-bs-toggle="pill"]').on('shown.bs.tab', function (e) {
+        localStorage.setItem('lastTab', $(this).attr('href'));
+    });
+
+    // 获取localStorage中的lastTab
+    var lastTab = localStorage.getItem('lastTab');
+
+    // 如果存在lastTab，那么显示这个tab
+    if (lastTab) {
+        $('[href="' + lastTab + '"]').tab('show');
+    }
+});
+</script>
+</body>
+</html>
