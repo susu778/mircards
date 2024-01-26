@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css'%}" type="text/css">
+    <link rel="stylesheet" href="{% static 'bishe/css/style.css' %}" type="text/css"/>
+    <style>
+        .card-text p {
+            border: 3px solid black;
+            border-radius: 5px;
+            padding: 5px;
+            margin-bottom: 5px;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        {% if result %}
+            <div class="card mb-3" style="width: 50rem;">
+                <div class="card-header text-black"  ><h3>Search Result</h3></div>
+                <div class="card-body text-dark">
+                    <div class="card-text">
+                        <p>Mature ID: {{ result.Mature_id }}</p>
+                        <p>Accession: {{ result.Accession }}</p>
+                        <p>Description: {{ result.Description }}</p>
+                        <p>Sequence: {{ result.Sequence }}</p>
+                        <p>Seed Sequence: {{ result.Seed_seq }}</p>
+                        <p>Mature Chromosome: {{ result.mature_chrom }}</p>
+                        <p>Pre-miRNA: {{ result.pre_mir }}</p>
+                        <p>Evidence: {{ result.evidence }}</p>
+                    </div>
+                </div>
+            </div>
+        {% elif error_message %}
+            <div class="alert alert-warning" role="alert">
+                {{ error_message }}
+            </div>
+        {% endif %}
+    </div>
+<script src="{% static 'bishe/bootstrap5/js/bootstrap.min.js' %}"></script>
+</body>
+</html>
