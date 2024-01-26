@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>Browse</title>
     <link href="{% static 'ams/bootstrap5/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
+
 </head>
 <body>
 
@@ -15,7 +16,32 @@
         <div class="col-md-8 col-lg-8"  style="background-color: #6610f2">8</div>
     </div>
 </div>
+ <div class="container mt-3">
+                <h5>STEP1: Input miRNA list </h5>
+                <form action="/mircards/upload" method="post" name="form_1">
+                    <div class="text col-md-4" contenteditable="true" placeholder="请输入内容"></div>
 
+                        <label class="input-file-button" for="upload"> Upload </label>
+                        <input type="file" id="upload"/>
+                </form>
+                <div class="container mt-3">
+                <h5>STEP2: Type of enrichment analysis </h5>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" id="radio1" name="optradio" value="option1" checked>ORA
+                    <label class="form-check-label" for="radio1"></label>
+                </div>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" id="radio2" name="optradio" value="option2">GSEA
+                    <label class="form-check-label" for="radio2"></label>
+                </div>
+                </div>
+                <div class="container mt-3">
+               <h5> Step3:Input reference miRNA set(optional) </h5>
+                <input type="file" id="file-uploader">
+                </div>
+                 <button type="submit" class="btn btn-primary mt-3">Run</button>
+            </div>
 
+        </div>
 </body>
 </html>
