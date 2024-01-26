@@ -12,5 +12,4 @@ urlpatterns = [
     path('about', views.about, name="about"),
     path('search_mirna', views.search_mirna),
 
-
 ]
