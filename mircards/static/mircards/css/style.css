@@ -1,14 +1,64 @@
-#logo{
-    height:100px;
+#logo {
+    height: 100px;
     text-align: center;
     border: 1px solid red;
 }
-#tab_content{
-    border:1px solid red;
-    min-height:550px;
+
+#tab_content {
+    border: 1px solid red;
+    min-height: 550px;
 }
-#foot{
+
+#foot {
     border: 1px solid green;
     margin-top: 5px;
     height: 50px;
 }
+#example_file_mirna {
+    text-color: #6a18bc;
+    text-decoration: none;
+    background-color: transparent;
+}
+#upload{
+    margin-top: 10px;
+}
+
+.subtitle{
+    background-color: #3b86fa;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.menu{
+     width:40%;
+     margin: 40px;
+}
+
+.choices {
+    width: 12.5rem;
+    height: 2.8rem;
+    margin-top: 10px;
+}
+input[type="radio"] {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+ a{
+    color: #17150f;
+    text-decoration: none;
+    background-color: transparent;
+}
+ .end{
+     margin-bottom: 10px;
+ }
+ .set_select{
+     width:230px;
+     height:35px;
+     margin-top: 8px;
+ }
+ .para{
+     width:230px;
+     height:35px;
+     margin-top: 8px;
+ }
