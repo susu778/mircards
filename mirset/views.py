@@ -2,8 +2,6 @@ from django.shortcuts import render
 from py2neo import Graph
 import json
 # Create your views here.
-# def index(request):
-#     return render(request,'bishe/index.html',{})
 
 class neo4jconn:
     def __init__(self):
@@ -35,6 +33,8 @@ def sortMirset(searchResult):#调整
         })
     return target_data
 
+
+
 def index(request):
     if (request.GET):
         db = neo4jconn()
@@ -49,6 +49,7 @@ def index(request):
             searchResult = db.all()
             newdata=sortMirset(searchResult)
             return render(request, 'mirset/index.html', {'searchResult': json.dumps(newdata, ensure_ascii=False)})
+
     return render(request, 'mirset/index.html',{})
 
 
