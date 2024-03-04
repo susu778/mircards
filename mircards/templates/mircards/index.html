@@ -41,7 +41,50 @@
 
             </div>
         </div>
-        <div class="tab-pane container" id="search">这是miRNA信息检索页面，开发者：苏金昊</div>
+
+         <div class="tab-pane container" id="search">
+       <form action="/mircards/search_mirna" method="post" name="form_1">
+           {% csrf_token %}
+         <div id="fragment-3">
+        <div style="margin:30px 0 0 50px;">
+            <p style="margin:10px 0 0 0; font-size:150%;"> You can submit keywords for searching. <span id="example" style="margin-left:20px;color: deepskyblue;cursor: pointer;">Use example</span></p>
+            <div style="margin-top:10px;">
+                <div style="float: left;margin-top:40px;">
+                    <select id="input1_1" style="width:85px;font-size: 16px;">
+                        <option value="mir" selected="selected">miRNA</option>
+                        <option value="dis">Disease</option>
+                    </select>
+                </div>
+
+                <div style="float: left;margin-left:20px;">
+                    <textarea id="input1_3" rows="5" name="text1" cols="50" style="font-size: 16px;"></textarea>
+                </div>
+                <div style="float:left;margin-top:40px;">
+                    <input type="submit" class="btn btn_1" style="font-size:16px; margin:0 0 0 60px;"value="Click to Search">
+                    <input id="resetsearch" type="reset" style="margin-left:40px;font-size:16px;" value="Reset all">
+                </div>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div id="searchresult" style="margin:15px 0 0 50px;"></div>
+    </div>
+
+</form>
+<script>
+     document.getElementById('example').addEventListener('click', function() {
+        document.getElementById('input1_3').value = 'hsa-mir-326'; // 自动填充输入框内容
+    });
+    document.getElementById('resetsearch').addEventListener('click', function() {
+        document.getElementById('input1_3').value = ''; // 清空输入框内容
+        document.getElementById('searchresult').innerHTML = '<h2>Begin a new search!</h2>'; // 弹出提示消息
+    });
+
+
+</script>
+
+
+
+        </div>
         <div class="tab-pane container" id="mirset">这是miRNA集合注释平台，开发者：杨俊毅</div>
         <div class="tab-pane container" id="analysis">
 <form action="" method="post" id="Form" target="_blank">
