@@ -4,45 +4,44 @@
 <head>
     <meta charset="UTF-8">
     <title>miRCards</title>
-    <link rel="stylesheet" href="{% static 'mircards/bootstrap5/css/bootstrap.min.css' %}" type="text/css">
-    <link rel="stylesheet" href="{% static 'mircards/css/style.css' %}" type="text/css"/>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css'%}" type="text/css">
+    <link rel="stylesheet" href="{% static 'bishe/css/style.css' %}" type="text/css"/>
 </head>
 <body>
-<div class="container">
-    <div class="" id="logo">这是LOGO</div>
-    <ul class="nav nav-pills">
-        <li class="nav-item">
-            <a class="nav-link active" data-bs-toggle="pill" href="#home">Home</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#search">Search</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#mirset">miRSet</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#analysis">Analysis</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#download">Download</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#help">Help</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#about">About</a>
-        </li>
-    </ul>
-    <div class="tab-content" id="tab_content">
-        <div class="tab-pane active container" id="home">
-            <div class="row">
-                <div class="col-6">这是1</div>
-                <div class="col-5">2</div>
-
+    <div class="container">
+        <div class="" id="logo">这是LOGO</div>
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a class="nav-link active " data-bs-toggle="pill" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#search" >Search</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#mirset">miRSet</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#analysis">Analysis</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#download">Download</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#help">Help</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#about">About</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="tab_content">
+            <div class="tab-pane active container" id="home">
+                <div class="row">
+                    <div class="col-6">这是1</div>
+                    <div class="col-5">2</div>
+                </div>
             </div>
-        </div>
-
-         <div class="tab-pane container" id="search">
+        <div class="tab-pane container" id="search">
        <form action="/mircards/search_mirna" method="post" name="form_1">
            {% csrf_token %}
          <div id="fragment-3">
@@ -60,19 +59,23 @@
                     <textarea id="input1_3" rows="5" name="text1" cols="50" style="font-size: 16px;"></textarea>
                 </div>
                 <div style="float:left;margin-top:40px;">
+
                     <input type="submit" class="btn btn_1" style="font-size:16px; margin:0 0 0 60px;"value="Click to Search">
-                    <input id="resetsearch" type="reset" style="margin-left:40px;font-size:16px;" value="Reset all">
+                     <input id="resetsearch" type="reset" class="btn btn_1" style="margin-left:40px;font-size:16px;" value="Reset all">
+
                 </div>
+
                 <div style="clear:both"></div>
             </div>
         </div>
         <div id="searchresult" style="margin:15px 0 0 50px;"></div>
     </div>
+   </form>
 
-</form>
+ </div>
 <script>
      document.getElementById('example').addEventListener('click', function() {
-        document.getElementById('input1_3').value = 'hsa-mir-326'; // 自动填充输入框内容
+        document.getElementById('input1_3').value = 'hsa-miR-410-5p'; // 自动填充输入框内容
     });
     document.getElementById('resetsearch').addEventListener('click', function() {
         document.getElementById('input1_3').value = ''; // 清空输入框内容
@@ -84,141 +87,18 @@
 
 
 
+
+
+
+            <div class="tab-pane container" id="mirset">这是miRNA集合注释平台，开发者：杨俊毅</div>
+            <div class="tab-pane container" id="analysis">这是miRNA集合富集分析平台，开发者：韩睿智</div>
+            <div class="tab-pane container" id="download">这是网站下载页面</div>
+            <div class="tab-pane container" id="help">这是网站帮助页面</div>
+            <div class="tab-pane container" id="about">这是网站关于我们页面</div>
         </div>
-        <div class="tab-pane container" id="mirset">这是miRNA集合注释平台，开发者：杨俊毅</div>
-        <div class="tab-pane container" id="analysis">
-<form action="" method="post" id="Form" target="_blank">
-            <div class="container mt-3 ">
-                    <table width="90%">
-                        <tr>
-                            <td class="subtitle" colspan="2"><h5>Select miRNA or precursor as analysis type</h5></td>
-                        </tr>
-                        <tr>
-                            <td class="menu mt-3"><h5><strong> Choose analysis type:</strong></h5></td>
-                            <td>
-                                <a href="#miRNA" class="btn btn-primary  choices" role="button">miRNAs</a>
-	                            <a href="#pre" class="btn btn-outline-secondary  choices" role="button">pre-miRNAs</a>
-
-                            </td>
-                        </tr>
-                         <div class="container" id="miRNA">
-                        <tr style="display:table-row">
-                            <td><h5><strong>Input miRNA list:</strong></h5></td>
-                            <td>
-                                <textarea name="name" id="input_name" cols="20" rows="5" class="form-control mt-3"
-onfocus="this.value=''; this.onfocus=null;" >hsa-miR-144-5p
-hsa-miR-17-5p
-hsa-miR-20a-5p
-hsa-miR-222-3p
-hsa-miR-106a-5p
-hsa-miR-93-5p
-hsa-miR-126-3p
-hsa-miR-363-3p
-hsa-miR-302c-3p</textarea>
-                            </td>
-                        </tr>
-                         </div>
-                         <div class="container" id="pre" >
-                        <tr style="display:none">
-                            <td><h5><strong>Input pre-miRNAs list:</strong></h5></td>
-                            <td>
-                                <textarea name="name" id="input_name" cols="20" rows="5" class="form-control mt-3"
-onfocus="this.value=''; this.onfocus=null;" > </textarea>
-                            </td>
-                        </tr>
-                         </div>
-                        <tr>
-                            <th><label for="input_file"><h5><strong>Upload  file:</strong>  </h5></label></th>
-                            <td><input type="file" id="upload">  <a class="btn border-info my-2 btn-sm" download="hsa_mirnas.txt" onclick="example()" href=" /mircards/static/examples/hsa_mirnas.txt" >Example</a>
-                                <!--<a id="example_file_mirna" href="/mircards/static/examples/hsa_mirnas.txt" target="_blank">
-                                <strong>Example</strong> </a>
-                                --></td>
-
-                        </tr>
-                        <tr>
-                            <td class="subtitle" colspan="2"><h5>Algorithm of enrichment analysis</h5></td>
-                        </tr>
-                        <tr>
-                            <td><h5><strong>Analysis method:</strong></h5> </td>
-                            <td>
-                                <ul id="id_input_type" class="list-unstyled">
-                                    <li><label for="id_input_type_0"><input type="radio" name="input_type" value="ORA"
-                                                                            class="list-unstyled " required=""
-                                                                            id="id_input_type_0" checked="">
-                                         <strong>Over-Representation Analysis (ORA)</strong>
-                                    </label>
-                                    </li>
-                                    <li><label for="id_input_type_1"><input type="radio" name="input_type"
-                                                                            value="GSEA" required="" id="id_input_type_1">
-                                        <strong>miRNA enrichment analysis (GSEA)</strong>  </label>
-                                    </li>
-                                </ul>
-                            </td>
-                        </tr>
-                     <tr>
-                            <td class="subtitle" colspan="2"><h5>Input reference miRNA set(optional)</h5></td>
-                     </tr>
-                      <tr>
-                            <td><h5><strong>Reference set:</strong></h5></td>
-                          <td><select  class="set_select" name="miRNA_set">
-								<option>Function</option>
-								<option>Disease</option>
-								<option>TF</option>
-								<option>Cluster</option>
-								<option>Family</option>
-								<option>TissueSpecific</option>
-								<option>AllSets</option>
-                               </select></td>
-
-                      </tr>
-                        <tr>
-                            <th><label for="input_file"><h5><strong>Upload  file:</strong>  </h5></label></th>
-
-                            <td><input type="file" id="upload"> <a class="btn border-info my-2 btn-sm" download="mirset.txt" onclick="example()" href=" /mircards/static/examples/mirset.txt">Example</a>
-                                  </td>
-
-                        </tr>
-                            <tr>
-                                <td class="subtitle" colspan="2"><h5>Other parameters</h5></td>
-                            </tr>
-                         <tr class="menu mt-3">
-                            <td ><h5><strong>Min size: exclude smaller sets</strong></h5></td>
-                            <td>
-                            <input type="text" class="para" value="6" name="min_size">
-                            </td>
-                            </tr>
-                        <tr class=" menu mt-3">
-                            <td ><h5><strong>Max size: exclude larger sets</strong></h5></td>
-                            <td>
-                            <input type="text" class="para" value="200" name="max_size">
-                            </td>
-                            </tr>
-
-                        <tr class=" menu mt-3">
-                            <td ><h5><strong>Number of permutations:</strong></h5></td>
-                            <td>
-                            <input type="text" class="para" value="1000" name="permutations">
-                            </td>
-                            </tr>
-
-                        </tbody>
-                    </table>
-                     <br>
-
-                    <button type="submit" onclick="item_run()" class="btn btn-primary end mt-8">Submit</button>
-                    <button type="reset" onclick="reset_item()" class="btn btn-basic end mt-8">Reset</button>
-            </div>
-    </form>
-        </div>
-        <div class="tab-pane container" id="download">这是网站下载页面</div>
-        <div class="tab-pane container" id="help">这是网站帮助页面</div>
-        <div class="tab-pane container" id="about">这是网站关于我们页面</div>
+        <div class="footer" id="foot">这是页脚</div>
     </div>
-    <div class="footer" id="foot">这是页脚</div>
-</div>
-
 
 <script src="{% static 'bishe/bootstrap5/js/bootstrap.min.js' %}"></script>
-<script src="{% static 'mircards/js/effect.js' %}" type="text/javascript"></script>
 </body>
 </html>

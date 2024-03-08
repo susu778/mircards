@@ -87,30 +87,15 @@ DATABASES = {
         "ENGINE": "django.db.backends.sqlite3",
         "NAME": BASE_DIR / "db.sqlite3",
     },
-    'mirset':{
-            'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'mirset',
-            'USER': 'root',
-            'PASSWORD': '',
-            'HOST': '127.0.0.1',
-            'PORT': '3306',
-        },
     'local': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'kgad',
+        'NAME': 'mircards',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'root',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     },
-    'sky': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'kgad',
-        'USER': 'root',
-        'PASSWORD': 'password',
-        'HOST': '172.23.254.2',
-        'PORT': '3306',
-    },
+    
 
 }
 # use multi-database in django

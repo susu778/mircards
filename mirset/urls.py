@@ -1,7 +1,6 @@
 from django.urls import path
-from mirset import views
+from . import views
 
 urlpatterns = [
-    path('index/', views.index, name='index'),
-    # path()
+    path('index',views.index, name='index')
 ]
