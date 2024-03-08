@@ -101,7 +101,7 @@ DATABASES = {
 # use multi-database in django
 # DATABASES_ROUTERS = ['database_router.DatabaseAppsRouter']
 # DATABASES_APPS_MAPPING = {
-#     # example:
+#     # examples:
 #     # 'app_name': 'database_name',
 #      'ams': 'ams',
 # }

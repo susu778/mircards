@@ -53,7 +53,7 @@ $(function(){
             }
         });
     });
-    //example, clear, btn
+    //examples, clear, btn
     $("#example_btn").click(function () {
         $("#ncrna").prop("value","hsa-mir-21");
         $("#ef").prop("value","H2O2");
