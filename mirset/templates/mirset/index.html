@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bishe</title>
+    <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css' %}" type="text/css">
+    <link rel="stylesheet" href="{% static 'bishe/css/style.css' %}" type="text/css"/>
+     <link rel="stylesheet" href="{% static 'bishe/css/footable.bootstrap.min.css' %}" type="text/css"/>
+{#     <link rel="stylesheet" href="{% static 'bishe/css/tagcloud.css' %}" type="text/css"/>#}
+</head>
+<body>
+    <div class="container">
+        <div class="" id="logo">这是LOGO</div>
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a class="nav-link active" data-bs-toggle="pill" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#search">Search</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#mirset">miRSet</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#analysis">Analysis</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#download">Download</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#help">Help</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#about">About</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="tab_content">
+            <div class="tab-pane active container" id="home">
+                <div class="row">
+                    <div class="col-6">这是1</div>
+                    <div class="col-5">2</div>
+                </div>
+            </div>
+            <div class="tab-pane container" id="search">这是miRNA信息检索页面，开发者：苏金昊</div>
+            <div class="tab-pane container" id="mirset">
+                <script src="{% static 'bishe/js/jquery-3.6.0.min.js' %}"></script>
+                <script src="{% static 'bishe/js/echarts.common.min.js' %}"></script>
+                 <script src="{% static 'bishe/js/echarts.js' %}"></script>
+                 <script src="{% static 'bishe/js/footable.min.js' %}"></script>
+                <script src="{% static 'bishe/js/jquery-ui-1.10.4.min.js' %}"></script>
+                <div id="container" style="width:100%;color: white">
+                <div id="header" style="background-color:#3b86fa;">
+                   <!-- HTML部分 -->
+                <form id="searchRelationForm" class="form-inline" style="width:100%;" method="get">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div id="entity1" class="input-group">
+                                <input type="text" id="entity1_text" name="entity1_text" class="form-control" placeholder="eg: hsa-mir-33a">
+                                <span class="input-group-btn">
+                                    <button type="button" id="btnSearch" style="color: white" class="btn btn-outline-success" onclick="submitSearch();">Search</button>
+                                </span>
+                            </div><!-- /input-group -->
+                        </div><!-- /.col-lg-6 -->
+                    </div><!-- /.row -->
+                </form>
+                <!-- 你的树形结构部分 -->
+                <div id="menu" style="background-color: #3b86fa;height:700px;width:20%;float:left;">
+                    <td style="vertical-align:top;">
+                        <ul id="browse_net" class="treeview">
+                            <style>
+                                .expandable ul {
+                                    display: none;
+                                    padding-left: 15px; /* 添加一些左边距以缩进子列表 */
+                                }
+                                .toggle-icon {
+                                    cursor: pointer;
+                                    margin-right: 5px;
+                                    user-select: none;
+                                }
+                            </style>
+
+                            <ul>
+                                <!-- 第一个列表项 -->
+                                <li id="n1" class="expandable">
+                                    <!-- 显示文本 "mirna" 的 span 元素，并绑定点击事件 -->
+                                    <span onclick="fillSearchBar(this.innerText)" style="color:yellow">mirna</span>
+                                    <!-- 用于显示内容的容器，设置高度为 320px，超出部分可滚动 -->
+                                    <div id="contentContainer1" style="height: 320px; overflow-y: scroll;"></div>
+{#                                    //从指定的文本文件加载内容，并将内容渲染到网页上的指定位置。#}
+                                    <script src="{% static 'bishe/js/loadtext.js' %}"></script>
+                                    <script>
+                                        // 调用加载文本内容函数，并传入文件路径、目标元素ID和分组方式
+                                        loadTextContent('{% static 'mirset_v9.txt' %}', 'contentContainer1', 'mirnas');
+                                    </script>
+                                </li>
+
+                                <!-- 第二个列表项 -->
+                                <li id="n2" class="expandable">
+                                    <!-- 显示文本 "disease" 的 span 元素，并绑定点击事件 -->
+                                    <span onclick="fillSearchBar(this.innerText)" style="color: yellow">disease&cluster&family</span>
+                                    <!-- 用于显示内容的容器，设置高度为 320px，超出部分可滚动 -->
+                                    <div id="contentContainer2" style="height: 320px; overflow-y: scroll;"></div>
+                                    <!-- JavaScript 脚本 -->
+                                    <script>
+                                        // 调用加载文本内容函数，并传入文件路径、目标元素ID和分组方式
+                                        loadTextContent('{% static 'mirset_v9.txt' %}', 'contentContainer2', 'category');
+                                    </script>
+                                </li>
+                            </ul>
+
+                            {#将点击的值填充到搜索栏中#}
+                            <script>
+                                function toggleContent(element) {
+                                    var parentLi = element.closest('.expandable');
+                                    var ul = parentLi.querySelector('ul');
+                                    if (ul) {
+                                        ul.style.display = (ul.style.display === 'none') ? 'block' : 'none';
+                                    }
+                                }
+                                function fillSearchBar(value) {
+                                    document.getElementById('entity1_text').value = value;
+                                }
+                                function submitSearch() {
+                                    document.getElementById('searchRelationForm').submit();
+                                }
+                            </script>
+                        </ul>
+                    </td>
+                </div>
+
+
+                <div id="content" style="background-color:white;height:700px;width:80%;float:left;">
+                    <div id="graph" style="height:700px;width: 1000px;"></div>
+                </div>
+
+                <div id="footer" style="background-color:#3b86fa;clear:both;text-align:center;">
+                    <table class = "table" data-paging =  "true" data-sorting="true"></table>
+                </div>
+                </div>
+                </div>
+
+                 {% csrf_token %}
+                 <script type="text/javascript">
+                     var str1 = {{ searchResult|safe }}
+                 </script>
+                 <script src="{% static 'bishe/js/mirset.js' %}"></script>
+            </div>
+            <div class="tab-pane container" id="analysis">这是miRNA集合富集分析平台，开发者：韩睿智</div>
+            <div class="tab-pane container" id="download">这是网站下载页面</div>
+            <div class="tab-pane container" id="help">这是网站帮助页面</div>
+            <div class="tab-pane container" id="about">这是网站关于我们页面</div>
+        </div>
+        <div class="footer" id="foot">这是页脚</div>
+    </div>
+
+<script src="{% static 'bishe/bootstrap5/js/bootstrap.min.js' %}"></script>
+{# 监听Bootstrap标签页的切换事件，并将当前显示的标签页信息保存到浏览器的本地存储中。在页面加载完成后，检查本地存储中是否有上次显示的标签页信息，并将其显示出来。#}
+<script>
+$(document).ready(function() {
+    // 当tab改变时，保存当前的tab到localStorage
+    $('a[data-bs-toggle="pill"]').on('shown.bs.tab', function (e) {
+        localStorage.setItem('lastTab', $(this).attr('href'));
+    });
+
+    // 获取localStorage中的lastTab
+    var lastTab = localStorage.getItem('lastTab');
+
+    // 如果存在lastTab，那么显示这个tab
+    if (lastTab) {
+        $('[href="' + lastTab + '"]').tab('show');
+    }
+});
+</script>
+</body>
+</html>

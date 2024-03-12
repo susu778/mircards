@@ -1,0 +1,62 @@
+#logo{
+    height:100px;
+    text-align: center;
+    border: 1px solid red;
+}
+#tab_content{
+    border:1px solid red;
+    min-height:550px;
+}
+#foot{
+    border: 1px solid green;
+    margin-top: 5px;
+    height: 50px;
+}
+
+ .table {
+    width: 100%;
+     color: white;
+    border-collapse: collapse;
+    margin-top: 20px; /* 调整表格与其他内容的间距 */
+}
+
+.table th, .table td {
+    border: 1px solid white;
+    padding: 8px;
+    text-align: left;
+}
+
+.table th {
+    background-color: white;
+    color: white;
+}
+
+.table tbody tr:hover {
+    background-color: white;
+}
+
+.pagination {
+    color: white;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+.pagination li {
+    margin: 0 5px;
+}
+
+.pagination a {
+    text-decoration: none;
+    padding: 8px 12px;
+    border: 1px solid white;
+    background-color: white;
+    color: #333;
+    border-radius: 4px;
+}
+
+.pagination a:hover {
+    background-color: white;
+}
+
