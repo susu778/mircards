@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css'%}" type="text/css">
     <link rel="stylesheet" href="{% static 'bishe/css/style.css' %}" type="text/css"/>
+    <link rel="stylesheet" href="{% static 'bishe/bootstrap5/font/bootstrap-icons.css'%}" type="text/css">
 </head>
 <body>
     <div class="container">
@@ -42,48 +43,154 @@
                 </div>
             </div>
             <div class="tab-pane container" id="search">
-                <form action="/mircards/search_mirna" method="post" name="form_1">
-           {% csrf_token %}
-         <div id="fragment-3">
-        <div style="margin:30px 0 0 50px;">
-            <p style="margin:10px 0 0 0; font-size:150%;"> You can submit keywords for searching. <span id="example" style="margin-left:20px;color: deepskyblue;cursor: pointer;">Use example</span></p>
-            <div style="margin-top:10px;">
-                <div style="float: left;margin-top:40px;">
-                    <select id="input1_1" style="width:85px;font-size: 16px;">
-                        <option value="mir" selected="selected">miRNA</option>
-                        <option value="dis">Disease</option>
-                    </select>
+                <div class="container mt-3">
+                <h2>
+                    <span class="inline-block text-danger">Human</span>
+                    <span class="inline-block text-primary">microRNA</span>
+                    <span class="inline-block">information retrieval system</span>
+                </h2>
+                    <p class="text-1">This is a web-based information retrieval system that can present relevant information about human micrornas, such as function, expression, target genes, etc.</p>
                 </div>
-
-                <div style="float: left;margin-left:20px;">
-                    <textarea id="input1_3" rows="5" name="text1" cols="50" style="font-size: 16px;"></textarea>
+                <head>
+                <style>
+                    .text-1{
+                        margin:15px;
+                        float: left;
+                    }
+                    .input-group {
+                        width: 500px;
+                        margin:15px;
+                        float: left;
+                    }
+                    .form-control, .btn {
+                        height: 40px;
+                        font-size: 18px;
+                    }
+                    .btn {
+                        width: 125px;
+                    }
+                    .icon {
+                        background-color: var(--bs-light);
+                        border-radius: .25rem;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center
+                    }
+                    .bi {
+                        margin: .30rem;
+                        font-size: 4.0rem;
+                    }
+                    .label {
+                        font-family: var(--bs-font-monospace);
+                    }
+                    .label {
+                        display: inline-block;
+                        width: 100%;
+                        overflow: hidden;
+                        padding: .25rem;
+                        font-size: .900rem;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                    }
+                </style>
+                </head>
+                <body>
+                    <form action = "{% url 'mircards:handle' %}" method="POST">
+                        {% csrf_token %}
+                        <div class="input-group mb-3">
+                            <input type="text" class="form-control"  id="input_name" name='搜索内容' onblur="checkSearch()" placeholder="Please enter keywords">
+                        </div>
+                        <div class="input-group mb-3">
+                            <button class="btn btn-primary" type="submit" value="搜索" onclick="search">Search</button>
+                            <button class="btn btn-danger" type="button" onclick="clearSearch()">Cancel</button>
+                        </div>
+                        <span id="msg"></span>
+                    </form>
+                </body>
+                <body>
+                <div class="input-group mb-3">
+                    <div class="icon">
+                        <button onclick="location.href='{% url 'mircards:data' %}'" class="label">
+                        <i class="bi bi-file-earmark-break-fill"></i>
+                        <span>View all data</span>
+                        </button>
+                    </div>
                 </div>
-                <div style="float:left;margin-top:40px;">
-
-                    <input type="submit" class="btn btn_1" style="font-size:16px; margin:0 0 0 60px;"value="Click to Search">
-                     <input id="resetsearch" type="reset" class="btn btn_1" style="margin-left:40px;font-size:16px;" value="Reset all">
-
+                </body>
+                <body>
+                <div class="input-group mb-3">
+                    <div class="icon">
+                        <button onclick="location.href='{% url 'mircards:download_excel' %}'" class="label">
+                        <i class="bi bi-box-arrow-in-down"></i>
+                        <div class="label">Download database</div>
+                        </button>
+                    </div>
                 </div>
+                </body>
+                <script>
+                    function clearSearch() {
+                        document.getElementsByName('搜索内容')[0].value = '';
+                    }
+
+
+                    $.ajaxSetup({
+                        data:{csrfmiddlewaretoken:'{{ csrf_token }}'}
+                    });
+
+                    function checkSearch(){
+                        //获取input内容
+                        name = document.getElementById("input_name").value
+                        url = "{% url 'mircards:checkSearch'%}"
+
+                        //ajax请求
+                        //1.创建对象
+                        var xhr;
+                        if(window.ActiveXObject){
+                            xhr = new ActiveXObject("Microsoft.XMLHTTP ")
+                        }
+                        else if(window.XMLHttpRequest){
+                            xhr = new XMLHttpRequest()
+                        }
+                        xhr.open("POST",url,true) //发送异步请求
+                        xhr.send("搜索内容="+name)
+
+                        xhr.setRequestHeader("Content-Type","application/x-www-form-urlencoded")
+                        xhr.setRequestHeader("X-CSRFToken",'{{ csrf_token }}')
+
+                        //手动获取响应结果
+                        //当状态发生改变时，会自动出发事件 函数的回调
+                        xhr.onreadystatechange = function (){
+                            if(xhr.readyState == 4 && xhr.status == 200){
+                                res = xhr.responseText
+                                console.log("res:"+res)
+                                if (res == "sousuozhengque") {
+                                    document.getElementById("msg").innerHTML = "搜索内容正确";
+                                }
+                                else {
+                                    document.getElementById("msg").innerHTML = "搜索内容错误";
+                                }
+                            }
+                        }
+
+                    }
+                </script>
+
+
+            <form action="/mircards/search_mirna" method="post" name="form_1">
+            {% csrf_token %}
+            <div id="fragment-3">
+                <div style="margin:30px 0 0 50px;">
 
                 <div style="clear:both"></div>
             </div>
-        </div>
-        <div id="searchresult" style="margin:15px 0 0 50px;"></div>
-    </div>
-   </form>
+            </div>
+            <div id="searchresult" style="margin:15px 0 0 50px;"></div>
+
+            </form>
 
  </div>
-<script>
-     document.getElementById('example').addEventListener('click', function() {
-        document.getElementById('input1_3').value = 'hsa-miR-410-5p'; // 自动填充输入框内容
-    });
-    document.getElementById('resetsearch').addEventListener('click', function() {
-        document.getElementById('input1_3').value = ''; // 清空输入框内容
-        document.getElementById('searchresult').innerHTML = '<h2>Begin a new search!</h2>'; // 弹出提示消息
-    });
 
-
-</script>
 
 
 

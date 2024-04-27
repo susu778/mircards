@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search result</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css'%}" type="text/css">
+    <link rel="stylesheet" href="{% static 'bishe/css/style.css' %}" type="text/css"/>
+</head>
+<style>
+    .logo-text {
+        text-align: left;
+        font-size: 3em;
+    }
+    .tab-content{
+    }
+
+</style>
+<body>
+    <div class="container">
+        <div class="" id="logo">
+            <h1 class="logo-text">
+                <span class="inline-block text-danger">Human</span>
+                <span class="inline-block text-primary">microRNA</span>
+                <span class="inline-block">Card</span>
+            </h1>
+        </div>
+    </div>
+    <div class="container">
+        {% if resp %}
+        <div class="tab-content" id="tab_content">
+            <div class="container mt-3">
+                <div class="list-group list-group-flush">
+                <div class="list-group-item" style="font-size: 25px;">Mature_id:{{ resp.0 }}</div>
+                <div class="list-group-item">Description:</div>
+                <div class="list-group-item">Mature_seq:{{ resp.1 }}</div>
+                <div class="list-group-item">Mature_seed_seq:{{ resp.2 }}</div>
+                <div class="list-group-item">Mature_seed_same:</div>
+                <div class="list-group-item">Mature_chrom :</div>
+                <div class="list-group-item">Mature_pre_mir :</div>
+                <div class="list-group-item">Mature_conf :{{ resp.5 }}</div>
+                <div class="list-group-item">Evidence :</div>
+                <div class="list-group-item">Database links:</div>
+                <div class="list-group-item">Predicted targets:</div>
+                <div class="list-group-item">References:</div>
+
+            </div>
+        </div>
+        {% elif error_message %}
+            <div class="alert alert-warning" role="alert">
+                {{ error_message }}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

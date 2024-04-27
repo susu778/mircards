@@ -95,6 +95,14 @@ DATABASES = {
         'HOST': '127.0.0.1',
         'PORT': '3306',
     },
+    'search': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'handle1',
+        'USER': 'root',
+        'PASSWORD': 'root',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
+    }
     
 
 }
@@ -141,3 +149,5 @@ STATIC_URL = "static/"
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+

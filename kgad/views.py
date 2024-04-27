@@ -4,7 +4,6 @@ from django.views.decorators.csrf import csrf_exempt
 from django.http import JsonResponse
 import mysite.settings as settings
 import pickle
-import pandas as pd
 from .models import AdArticle
 
 

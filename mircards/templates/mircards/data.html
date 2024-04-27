@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>data</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'bishe/bootstrap5/css/bootstrap.min.css'%}" type="text/css">
+    <link rel="stylesheet" href="{% static 'bishe/css/style.css' %}" type="text/css"/>
+</head>
+
+<body>
+    <h1>All Data from the Database</h1>
+    <table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>mature_id</th>
+            <th>mature_seq</th>
+            <th>mature_seed_seq</th>
+            <th>mature_seed_same</th>
+            <th>mature_chrom</th>
+            <th>mature_pre_mir</th>
+            <th>mature_conf</th>
+            <th>mature_pre_name</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in res %}
+        <tr>
+            <td>{{ row.mature_id }}</td>
+            <td>{{ row.mature_seq }}</td>
+            <td>{{ row.mature_seed_seq }}</td>
+            <td>{{ row.mature_seed_same }}</td>
+            <td>{{ row.mature_chrom }}</td>
+            <td>{{ row.mature_pre_mir }}</td>
+            <td>{{ row.mature_conf }}</td>
+            <td>{{ row.mature_pre_name }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+
+    </table>
+</body>
+</html>
